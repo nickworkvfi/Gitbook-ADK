@@ -1,6 +1,6 @@
 ---
 title: StartTransaction: Which data was received from the chip
-summary: Contents of EMV_CT_SELECTRES_STRUCT::T_DF61_Info_Received_Data. 
+summary: "Contents of EMV_CT_SELECTRES_STRUCT::T_DF61_Info_Received_Data."
 
 ---
 
