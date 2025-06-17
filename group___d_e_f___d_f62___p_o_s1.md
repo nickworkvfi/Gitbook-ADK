@@ -1,5 +1,5 @@
 ---
-title: Position 1: chipcard command where error occurs (2 byte)
+title: Position 1- chipcard command where error occurs (2 byte)
 
 ---
 
