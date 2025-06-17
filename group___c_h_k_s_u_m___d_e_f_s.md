@@ -1,12 +1,12 @@
 ---
 title: Defines for EMVCo checksum calculation
-summary: other major terminal parameters actually there are only some of them defined 
+summary: >
+other major terminal parameters actually there are only some of them defined 
 most of them are hard coded in the lib as actually needed 
 all of them are Yes / No decisions 
 whenever there is a need to make this configurable for the checksum there will be another parameter added 
 In brackets there is the default value or the currently hard coded value  only for checksum no control on the flow,
 e.g. Blacklist is controlled per application not per terminal parameters !!! take respect on the default !!! 
-
 ---
 
 # Defines for EMVCo checksum calculation
