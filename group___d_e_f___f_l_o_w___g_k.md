@@ -1,5 +1,5 @@
 ---
-title: Gemalto/Pure: Application flow capabilities
+title: Gemalto/Pure- Application flow capabilities
 summary: Defines for EMV_CTLS_APPLIDATA_GK_STRUCT::AppFlowCap_DFAB31. 
 
 ---
