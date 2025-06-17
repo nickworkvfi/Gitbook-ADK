@@ -1,2 +1,0 @@
-# Gitbook-ADK
-ADK Docuemntation
