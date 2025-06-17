@@ -1,5 +1,5 @@
 ---
-title: LED callback: Additional information
+title: LED callback- Additional information
 summary: Additional information for LED switching, used for TAG_DF8F60_LED_ADD_INFO. 
 
 ---
