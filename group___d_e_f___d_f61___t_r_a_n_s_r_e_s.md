@@ -1,5 +1,5 @@
 ---
-title: ContinueOffline/ContinueOnline: Information which data was provided by the ICC
+title: ContinueOffline or Online: Information which data was provided by the ICC
 summary: Contents of EMV_CT_TRANSRES_TYPE::T_DF61_Info_Received_Data. 
 
 ---
