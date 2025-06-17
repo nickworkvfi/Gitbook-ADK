@@ -3,7 +3,7 @@ title: Position 2: status of chipcard communication (2 byte)
 
 ---
 
-# Position 2: status of chipcard communication (2 byte)
+# Position 2- status of chipcard communication (2 byte)
 
 **Module:** **[Transaction execution](group___a_d_k___t_r_x___e_x_e_c.md)** **/** **[Output data](group___d_e_f___f_l_o_w___o_u_t_p_u_t.md)** **/** **[Additional error data](group___d_e_f___d_f62.md)**
 

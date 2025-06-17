@@ -1,5 +1,5 @@
 ---
-title: EMV_CTLS_SetupTransaction: Which data is included in input struct
+title: EMV_CTLS_SetupTransaction- Which data is included in input struct
 summary: Contents of the input in EMV_CTLS_START_STRUCT::Info_Included_Data, EMV_CTLS_SetupTransaction()
 
 ---

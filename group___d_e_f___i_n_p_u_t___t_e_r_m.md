@@ -1,5 +1,5 @@
 ---
-title: Terminal data: Which data is valid
+title: Terminal data- Which data is valid
 summary: Contents of the EMV_CTLS_TERMDATA_STRUCT::Info_Included_Data. 
 
 ---

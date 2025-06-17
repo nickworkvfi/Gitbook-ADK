@@ -1,5 +1,5 @@
 ---
-title: Position 3: activator (1 byte)
+title: Position 3- activator (1 byte)
 
 ---
 

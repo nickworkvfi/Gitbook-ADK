@@ -1,5 +1,5 @@
 ---
-title: EMV_CTLS_SetupTransaction: Which data is included in result struct
+title: EMV_CTLS_SetupTransaction- Which data is included in result struct
 summary: Contents of the output in EMV_CTLS_STARTRES_STRUCT::T_DF61_Info_Received_Data, EMV_CTLS_SetupTransaction()
 
 ---

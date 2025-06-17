@@ -1,5 +1,5 @@
 ---
-title: Transaction input: Which data is included
+title: Transaction input- Which data is included
 summary: Contents of EMV_CT_TRANSAC_TYPE::Info_Included_Data. 
 
 ---

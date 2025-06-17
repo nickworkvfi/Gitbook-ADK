@@ -1,5 +1,5 @@
 ---
-title: EMV_CTLS_ContinueOfflineExt(): Which data is included
+title: EMV_CTLS_ContinueOfflineExt()- Which data is included
 
 ---
 

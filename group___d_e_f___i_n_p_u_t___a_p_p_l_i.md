@@ -1,5 +1,5 @@
 ---
-title: Application data: Which data is included
+title: Application data- Which data is included
 summary: Contents of EMV_CT_APPLIDATA_STRUCT::Info_Included_Data. 
 
 ---

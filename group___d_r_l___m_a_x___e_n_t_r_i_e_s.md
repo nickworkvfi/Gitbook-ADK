@@ -1,6 +1,6 @@
 ---
 title: Number of DRL entries for Visa and Amex
-summary: For VISA and Amex: How many DRL entries are possible. 
+summary: For VISA and Amex- How many DRL entries are possible. 
 
 ---
 

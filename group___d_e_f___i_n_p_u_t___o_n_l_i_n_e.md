@@ -1,5 +1,5 @@
 ---
-title: EMV_CTLS_ContinueOnline: Which data is included
+title: EMV_CTLS_ContinueOnline- Which data is included
 summary: Contents of the input in EMV_CTLS_HOST_STRUCT::Info_Included_Data, EMV_CTLS_ContinueOnline()
 
 ---

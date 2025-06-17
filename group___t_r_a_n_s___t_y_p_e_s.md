@@ -1,6 +1,6 @@
 ---
 title: Transaction type (Tag 9C)
-summary: According to ISO 8583 - Annex A: Processing Code, Position 1 + 2. 
+summary: According to ISO 8583 - Annex A- Processing Code, Position 1 + 2. 
 
 ---
 
