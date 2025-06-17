@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="136mm"
+   viewBox="0 0 210 136"
+   version="1.1"
+   id="svg1051"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="com_orange_d1.svg"
+   inkscape:export-filename="/home/joe/Pictures/Orange_D3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1053"
+     pagecolor="#ffffff"
+     bordercolor="#ffdddd"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#707070"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0973349"
+     inkscape:cx="310.7529"
+     inkscape:cy="197.75184"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1051"
+     inkscape:pageshadow="2"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4002"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1048">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16712"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16708"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <path
+     style="fill:none;stroke:#d97257;stroke-width:1.68834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 140.71851,24.986315 c 0,-1.238285 0.4547,-6.371557 -4.7421,-7.499752 -2.0527,-0.445641 -4.877,-0.585457 -8.0401,-0.534932 -7.8882,0.126003 -17.8831,1.435787 -23.271,2.138178 -5.7255,0.746398 -11.0327,37.040502 -16.1135,37.040502"
+     id="path4567-1-7-2-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.595263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 109.41531,28.533433 v 34.872128 h 58.4951 V 28.533433 Z"
+     id="path4713"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.595263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 106.04051,28.533433 c 0,-3.374721 0,-3.374721 2.9853,-3.405319 l 60.0095,0.0306 c 3.3748,0 3.3748,0 3.3748,3.374721 v 38.246846 c -6.7495,0 -60.745,0 -66.3696,0 z"
+     id="path4715"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.595263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 106.04051,66.780271 v 23.62305 c 0,3.374719 0,3.374719 3.3748,3.374719 h 59.62 c 3.3748,0 3.3748,0 3.3748,-3.374719 v -23.62305"
+     id="path4717"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.595263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 127.41381,93.77804 V 72.404811 c 0,-2.24981 0,-2.24981 2.2498,-2.24982 h 20.2483 c 2.2498,1e-5 2.2498,1e-5 2.2498,2.24982 V 93.77804"
+     id="path4719"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723"
+     width="4.4996362"
+     height="2.2498145"
+     x="129.6636"
+     y="71.279907"
+     rx="0.44995511"
+     ry="0.38511747"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-2"
+     width="4.4996362"
+     height="2.2498145"
+     x="137.53799"
+     y="71.279907"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-9"
+     width="4.4996362"
+     height="2.2498145"
+     x="145.41226"
+     y="71.279907"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-5"
+     width="4.4996362"
+     height="2.2498145"
+     x="129.6636"
+     y="75.779541"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-2-5"
+     width="4.4996362"
+     height="2.2498145"
+     x="137.53799"
+     y="75.779541"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-9-4"
+     width="4.4996362"
+     height="2.2498145"
+     x="145.41226"
+     y="75.779541"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-7"
+     width="4.4996362"
+     height="2.2498145"
+     x="129.6636"
+     y="80.279167"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-2-6"
+     width="4.4996362"
+     height="2.2498145"
+     x="137.53799"
+     y="80.279167"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-9-5"
+     width="4.4996362"
+     height="2.2498145"
+     x="145.41226"
+     y="80.279167"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-6"
+     width="4.4996362"
+     height="2.2498145"
+     x="129.6636"
+     y="84.778801"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-2-9"
+     width="4.4996362"
+     height="2.2498145"
+     x="137.53799"
+     y="84.778801"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-9-3"
+     width="4.4996362"
+     height="2.2498145"
+     x="145.41226"
+     y="84.778801"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-74"
+     width="4.4996362"
+     height="2.2498145"
+     x="129.6636"
+     y="89.278435"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-2-52"
+     width="4.4996362"
+     height="2.2498145"
+     x="137.53799"
+     y="89.278435"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="opacity:0.9;fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#00bdda;stroke-width:0.112491;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4723-9-54"
+     width="4.4996362"
+     height="2.2498145"
+     x="145.41226"
+     y="89.278435"
+     rx="0.44995511"
+     ry="0.38511753"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6989px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.595263"
+     x="120.49527"
+     y="107.73227"
+     id="text4917"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan4915"
+       x="120.49527"
+       y="107.73227"
+       style="stroke-width:0.595263">M425</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93685px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.595263"
+     x="127.64249"
+     y="50.980373"
+     id="text14295"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan14293"
+       x="127.64249"
+       y="50.980373"
+       style="font-size:7.93685px;stroke-width:0.595263">VOS3</tspan></text>
+  <rect
+     style="fill:#c8cbc8;fill-opacity:1;stroke:#000000;stroke-width:0.224964;stroke-opacity:1"
+     id="rect3398"
+     width="53.551788"
+     height="19.480026"
+     x="35"
+     y="45.519978"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <ellipse
+     style="fill:#e5ebeb;fill-opacity:1;fill-rule:nonzero;stroke:#000069;stroke-width:0.58534;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4931-7-3"
+     cx="82.04776"
+     cy="54.652225"
+     rx="1.7560154"
+     ry="1.6724018"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     inkscape:connector-curvature="0"
+     id="path4601-1"
+     d="m 80.94171,61.428711 c 0.3728,-0.33891 1.6606,-1.76231 1.6606,-1.76231 h -0.7794 l 0.8869,-1.53609 h -1.158 l -1.0599,1.83575 h 1.1276 z"
+     style="fill:#dcd5c7;fill-opacity:1;stroke:#000000;stroke-width:0.134199px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339;stroke-linecap:round;stroke-dasharray:none"
+     x="36.790981"
+     y="49.151691"
+     id="text2073"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan2071"
+       style="stroke-width:0.339"
+       x="36.790981"
+       y="49.151691"><tspan
+   style="font-size:3.52778px;fill:#ff7f2a"
+   id="tspan83767">P/N 445-117-01-A</tspan> </tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.339;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     d="M 48,65 V 76.90625"
+     id="path2374-6"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     x="92.702057"
+     y="119.55074"
+     id="text6787"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       x="92.702057"
+       y="119.55074"
+       style="fill:#ff00ff;fill-opacity:1;stroke-width:0.264583"
+       id="tspan5004">The USB1 mode is set to &quot;Host&quot;</tspan></text>
+  <g
+     transform="matrix(3.0474431,0,0,3.0474431,-690.06189,-254.83537)"
+     style="stroke-width:0.137197;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g1073"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.137197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 242.56282,100.87063 v 1.75364 h 2.49583 v -1.75364 h -0.33734 v -0.28923 h -0.28296 v -0.29253 h -1.25523 v 0.29253 h -0.28297 v 0.28923 z"
+       id="path1055"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.07202,101.85134 v 0.48755"
+       id="path1057"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.27868,101.85134 v 0.48755"
+       id="path1059"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.10534,101.85134 v 0.48755"
+       id="path1061"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.48535,101.85134 v 0.48755"
+       id="path1063"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.89868,101.85134 v 0.48755"
+       id="path1065"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.51867,101.85134 v 0.48755"
+       id="path1067"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.31201,101.85134 v 0.48755"
+       id="path1069"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.69201,101.85134 v 0.48755"
+       id="path1071"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(3.0474431,0,0,3.0474431,-700.06189,-254.83537)"
+     style="stroke-width:0.137197;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g1093"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.137197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 242.56282,100.87063 v 1.75364 h 2.49583 v -1.75364 h -0.33734 v -0.28923 h -0.28296 v -0.29253 h -1.25523 v 0.29253 h -0.28297 v 0.28923 z"
+       id="path1075"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.07202,101.85134 v 0.48755"
+       id="path1077"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.27868,101.85134 v 0.48755"
+       id="path1079"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.10534,101.85134 v 0.48755"
+       id="path1081"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.48535,101.85134 v 0.48755"
+       id="path1083"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.89868,101.85134 v 0.48755"
+       id="path1085"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.51867,101.85134 v 0.48755"
+       id="path1087"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 244.31201,101.85134 v 0.48755"
+       id="path1089"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0832187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 243.69201,101.85134 v 0.48755"
+       id="path1091"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g1161"
+     style="stroke:#000000;stroke-width:0.137197;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.8603644,0,0,1.8603644,-396.72449,-136.94086)"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="106.47481"
+       x="241.19862"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1147"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="106.47481"
+       x="242.53938"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1149"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="105.29525"
+       x="241.83755"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1151"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1153"
+       d="m 240.75826,106.13667 c 0.26213,-0.003 0.88386,-0.004 0.7903,-0.004 l 0.70388,-0.002 0.75487,0.003 0.79419,0.003"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1155"
+       d="m 241.5407,106.49053 0.008,-0.35779"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1157"
+       d="m 242.9483,106.47481 0.004,-0.34601"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1159"
+       d="m 242.24843,105.8811 v 0.24377"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+  </g>
+  <g
+     id="g1177"
+     style="stroke:#000000;stroke-width:0.137197;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.8603644,0,0,1.8603644,-406.72449,-136.94086)"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="106.47481"
+       x="241.19862"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1163"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="106.47481"
+       x="242.53938"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1165"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <rect
+       ry="0.072285607"
+       rx="0.0055604554"
+       y="105.29525"
+       x="241.83755"
+       height="0.5819121"
+       width="0.77850395"
+       id="rect1167"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0548788;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1169"
+       d="m 240.75826,106.13667 c 0.26213,-0.003 0.88386,-0.004 0.7903,-0.004 l 0.70388,-0.002 0.75487,0.003 0.79419,0.003"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1171"
+       d="m 241.5407,106.49053 0.008,-0.35779"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1173"
+       d="m 242.9483,106.47481 0.004,-0.34601"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1175"
+       d="m 242.24843,105.8811 v 0.24377"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.0548788;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="39.456631"
+     y="61.633545"
+     id="text2367"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan2365"
+       style="font-size:2.82222px;stroke-width:0.264583"
+       x="39.456631"
+       y="61.633545">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="49.431358"
+     y="61.634254"
+     id="text7473"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan7471"
+       style="font-size:2.82222px;stroke-width:0.264583"
+       x="49.431358"
+       y="61.634254">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339;stroke-linecap:round;stroke-dasharray:none"
+     x="40.470291"
+     y="80.735428"
+     id="text20900"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan20898"
+       style="fill:#d97257;fill-opacity:1;stroke-width:0.339"
+       x="40.470291"
+       y="80.735428">&quot;ETH0&quot;</tspan></text>
+  <rect
+     style="fill:#ff7f2a;fill-opacity:1;stroke:#6eefd2;stroke-width:0.264583"
+     id="rect30877"
+     width="10"
+     height="10"
+     x="67.551788"
+     y="50.130314"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="68.231476"
+     y="57.903732"
+     id="text32237"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan32235"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+       x="68.231476"
+       y="57.903732">D<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan33283">1</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="90.296303"
+     y="31.604664"
+     id="text100378"
+     inkscape:export-filename="/home/joe/Pictures/Orange_D2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan100376"
+       style="font-size:4.93889px;stroke-width:0.264583"
+       x="90.296303"
+       y="31.604664">M2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+     x="24"
+     y="30.999998"
+     id="text4569"><tspan
+       sodipodi:role="line"
+       id="tspan4567"
+       style="stroke-width:0.264583"
+       x="24"
+       y="30.999998" /></text>
+</svg>
