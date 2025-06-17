@@ -1,6 +1,6 @@
 ---
 title: Terminal configuration- Collection of flow options
-summary: Contents of the EMV_CTLS_TERMDATA_STRUCT::FlowOptions. 
+summary: Contents of the EMV_CTLS_TERMDATA_STRUCT FlowOptions. 
 
 ---
 
