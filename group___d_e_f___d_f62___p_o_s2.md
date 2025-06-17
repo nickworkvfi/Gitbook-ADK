@@ -1,5 +1,5 @@
 ---
-title: Position 2: status of chipcard communication (2 byte)
+title: Position 2- status of chipcard communication (2 byte)
 
 ---
 
