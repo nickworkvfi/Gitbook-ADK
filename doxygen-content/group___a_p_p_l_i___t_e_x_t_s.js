@@ -1,0 +1,26 @@
+var group___a_p_p_l_i___t_e_x_t_s =
+[
+    [ "EMV_ADK_TXT_2_CARDS_IN_FIELD", "group___a_p_p_l_i___t_e_x_t_s.html#gaca116091371024d852c383cf9c9ff674", null ],
+    [ "EMV_ADK_TXT_3AMO_CASHBACK", "group___a_p_p_l_i___t_e_x_t_s.html#ga0c45413f78ee57ef8a9de6d1e178df79", null ],
+    [ "EMV_ADK_TXT_3AMO_TIP", "group___a_p_p_l_i___t_e_x_t_s.html#gacbaa960b8006833639293641293bca87", null ],
+    [ "EMV_ADK_TXT_AMOUNT", "group___a_p_p_l_i___t_e_x_t_s.html#ga0558cc3b6c6248c66a7f807b1d435647", null ],
+    [ "EMV_ADK_TXT_APPROVED", "group___a_p_p_l_i___t_e_x_t_s.html#gad26ca3c6d7d4ba03afbd9f69cbb4df9c", null ],
+    [ "EMV_ADK_TXT_AUTH_APPROVED", "group___a_p_p_l_i___t_e_x_t_s.html#ga23a08236bbdbc14612824ea163b35842", null ],
+    [ "EMV_ADK_TXT_AUTH_DECLINED", "group___a_p_p_l_i___t_e_x_t_s.html#ga962b68fb44b77ae67a05d02048f6bd1d", null ],
+    [ "EMV_ADK_TXT_AUTHORIZING", "group___a_p_p_l_i___t_e_x_t_s.html#ga379015f0f9cbf0d45dfdf7d1335764a1", null ],
+    [ "EMV_ADK_TXT_CARD_ERROR", "group___a_p_p_l_i___t_e_x_t_s.html#ga57a4be310e970d3500560e2e8731b12f", null ],
+    [ "EMV_ADK_TXT_CARD_READ_COMPLETE", "group___a_p_p_l_i___t_e_x_t_s.html#gaa413f62fdbb9c0c97871b27cf2bc04be", null ],
+    [ "EMV_ADK_TXT_CARD_READ_OK", "group___a_p_p_l_i___t_e_x_t_s.html#gad7e7de5f5a50e905dabfd69425b5576f", null ],
+    [ "EMV_ADK_TXT_DECLINED", "group___a_p_p_l_i___t_e_x_t_s.html#ga173c88a3195a0a2b2f92991558425599", null ],
+    [ "EMV_ADK_TXT_NO_TXT", "group___a_p_p_l_i___t_e_x_t_s.html#gabc10182641e2b92d8a8beee6041cdb04", null ],
+    [ "EMV_ADK_TXT_NOT_ACCEPTED", "group___a_p_p_l_i___t_e_x_t_s.html#ga991b99b910359dd1e10cededa6dab633", null ],
+    [ "EMV_ADK_TXT_PROCESSING_ERROR", "group___a_p_p_l_i___t_e_x_t_s.html#gafc7f3b612dd3b550ffe3c68c5cf091cb", null ],
+    [ "EMV_ADK_TXT_REFUND_CONF_AMOUNT", "group___a_p_p_l_i___t_e_x_t_s.html#ga390ca86e7ed5d542c7939a64012e066d", null ],
+    [ "EMV_ADK_TXT_REMOVE_CARD", "group___a_p_p_l_i___t_e_x_t_s.html#gae9a6dcc7dff865a5dc948c5ff0dd93ae", null ],
+    [ "EMV_ADK_TXT_RETAP_SAME", "group___a_p_p_l_i___t_e_x_t_s.html#gadfb2cecaf8f3b16eb989316465100c6d", null ],
+    [ "EMV_ADK_TXT_RETAP_SAME_L1", "group___a_p_p_l_i___t_e_x_t_s.html#ga8bb77717dbe26d78fb082d5a91d9bb3c", null ],
+    [ "EMV_ADK_TXT_SEE_PHONE", "group___a_p_p_l_i___t_e_x_t_s.html#gaa06ce44c0d2088762672aa1aa477fde3", null ],
+    [ "EMV_ADK_TXT_USE_CHIP_READER", "group___a_p_p_l_i___t_e_x_t_s.html#ga78850f4ea87126d2fcb62419b42b4eb2", null ],
+    [ "EMV_ADK_TXT_USE_MAG_STRIPE", "group___a_p_p_l_i___t_e_x_t_s.html#ga95a1de69cab8cc41e2d5dfa721a4acf0", null ],
+    [ "EMV_ADK_TXT_VOICEAUT", "group___a_p_p_l_i___t_e_x_t_s.html#gac4470540bcffb5f541338816b193677c", null ]
+];

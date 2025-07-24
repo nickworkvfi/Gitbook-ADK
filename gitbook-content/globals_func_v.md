@@ -1,0 +1,77 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - v -
+
+- validateData_ControlCB() : <a href="ui_8cpp.md#a24ae12b43cdf0e5ddc08d65af8906c86">ui.cpp</a>
+- ValidateXml() : <a href="_v_h_q_xml_packager_8c.md#aafebf9dcb2aad4f20e174a05fd06a2ed">VHQXmlPackager.c</a>
+- value() : <a href="_web_service_wrappers_8c.md#a6e248376c0290338633d8137822eb209">WebServiceWrappers.c</a>
+- vBTLVBuildTag() : <a href="btlv_8h.md#a511e4f76699d656bdba14dced30bc3dd">btlv.h</a>
+- vBTLVClear() : <a href="btlv_8h.md#ae064b0803b734441d055f6b1e3fa3e2b">btlv.h</a>
+- vBTLVGetTagNumber() : <a href="btlv_8h.md#a814714ea6ec61664cad4337db999242b">btlv.h</a>
+- vBTLVInit() : <a href="btlv_8h.md#af6c59b296fd3283b94548f090f171844">btlv.h</a>
+- vBTLVMoveNode() : <a href="btlv_8h.md#a33fd877746b3f147f99ba1046c22fe05">btlv.h</a>
+- vBTLVRemoveNode() : <a href="btlv_8h.md#aefad2bd854223903fd4ce35850c78a57">btlv.h</a>
+- vBTLVSetWipeCallback() : <a href="btlv_8h.md#aa6cb90004fb1fab00ac3afbc7a9493b3">btlv.h</a>
+- vBTLVWipeAndClear() : <a href="btlv_8h.md#ad64bc62b62bf5375b2b4813f76ee8f26">btlv.h</a>
+- vBTLVWipeAndRemoveNode() : <a href="btlv_8h.md#acadee218eb35d1eecce639c637496953">btlv.h</a>
+- VC_CheckForDownloadNeedsResumption() : <a href="_v_h_q_manager_8c.md#ad6a78a21f393db24d13c0d2829a6413d">VHQManager.c</a>
+- VCL_DecryptMSR() : <a href="titusstubs_8cpp.md#a761a155521638c5af5d80704e48ffb6b">titusstubs.cpp</a>
+- VCL_EncryptEMV() : <a href="titusstubs_8cpp.md#ab69f251cd1f487f02772398cd791b2fe">titusstubs.cpp</a>
+- VCLDiagDataParserGetOneLine() : <a href="_v_h_q_utils__shared_8c.md#a963a34bd7da35c01e406a3aed41143dc">VHQUtils_shared.c</a>
+- VCLDiagDataParserGetParam() : <a href="_v_h_q_utils__shared_8c.md#ae283afcc73fe6b1fa15392b3e9299139">VHQUtils_shared.c</a>
+- vDebugMsg() : <a href="_v_h_q_debug_8c.md#aa4b17b95864e497ea1b49a810be2b95b">VHQDebug.c</a>
+- VerifyConnection() : <a href="_v_h_q_utils___m_x_8c.md#a8267abafa922cbd6c4703b00ef32c483">VHQUtils_MX.c</a>
+- verifyDate() : <a href="util_8cpp.md#ab29fd00cd12931bf70c259be8569ed35">util.cpp</a> , <a href="sdi_2src_2util_8h.md#ab29fd00cd12931bf70c259be8569ed35">util.h</a>
+- VerifyFilePermissions() : <a href="_v_h_q_config_8cpp.md#a8166845a077b1e758e747c9e3f061ee1">VHQConfig.cpp</a>
+- vfisyspmNotificationToStr() : <a href="_v_h_q__vfisyspm__wrapper_8cpp.md#af0bb1c70d2b505c050a14b769c44df1c">VHQ_vfisyspm_wrapper.cpp</a>
+- vfisyspmTypeToStr() : <a href="_v_h_q__vfisyspm__wrapper_8cpp.md#ab24ec12a4db4e75400e675967c8ef575">VHQ_vfisyspm_wrapper.cpp</a>
+- VHQ_vfisyspmCallback() : <a href="_v_h_q__vfisyspm__wrapper_8cpp.md#a28158010f7a3a39fb62d08b855840ba8">VHQ_vfisyspm_wrapper.cpp</a>
+- VHQCloseComms() : <a href="_i_oinit_8c.md#affe7c3f0c12e69f85332e6834792902b">IOinit.c</a>
+- VHQConfigGetTimeInterval() : <a href="_v_h_q_config_8cpp.md#a4978b35dd97dec406793e39f80c99476">VHQConfig.cpp</a>
+- VHQDataAccessCB() : <a href="_v_h_q_config_8cpp.md#a4121945bbdd85bae6e921a1b38796735">VHQConfig.cpp</a>
+- VHQGetFileList() : <a href="_v_h_q_utils___m_x_8c.md#a8053649cc2aee643b8e28179059273e9">VHQUtils_MX.c</a>
+- VHQGetNameInfo() : <a href="_v_h_q_config_8cpp.md#a0ab40fe549808cda763206a8585cd91c">VHQConfig.cpp</a>
+- VHQGetParameter() : <a href="_v_h_q_config_8cpp.md#a39cbd8f683e018bb35d31359d6befd93">VHQConfig.cpp</a>
+- VHQGetParamFileName() : <a href="_v_h_q_utils__shared_8c.md#aa3108752a35561ab98bec601d69b783d">VHQUtils_shared.c</a>
+- VHQGetVRKPubKeyFile() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a4925c300757366125d81d7cc5d9d15f0">VHQUtils_shared_cpp.cpp</a>
+- VHQHTTPException() : <a href="ftp__curl_8c.md#a0f6ebf07478447be27fe208ebb5f4d23">ftp_curl.c</a>
+- VHQioDeinitialize() : <a href="_i_oinit_8c.md#a3bef93bf6b09257a1517b262d02b0345">IOinit.c</a>
+- VHQioInitialize() : <a href="_i_oinit_8c.md#ac38679fae359d1639612f04bc0d751eb">IOinit.c</a>
+- VHQLoadConfigData() : <a href="_v_h_q_config_8cpp.md#a8eda29dfdbba118e2a9d1fee40a55496">VHQConfig.cpp</a>
+- VHQMAIN_ProcessParameterUpdate() : <a href="_file_download_8c.md#aec8b120499ecebf6cb9e2ba1b815e06a">FileDownload.c</a>
+- VHQManagerContactServer() : <a href="_v_h_q_manager_8c.md#a0fc6f8b1c598efeeaad0698dbd2e3139">VHQManager.c</a>
+- VHQManagerLoop() : <a href="_v_h_q_manager_8c.md#a682b2edccb892b9d51409d680979b78a">VHQManager.c</a>
+- VHQMergeConfigFile() : <a href="_v_h_q_config_8cpp.md#a3201b4f4a1cc99aa86e0a634f3c1252e">VHQConfig.cpp</a>
+- VHQOpenComms() : <a href="_i_oinit_8c.md#a51a0f28c1f99e0f208d65c0480200d0e">IOinit.c</a>
+- VHQReloadConfigData() : <a href="_v_h_q_config_8cpp.md#a8de8bee4d45cad1ade7e8d61d39c146f">VHQConfig.cpp</a>
+- VHQRootGetFileList() : <a href="_v_h_q_utils___m_x_8c.md#ac4659c30d781024246c693597ca3e4ea">VHQUtils_MX.c</a>
+- VHQRunTimeForDownload() : <a href="_v_h_q_config_8cpp.md#a661558e5bf1f2eda85a234c502b96a87">VHQConfig.cpp</a>
+- VHQScreenCapture() : <a href="_v_h_q_utils___m_x_8c.md#a31f0b7d6e8c2797268ef2fce20aa7c71">VHQUtils_MX.c</a>
+- VHQSecurityCalculateFileHash() : <a href="_v_h_q_security_8c.md#ae3e831287d87f19b9df01c0f2ed5dfbc">VHQSecurity.c</a>
+- VHQSecurityGenSha1() : <a href="_v_h_q_security_8c.md#a92f023d88017b65d3dcfe9068d8c72a5">VHQSecurity.c</a>
+- VHQSecurityGenSig() : <a href="_v_h_q_security_8c.md#ab2c6389474751089c72aedc6b9b40b12">VHQSecurity.c</a>
+- VHQSecurityInit() : <a href="_v_h_q_security_8c.md#a8f293f39a49114ef1324ca50fb833982">VHQSecurity.c</a>
+- VHQSecurityReloadKeys() : <a href="_v_h_q_security_8c.md#afda52c9fc3f7bddeaaed44fa0a70096d">VHQSecurity.c</a>
+- VHQSecurityVerifyFileSignature() : <a href="_v_h_q_security_8c.md#a08495d01c4b9fba2e2ab46519fa9dd0a">VHQSecurity.c</a>
+- VHQSecurtiyGetSignatureKeyID() : <a href="_v_h_q_security_8c.md#a8859f97bec0deda0341882499529c7a4">VHQSecurity.c</a>
+- VHQSecurtiyVerifySignatureKey() : <a href="_v_h_q_security_8c.md#a4cdb8eb49d106c170959556d8fcad443">VHQSecurity.c</a>
+- VHQWriteZone() : <a href="_v_h_q_utils__timezone_8c.md#a6fcf50b2f356cb6f9765b1cb7a3e7da1">VHQUtils_timezone.c</a>
+- VHQXmlCreateDownloadResponse() : <a href="_v_h_q_xml_packager_8c.md#ad89392f0cb8f811d4af6d70647c207b9">VHQXmlPackager.c</a>
+- VHQXmlCreateErrorResponse() : <a href="_v_h_q_xml_packager_8c.md#aa6a96421fc16f3d135f401f749773899">VHQXmlPackager.c</a>
+- VHQXmlCreateUploadResponse() : <a href="_v_h_q_xml_packager_8c.md#a6a04da6d212c117aef8f6217d6461475">VHQXmlPackager.c</a>
+- VHQXmlExtractProcessingInformation() : <a href="_v_h_q_xml_operation_processor_8c.md#a331be71b2bc8d7f84366e8bff9138bb7">VHQXmlOperationProcessor.c</a>
+- VHQXmlExtractServerError() : <a href="_v_h_q_xml_operation_processor_8c.md#a402af02ee2fb10e337eaac8a64adb333">VHQXmlOperationProcessor.c</a>
+- VHQXmlOperationProcessorInit() : <a href="_v_h_q_xml_operation_processor_8c.md#a682750bd6289422730fa53acbbf4c547">VHQXmlOperationProcessor.c</a>
+- VHQXmlPackageCreate() : <a href="_v_h_q_xml_packager_8c.md#ad985152b166fb6a9c5b33298f586ea57">VHQXmlPackager.c</a>
+- VHQXmlPackagerInit() : <a href="_v_h_q_xml_packager_8c.md#a162953c78d916a1da4421166f1671e89">VHQXmlPackager.c</a>
+- VHQXmlProcessServerMessage() : <a href="_v_h_q_xml_packager_8c.md#a04c9c0c25167e200ecc3e3d669d08cb2">VHQXmlPackager.c</a>
+- VHQXmlUpdateNonce() : <a href="_v_h_q_xml_packager_8c.md#a114aa57d9a41b44ada61905d71f94cb6">VHQXmlPackager.c</a>
+- vos_sys8() : <a href="sys_8h.md#a7109ff8195a9046828f8120509022d76">sys.h</a> , <a href="sys_8cpp.md#a7109ff8195a9046828f8120509022d76">sys.cpp</a>
+- vPoolFree() : <a href="mem__pool_8h.md#afbd27e75ab44ed7dfd909c64756dc869">mem_pool.h</a>
+- vPoolFreeAll() : <a href="mem__pool_8h.md#aa1871b4604a6614f379abb30e1613f47">mem_pool.h</a>
+- vPoolInfo() : <a href="mem__pool_8h.md#a468509547e43de5621df45470c15d70a">mem_pool.h</a>
+- vPoolInit() : <a href="mem__pool_8h.md#a1cf0544df5dadc299bcc60e8e3c3961e">mem_pool.h</a>

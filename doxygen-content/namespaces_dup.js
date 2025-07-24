@@ -1,0 +1,28 @@
+var namespaces_dup =
+[
+    [ "com_adksec_cmd", "namespacecom__adksec__cmd.html", null ],
+    [ "com_verifone_host", "namespacecom__verifone__host.html", null ],
+    [ "com_verifone_seccmd", "namespacecom__verifone__seccmd.html", null ],
+    [ "com_verifone_TLVLite", "namespacecom__verifone___t_l_v_lite.html", null ],
+    [ "js", "namespacejs.html", null ],
+    [ "libsdi", "namespacelibsdi.html", null ],
+    [ "LogAPI", "namespace_log_a_p_i.html", null ],
+    [ "packmanlib", "namespacepackmanlib.html", "namespacepackmanlib" ],
+    [ "sdi", "namespacesdi.html", "namespacesdi" ],
+    [ "std", "namespacestd.html", null ],
+    [ "vficom", "namespacevficom.html", "namespacevficom" ],
+    [ "vficpl", "namespacevficpl.html", null ],
+    [ "vfifps", "namespacevfifps.html", null ],
+    [ "vfigui", "namespacevfigui.html", null ],
+    [ "vfihtml", "namespacevfihtml.html", null ],
+    [ "vfiipc", "namespacevfiipc.html", null ],
+    [ "vfimac", "namespacevfimac.html", null ],
+    [ "vfinetloader", "namespacevfinetloader.html", null ],
+    [ "vfiprt", "namespacevfiprt.html", null ],
+    [ "vfisdi", "namespacevfisdi.html", null ],
+    [ "vfisysbase", "namespacevfisysbase.html", null ],
+    [ "vfisysinfo", "namespacevfisysinfo.html", null ],
+    [ "vfisysinstall", "namespacevfisysinstall.html", null ],
+    [ "vfisyspm", "namespacevfisyspm.html", null ],
+    [ "vfizontalk", "namespacevfizontalk.html", null ]
+];

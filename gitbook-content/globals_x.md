@@ -1,0 +1,542 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - x -
+
+- xBTLVMatchPath() : <a href="btlv_8h.md#acf449e96c5391ef94ada65ae1a246909">btlv.h</a>
+- XML_TAG_AD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9caeb2556ba78d40a6229adb31aad324">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2574462d9c86ea3a5b38de70e6805abe">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaadbdb604ebc480d0ca6d77105987034e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae88b926438441531ae9092bd0bb660d1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8da674894d29e2a9aa9510c076a78c4d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac90c5457d7e98c811d727b03b2ce527f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaac04779e3fbe03f8b471661b313b4330">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac7631a53460a29936f07cc2bc1d17443">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0326cdf90192c73abf14e7de25077543">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga72a5aead1f3bdb2063b3122a52ee5a02">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaae07de3e2c2bdf3ad815fb540c572cdc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4f9fc396aafa280bc6ac486edac3413b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga17a18036c23a727d40c3db25f35dcef8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga676f0b802fff9dc749b44bbbef18123c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafac66550a33653a9120377200af2235a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafa38c391e12dea85b0d25e46c4f4b0d0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab75b5e728d31dec055075010ab6e3af7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6fe642d9d709df7b57376de7199487fa">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9c80a071ddf56b8c4dd869dd94d5b30c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga924ae20c6fa78f27f8ed8c0b3428aef4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga51c286a0b3c558292d65d6d939cff9ce">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae0b8027d5d821889d8b7e796992ac147">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3a2bbeff0fa2bcff8de27960707998e6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F6D_AMEX_CTLS_READER_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae21e0f8806a8eecb7432962b8d6038c6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_9F6E_AMEX_TERM_TRX_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae84a2ad6bbc9dec4ed44bf1a54705f42">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB30_TEC_SUPPORT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0ade647bbd8447cbe4c0f219b02b487a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga32a88b3afac8f2b2fc71cb34649c33f5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac138bb1c91f02a072e00c491032047f0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7a08e6b354dd3d1385721d27b1633c24">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga518e8182099c530f9d3db19cf7f81a44">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga783b8ad05b92f4b240b35a48bd0b688a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5e5f4e29c2d3c20f82fee3c7e39606b7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1c3c97b73fa777a9613b2202084bf0bd">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB49_ON_OFF_SWITCH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa8e790cfa2ab971f3e87a1c36deedd85">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_DFAB52_UN_RANGE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadba0b407dde44ad12c5ee5e595dc9426">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_AK_FFAB01_AMEX_DRL_PARAMS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7f84720f74906bb526e44d600a26b264">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_APP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac59e08c61f80cea0bfd193fea694fcb9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_BK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga859b7ced9c21b89490d21b9ef5834a1f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae4c0c56c9a158bea2e90cda699be7d61">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac562a71249d3ec24c5237daec0b95755">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga36be6d44c2867d5e10835d59b40ab9f3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga43c02bda4f5f48f86091883328a7d6b9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4f12f92305877ef7300c9c457722e188">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabb763b4c07f1921b9a2a348e96f7dc1b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga38f0d0171e00010507d5df2d89ab8f90">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga60549eb1d1ac164be143fb43d60ec24a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga38f03f6e8bf816f16c77d89fbe245f51">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacdc261cc444eb24d122db2f09f775955">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_9F66_TERM_TRX_QUALIFIER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga90082353125c3c8dd07c3b01b8ec301a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_DFAB30_TEC_SUPPORT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga408d6bbb52e3bcb7e168dc8754310dce">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae1357f3c61e124527dbd203266e3256a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga71d5585a35420f1a6d2d8959ee92fb5c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga50ee28f6cdd3f7c7b7bebdfe8573be63">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_CK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacfb8c3923d60ae1d49434972e8e52236">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DF8118_CVM_ABOVE_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga94b2eed4980138684e0a219004dae40f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DF8119_CVM_BELOW_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4eeeec9f4fbbe6bac5d5f28576b83bc7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DF8124_TRX_LIMIT_NO_CDCVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaba0e5284ffae47b5babcfc02bb4a2a3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DF8125_TRX_LIMIT_CDCVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1fdb3fb836be1e6918aa3cb8daa94590">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DF8131_CHV_CS_MessageTable : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2b315e48ce82ab77de45689f62e7dccc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB02_ASI : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga23931bf572b98e20b11dcc5467794d53">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB03_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaada32f63da211af5504ab94fb2355ee6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB04_PRIO_APPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad85745726179ea81ee9cd11e58095252">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB05_SPECIAL_TRX_CONFIG : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7da3f99c62238cb13b9226174ac14909">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB06_CHKSUM_ENTRY_POINT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf1d37eb69dad810fb7b3c06ac3a19703">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB07_CHKSUM_KERNEL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga825110c5de3f42ead0c05c5668551ce2">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB08_RETAP_FIELD_OFF : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab3f9e0b2ace94e90049cf60bde238c9b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB20_ADD_TAGS_TRM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad7ab87e852cc4a26025afd07d17a902a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB21_ADD_TAGS_CRD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4104829597336be46d4854d8af96e87a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB22_DEFAULT_APP_NAME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab1a063d8990a8c5e899f27a161641ab4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB23_INTERNAL_KERNEL_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7624f253e42b46f6d9207cf7cae79b5a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB30_TEC_SUPPORT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1bbb2b483834683506e0bbd644dba730">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6b8be55da5b6d73ae05c3b3337e4d068">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafc581a8f3d684e0d50242cdd1910384c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga924fa1a4ca6efcdc90ea3ba9891def95">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaea5a78c6e1023d6abef845f69e7df4be">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DFAB5B_CTLS_TRX_LIMIT_ODCVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaee433f2a21425de76cb0e6526f1528e4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac52c50c48fbb4a6cea92e7b671f829b0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa4cf464050c637c55aa4ab1fb414b871">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4bf6a8e6677e8500395ec704a9f82ee1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6e1baba29149800acbb8e701d22f894b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga928397e9050c00b4b44dba2d29b1fdac">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1700c7b6c7bdf393277ffbb884f96b03">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8ffc5928599ddf41c2d5e8f8d86b6ffc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaee5ddd02d287fdd5124303aa70a4adcf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_9F66_TERM_TRX_QUALIFIER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga48b82c6f1000b62b79d28922946213f0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB30_TEC_SUPPORT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga22e8a67fe25578766bbfd87f04456f10">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6c0c74e3e5f896300add429e75e00b58">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2f2be903486eb4d85795c86fa0dbf1cf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafe26dd9a5628ac1d6cdf8e8cbc4c3e57">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga45a75b7302a4997d8669d0915f49cd15">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB58_CONTAINER_IDS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga69de9eacf4780bf3890b92243ed38bdf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DK_DFAB59_CONTAINER_RANGES : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga63af455594800b8a019404269bb3de22">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DOM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7a7c4819383998f2c791168a9d373a56">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DOM_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa5d67beb51adba4f23988b62639b435">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_DOM_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga01bd2a5337b7c7bc10e0eb58436ed11d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga49f682eafc0d274b1382ea692fb17e89">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadbcbafcc9b33e748d692d0df86357bf3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8710d5e932cbc43f44c4ac6d0c8058bb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga024c405a2206ac9ce9ed8a92e56bcf6e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaab8463b0320abb66a4f5f3a9fd6f37e3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab34efe3fb77ab818e77e627c99d7c6bf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5ad7d818060229ce7bcf711eb54740c3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga59db09138e122abb6e69bfc5c7339a48">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2777c7d1e2518b62676c628e348e5ba3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga844dcde751de1774b1712c463c383fdc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad4e32222f2f8bf15c03e64fc3373db73">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_9F66_TERM_TRX_QUALIFIER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad466b4b062f6af80b154ced47fe4c5ab">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf6e645b1bbcefa10eff4de8d38306f20">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacfe34ee3395dd70e7fb6512a471e859e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga50af1b8ce8ba9da1d75ca55e57a1b8a3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga69072c39cfdb4b04db6d13510f201629">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2d14b2e41841162ffc0ebacfaf28b2fb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga40f45a0974e12d0562635c365b72dc70">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_EK_DFAB4A_CTLS_TRX_LIMIT_CASH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga146b16861780544f80cd7e3489c4555d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GIROCARD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf56ec7b16f42aea92ac394dab8e5383b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa3dffe9145547b173faccc03005a326d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0b9b71f4b415c702c66dbe52b58e1d9a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9f90e9ea9f6360fd0208a4dfbeba683b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5369c41b68e46cc19c325115912bac32">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac1bb144adc2653138a5d221d89f0f139">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1d0a518868fe204d9d921b3941d7c3cf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga71a899a0eccb54155e8930c0e26de482">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac0a046c21b3863037c7cbf760750d386">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac89361521e63e70348b050c462665100">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad16948bf4d61ee6d8737ac8e67060ec3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa34740f14411558198e76e629f70126e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_9F76_TERMINAL_TRX_DATA : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga06cd7b3424986d36028e8081fd84c2d8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9025b678cb552e7cdb9133c6fbc60aff">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad5a142e306c40a81cb5f5986069c4bfc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7ea0e83ecff59bbd009d331cc31c0647">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7d6b4f17a1904736399baf34f94e6749">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga29c4978ee625a1f641cfaeaf9823b64f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2a31d620fb4e9707de90298ea3a4124e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga63c5be8d24f0d963a67883d76c265083">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB4F_CTLS_APP_KERN_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga863baf8eb302dd159c5f629d7401411a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB50_MTOL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga92ffbadf7b761e40d950431f58f4794b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB51_DEFAULT_DDOL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa4c13f6009eb173848f2eed3c6da7ed6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_GK_DFAB5A_APPLI_AUTH_TRX_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga90254669672c94baecb8b6d6c57ed1e8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga228e2df08d4f3e81ee3e1c4387dd5441">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga030442dc1c8df310eecd2981616c41be">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4166bcabd9830d1321276878d6e2823a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadca32d657cb29e8e0ef8b8d32a0cbba8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga44bf5f652b41cae2028686e74ebb8ebb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa51ac4ec5003e26db37f3e1336fbc69d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga27e4260b7bb5a452170ebbeb5cf0ded3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9cc19ce570c1257db632de603cf1eb37">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga770655a2a970f56f1bed25354e9595b1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9c75e9fcc832a061616dcb4f77a0be29">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae7f91e9fb5bdd3bc6023f376a973bb41">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F58_MERCHANT_TYPE_INDICATOR : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga83bf2a4f50b478fe7f24ab294ffad491">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F59_TERM_TRX_INFORMATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4d116cfc05343a5d8ee9b89f92c4f185">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F5A_TERM_TRX_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga646e748471e8288608d5769fe9dd313c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F5D_RECEIPT_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7962ea536fd0508cd2cd0955e5b8c979">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F5E_TERM_OPTION_STATUS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga409e8e927db674d5c8458bf6db056dfd">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_9F5F_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad9e32b4ef7874610f62cde5f7fd5ad04">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DF6D_TRY_AGAIN_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1e6bbadebd270422ab5222f2ec2c9196">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga39b97f952caa9ef1a4ae3e1c10d2d28a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab4e2d085447febdab8f1a7e0c2a7b4c8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab1a49c963a7c28c6255eb987cf880957">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8fc01943af2551fcd23d114fa4f1c2de">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf2d47c7219cf71ca36e8d20213d1639a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga881bb1e00d9e2f29fce8271f583ca4d6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB46_RISK_MGMT_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafbe07df7a7ae8a14f8b9a67fc56c8bb5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB47_RISK_MGMT_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8b3e985e5f2a715d0558a5ed25689da5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_IK_DFAB48_RISK_MGMT_MAX_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaeb436e2d4974f7810a79ff268526bdca">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga074dda08c87cc2568dbff760c3e18f08">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabe1cae8ec11ae1c91b63cdbc481e26fe">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga41b8b70578ff86c428eedf78b07714a5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa29eb12f9dd67900cc6945726653372d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga811c3fd7b7fd8139aec6d2e7583e009d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf1c7553af9a7593377a58f24aa92e7ad">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga49e28d220767f0a20f63b019fbce8fa1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_9F53_TERM_INTERCHANGE_PROFILE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga806231354823672dc45657ff4c517af9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1caa97b3cfa7a7be882358865d865b4a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaba1256f652e84a529c26558bca5cb62e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0f6407252a7279735665028a81602532">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0ca3a7cd27527dfd384e4ca9f39563a4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac7e6cbc6b7d6d56eb68a335a67c34690">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga22fa06febc99f576174a834f60301956">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0597d8e0ff8e76e41b8497f1f2966ce5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB46_RISK_MGMT_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga53903aac8680f51b9c7d5181fe294dc4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB47_RISK_MGMT_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4715e024fc44e2132cd82847c24fff78">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB48_RISK_MGMT_MAX_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2acabba5ab730a21bce6342fd30554f0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB4B_COMBINATION_OPTIONS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaef9991ee1eaa59f76b4f60a09277efed">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_JK_DFAB4C_REMOVAL_TIMEOUT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6394544b1d23499095830af6cab5c6a9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_KERNEL_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7c8cfdea1faf6bff5245be09c70267a0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga00c9526d26f8e302cf8d748ff5627be2">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga814dd46185f7635ee55d0fb6827b0072">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F09_CHP_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf92fe97cc679ad4ebd8205e4148a2a79">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0168c4a6cd5939953ce0c53ec0f40f6d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4d2be44d5cbfcf50e5a4b9bf9712d379">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6c616ea6b2a63dbaeb7af6346ebcc58f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadc61cbbb4d2fbfe7481b0a5825acdc45">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F1D_TRM_RISK_MGMT_DATA : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga920f167d5422ff346ada24a3cd995037">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga435a71218ff105a93e8f7f623f421ad4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3a91157df0e2100cb89154ffb5a3c724">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf3026c3abcf6207e0dfba11d2f9d36b0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F53_TRX_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga20f321574abf88bf5b95aac6165602ef">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F5C_DS_REQUESTED_OPERATOR_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadd17e779f66be9a83b011d9e01ca2c51">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F6D_MSR_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad76b1e45cec75ddf20d98737db4215f0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_9F7C_MERCHANT_CUSTOM_DATA : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1c65c23d0311f4bf5594df51e5c13c17">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF810C_KERNEL_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7c458a6f36024339052cca5c021a9498">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8110_PROCEED_TO_FIRST_WRITE_FLAG : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2e7c8e656c0332c2d1b9cdc4a81d5ba9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8112_TAGS_TO_READ : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5e877511d6aee528c98221bfb9cc410d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8117_CARD_DATA_INPUT_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab6ec1862aa15b3add923e8b337d9b7ac">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8118_CHP_CVM_ABOVE_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga674de16887b9c1b53311137e99ed4258">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8119_CHP_CVM_BELOW_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf62e2c41a80d5f8da1bd3583ab4c816a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF811B_KERNEL_CONFIG : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae39599e0c48154673795010e56baeeca">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF811C_TORN_TRX_LIFETIME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacbabddb1e6ff4c7830023a330ffe568a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF811D_TORN_TRX_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2fb175cddf554b8062606b2ce6821e6f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF811E_MSR_CVM_ABOVE_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gade7ba9a4b8d07f82a4581fcda29a61cb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF811F_SECURITY_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga47293ac969e1d77e6f580e27d3921ad6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8120_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1af41111b9d9e730f45d217506dae165">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8121_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8845dcd232cb753b238289d6deca349b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8122_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaecd8afc192ef31b6f853ac9f7cafea38">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8123_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad835bd5288af49a5c55005d5404a3c60">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8124_TRX_LIMIT_NO_ON_DEVICE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab3652c4dcb2269ea391f48af807ab9b8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8125_TRX_LIMIT_ON_DEVICE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga05955203610c16665e7e35d8cc8f40ad">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8126_CVM_REQUIRED_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae98f6f8d3a08a02b10f56ef146a0757c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8127_DE_TIMEOUT_VALUE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5802d19425a826ecf2cc785b5632ab0b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF812C_MSR_CVM_BELOW_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0dad35a58403f4c8fa5087c586f655c5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF812D_MESSAGE_HOLD_TIME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa4927f95fc990fd67a77c10e6dc084de">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8130_HOLD_TIME_VALUE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaba4d9f625deef205323f0f44832c745c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8131_PHONE_MSG_TABLE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga62f573381dbe1a8096b0bf13ac15d38c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8132_RR_MIN_GRACE_PERIOD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga514dd5e769fa1ba0d808c97f804e3058">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8133_RR_MAX_GRACE_PREIOD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9d73f54e46c609b8216cc94d9a88aa47">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8134_RR_EXP_TRANS_TIME_CAPDU : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafc255d824c73f5a295a719cae5d3b4c1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8135_RR_EXP_TRANS_TIME_RAPDU : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa445cffdf9aa2ba1c155ac70ffd742e4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8136_RR_ACCURACY_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaac645b02a3d5c525a2bd32b37b744877">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DF8137_RR_TT_MISMATCH_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga03a3d5a2a2cdd2a2f324e0e7901c94ee">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf19d32e414b4c776e4341f53fb872c6a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_FF8102_TAGS_TO_WRITE_BEFORE_GEN_AC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9745d646ebc264fa75a570d8f72640d4">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MK_FF8103_TAGS_TO_WRITE_AFTER_GEN_AC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga70333473d53b60f7c75912d3e8f46d00">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3b7ff8acf83e0c165c42457c56e72ce5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F01_ACQUIRER_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0ca98d63f83b0c68562c606d70cd8021">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafcca18abf3043ecaceafbfd7a4ed4395">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab12c65e731db375e52dee5a4db834070">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga19b3a047f3e40c294d0921b057d39a06">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gada1608589f085696ceb30deeb935159d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga70d5f14087a4adadb0834a66dd725bfe">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5db863c1b0639cef0e245480ce374233">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF51_TRM_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga36f9b8c3db2c17d4ce447c6d33c25948">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF52_TRM_NOCVM_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac1310fa0d3f9edeccce6f8dc39f811be">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF53_TRM_CTLS_LIMIT_NON_CDCVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga47c82c5f33b0c1e20138a45c20de54f8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF54_TRM_CTLS_LIMIT_CDCVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa39cd174c31c653ce6893bc542a1c05">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF55_TRM_TPM_CAPABILITIES : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf1699b1e1ddefb8245738e78ff15a6df">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DF56_TRANSACTION_RECOVERY_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8aa28074f594b5543a1f5fc6a5fbcecc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6b163b1654a82b4e3a64dba5daea720b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2058d949c7971b107ec6d236130b95e0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1fc7ce31881d1adf85de6da59539d1bb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga787f6891704fd406eddebcd617642b2e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_MR_DFAB57_MIR_DATA_EXCHANGE_TAGS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaae2d11590ad11a4bd992ccb1e3c43199">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga45dceef9b7aa465fd847b156d1a09af7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8bd59ffa99b074a8a4ce6d0f5b69507b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaac374eb7c618eecd63451a5fa675e62">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga44935cf29467a5cd9763b189b29e0566">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga75c4fd7d16c9267320cb339a32bf8855">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga88348cc2652b802d817e7d0867dfb73d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_9F66_TERM_TRX_QUALIFIER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafc03e8358c16909d06dce55ec73e64d6">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga52c253029b8e561b814f3c4e3af42451">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadd41bdf2df615f5aeacd1c1a82f97df8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad49249c8a92ffaa9853131cefd14e096">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5f6b626113cf4bce1572a8ec76be0bac">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga98b8bd2b7199b90ba3851c50b5be513d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadd082475d320e24a8b5b830a0493a75e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga36f2af2859294133b4b3f20ec521696c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB46_RISK_MGMT_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae5094978fd102edadc628a3defe5dc6d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB47_RISK_MGMT_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaebd570c02e2a3725c4c08fd41f132a6c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB48_RISK_MGMT_MAX_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8869b72ba42466f4bb65ea2948f07aeb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB55_TAC_SWITCH_INTERFACE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaae6f7de52a19aa7028fc3e9320e0dc96">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PB_DFAB56_IAC_SWITCH_INTERFACE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae148741ca8548a56462e0dc4cd5f1e52">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga32fb01c036e8a5dc0dbe7f9328b855ec">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga656756c4b4bda82043b5bae8f9e2addb">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga03eaf6b7c271502273c265bae804cbb0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga074be4d4e067f50091e050bd7645886b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_CVM_REQUIREMENTS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad761c0a874844a3d2a187368159cbc90">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_DF01_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4444c90a462dafc4f97afe711a76c178">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_DF02_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabf0616ab6cec0a1f99e3e993852d806f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga528da5c0d59eebb9f280e13f6ea71c2a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_PK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadd4639f125bed99ae80725fe4c00a556">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga25825fbd315fa86ce226a660e420743a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga66d7ee35bacdd6610fe29728b1dc90db">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab20d73b6497cd64bf2519e2722ad0105">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga95f86e65eb334dea43577a0a21b745ab">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga17cdff6c87c85c3759258472a5f6557b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga94603469b3e573ca698cadc97a1c2372">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae07b4f85c06af6cff2a8beb242780caf">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2f80312f8aee9fccf8e19265c10ca539">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DF3A_ADD_TERM_CAPS_EXT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5c0cce7528cd78917ef1394da4d1cfba">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9178725a98ac9074056ed23575774f8c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga426e907f5ea4b32a24c228d2893e0c8b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga30b70c64049c5e3acd724d57c5f4fded">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga76930fffe2d21abf332b982311f998d7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga78b11b0a33ce31c38c91bc38f3915dfe">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac3e0ed0f97337d240b64282e11c3c229">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae06a2076329f552598a8e87fff201ff9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB46_RISK_MGMT_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9575d0193a811ccf006c807aeaacefc7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB47_RISK_MGMT_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6bf3fa9d70bdbe4a07bf6f9c57123897">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB48_RISK_MGMT_MAX_TRGT_PERC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5f3ec698e668ad3b0d6df80d831ce946">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB4D_CALLBACK_TIMEOUT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafb5952319a54de26fad4c98dd02d89fc">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_RK_DFAB4E_TORN_TRX_INTERVAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaec00500f8a30f8ad98ebf1e93802ac87">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0ff45ba26a2dbd983d1cba6b9aa634c9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5ee5f97971dbd18fbb03017cd57f4704">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac7073443ff4375d652c4f7a8af790f0e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4c34fcfa824888eb163abfedb2894657">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga57f42a0efd9340f4bab1af8eba2f410e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga962e14ea18f14a21aa072c29ffebdf04">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8dd5517fab1eda48fb4d41f3d35e3752">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa829aa80d0949ae8cd7b7e0463c21d3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac73acb01a9ce3196f11c940d01d1b82e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga98169e369441c5310b07f6dfd0a7006f">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga50c2236cc245a61a3a6365f89d8d7a16">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga94dd140ae4e3f51c0db06dbdff6eec2b">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7dd5519de47bf5dacc8a76a6d8063c95">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB43_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab0120403337cd12c2dbe5c3d7e42ec8d">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB44_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7adf6241f8a5b63d20532190257002b8">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB45_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga42a3e7f178928d78d7a904328b0ff6f1">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB53_TERMCAP_ABOVE_CVM_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabf186c82248b74b9f0c1056822819417">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_SK_DFAB54_TERMCAP_BELOW_CVM_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaea3870e1b850e3f898efb03097886167">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa318bf1c13d8ccef28b69e64bf681e9">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F09_VERSION_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4d0897a4bbe59c36fa7454b1ddaa78a5">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F15_MERCHANT_CATEGORY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga45bfb73e6cf76f78a10c9e1e08e74d0e">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F16_MERCHANT_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7c59afd2adf52cc7dbe7a0dc3413e364">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F1A_TERM_COUNTRY_CODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga48eb194deea62714c82e31929beb28b0">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F1C_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga53fa0cc3a0521eb5fc10a0c95db8a47a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F33_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9313bc6ba628902d8a8908fe326f2399">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F35_TERM_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa1800858b9442099a9fd38b24dd9674a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F40_ADD_TERM_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacc84599daa188d787a6a01efe5a810df">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F4E_MERCHANT_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab22a58edf8edd9ad6baa077dc4441477">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F5A_APP_PROGRAM_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5914918bd7ebc3c12ae7cc9af1d888d3">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_9F66_TERM_TRX_QUALIFIER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa981a7d88bda70b2ff465f7b344b234c">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB30_TEC_SUPPORT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga412989d5a92bfb08e8f240eaae1ed189">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB31_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2adec076a8ca589a00714beedf923857">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB40_CTLS_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab988a26d6f3bb8d1d38259be42a9116a">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB41_CTLS_TRX_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga96c2005d60f9b020da6fa6482dfaeb43">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB42_CTLS_CVM_REQ_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa35158676fea4c9fe5ca7a0a7309fc96">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_DFAB49_ON_OFF_SWITCH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf3063c614db3a5c58e21e2851b1e48b2">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_VK_FFAB01_VISA_DRL_PARAMS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga73d67328f0497c4d5d2f02c173a8bfb7">EMV_CTLS_XML.h</a>
+- XML_TAG_AD_WK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7e4d3d670f1a47594da334866c3f2825">EMV_CTLS_XML.h</a>
+- XML_TAG_AMEX_ENH_TERMINAL_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2abf4cf2f928ee92d91e6f09d856ebe5">EMV_CTLS_XML.h</a>
+- XML_TAG_AMEX_TERMINAL_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8592dee245ce116c88c93eebfad5e4d1">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa1f944043cef98010a54b9c074185ff">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaa1f944043cef98010a54b9c074185ff">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_AC_BEFORE_AFTER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9c988c6b2daeb55ebfef17b94aedbf09">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_ADD_VER_NUM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga31257afdc52fda5212500ffdbef44c25">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga31257afdc52fda5212500ffdbef44c25">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_ADDITIONAL_TAGS_CRD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4aa7498018941c11031f732a702ed08f">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4aa7498018941c11031f732a702ed08f">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_ADDITIONAL_TAGS_TRM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3ebc4e2121dd29d4a0c29bf0662fc2da">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3ebc4e2121dd29d4a0c29bf0662fc2da">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab51b5b160528c4eba7de7bf08e42ed5d">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab51b5b160528c4eba7de7bf08e42ed5d">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_AID_PRIO : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga099f0028fb4bcb042b90d881d3c35318">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga099f0028fb4bcb042b90d881d3c35318">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_AIP_CVM_NOT_SUPPORTED : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaed8babbf2d6ae2cae216077a1c86cc77">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_CVM_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5a07aa563719db4fc5dc7659ba3e2594">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_FLOORLIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf55c80a6bffc6727c57b959cd7613ec1">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_INDEX : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf487e894c6393382c6d3b67764113ed0">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_PARAMS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae02cbd4fdc1bcb745833d82c2e177505">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_SWITCH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4f90015ac142bbfcfd7494033e94d03f">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_AMEX_DRL_TXN_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga593794490b75d73f4bb2ebe012cf83ee">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_APP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga32de48c9dd0037fbd10d3c6d1264e4d1">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga32de48c9dd0037fbd10d3c6d1264e4d1">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_APP_FLOW_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga50d78399df4e3c11369093dc4e841d7d">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga50d78399df4e3c11369093dc4e841d7d">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_APP_NAME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0e796259cace748a875c804a6bdc342b">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0e796259cace748a875c804a6bdc342b">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_APP_TERM_ADD_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0a15bcaf24ec34bfde9b5a49217c7422">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0a15bcaf24ec34bfde9b5a49217c7422">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_APP_TERM_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga96e3d7de6bd5ffc66025301ce777531b">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga96e3d7de6bd5ffc66025301ce777531b">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_APP_TERM_TYP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga715c2019507324bd280553d4a2515127">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga715c2019507324bd280553d4a2515127">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_ASI : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2e5b4d6bc8885bd582a8c8a53988adeb">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2e5b4d6bc8885bd582a8c8a53988adeb">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_BR_KEY : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1c91e30ac44b2fd1c9c90e2d5ab2f2da">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1c91e30ac44b2fd1c9c90e2d5ab2f2da">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_CDA_PROCESSING : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2ca269e927e2201872845e0c77b6604f">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_CEILING_LIMIT_MOBILE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga706a513e5a40795696261fac3e9ba279">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CHIP_CVM_BELOW : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad4e4adeb8ef490e0336b262d74d2cee2">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CHKSUM_ASCII_EMVCO : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9916553d54022e9ff269b4d9e82f7658">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_CHKSUM_ASCII_ENTRYPNT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gade6ca130cddacd5591f31c13cfcad6eb">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CHKSUM_ASCII_KERNEL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0fea1088c31e410280b94828e0c7444a">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CHKSUM_PARAMS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1bea96b6e55c18fe7225c7ef0707f45d">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1bea96b6e55c18fe7225c7ef0707f45d">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_CL_CEILING_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga360e308e22b55148bff72c04b2bf842b">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CL_CVM_SOFT_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabae9c04d8f457fe7ea9f26f2afb70199">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_CL_MODES : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga90ca354a5daf73aa2edc9678440e5584">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_COUNTRY_CODE_TERM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga834453de1096e1827ebe688eaab110f8">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga834453de1096e1827ebe688eaab110f8">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_CUSTOMER_CVM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9051fee0ad29cbed93a4fe88f74e2a88">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_DCR_LIST_IDS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0662ce42e415d68b627a754d7e0e5259">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_DCR_LIST_RANGES : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3bc8db0b4aa5a989af015dd298b16c7b">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_DEFAULT_DDOL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac12bfacfb1082a80fa10aee3569aaf30">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_DEFAULT_TDOL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1876212b8287be7382ad6c45c8e22596">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1876212b8287be7382ad6c45c8e22596">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_EMV_APPLICATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1934ad2be00923729082b211703c8567">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_FALLBACK_HANDLING : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga13a3483900584bc5fb5dee035a9f9bc0">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_FALLBACK_MIDS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad0ea96486bd37aefabac74e308cb4f05">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_FLOOR_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabe783b9ab1c5589bab73048ec67cf8e9">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabe783b9ab1c5589bab73048ec67cf8e9">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_MASTER_AID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab39766fa922ae19d4827eae5fd14dab2">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab39766fa922ae19d4827eae5fd14dab2">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_MAX_TARGET_PERCENTAGE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaeb5c69b544617e33b0349a39089f1a16">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaeb5c69b544617e33b0349a39089f1a16">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_MERCH_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7ae8ff8350d9527942bb5c969e16e237">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7ae8ff8350d9527942bb5c969e16e237">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_MERCH_NAME_LOCATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf1d700ac912a3bc322d96dcef6f845e1">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_MSR_CVM_ABOVE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5dcef08bc16ccc60e1d30a344f51aa48">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_MSR_CVM_BELOW : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaeb127ba7b1aa09fee36edefe7f9e7b57">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_MTI_MERCHANT_TYPE_IND : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf1d330f8f0bdca44369f76b745f69795">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_NON_SECURE_CAPS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga02f0c87378e69fd62aec80a35fe0e578">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_POS_ENTRY_MODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga8e9158f247d6c7011eaa3cd93507b214">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_PP3_PMSG_TABLE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2802ca0c104ebda43755918052f7f998">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_RETAP_FIELD_OFF : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacef158dec1a3555b1e2c81ecd9fe8710">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_SECURE_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa28af81dc810f58ba4bef8c3d15ce296">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_SPECIAL_TRX : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafb41a5be33a5d300ab2f1a353ccdb39a">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafb41a5be33a5d300ab2f1a353ccdb39a">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TAC_DEFAULT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga98c3b8b286cfc9c3be668677d20d510d">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga98c3b8b286cfc9c3be668677d20d510d">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TAC_DENIAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7a831333f78a2d2a955f415f5f739b70">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7a831333f78a2d2a955f415f5f739b70">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TAC_ONLINE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4162a52b25e14b4b1bf16b00def428b1">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga4162a52b25e14b4b1bf16b00def428b1">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TAGLIST : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7ac889dd15056267afb8020e33de5ce6">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TARGET_PERCENTAGE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga86f7ccf9a954b05b9818e82e00c446a9">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga86f7ccf9a954b05b9818e82e00c446a9">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf0f3d447f6398bbb9ed79e18b0b399e5">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaf0f3d447f6398bbb9ed79e18b0b399e5">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TERM_RECEIPT_REQUIRED_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3c35869ff738066286788e59f1ed5321">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_THRESHOLD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga88563026608169a4bcb335c7e24d7b37">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_THRESHOLD_BCD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3cabd47633c72ecfd1e1a8fd6229be34">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TORN_TXN_LIFETIME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae25cb6c0ba0d27ef2be8f09c1cf53b6c">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TORN_TXN_NO : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga98ce343706d15f091c7ea699bcfa298a">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TOS_TERM_OPTION_STATUS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga536709d3c41197bbcdcf03ef14d94c4a">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TRY_AGAIN_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab136b4d9c1292c61022c78e8588606df">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TTC : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga273ea4ba44d455bab01edeeddc2fe903">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TTI_TERM_TRANS_INFO : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3bae00d3acf768c4f7c89d91bc681b1f">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TTI_TERM_TRANS_TYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab7e63284b96f2b0cd3168dc4b01e9c3f">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_TXN_TYPES_CASH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab8ec9bff360881236d02281bd4c97f9c">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TXN_TYPES_CASHBACK : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6d192fb0bc37a441d298f328ef05ea07">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TXN_TYPES_REFUND : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa54bd4858a70eab42fa179ac3744a729">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_TXN_TYPES_SALE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga83d1c097a8e6bd915c8786debb88f028">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_VER_NUM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3732b63e4cf39f8300736e9cf0432fa7">EMV_CT_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_APP_PRG_ID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac2deb9d75e2bb86ee5b785bee22c2ea5">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_CVM_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2e0a7f380e1dc82c40cc9967d2c515ee">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_FLOORLIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga96a2449a83693772f26370b86e105727">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_INDEX : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaa85e96afea9267ac90fc195391e8bb89">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_PARAMS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaaff9d036edcda51dbc1a61053349710a">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_PRG_ID_LEN : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacfb924d975c29f3209abbf3f506dae03">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_SWITCH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga19d9ef288f545d4437a0cf95cd171179">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_DRL_TXN_LIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad649bea958beed648efb3a83e8afc5b4">EMV_CTLS_XML.h</a>
+- XML_TAG_APPLIDATA_VISA_TTQ : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga516f562a7f74940e85b0abac7cde9d1a">EMV_CTLS_XML.h</a>
+- XML_TAG_CAP_KEYS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga42c816c3906637a4065cb023e47148af">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga42c816c3906637a4065cb023e47148af">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_CAPKEY : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadca82bc6f2514de3d8c46c456ee814ba">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gadca82bc6f2514de3d8c46c456ee814ba">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_EXPONENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga19533a461456afae8eb33ee784fd361b">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga19533a461456afae8eb33ee784fd361b">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_HASH : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad6a0497d2964a67cec810ea12c8279a1">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad6a0497d2964a67cec810ea12c8279a1">EMV_CTLS_XML.h</a>
+- XML_TAG_CAP_KEYS_INDEX : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2564b8002f03295e157b242ad2efa950">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2564b8002f03295e157b242ad2efa950">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_KEY : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga151215aa136d44cb12e3ea1d392c744f">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga151215aa136d44cb12e3ea1d392c744f">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_KEYLEN : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga94a87250bc33e6e85a09285f832fbfd9">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga94a87250bc33e6e85a09285f832fbfd9">EMV_CT_XML.h</a>
+- XML_TAG_CAP_KEYS_REVOC_LIST : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1e433908dd992082b5a252f39d60f45d">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1e433908dd992082b5a252f39d60f45d">EMV_CTLS_XML.h</a>
+- XML_TAG_CAP_KEYS_RID : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2acfa293c67d4c30b81f26f1fc51f677">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga2acfa293c67d4c30b81f26f1fc51f677">EMV_CT_XML.h</a>
+- XML_TAG_CHPAPPLIDATA_VER_NUM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab9cca69893732da4749b55d0dbd714ac">EMV_CTLS_XML.h</a>
+- XML_TAG_MSRAPPLIDATA_VER_NUM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7bd7e2b82bdfff8ab0f6f6555951bd63">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA : <a href="sdi__lang_8cpp.md#a222621e71edebae1ad5520a19b59fbf3">sdi_lang.cpp</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga222621e71edebae1ad5520a19b59fbf3">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga222621e71edebae1ad5520a19b59fbf3">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_BEEP_FREQUENCY_ALERT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga16e19d8553d2fd19a8069da5c5c0548c">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_BEEP_FREQUENCY_SUCCESS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gafa52bc19e376c25cb63f9bd98f7b7aa8">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_BEEP_VOLUME : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga57ca04c769961df068507ec48d8749df">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_COUNTRY_CODE_TERM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaef4d5036990ed54a310bfa34e9a018aa">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaef4d5036990ed54a310bfa34e9a018aa">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_CURRENCY_TRANS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga661c0545150aba185eb87f9cc4ec2888">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga661c0545150aba185eb87f9cc4ec2888">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_EXP_TRANS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga626a3a285542c99e089df3c38d66ee89">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga626a3a285542c99e089df3c38d66ee89">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_FLOW_OPTIONS : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gab16baa33ca0e740088426ad66b521adf">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_FRAMEWORK_VERSION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7466ea82a873f9b06da23f703c800a17">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7466ea82a873f9b06da23f703c800a17">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_HOST_COMM_TIMEOUT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0fb88db4b918907ecb583113812609a1">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_HOTLIST : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gad10a81f383a61b654186234abbc9ae97">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_HOTLIST_PAN : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga02567214f31fa24cfd632fd111f4903e">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_HOTLIST_RECORD : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gac628721e676509eef7b4456f3a248df0">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_HOTLIST_SEQ_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga9774ad1849206aa0707286558487ae94">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_IFD_SERIAL_NUMBER : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga629ee278fb088066573a86dd7d0b0e55">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga629ee278fb088066573a86dd7d0b0e55">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_KERNEL_VERSION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga22fd4430dee89d1b99af96d86a6b0109">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga22fd4430dee89d1b99af96d86a6b0109">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_L1DRIVER_VERSION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1027f53b9fdf8329597f1a18fe49a316">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga1027f53b9fdf8329597f1a18fe49a316">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_MAXCTLS_TRANSLIMIT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gaffe891d87e34d05b4a9c12603a1f5acd">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_POI_INFORMATION : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga18101ad0d744cdf74d82aa5028d99db2">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_SB308_FLAG : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga6fe017c859ae597ce9417b26635ce410">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_SECOND_TAP_DELAY : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga5d86c5d8f45bdd9f30ab755db45b6205">EMV_CTLS_XML.h</a>
+- XML_TAG_TERMDATA_SUPP_LANG : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga77460b946c3b46533edfbdbd3a6caf4c">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga77460b946c3b46533edfbdbd3a6caf4c">EMV_CTLS_XML.h</a> , <a href="sdi__lang_8cpp.md#a77460b946c3b46533edfbdbd3a6caf4c">sdi_lang.cpp</a>
+- XML_TAG_TERMDATA_TERM_ADD_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga3514324960ea620fc5a8daef445fcecd">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_TERM_CAP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga7bfeb1312c6535a069be1b26015e6ef4">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_TERM_IDENT : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0c70e5646bee358cbfeb5f65628c55d2">EMV_CT_XML.h</a>
+- XML_TAG_TERMDATA_TERM_TYP : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae8ddc36e1390de13ad98cf5da17cfc3f">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gae8ddc36e1390de13ad98cf5da17cfc3f">EMV_CTLS_XML.h</a>
+- XML_TAG_VTM : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacaa0b882a863697830b8d45bc689bf94">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gacaa0b882a863697830b8d45bc689bf94">EMV_CT_XML.h</a>
+- XML_TAG_VTM_CURRENCYCODE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabcde01c75efe189a50b25acb24eb5e97">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#gabcde01c75efe189a50b25acb24eb5e97">EMV_CTLS_XML.h</a>
+- XML_TAG_VTM_ENTRY : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga808a59de04c2005f55356e0b5105ec85">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga808a59de04c2005f55356e0b5105ec85">EMV_CTLS_XML.h</a>
+- XML_TAG_VTM_TERMINAL : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0655877ecf7e60793e932890a41cbf6d">EMV_CT_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga0655877ecf7e60793e932890a41cbf6d">EMV_CTLS_XML.h</a>
+- XML_TAG_VTM_TRANSTYPE : <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga13f8bb9237d759244863c3f450d1f6e6">EMV_CTLS_XML.h</a> , <a href="group___a_d_k___x_m_l___t_a_g_s.md#ga13f8bb9237d759244863c3f450d1f6e6">EMV_CT_XML.h</a>
+- XMLDocument\_\_Assign() : <a href="xmldoc_8h.md#a7aa132bbf1a11dc0e53d438b3e9507a7">xmldoc.h</a> , <a href="xmldoc_8c.md#a7aa132bbf1a11dc0e53d438b3e9507a7">xmldoc.c</a>
+- XMLDocument\_\_clear() : <a href="xmldoc_8c.md#a62b82f2718759b0b298755112f6df440">xmldoc.c</a> , <a href="xmldoc_8h.md#a62b82f2718759b0b298755112f6df440">xmldoc.h</a>
+- XMLDocument\_\_Constructor() : <a href="xmldoc_8h.md#ac325416dee38262efa72afa6be5a6d56">xmldoc.h</a> , <a href="xmldoc_8c.md#ac325416dee38262efa72afa6be5a6d56">xmldoc.c</a>
+- XMLDocument\_\_CopyConstructor() : <a href="xmldoc_8c.md#a070550a0b656048cdaf4b0ead9b9cd05">xmldoc.c</a> , <a href="xmldoc_8h.md#a070550a0b656048cdaf4b0ead9b9cd05">xmldoc.h</a>
+- XMLDocument\_\_Destructor() : <a href="xmldoc_8h.md#afb55c479565dce251504835744b06941">xmldoc.h</a> , <a href="xmldoc_8c.md#afb55c479565dce251504835744b06941">xmldoc.c</a>
+- XMLDocument\_\_dump() : <a href="xmldoc_8h.md#a019432e1050f439aa4897b1744713789">xmldoc.h</a>
+- XMLDocument\_\_findNode() : <a href="xmldoc_8c.md#a2d915117bc9a01980f01a9cfbff8ff45">xmldoc.c</a> , <a href="xmldoc_8h.md#a2d915117bc9a01980f01a9cfbff8ff45">xmldoc.h</a>
+- XMLDocument\_\_insertNode() : <a href="xmldoc_8c.md#a53e0386e50ce88bd181fd84a28391a2e">xmldoc.c</a> , <a href="xmldoc_8h.md#a53e0386e50ce88bd181fd84a28391a2e">xmldoc.h</a>
+- XMLDocument\_\_read() : <a href="xmldoc_8h.md#adf71fa00428d0e3c1a17089dcdae8da8">xmldoc.h</a> , <a href="xmldoc_8c.md#a026359c5968a228e29f0f15d5eb72685">xmldoc.c</a>
+- XMLDocument\_\_read2() : <a href="xmldoc_8c.md#a03f757e5643923bf33a1da56c9e7ce3a">xmldoc.c</a>
+- XMLDocument\_\_removeNode() : <a href="xmldoc_8c.md#ac491bd43799ebe30d5f51d905a63f477">xmldoc.c</a> , <a href="xmldoc_8h.md#ac491bd43799ebe30d5f51d905a63f477">xmldoc.h</a>
+- XMLDocument\_\_write() : <a href="xmldoc_8c.md#a2d3843c7695a5eae4e2b31fec4454839">xmldoc.c</a> , <a href="xmldoc_8h.md#a46709e880aa6e241ba09961ee0be2879">xmldoc.h</a>
+- XMLGenerateSignature() : <a href="_v_h_q_xml_packager_8c.md#a7e9186c8218fe299e54d3b47d00a9c20">VHQXmlPackager.c</a>
+- XMLNode\_\_addToContent() : <a href="xmldoc_8h.md#a32a0039eb81696b03b02792427725bdb">xmldoc.h</a> , <a href="xmldoc_8c.md#a32a0039eb81696b03b02792427725bdb">xmldoc.c</a>
+- XMLNode\_\_ANY : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184ba1fc16b58cf3bd861f6ec99a6c462fff8">xmldoc.h</a>
+- XMLNode\_\_ATTRIBUTE : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184babcc735431fa4199b0f7ebe3df45ca99a">xmldoc.h</a>
+- XMLNode\_\_clone() : <a href="xmldoc_8h.md#af06814fd150b2f9681ee0b182cff5288">xmldoc.h</a> , <a href="xmldoc_8c.md#af06814fd150b2f9681ee0b182cff5288">xmldoc.c</a>
+- XMLNode\_\_CLONE_ALL : <a href="xmldoc_8h.md#ab74ac56ab687317d89ad37db581f534fa34883e20446154c2734d1a397d4edb60">xmldoc.h</a>
+- XMLNode\_\_CLONE_ATTRIBUTE : <a href="xmldoc_8h.md#ab74ac56ab687317d89ad37db581f534fadeeec6c46436092330b1acce17a26b7d">xmldoc.h</a>
+- XMLNode\_\_CloneMode : <a href="xmldoc_8h.md#ab74ac56ab687317d89ad37db581f534f">xmldoc.h</a>
+- XMLNode\_\_Constructor() : <a href="xmldoc_8h.md#af212c35a17d4de7ff19129804ccdba04">xmldoc.h</a> , <a href="xmldoc_8c.md#af212c35a17d4de7ff19129804ccdba04">xmldoc.c</a>
+- XMLNode\_\_Constructor2() : <a href="xmldoc_8h.md#af3cdcab2bf08c585f7ae89045afd9fd6">xmldoc.h</a> , <a href="xmldoc_8c.md#af3cdcab2bf08c585f7ae89045afd9fd6">xmldoc.c</a>
+- XMLNode\_\_Create() : <a href="xmldoc_8c.md#acffb256c2a6716451e2935b08cb828bd">xmldoc.c</a> , <a href="xmldoc_8h.md#acffb256c2a6716451e2935b08cb828bd">xmldoc.h</a>
+- XMLNode\_\_Create2() : <a href="xmldoc_8h.md#a89eccae3da2d18f38f32fb72886a0f06">xmldoc.h</a> , <a href="xmldoc_8c.md#a89eccae3da2d18f38f32fb72886a0f06">xmldoc.c</a>
+- XMLNode\_\_Destroy() : <a href="xmldoc_8h.md#a983e13b392bccbee1021abd6b7876a52">xmldoc.h</a> , <a href="xmldoc_8c.md#a983e13b392bccbee1021abd6b7876a52">xmldoc.c</a>
+- XMLNode\_\_Destructor() : <a href="xmldoc_8h.md#aa5449a1862f6814f6100c1d616dc0c79">xmldoc.h</a> , <a href="xmldoc_8c.md#aa5449a1862f6814f6100c1d616dc0c79">xmldoc.c</a>
+- XMLNode\_\_dump() : <a href="xmldoc_8h.md#a33b5a3a7f01824f543efb8a2e7ad98fa">xmldoc.h</a>
+- XMLNode\_\_findNode() : <a href="xmldoc_8h.md#af5c3a0bf4d226ce3388d4ad5049a44ab">xmldoc.h</a> , <a href="xmldoc_8c.md#af5c3a0bf4d226ce3388d4ad5049a44ab">xmldoc.c</a>
+- XMLNode\_\_getName() : <a href="xmldoc_8c.md#ac78d3fc316e376c991a82e26f193ea53">xmldoc.c</a> , <a href="xmldoc_8h.md#ac78d3fc316e376c991a82e26f193ea53">xmldoc.h</a>
+- XMLNode\_\_getValue() : <a href="xmldoc_8h.md#a9f6ebcd5095ef5c64835bff6c3835287">xmldoc.h</a> , <a href="xmldoc_8c.md#a9f6ebcd5095ef5c64835bff6c3835287">xmldoc.c</a>
+- XMLNode\_\_insertNode() : <a href="xmldoc_8c.md#a8b8d6ce6b677fb884fc2ecf71a0d94fb">xmldoc.c</a> , <a href="xmldoc_8h.md#a8b8d6ce6b677fb884fc2ecf71a0d94fb">xmldoc.h</a>
+- XMLNode\_\_NODE : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184baf4c5a5fa113d0c3cf13e51c07d15534d">xmldoc.h</a>
+- XMLNode\_\_NodeType : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184b">xmldoc.h</a>
+- XMLNode\_\_parse() : <a href="xmldoc_8c.md#abaf4b367b59b52380b54c944ed425f90">xmldoc.c</a> , <a href="xmldoc_8h.md#abaf4b367b59b52380b54c944ed425f90">xmldoc.h</a>
+- XMLNode\_\_reorderContent() : <a href="xmldoc_8c.md#adb969bd1c04750d23691516c0a654bde">xmldoc.c</a> , <a href="xmldoc_8h.md#adb969bd1c04750d23691516c0a654bde">xmldoc.h</a>
+- XMLNode\_\_ROOT : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184badbfadf399207fd928ca7abd2c64c44bf">xmldoc.h</a>
+- XMLNode\_\_setName() : <a href="xmldoc_8h.md#aaa2c23abf0f440cfdf5cdaa4ea3493f0">xmldoc.h</a> , <a href="xmldoc_8c.md#aaa2c23abf0f440cfdf5cdaa4ea3493f0">xmldoc.c</a>
+- XMLNode\_\_setValue() : <a href="xmldoc_8c.md#a13dd3a77a8244ee755d86bbf30c8c86e">xmldoc.c</a> , <a href="xmldoc_8h.md#a13dd3a77a8244ee755d86bbf30c8c86e">xmldoc.h</a>
+- XMLNode\_\_swap() : <a href="xmldoc_8h.md#a9d9fbd613657c10dfec7a2b27bbbe48c">xmldoc.h</a> , <a href="xmldoc_8c.md#a9d9fbd613657c10dfec7a2b27bbbe48c">xmldoc.c</a>
+- XMLNode\_\_type() : <a href="xmldoc_8c.md#ab2618028f6ea359110aa6e2b90604bb1">xmldoc.c</a> , <a href="xmldoc_8h.md#ab2618028f6ea359110aa6e2b90604bb1">xmldoc.h</a>
+- XMLNode\_\_VALUE : <a href="xmldoc_8h.md#a77b3a9e89ab3f44418d513e422ab184ba4ad21b9cb57b3ce307ad13654c872df3">xmldoc.h</a>
+- XMLNode\_\_write() : <a href="xmldoc_8c.md#acc01a18d71844b4a9b3f73803f3450ab">xmldoc.c</a> , <a href="xmldoc_8h.md#acc01a18d71844b4a9b3f73803f3450ab">xmldoc.h</a>
+- XMLTokenizer\_\_ATTRIBUTE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5a166f0758540be626d6ebc6f2c7ab21eb">xmldoc.h</a>
+- XMLTokenizer\_\_Constructor() : <a href="xmldoc_8h.md#a9fc3816f7fd0dee395ac512d77a421ad">xmldoc.h</a> , <a href="xmldoc_8c.md#a9fc3816f7fd0dee395ac512d77a421ad">xmldoc.c</a>
+- XMLTokenizer\_\_Destructor() : <a href="xmldoc_8h.md#abaa2d9625980042d73c4cda857c4f69f">xmldoc.h</a> , <a href="xmldoc_8c.md#abaa2d9625980042d73c4cda857c4f69f">xmldoc.c</a>
+- XMLTokenizer\_\_DONE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5ac18fdad4ac373b212707f4e2ebad0edd">xmldoc.h</a>
+- XMLTokenizer\_\_EMPTY_NODE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5a30c2b783533ff30603fd1c6464ab4b2f">xmldoc.h</a>
+- XMLTokenizer\_\_Encoding : <a href="xmldoc_8h.md#aa5d1bb6cbd537293ccc23cbe090c4256">xmldoc.h</a>
+- XMLTokenizer\_\_init() : <a href="xmldoc_8c.md#a090478d7bdf8be57c2b002a01f89d8a0">xmldoc.c</a> , <a href="xmldoc_8h.md#a45a5d97dad060d59affa300a2d1474f1">xmldoc.h</a>
+- XMLTokenizer\_\_ISOLATIN1 : <a href="xmldoc_8h.md#aa5d1bb6cbd537293ccc23cbe090c4256a1c63fd884b88afdfdb4858cc4d9ad965">xmldoc.h</a>
+- XMLTokenizer\_\_ISOLATIN9 : <a href="xmldoc_8h.md#aa5d1bb6cbd537293ccc23cbe090c4256afa6e3f8d10c0132fe07811efae4e9445">xmldoc.h</a>
+- XMLTokenizer\_\_nextToken() : <a href="xmldoc_8h.md#ae86917930a62c406096333658aa8c5e7">xmldoc.h</a> , <a href="xmldoc_8c.md#ae86917930a62c406096333658aa8c5e7">xmldoc.c</a>
+- XMLTokenizer\_\_NODE_DONE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5afd96bfc4d811b8814771732135dbbddd">xmldoc.h</a>
+- XMLTokenizer\_\_readHeader() : <a href="xmldoc_8h.md#a339f65c4da9757075e594656f2f49830">xmldoc.h</a> , <a href="xmldoc_8c.md#a339f65c4da9757075e594656f2f49830">xmldoc.c</a>
+- XMLTokenizer\_\_readToken() : <a href="xmldoc_8c.md#ad48dd9dc8bf13108d1ed5c2d0883dbd4">xmldoc.c</a> , <a href="xmldoc_8h.md#ad48dd9dc8bf13108d1ed5c2d0883dbd4">xmldoc.h</a>
+- XMLTokenizer\_\_START_NODE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5a41901fb1bf85ff996b4afcd3207dc28e">xmldoc.h</a>
+- XMLTokenizer\_\_STOP_NODE : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5ad233690baf215779b4a1800a13b533ee">xmldoc.h</a>
+- XMLTokenizer\_\_SYNTAX_ERROR : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5acc1d095ce009291394b512df60dacf0e">xmldoc.h</a>
+- XMLTokenizer\_\_TEXT : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5a237ed6d77d76eed146e8e527cdbbd227">xmldoc.h</a>
+- XMLTokenizer\_\_Token : <a href="xmldoc_8h.md#af1dad427b690336ae7242fcb821b72b5">xmldoc.h</a>
+- XMLTokenizer\_\_UTF8 : <a href="xmldoc_8h.md#aa5d1bb6cbd537293ccc23cbe090c4256ae8756d1bc015e7b229929384786d2407">xmldoc.h</a>
+- XMLVerifySignature() : <a href="_v_h_q_xml_packager_8c.md#aad6a507701d27f2eb46a7b01af93a805">VHQXmlPackager.c</a>
+- XSDFileName : <a href="_v_h_q_xml_packager_8c.md#afe921b536a4959e0b6663802cc2a6d1f">VHQXmlPackager.c</a>
+- XSDFileName1\_ : <a href="_v_h_q_xml_packager_8c.md#ac3a26b88d55cebd24a003e7977ba9098">VHQXmlPackager.c</a>
+- XSDFileName\_ : <a href="_v_h_q_xml_packager_8c.md#a42f0d231d4209b42d7d390b6e4f61719">VHQXmlPackager.c</a>

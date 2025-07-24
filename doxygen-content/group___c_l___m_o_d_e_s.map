@@ -1,0 +1,4 @@
+<map id="Supported Contactless modes" name="Supported Contactless modes">
+<area shape="rect" id="node1" title="Defines for EMV_CTLS_TRANSRES_STRUCT::CL_Mode." alt="" coords="167,5,335,45"/>
+<area shape="rect" id="node2" href="$group___d_e_f___c_o_n_f___t_e_r_m.html" title="Definitions used for functions EMV_CT_SetTermData(), EMV_CT_GetTermData()" alt="" coords="5,13,119,38"/>
+</map>

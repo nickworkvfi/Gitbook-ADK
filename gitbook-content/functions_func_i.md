@@ -1,0 +1,76 @@
+---
+title: "ADK-Programmers-Guides: Data Fields - Functions"
+---
+
+ 
+
+### - i -
+
+- idleScreen() : <a href="classlibsdi_1_1_dialog.md#a83a548ca4c3d5b5a73b8ce20bd424d27">Dialog</a>
+- idx_list() : <a href="class_com_config.md#a94a140f49c60763246a9400fc2b149f4">ComConfig</a>
+- IfInfo() : <a href="struct_if_info.md#a627f75c45b1109650a55033d49a065dc">IfInfo</a>
+- image() : <a href="classvfigui_1_1_u_i_drawing.md#a09963d18152e78d8d9e62972d880b6f8">UIDrawing</a>
+- importResults() : <a href="classlibsdi_1_1_sdi_base.md#a7ffb7b7b3ae189a49b5eb16b605bb574">SdiBase</a> , <a href="classlibsdi_1_1_sdi_cmd.md#a9490be5475acb6b165642dd2c3d1caf2">SdiCmd</a>
+- IniFile() : <a href="classvfisysinfo_1_1_ini_file.md#a0dc66141b6814337c25dc993adf1b340">IniFile</a>
+- initSize() : <a href="classvfisdi_1_1_t_l_v.md#a596d0da8a3f24918e1da061ab58e1ab3">TLV</a>
+- initTrigger() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a4804404b7a2e0628a5330ade572be106">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#aa2d78ce2a636e98467c816650357cf28">TransactionDataProvider</a>
+- installSponsorCert() : <a href="classlibsdi_1_1_s_d_i.md#aa4ea51ced9b2affc12687ab2f03959bb">SDI</a>
+- instance() : <a href="class_auth.md#a34a7f34048a76d137e09e234c99a76d5">Auth</a>
+- invoke() : <a href="structvficpl_1_1_cp_base_fn_imp.md#a0b57f4ddc15b08754d1cd2058f6defd1">CpBaseFnImp< R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_base_fn_imp_3_01_r_01_4.md#aa0aaf386ce1cf3e1f959e14c31743c8a">CpBaseFnImp< R ></a> , <a href="structvficpl_1_1_cp_base_fn_imp_3_01_r_00_01_a1_01_4.md#af13ada5f7e9cbee1d319e91c22ecbd16">CpBaseFnImp< R, A1 ></a> , <a href="structvficpl_1_1_cp_base_fn_imp_3_01_r_00_01_a1_00_01_a2_01_4.md#a58ff4184bf8340a898359eac8706a2b5">CpBaseFnImp< R, A1, A2 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp.md#ae8c596f6d6e44308f093f3edcc338eca">CpFreeFnImp< F, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_01_4.md#adb93e0de18b505a098545ea8b11ee80f">CpFreeFnImp< F, R ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_01_4.md#a3a2b24a848c324a4e6489481009348d0">CpFreeFnImp< F, R, A1 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_00_01_a2_01_4.md#a7ae568bafc8bd17d5829e1e3752d0772">CpFreeFnImp< F, R, A1, A2 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp.md#ae8c596f6d6e44308f093f3edcc338eca">CpMemberFnImp< M, T, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_01_4.md#adb93e0de18b505a098545ea8b11ee80f">CpMemberFnImp< M, T, R ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_01_4.md#a3a2b24a848c324a4e6489481009348d0">CpMemberFnImp< M, T, R, A1 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_00_01_a2_01_4.md#a7ae568bafc8bd17d5829e1e3752d0772">CpMemberFnImp< M, T, R, A1, A2 ></a>
+- InvokeRequest() : <a href="structvficpl_1_1_invoke_request.md#aa4ef77951d87f5230a6927769c56c59d">InvokeRequest</a>
+- InvokeResult() : <a href="structvficpl_1_1_invoke_result.md#a69996c3653b00e02ecfdfc6b43ca9c9a">InvokeResult</a>
+- IPC() : <a href="classvfiipc_1_1_i_p_c.md#a8ad54b08db43652b4d971a7ae17e1634">IPC</a>
+- ipc_GetVersion() : <a href="classvfiipc_1_1_i_p_c.md#adbb74a0c7649adcd2699a37099e67407">IPC</a>
+- IpcServer() : <a href="class_ipc_server.md#a7477d0bb89e2b8aaa285f8e6525c2051">IpcServer< Service ></a>
+- is_archive() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#afb49d022eb8d0e551f9c5d57872086eb">BaseNode</a>
+- is_bundle() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a6c8f1769f4874c20b3dc5e7f22169c23">BaseNode</a>
+- is_changeset() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a42def0c1678d16515df9b441fde73ba7">BaseNode</a>
+- is_control() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#ad01c8a8ff3a9536ea1adbab2ddaf15f4">BaseNode</a>
+- is_csd() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a40036e92a96400bbf76bacb62fc97ced">BaseNode</a>
+- is_differential() : <a href="classpackmanlib_1_1node_1_1_changeset.md#a6c5853cf5dd2015af4bf1a3941f90a9a">Changeset</a> , <a href="classpackmanlib_1_1node_1_1_dlfile.md#a6c5853cf5dd2015af4bf1a3941f90a9a">Dlfile</a>
+- is_dlfile() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a6327b157864352a36826a505ee8870ad">BaseNode</a>
+- is_inf() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a0aa49779f6dac40e366fb98ec8ff311c">BaseNode</a>
+- is_manifest() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a03b8f2bf011d738d9c66f0d4488a03db">BaseNode</a>
+- is_meta() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a2d50a1b2388573865420bb7a54cf797b">BaseNode</a>
+- is_package() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a9cf4df8f61cbc1db2e463deb9956adda">BaseNode</a>
+- is_server() : <a href="classvfiipc_1_1_i_p_c.md#acdfdf57c1c76dcccb680e6dabdfdf59e">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#acdfdf57c1c76dcccb680e6dabdfdf59e">TLS</a>
+- is_signature() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a59551a137c22107950f7fe2b4a20e247">BaseNode</a>
+- is_upfile() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#acf1c247a2b5b619a761649da45f9d974">BaseNode</a>
+- is_vaos() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a9782f56d82c2111338c5e3d41afdbcc2">Platform</a>
+- is_vos1() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a616bcb5e43af476248151268b4d3ae5b">Platform</a>
+- is_vos2() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a6bc3f593e67e76a67cdcd39fe2481532">Platform</a>
+- is_vos3() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a1c1ced2d6dd7b99bdc60a670bab75c33">Platform</a>
+- isArray() : <a href="classvfiipc_1_1_j_s_object.md#aefe7cc24045c3560d7550ba662375ce4">JSObject</a>
+- isAvailable() : <a href="classcom__adksec__cmd_1_1_c_transaction_data.md#af46b3cdc245b72805647d3f73b93fdb5">CTransactionData</a>
+- isBarcodeReaderSupported() : <a href="classvficpl_1_1_environment_data_provider.md#a6a85721c09b0cc473f4e448ae095809a">EnvironmentDataProvider</a>
+- isBool() : <a href="classvfiipc_1_1_j_s_object.md#a0da75049a5cbd55b8b4993a21faa3e92">JSObject</a>
+- isCardreaderError() : <a href="classvfisdi_1_1_s_d_i_client.md#a3c57f5639fe8862fd11f5d450ac97f44">SDIClient</a>
+- isConnectionThread() : <a href="classm_a_d_k___p_p___prot.md#aa2bd5319e2acc8c8de0b9f1c1395e77c">mADK_PP_Prot</a>
+- isDataError() : <a href="classvfisdi_1_1_s_d_i_client.md#ad536701f05e606af51d8410059c7810e">SDIClient</a>
+- isDCCSupported() : <a href="classvficpl_1_1_environment_data_provider.md#a5f824575cb5ae1851d175037ff057ec2">EnvironmentDataProvider</a>
+- isDisplayError() : <a href="classvfisdi_1_1_s_d_i_client.md#a191f55dfa11519913e916ce3ab6c0af8">SDIClient</a>
+- isEMVError() : <a href="classvfisdi_1_1_s_d_i_client.md#a7c26aa19b6e04325b0c979b7df652efc">SDIClient</a>
+- isEnabled() : <a href="classsdi_1_1_timer.md#a56722b6f1c22da04885bc9853148bb71">Timer</a>
+- isFull() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#ad753310e7ebeac80873cea6766ad1e60">SafeBuffer</a>
+- isGenericError() : <a href="classvfisdi_1_1_s_d_i_client.md#a51fd20d60adc360929804ef833ef7fb3">SDIClient</a>
+- isMainConnectionThread() : <a href="classm_a_d_k___p_p___prot.md#ab109345afd11af36903830d8d5e06f75">mADK_PP_Prot</a>
+- isNFCError() : <a href="classvfisdi_1_1_s_d_i_client.md#ab4b3562da020e1880ea2b2d3055bddf0">SDIClient</a>
+- isNull() : <a href="classvfiipc_1_1_j_s_object.md#abada6dfb33f4cbafe1e443a5cf8dc8d0">JSObject</a>
+- isNumber() : <a href="classvfiipc_1_1_j_s_object.md#a1680baf2428512b1a45060f52f3ade28">JSObject</a>
+- ISO8583_MSG() : <a href="class_i_s_o8583___m_s_g.md#ab6770578ee33a483298f19fdf22e8bf4">ISO8583_MSG</a>
+- isObject() : <a href="classvfiipc_1_1_j_s_object.md#a13b605b2c9876ab317e21637b8646def">JSObject</a>
+- isOpen() : <a href="classlibsdi_1_1_sdi_crypt.md#a002ed331862370f434b7befe331b5a0b">SdiCrypt</a>
+- isOverflow() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#a08e7d9ecf7b3350a5dd3b698bef94bb8">SafeBuffer</a>
+- isPEDError() : <a href="classvfisdi_1_1_s_d_i_client.md#a5ad36cedaba92d0b6d7ca1a950214b2d">SDIClient</a>
+- isPluginError() : <a href="classvfisdi_1_1_s_d_i_client.md#ad4b7eaad40b319fc75034c34a3a7947b">SDIClient</a>
+- isPOSSupported() : <a href="classvficpl_1_1_environment_data_provider.md#a7ab43f24f9198fdf7c52631dcd0d5dd7">EnvironmentDataProvider</a>
+- isPrinterError() : <a href="classvfisdi_1_1_s_d_i_client.md#aaf8dd772eea76e93b4fd5e99367d2309">SDIClient</a>
+- isPrintingAllowed() : <a href="classvficpl_1_1_api.md#a2fd68f6d834f0281f47cac60330b7cc5">Api</a>
+- isReadable() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a542ca0672a5dce96acbb98e170b4d4a3">CTransactionValue</a>
+- isSECError() : <a href="classvfisdi_1_1_s_d_i_client.md#aaf9bb8030f1c74783b4e2ddc3a1d2534">SDIClient</a>
+- isString() : <a href="classvfiipc_1_1_j_s_object.md#abc9dc0708ec1aae2309621664fa8e5a4">JSObject</a>
+- isSystemError() : <a href="classvfisdi_1_1_s_d_i_client.md#a9f43219565da632162ba70eb1f842e5f">SDIClient</a>
+- isTimedOut() : <a href="classsdi_1_1_timer.md#a65d221db327e04216437a41d77dfc7b6">Timer</a>
+- isVASError() : <a href="classvfisdi_1_1_s_d_i_client.md#a239e5d8dd5d0a8c530d917ef8952c8b7">SDIClient</a>
+- isVCLError() : <a href="classvfisdi_1_1_s_d_i_client.md#a65d49e7abd2bb202cb65cd1fc4fa3c1a">SDIClient</a>
+- isWritable() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a85e799a990b59dd38f79cd2021e6d9c4">CTransactionValue</a>

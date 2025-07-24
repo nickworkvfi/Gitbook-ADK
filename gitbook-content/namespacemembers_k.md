@@ -1,0 +1,68 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+Here is a list of all namespace members with links to the namespace documentation for each member:
+
+### - k -
+
+- KCV : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aff9dfc983d63e8e734c953829d5db5f5">vfisdi</a>
+- KEEP_IN_BACKGROUND : <a href="namespacevfimac.md#a3d1d0138ae66b9a9e03ae518de7ecf63a365b0d10413f98eb889815324f8baa8c">vfimac</a>
+- KEK_FLAG : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3677d959091614d8176d7ce6b5fba6e1">vfisdi</a>
+- KEY_ACTION : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ae537a2f935f8da27d63b3d5149e0969a">vfisdi</a>
+- KEY_CODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a8963a78429587c0a9f1785c16fa40941">vfisdi</a>
+- KEY_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aea863d5c0bf42bf5a17344c6ffd25e1b">vfisdi</a>
+- KEY_RELEVANT_INFO : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a459aa224d6c75c306f1e53a3f5751e70">vfisdi</a>
+- KEY_SERIAL_NUMBER : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a9121dcac23b65a97e2a534c0ce71e4a0">vfisdi</a>
+- KEY_SET_ID : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a04bb62b7bf4014b2cc7458cd78152e1e">vfisdi</a>
+- KEY_TYPE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a44496a73681830274c7dda40ec86172b">vfisdi</a>
+- KEY_TYPE\_\_INVALID_E : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaa2678cce73d51c8593a4b32f06e863f6">com_verifone_host</a>
+- KEY_TYPE_ACQ_SESSION_KEYS : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaf79e0ff7580875d9bdcf4d10225779c7">com_verifone_host</a>
+- KEY_TYPE_ACQUIRER_MK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba478004f6fb9430b21c56edae85c50a90">com_verifone_host</a>
+- KEY_TYPE_CERT : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba3a40bbfe0fae7cd1418c9eeb94541ebf">com_verifone_host</a>
+- KEY_TYPE_DDK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba06ba2d0d2a433b018b9bce5a7b703ed6">com_verifone_host</a>
+- KEY_TYPE_DEK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba93b5ecc6254c9553998b5b503c5565c2">com_verifone_host</a>
+- KEY_TYPE_DELETE_ALL_CUST_KEYS : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaa7c42d56623245fd2f3f0befa0cb47f6">com_verifone_host</a>
+- KEY_TYPE_DELETE_ALL_KEYS : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba331d442daf2746bf9d60b3709ec314c3">com_verifone_host</a>
+- KEY_TYPE_DELETE_SYS_KEY : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba9a7f2b8cd3918549fa78db39c4f93a68">com_verifone_host</a>
+- KEY_TYPE_DIRECT_AUTHEX_ENC : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba9edf634d7c59ddb63f033e7f91dc7771">com_verifone_host</a>
+- KEY_TYPE_DIRECT_AUTHEX_SYSK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaa50da1d301fd48e8e21e10ba499737d5">com_verifone_host</a>
+- KEY_TYPE_DIRECT_CUSTOM_ASYM : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba95a6b8bab845cce0b7d7ea0fc6cabb3f">com_verifone_host</a>
+- KEY_TYPE_DIRECT_CUSTOM_ASYM_SYSK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaa2f6a2eeb244c7f15e35d4962b0d651c">com_verifone_host</a>
+- KEY_TYPE_DIRECT_MK_ENC : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba5ba1a7e32fb7aff0a6c8595f3748b418">com_verifone_host</a>
+- KEY_TYPE_DIRECT_MK_PLAIN : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba2623446657a3abaaa477ae31aae03538">com_verifone_host</a>
+- KEY_TYPE_DIRECT_SYSK_ENC : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba5692ffc7bfa4e0a25d8dc3483ec353f9">com_verifone_host</a>
+- KEY_TYPE_DIRECT_SYSK_PLAIN : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbadb06bfd0ecb8cbef74ed51861c2aecd4">com_verifone_host</a>
+- KEY_TYPE_DUKPT : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba7d6a499d7761faab2f2af90b7adc6f3e">com_verifone_host</a>
+- key_type_e : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cb">com_verifone_host</a>
+- KEY_TYPE_ENC_KI_FMT_0 : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbae6cfdb89bd03c0a2199f28e16fec0ee7">com_verifone_host</a>
+- KEY_TYPE_ENC_KI_FMT_1 : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbabc5fb023d8d677e74d3b48545563a952">com_verifone_host</a>
+- KEY_TYPE_ENC_KI_FMT_2 : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbacbe0d7ac6481e5ab5ba76f9743313374">com_verifone_host</a>
+- KEY_TYPE_ENC_PPASN : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba87086d37574db21a706727ea790a3c08">com_verifone_host</a>
+- KEY_TYPE_ENC_PPID : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba3bfba7d3da9d84c4e5a17dbb531a2264">com_verifone_host</a>
+- KEY_TYPE_KEK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba768d13fac4b43aa792f2b529636ee45f">com_verifone_host</a>
+- KEY_TYPE_KVC_KEK1 : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba824c4c6708c37969db4828faf327aca9">com_verifone_host</a>
+- KEY_TYPE_KVC_KIA : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbae255a9df4e1aaefbc9366de3f8065d60">com_verifone_host</a>
+- KEY_TYPE_MGK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba793c57ed813cdc0fcadd9a1e5d175bbc">com_verifone_host</a>
+- KEY_TYPE_MVK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba7221a6157a4a90491547f38975a9ebcf">com_verifone_host</a>
+- KEY_TYPE_PPK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba508471c3ad9204286222065b5adb9f23">com_verifone_host</a>
+- KEY_TYPE_SEC_ACQ_KI : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbaa1b0414e11ad93eea0ed683e5f71817f">com_verifone_host</a>
+- KEY_TYPE_SEC_ACQ_MK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba72ac58fd195ecf7c7217bea4a6ff2a23">com_verifone_host</a>
+- KEY_TYPE_SPONSOR_KI : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba09f2a46c0323886f3c0972645d766899">com_verifone_host</a>
+- KEY_TYPE_SPONSOR_MK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbab35dea27712284a2c1a7304978a22b29">com_verifone_host</a>
+- KEY_TYPE_SPONSOR_PK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba703240f5f7a5e5250fb0c500718e4ae7">com_verifone_host</a>
+- key_type_t : <a href="namespacecom__verifone__host.md#a2418ec606f68970a9ed5ddf6ede58a2f">com_verifone_host</a>
+- KEY_TYPE_TCU_PK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cbafde71a7e88381351a90819d189395595">com_verifone_host</a>
+- KEY_TYPE_TMK : <a href="namespacecom__verifone__host.md#ab6420af507afd2c6a57f725ad69d11cba97fca93a5b7ec4aedee7149073db751e">com_verifone_host</a>
+- KEYBOARD_TYPE_ARABIC : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05a12010cf06ac4d0a0f5234827c518b292">vfisysinfo</a>
+- KEYBOARD_TYPE_EBS100 : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05a978234c216689c385c8f440e0582321f">vfisysinfo</a>
+- KEYBOARD_TYPE_RNIB : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05a2c89dec7f1e43a3b353030718c27deea">vfisysinfo</a>
+- KEYBOARD_TYPE_STANDARD : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05afae94da55d3356c5333f374b839a7d8c">vfisysinfo</a>
+- KEYBOARD_TYPE_UNKNOWN : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05a6207fa417a81b4d72b69d00559f2ad2c">vfisysinfo</a>
+- keyboardType : <a href="namespacevfisysinfo.md#a7eb335c3825953082e42dc209ff04c05">vfisysinfo</a>
+- KEYPAD_LED : <a href="namespacevfisysinfo.md#ab6831a7d06c0a2bc69f9b024f6445a80a27f5f55a7254ef7dbb9907f51ef0ddc6">vfisysinfo</a>
+- km : <a href="namespacevficom_1_1cmdparam_1_1out_1_1wlan__scan_1_1json__keys.md#acb03137853de2d38c2c2a2154fbb21eb">vficom::cmdparam::out::wlan_scan::json_keys</a>
+- KSN_E2E : <a href="namespacevfisdi.md#add4280440188ede2e1f6ea4397df6cfaa925e7fc81e7e3a9a1b62755f2ffa9b88">vfisdi</a>
+- KSN_PED : <a href="namespacevfisdi.md#add4280440188ede2e1f6ea4397df6cfaa5ce820776ed5079963373c85e7fe92cd">vfisdi</a>
+- KSN_SRED : <a href="namespacevfisdi.md#add4280440188ede2e1f6ea4397df6cfaa8da62d6be2f10ca11bd06ad14e8e99b9">vfisdi</a>
+- KSNSelection : <a href="namespacevfisdi.md#add4280440188ede2e1f6ea4397df6cfa">vfisdi</a>

@@ -1,0 +1,68 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+Here is a list of all namespace members with links to the namespace documentation for each member:
+
+### - t -
+
+- TEC_EMV_AFTER_NFC_ISO : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bead8a562ba5a0fbbee4dfd7a0ab9fd70d9">vfisdi</a>
+- TEC_EMV_CTLS_TIMEOUT_AFTER_VAS : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea11b813b75ee51247f6e4b59f6c84531e">vfisdi</a>
+- TEC_MSR_AFTER_CTLS_FAIL : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761beabd80be2bceff078efa3094409ad32316">vfisdi</a>
+- TEC_NFC_DUTY_CYCLE_OFF : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea66c942a1e0be10a882638a922dcd35cd">vfisdi</a>
+- TEC_NFC_ENABLE : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea913c0175e7ec8559b6636512441431c5">vfisdi</a>
+- TEC_NO_POWERON : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761beac29f4f23c96dab076c0ce60dbe7028ff">vfisdi</a>
+- TEC_POWERON_AFTER_CTLS_MSR_DEACTIVATION : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea171be9622c713ba08cd88a38eb7ee089">vfisdi</a>
+- TEC_PURE_CARD_DETECTION : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea6c864955113d8690594c7623e1e7793b">vfisdi</a>
+- TEC_SEL_OPTIONS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a14a904f4ea57b1c7f9c9bfe15fd7a4e6">vfisdi</a>
+- TEC_TECH_A : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1ad8dba59893fa2e053b734834ed82fdd6">vfisdi</a>
+- TEC_TECH_AB : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1abedced9623cb00b03292b707ae06c90b">vfisdi</a>
+- TEC_TECH_B : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1a9f17e65a448fecd639f516d8512894ae">vfisdi</a>
+- TEC_TECH_F_DEP : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1a2422294cb27dc2347ecc32d39fa0960a">vfisdi</a>
+- TEC_TECH_FELICA : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1acbe7e066490c7272252017876fde5372">vfisdi</a>
+- TEC_VAS_DONT_DECRYPT : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761beab2f7f90c89f939aebac6677c4a0b3d00">vfisdi</a>
+- TEC_VAS_ENABLE : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761bea5cba0b21c58bba77fa9debb9e89c40b6">vfisdi</a>
+- TEC_VAS_HANDLE_LED_BUZZ : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761beae5ab39ceb86ff5183c56237c44260b65">vfisdi</a>
+- TECH_TYPE_ISO7816 : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dca239f60140c3e28771a22f59c83fed4e8">vficpl</a>
+- TECH_TYPE_MIFARE_CLASSIC : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dca5dd330b60714e956ae967b6a1e021f0e">vficpl</a>
+- TECH_TYPE_MIFARE_ULTRALIGHT : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dca6d218ee88f58c18c28310d00b57993f9">vficpl</a>
+- TECH_TYPE_MIN_VALUE : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dcac5a65639585b536f37777f79406af14d">vficpl</a>
+- TECH_TYPE_UNDEFINED : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dca4ccc6b41ad2600ced68dfeb148b23cf2">vficpl</a>
+- TechnologyType : <a href="namespacevficpl.md#a1c203ac3c282fe7696ce695935e2b5dc">vficpl</a>
+- TECNFC : <a href="namespacevfisdi.md#a7517b629597bd1d709d208633e0c15b1">vfisdi</a>
+- TECSEL_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3b2864363762b4f011df9d22da9656eb">vfisdi</a>
+- TECStartOptions : <a href="namespacevfisdi.md#af8fdc1631dd205cd2006934477f761be">vfisdi</a>
+- TEMP_CARD_ENTRY_VALUE_DEACT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a21898fcfeae0c3d9e2be91f32b988999">vfisdi</a>
+- TEXT_BEEP : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a6e9a64db3ab02b89b27785eae06df08e">vfisdi</a>
+- TEXT_LANGUAGE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a0f2a6e8ae4ab5b23e829d561f22a967b">vfisdi</a>
+- timeout : <a href="namespacevficom_1_1cmdparam_1_1in_1_1ping.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::ping</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1sim__access.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::sim_access</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__off.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::stk_off</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__on.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::stk_on</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__status.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::stk_status</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::stk_write</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1ussd__status.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::ussd_status</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1ussd__write.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::cmdparam::in::ussd_write</a> , <a href="namespacevficom_1_1event_1_1stk.md#a2b4a0dc4f4178cae0b1a5abb7d0122de">vficom::event::stk</a>
+- TIMEOUT : <a href="namespacevficom_1_1status.md#ae7ba2f563df916ce3ce6be92a19d2bbcaad9dee005a3d0f9137b2ac1e0869f89b">vficom::status</a>
+- TIMEOUT_SEC : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a40d4b0518ba79e8fb70f8284615f806a">vfisdi</a>
+- TIMER_MULTIPLIER : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a826bd7e2c9e7dd88cf61481fa90ab772">vfisdi</a>
+- timerHandle : <a href="namespacevfisyspm.md#ae4336e421149646b6ef2394f1c5118a3">vfisyspm</a>
+- timerNotificationCallback : <a href="namespacevfisyspm.md#a1236e50ed89f0acbdce14dec534b6361">vfisyspm</a>
+- tmp_dir() : <a href="namespacesdi_1_1filesystem.md#a9bc32456ce574dce7e0dbee9f49ed5cd">sdi::filesystem</a>
+- total_items : <a href="namespacevficom_1_1event_1_1stk_1_1menu__selection.md#afad542aa2df7161acbc7ab01d5dfe664">vficom::event::stk::menu_selection</a> , <a href="namespacevficom_1_1event_1_1stk_1_1select__item.md#afad542aa2df7161acbc7ab01d5dfe664">vficom::event::stk::select_item</a>
+- TOUCH_COORDINATES : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a674b3872b2142938c985307a7d7ea76e">vfisdi</a>
+- track2tobin() : <a href="namespacesdi.md#ad7b26a90792d2c2e5486941ed7b4dd7c">sdi</a>
+- TransactionOriginator : <a href="namespacevficpl.md#a6c410aee3c873fc45fe7bccf53c6b8d5">vficpl</a>
+- TransactionResult : <a href="namespacevficpl.md#affde3f05c6a4a5092ccd40ec3e830d43">vficpl</a>
+- TransactionType : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58">vficpl</a>
+- transmitted : <a href="namespacevficom_1_1cmdparam_1_1out_1_1ping.md#ab3f37340f5eeeabadac4fca46e9877c9">vficom::cmdparam::out::ping</a>
+- TRX_RESULT_CANCELLED : <a href="namespacevficpl.md#affde3f05c6a4a5092ccd40ec3e830d43a838dd830728627f70f8214d27d5c20ce">vficpl</a>
+- TRX_RESULT_MIN_VALUE : <a href="namespacevficpl.md#affde3f05c6a4a5092ccd40ec3e830d43abbadbf8eba95d9a193040157896529c5">vficpl</a>
+- TRX_RESULT_SUCCESS : <a href="namespacevficpl.md#affde3f05c6a4a5092ccd40ec3e830d43a9d468b203514876d033fb5d0897719f4">vficpl</a>
+- TRX_RESULT_UNDEFINED : <a href="namespacevficpl.md#affde3f05c6a4a5092ccd40ec3e830d43aa728f7be1f30330de91724598e48c351">vficpl</a>
+- TRX_TYPE_CASH_ADVANCE : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58aff0710c0e5dd208cccfd86da620a99e3">vficpl</a>
+- TRX_TYPE_CASH_PAYMENT : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58afe81d94cb9377bccf3c1412d602018a4">vficpl</a>
+- TRX_TYPE_CASHBACK : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a6f7ff053755d76095c8522e545d8b1c9">vficpl</a>
+- TRX_TYPE_DEFERRED_PAYMENT : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58aec2452e792b76e52b9927dc91447d24b">vficpl</a>
+- TRX_TYPE_DEFERRED_PAYMENT_COMPLETION : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a1e62629897315391e5de35fc048375b1">vficpl</a>
+- TRX_TYPE_MIN_VALUE : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58ac9cf59a5cdefcf034807f0f020df4f2a">vficpl</a>
+- TRX_TYPE_PAYMENT : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58af270ea53198f751c6402d0a8d90cca55">vficpl</a>
+- TRX_TYPE_PRE_AUTHORISATION : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a77669dabacaa14496ba6a2201700ee79">vficpl</a>
+- TRX_TYPE_PRE_AUTHORISATION_COMPLETION : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a4895cde5668e8f442bd2af653a99d574">vficpl</a>
+- TRX_TYPE_REFUND : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a22871ee1fd2d70ab6c6ac05d02ab8a27">vficpl</a>
+- TRX_TYPE_REVERSAL : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58ae6bbf21e449163eef511de208b8d345a">vficpl</a>
+- TRX_TYPE_UNDEFINED : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58a1ba076296397909c41255f4114341d79">vficpl</a>
+- TRX_TYPE_VOID : <a href="namespacevficpl.md#aa7a2e64697569804f14626bbb2649a58add9aeec252d4fd2d5faf318b8044c079">vficpl</a>

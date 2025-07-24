@@ -1,0 +1,27 @@
+var group___a_d_k___l_i_m_i_t_s =
+[
+    [ "EMV_ADK_BCD_AMOUNT_LEN", "group___a_d_k___l_i_m_i_t_s.html#gad5cac2b5abf312efe65c8dba287b7e33", null ],
+    [ "EMV_ADK_BCD_COUNTRY_CURRENCY_CODE_LEN", "group___a_d_k___l_i_m_i_t_s.html#gac3556a77138a4d38cd8f4adc3ed5e9dc", null ],
+    [ "EMV_ADK_BCD_DATE_OR_TIME_LEN", "group___a_d_k___l_i_m_i_t_s.html#ga6e8567321ccb6b0e0ead17f9e227ef24", null ],
+    [ "EMV_ADK_BIN_AMOUNT_LEN", "group___a_d_k___l_i_m_i_t_s.html#ga738e39b250b1635be85fbbd117df6c47", null ],
+    [ "EMV_ADK_CHECKSUM_ASCII_SIZE", "group___a_d_k___l_i_m_i_t_s.html#ga9b9c110ea297c64e70f6847acd351032", null ],
+    [ "EMV_ADK_CHECKSUM_SIZE", "group___a_d_k___l_i_m_i_t_s.html#ga32efd5748824ecdc236506ff0b7d5a38", null ],
+    [ "EMV_ADK_CHECKSUM_SIZE_NEW", "group___a_d_k___l_i_m_i_t_s.html#gad1f3a82ce1270c4cdef0688274514219", null ],
+    [ "EMV_ADK_DEFAULT_AIDSUPP", "group___a_d_k___l_i_m_i_t_s.html#ga451b76d7c9854647febe4f89c53fa57a", null ],
+    [ "EMV_ADK_IAD_MAX_LEN", "group___a_d_k___l_i_m_i_t_s.html#gafe3c054e399fe8a12f67d8201cc67db5", null ],
+    [ "EMV_ADK_LIMIT_AIDSUPP", "group___a_d_k___l_i_m_i_t_s.html#ga1de1c8d68d575ee04c4f271f4b075e99", null ],
+    [ "EMV_ADK_MAX_AIDSUPP", "group___a_d_k___l_i_m_i_t_s.html#ga5049b813ed8f9aa33e607835e30a176c", null ],
+    [ "EMV_ADK_MAX_CHP_TO_MSR", "group___a_d_k___l_i_m_i_t_s.html#ga8985e58be6c1a0568bcf5dc777ff2e37", null ],
+    [ "EMV_ADK_MAX_CVM", "group___a_d_k___l_i_m_i_t_s.html#ga7d096e27feca56f2d8d04c0c7a24dbe9", null ],
+    [ "EMV_ADK_MAX_CVM_LIST_LEN", "group___a_d_k___l_i_m_i_t_s.html#ga46764397b0b65ae83c015e4d1f570cf6", null ],
+    [ "EMV_ADK_MAX_DOM_CHP", "group___a_d_k___l_i_m_i_t_s.html#gaa286e1585fdb397b7731314abb2fe690", null ],
+    [ "EMV_ADK_MAX_FB_MSR", "group___a_d_k___l_i_m_i_t_s.html#ga32af480e45f8fd565ef45241cda5864c", null ],
+    [ "EMV_ADK_MAX_LANG", "group___a_d_k___l_i_m_i_t_s.html#ga574c13b5401ae9f6875d2becafc73337", null ],
+    [ "EMV_ADK_MAX_LG_DDOL", "group___a_d_k___l_i_m_i_t_s.html#gaa08617397087858bb1ca9c3a7830bb12", null ],
+    [ "EMV_ADK_MAX_LG_TDOL", "group___a_d_k___l_i_m_i_t_s.html#ga35fcdb8dd0661988e68a90ced11a8db6", null ],
+    [ "EMV_ADK_MAX_PAN_LANGUAGES", "group___a_d_k___l_i_m_i_t_s.html#ga0b43710811c6f8b8aa7110abdf771269", null ],
+    [ "EMV_ADK_MAX_PRIO_APP", "group___a_d_k___l_i_m_i_t_s.html#gab820d19be0790eb2e15c5388ba3903fc", null ],
+    [ "EMV_ADK_SCRIPT_RESULT_LEN", "group___a_d_k___l_i_m_i_t_s.html#gaf9bd4a2a5e99c9e5564c55204280a9f8", null ],
+    [ "EMV_ADK_SCRIPT_RESULT_MAX", "group___a_d_k___l_i_m_i_t_s.html#ga1ec5682c80c6a268dd18a054c231c5e7", null ],
+    [ "EMV_ADK_VERSION_ASCII_SIZE", "group___a_d_k___l_i_m_i_t_s.html#ga94c28d1831d5df59ec7e7e44b7f39528", null ]
+];

@@ -1,0 +1,169 @@
+---
+hidden: true
+title: fps.h
+---
+
+<a href="fps_8h.md">Go to the documentation of this file.</a>
+
+``` cpp
+ 1 #ifndef __FPS_H__
+ 2 #define __FPS_H__
+ 3 
+ 4 #include <stdint.h>
+ 5 #include <string>
+ 6 #include <vector>
+ 7 
+ 8 #if (defined _VRXEVO || defined _WIN32)
+ 9 # if defined VFI_FPS_SHARED_EXPORT
+ 10 # define DllSpec __declspec(dllexport)
+ 11 # elif defined VFI_FPS_STATIC_EXPORT || defined _WIN32 // dllimport not required for Windows
+ 12 # define DllSpec
+ 13 # else
+ 14 # define DllSpec __declspec(dllimport)
+ 15 # endif
+ 16 #elif defined __GNUC__ && defined VFI_FPS_SHARED_EXPORT
+ 17 # define DllSpec __attribute__((visibility ("default")))
+ 18 #else
+ 19 # define DllSpec
+ 20 #endif
+ 21 
+ 22 #if defined VRX_IMPORT
+ 23 # define DllSpec __declspec(dllimport)
+ 24 #endif
+ 25 
+ 26 namespace vfifps
+ 27 {
+ 30  enum FPS_RES_Type
+ 31  {
+ 33  FPS_RES_SUCCESS = 0,
+ 35  FPS_RES_FAILURE = -1,
+ 37  FPS_RES_NO_PROP = -2,
+ 39  FPS_RES_INFO_NOT_READ = -3
+ 40  };
+ 41 
+ 44  enum FPS_CB_Type
+ 45  {
+ 47  FPS_CB_DATA,
+ 49  FPS_CB_ERROR,
+ 51  FPS_CB_INFO_BACKWARD_MOVEMENT,
+ 53  FPS_CB_INFO_BAD_QUALITY,
+ 55  FPS_CB_INFO_CALIB_START,
+ 57  FPS_CB_INFO_CENTER_AND_PRESS_HARDER,
+ 59  FPS_CB_INFO_CLEAN_SENSOR,
+ 61  FPS_CB_INFO_CONSOLIDATION_FAIL,
+ 63  FPS_CB_INFO_CONSOLIDATION_SUCCEED,
+ 65  FPS_CB_INFO_ENROLL_START,
+ 67  FPS_CB_INFO_ENROLL_PROGRESS,
+ 69  FPS_CB_INFO_FINGER_DETECT_START,
+ 71  FPS_CB_INFO_FINGERLEFT,
+ 73  FPS_CB_INFO_FINGERRIGHT,
+ 75  FPS_CB_INFO_FINGERTOP,
+ 77  FPS_CB_INFO_FINGERBOTTOM,
+ 79  FPS_CB_INFO_GOOD_IMAGE,
+ 81  FPS_CB_INFO_GUI_FINISH,
+ 83  FPS_CB_INFO_GUI_FINISH_DETECT_START,
+ 85  FPS_CB_INFO_GUI_FINISH_FAIL,
+ 87  FPS_CB_INFO_GUI_FINISH_SUCCEED,
+ 89  FPS_CB_INFO_IMAGE_PROCESSED,
+ 91  FPS_CB_INFO_JOINT_DETECTED,
+ 93  FPS_CB_INFO_KEEP_FINGER,
+ 95  FPS_CB_INFO_NO_FINGER,
+ 97  FPS_CB_INFO_PROCESSING_IMAGE,
+ 99  FPS_CB_INFO_PUT_FINGER,
+ 101  FPS_CB_INFO_PUT_FINGER2,
+ 103  FPS_CB_INFO_PUT_FINGER3,
+ 105  FPS_CB_INFO_PUT_FINGER4,
+ 107  FPS_CB_INFO_PUT_FINGER5,
+ 109  FPS_CB_INFO_REMOVE_FINGER,
+ 111  FPS_CB_INFO_START,
+ 113  FPS_CB_INFO_SWIPE_IN_PROGRESS,
+ 115  FPS_CB_INFO_TOO_DARK,
+ 117  FPS_CB_INFO_TOO_DRY,
+ 119  FPS_CB_INFO_TOO_FAST,
+ 121  FPS_CB_INFO_TOO_HIGH,
+ 123  FPS_CB_INFO_TOO_LEFT,
+ 125  FPS_CB_INFO_TOO_LIGHT,
+ 127  FPS_CB_INFO_TOO_LOW,
+ 129  FPS_CB_INFO_TOO_RIGHT,
+ 131  FPS_CB_INFO_TOO_SHORT,
+ 133  FPS_CB_INFO_TOO_SKEWED,
+ 135  FPS_CB_INFO_TOO_SMALL,
+ 137  FPS_CB_INFO_TOO_STRANGE,
+ 139  FPS_CB_INFO_TOUCH_SENSOR,
+ 141  FPS_CB_INFO_VERIFY_START,
+ 143  FPS_CB_PICTURE,
+ 145  FPS_CB_ANSI_DATA,
+ 147  FPS_CB_ISO_DATA,
+ 149  FPS_CB_PGM_DATA
+ 150  };
+ 151 
+ 154  enum FPS_PROP_INT_Type
+ 155  {
+ 157  FPS_PROP_INT_VERSION,
+ 159  FPS_PROP_INT_INFO,
+ 161  FPS_PROP_INT_MINNEXTVERSION,
+ 163  FPS_PROP_INT_VARIANT,
+ 165  FPS_PROP_INT_FUNCTIONALITY,
+ 167  FPS_PROP_INT_CONFIG,
+ 169  FPS_PROP_INT_ID,
+ 171  FPS_PROP_INT_AUTHENTIFYID,
+ 173  FPS_PROP_INT_USAGE,
+ 175  FPS_PROP_INT_SENSORTYPE,
+ 177  FPS_PROP_INT_IMAGEWIDTH,
+ 179  FPS_PROP_INT_IMAGEHEIGHT,
+ 181  FPS_PROP_INT_MAXGRABWINDOW,
+ 183  FPS_PROP_INT_COMPANIONVENDORCODE,
+ 185  FPS_PROP_INT_VERSIONEXT,
+ 187  FPS_PROP_INT_SYSTEMID,
+ 189  FPS_PROP_INT_DATATYPE,
+ 191  FPS_PROP_INT_IMAGE_QUALITY_LAST,
+ 193  FPS_PROP_INT_IMAGE_NUMBER_OF_MINUTIAE_LAST,
+ 195  FPS_PROP_INT_IMAGE_SIZE
+ 196  };
+ 197 
+ 199  enum FPS_PROP_STRING_Type
+ 200  {
+ 202  FPS_PROP_STRING_EXTINFO,
+ 204  FPS_PROP_STRING_INFO,
+ 206  FPS_PROP_STRING_TYPE,
+ 208  FPS_PROP_STRING_HWINFO,
+ 210  FPS_PROP_STRING_GUID,
+ 212  FPS_PROP_STRING_SYSTEMNAME
+ 213  };
+ 214 
+ 216  enum FPS_IMG_Type
+ 217  {
+ 219  FPS_IMG_RAW,
+ 221  FPS_IMG_PGM,
+ 223  FPS_IMG_ANSI,
+ 225  FPS_IMG_ISO,
+ 227  FPS_IMG_ALL
+ 228  };
+ 229 
+ 236  typedef void (*resultCallbackType)(void *dataptr, FPS_CB_Type msgType, int width, std::vector<unsigned char> rawData);
+ 237 
+ 238 
+ 239  // normal functions
+ 240 
+ 241 
+ 246  DllSpec int16_t fps_open(std::string &device);
+ 247 
+ 252  DllSpec FPS_RES_Type fps_close(int16_t handle);
+ 253 
+ 260  DllSpec FPS_RES_Type fps_getPropInt(int16_t handle, FPS_PROP_INT_Type prop, int &propValue);
+ 261 
+ 268  DllSpec FPS_RES_Type fps_getPropString(int16_t handle, FPS_PROP_STRING_Type prop, std::string &propValue);
+ 269 
+ 276  DllSpec FPS_RES_Type fps_setPropInt(int16_t handle, FPS_PROP_INT_Type prop, int &newPropValue);
+ 277 
+ 284  DllSpec FPS_RES_Type fps_setPropString(int16_t handle, FPS_PROP_STRING_Type prop, std::string &newPropValue);
+ 285 
+ 292  DllSpec FPS_RES_Type fps_capture_start(int16_t handle, resultCallbackType cb, void *dataptr);
+ 293 
+ 298  DllSpec FPS_RES_Type fps_capture_stop(int16_t handle);
+ 299 
+ 303  DllSpec std::string fps_GetVersion();
+ 304 };
+ 305 
+ 306 #endif // __FPS_H__
+```

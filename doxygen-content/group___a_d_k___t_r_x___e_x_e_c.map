@@ -1,0 +1,7 @@
+<map id="Transaction execution" name="Transaction execution">
+<area shape="rect" id="node1" href="$group___f_u_n_c___f_l_o_w.html" title=" " alt="" coords="216,5,399,45"/>
+<area shape="rect" id="node2" href="$group___t_l_v___c_a_l_l_b_c_k.html" title="Callback function to be implemented in the same entity as EMV ADK." alt="" coords="236,70,379,95"/>
+<area shape="rect" id="node3" href="$group___d_e_f___f_l_o_w___i_n_p_u_t.html" title=" " alt="" coords="263,119,351,145"/>
+<area shape="rect" id="node4" href="$group___d_e_f___f_l_o_w___o_u_t_p_u_t.html" title=" " alt="" coords="258,169,357,194"/>
+<area shape="rect" id="node5" title="Definitions used for functions EMV_CT_StartTransaction(), EMV_CT_ContinueOffline(),..." alt="" coords="5,95,168,121"/>
+</map>

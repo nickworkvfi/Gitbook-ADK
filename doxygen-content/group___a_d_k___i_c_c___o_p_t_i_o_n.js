@@ -1,0 +1,26 @@
+var group___a_d_k___i_c_c___o_p_t_i_o_n =
+[
+    [ "EMV_CT_CARD_CLASS_B_3V", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaf456e23115416fced94c465a2b217905", null ],
+    [ "EMV_CT_CUSTOMER", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga0fb1e8f354f6daa1a1e27a6f3f4e5791", null ],
+    [ "EMV_CT_DETECT_WRONG_ATR", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga590b842ca30d9ca04457ced54f42734b", null ],
+    [ "EMV_CT_ID0_ISO_MODE", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga7bb140c63ae7545a48d906acef705430", null ],
+    [ "EMV_CT_SAM_1", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga4553f713afcd52219ad6976a668da074", null ],
+    [ "EMV_CT_SAM_2", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gacce6d2500ac47825e0a346e406dae7d7", null ],
+    [ "EMV_CT_SAM_3", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gac3f05a0e8f6cb8c9d6e4265ad40d3937", null ],
+    [ "EMV_CT_SAM_EMV_MODE", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gae8e0cc1cdccb94f550be5eac2a91fdbd", null ],
+    [ "EMV_CT_SKIP_ATR", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga0687104bd6093e0c9868594cc3010310", null ],
+    [ "EMV_CT_TRY_PPS", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga18848d859bedd2555f2cebcb29df60e6", null ],
+    [ "EMV_CT_TRY_PPS_EPA", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga9a1dc8c5c0566cea2d166eb73a4c6f6c", null ],
+    [ "EMV_CT_WARMRESET", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga914a7e0c888d6275a663b0bca56b66a5", null ],
+    [ "EMV_CTLS_CLOSE_READER", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga7b7ec1717ddc79e98b74d49b599eaab9", null ],
+    [ "EMV_CTLS_DETECT_REMOVAL", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga70426bf6406f63e706db4dddfdd7c868", null ],
+    [ "EMV_CTLS_EMV_COMPLIANT", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaf670bf4d9472c16856dde67ac49817b6", null ],
+    [ "EMV_CTLS_OPEN_READER", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gae8ff325019d7753b35d4eeb37801dd93", null ],
+    [ "EMV_CTLS_RESET_KEEP_FIELD_ON", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaf16d1b4deb9fa416cfefa05a11b326f6", null ],
+    [ "EMV_CTLS_RESET_NO_EMV", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaf76e7512eb2306d14e6ffead7564b399", null ],
+    [ "EMV_CTLS_RESET_PICC_OPEN_ONLY", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaa8aa513f2a7e9974709142aee8787f7e", null ],
+    [ "EMV_CTLS_RESET_PLUS_PPSE", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga830a38f57ce31a7e4450b815aa35298b", null ],
+    [ "EMV_CTLS_RFU_1", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga4536a48117c734a445ce2f98f49caa31", null ],
+    [ "EMV_CTLS_SKIP_FIELD_ON", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#gaa8590623462ce7bdc2ee946a4fc4fd1b", null ],
+    [ "EMV_CTLS_SPURIOUS_DETECT", "group___a_d_k___i_c_c___o_p_t_i_o_n.html#ga9f8cf47711ca9eeddcf280d04a1d0482", null ]
+];

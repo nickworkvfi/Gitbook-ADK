@@ -1,0 +1,8 @@
+<map id="Primitive tags" name="Primitive tags">
+<area shape="rect" id="node1" title=" " alt="" coords="216,105,329,131"/>
+<area shape="rect" id="node2" href="$group___v_e_r_i___p_r_i_m___t_a_g_s__3_b_y_t_e.html" title="For all unsigned long variables in functional interface, please use 4 byte in the serialization." alt="" coords="395,5,554,31"/>
+<area shape="rect" id="node3" href="$group___t_a_g_s___n_e_w___c_f_g___i_n_t_f___p_r_i_m.html" title="Used in functions EMV_CTLS_SetAppliDataSchemeSpecific()/EMV_CTLS_GetAppliDataSchemeSpecific." alt="" coords="394,55,555,109"/>
+<area shape="rect" id="node5" href="$group___t_l_v___c_b_c_k.html" title="Used in function EMV_CallbackFunction()" alt="" coords="396,134,553,174"/>
+<area shape="rect" id="node6" href="$group___t_l_v___c_b_c_k___t_l_v.html" title="Used in function EMV_CT_CALLBACK_FnT." alt="" coords="377,199,572,224"/>
+<area shape="rect" id="node4" href="$group___v_e_r_i___t_a_g_s.html" title="There are many data objects, which do not have an EMVCo defined tags. For usage of TLV interface it&#39;s..." alt="" coords="5,105,168,131"/>
+</map>

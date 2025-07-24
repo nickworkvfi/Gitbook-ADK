@@ -1,0 +1,8 @@
+<map id="EMV_CTLS_TRANSRES_STRUCT" name="EMV_CTLS_TRANSRES_STRUCT">
+<area shape="rect" id="node1" title="Data structure for output data of EMV_CTLS_ContinueOffline() and EMV_CTLS_ContinueOnline()" alt="" coords="457,112,683,139"/>
+<area shape="rect" id="node2" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___c_r_d_n_a_m_e___s_t_r_u_c_t" title="cardholder name" alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___t_r_a_c_k2___s_t_r_u_c_t" title="track 2 data" alt="" coords="13,64,221,91"/>
+<area shape="rect" id="node4" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___i_c_c_r_n_d___s_t_r_u_c_t" title="icc dynamic number" alt="" coords="13,115,220,141"/>
+<area shape="rect" id="node5" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="21,172,213,199"/>
+<area shape="rect" id="node6" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___i_s_s_d_a_t_a___s_t_r_u_c_t" title="issuer application data" alt="" coords="11,223,222,249"/>
+</map>

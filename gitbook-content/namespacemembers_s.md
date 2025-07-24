@@ -1,0 +1,683 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+Here is a list of all namespace members with links to the namespace documentation for each member:
+
+### - s -
+
+- SC_ERROR : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aadb0d6638c65cb8e1489eefeb1e397539">com_verifone_seccmd</a>
+- SC_RECBUF_SMALL : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aa74093537566cc3dc99a16f316cdf4bcb">com_verifone_seccmd</a>
+- SC_SEND_FAILED : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aa96b297b6e7da87854591137807e87118">com_verifone_seccmd</a>
+- SC_SUCCESS : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aa6f2560b50ea6424b22c64ce918d219b1">com_verifone_seccmd</a>
+- SC_TIMER_ERROR : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aa78d223e76c4217694194196df5953efa">com_verifone_seccmd</a>
+- SC_WRONG_PAR : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0aac9a40f75d583ba632ec6a7b1bba837c2">com_verifone_seccmd</a>
+- ScriptProcessor : <a href="namespacevfihtml.md#a3cbd3cd62b8b160ff8fd641acf6858e2">vfihtml</a>
+- ScriptProcessorExt : <a href="namespacevfihtml.md#ab0bf156adfcbf468dc8caedf9fc0c747">vfihtml</a>
+- scrLedChangeState() : <a href="namespacevfisysinfo.md#a1587dae29ddad22c7def2be5eac61ff8">vfisysinfo</a>
+- sdi_certstore_dir() : <a href="namespacesdi_1_1filesystem.md#abfa13da98e3a50c8c79f55671a6c71be">sdi::filesystem</a>
+- SDI_COMPONENT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3f56807a54e821f631c9b1b37527e5bd">vfisdi</a>
+- sdi_persist_dir() : <a href="namespacesdi_1_1filesystem.md#aeddca685a1e934168171cfef8ef8697e">sdi::filesystem</a>
+- SDI_SW12 : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9">libsdi</a>
+- SDI_SW12_BUSY : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a971fb106a8637b298c5824359aa2061c">libsdi</a>
+- SDI_SW12_CANCELED_BY_USER : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ab03418a12598a6c3e8688c1fd9d79260">libsdi</a>
+- SDI_SW12_CMAC_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a2054c4029c27967fc15fc72840efb3c6">libsdi</a>
+- SDI_SW12_CMAC_LENGTH_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a33c0dc3478cfdc69bc7057961b7109c4">libsdi</a>
+- SDI_SW12_CMAC_MISSING_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a01284258ad4e6bff0c61b8702cfb6b56">libsdi</a>
+- SDI_SW12_COMMAND_NOT_ALLOWED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9af1291ca386d0f4700445ca995b1863ba">libsdi</a>
+- SDI_SW12_DECRYPTION_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a55f5fd8eaaf801277b52d842cdf43c44">libsdi</a>
+- SDI_SW12_DECRYPTION_LENGTH_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a47b9270d9134938f2a233c31bb40d526">libsdi</a>
+- SDI_SW12_DECRYPTION_MISSING_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9abf2dd4e4ec4cd3b8f742d09d095ba4d0">libsdi</a>
+- SDI_SW12_EMV_TLV_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9aa5cb29a2e25abece508d529c26f9343b">libsdi</a>
+- SDI_SW12_ENCRYPTION_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ad51eaabf82a502ff3ed1cb6c295b8a93">libsdi</a>
+- SDI_SW12_ENCRYPTION_LENGTH_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a6e37ee309f409940589fd6c016f35046">libsdi</a>
+- SDI_SW12_ENCRYPTION_MISSING_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a6a735e602db3e17a88ae4b0c841bd984">libsdi</a>
+- SDI_SW12_EPP_CONNECTION_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a847a49db2ffbf8d1e68b502f582c3dc8">libsdi</a>
+- SDI_SW12_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a1bed2506d1ed0457dd51b36e10b879d4">libsdi</a>
+- SDI_SW12_EXCESSIVE_PIN_REQUESTS : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9aed62853d0c7dd9ab3f8c5760ab64d522">libsdi</a>
+- SDI_SW12_EXEC_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9af2a5eae6fa460ebfe095ce27b2fd1b87">libsdi</a>
+- SDI_SW12_EXECUTION_ABORTED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9afdd1028b32db6ae5abaa47bb3e7560bc">libsdi</a>
+- SDI_SW12_EXECUTION_TIMEOUT : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a476c3b73e5ff6945ae5a33a27d13d882">libsdi</a>
+- SDI_SW12_FILE_ACCESS_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9abd8c845fec4d2d093eaecff6218f3103">libsdi</a>
+- SDI_SW12_INTERCHAR_PIN_ENTRY : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a5598ca858d64cfb20049ed0d0f4fb910">libsdi</a>
+- SDI_SW12_INVALID_FILE_CONTENT : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a5a6fb112bf92f4f1239f11c3f714e029">libsdi</a>
+- SDI_SW12_INVALID_PLUGIN_RESPONSE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a6e4e2bf915baeb54c9529294c44b298b">libsdi</a>
+- SDI_SW12_LOGIC_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a039afb9d4121e94f28511039018c2034">libsdi</a>
+- SDI_SW12_LOW_BATTERY : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a8304873fe61c4d04535d3c1e64b45d1f">libsdi</a>
+- SDI_SW12_LUHN_CHECK_FAILED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a3abd526d6fd92ac70842b7e43b2313d6">libsdi</a>
+- SDI_SW12_MAIN_CONNECTION_USED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a75c4fcd5dcf04c1e0f8f1c9e85e30cec">libsdi</a>
+- SDI_SW12_MESSAGE_LENGTH_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a0a771976fb50c1b4986efcdd6f34439d">libsdi</a>
+- SDI_SW12_NO_DUKPT_KEYS_LOADED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a4889dd18dd1ad0b7344a5d37430bbf78">libsdi</a>
+- SDI_SW12_NO_MACTCH_FOR_CARD_VALIDATION : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9aa2f57a6386608f977bd13aa7ce1bbc19">libsdi</a>
+- SDI_SW12_NO_SDI_PLUGIN_AVAILABLE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ac86a5a2c8d2be7d739309bc4b1eb99bc">libsdi</a>
+- SDI_SW12_NONE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a6618acb8d68a00a36aa6aee2b0233e06">libsdi</a>
+- SDI_SW12_NOT_ALLOWED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a322aa24cbcdd0da17e7d06c6e69197fe">libsdi</a>
+- SDI_SW12_PARAMETER_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a153d725d0d6961fca9c22c30d276b8ce">libsdi</a>
+- SDI_SW12_PIN_BYPASSED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9adc7785d93b0e59939d5800eeb042a1cb">libsdi</a>
+- SDI_SW12_RECOVERY_MODE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ae14e896883c5b5d090245170eb232691">libsdi</a>
+- SDI_SW12_SDI_PARAMETER_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a47864240cdffd5d09a3e02ec0d1e70e9">libsdi</a>
+- SDI_SW12_SMART_CARD_ERR_INIT : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a092b667be70ac2f9b18163a2f79d120d">libsdi</a>
+- SDI_SW12_SMART_CARD_ERR_PARAM : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9aa7dbab4cb10df7f71b21f8ef192b9911">libsdi</a>
+- SDI_SW12_SMART_CARD_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a87db929ea762f69bdb6ae19d3e2d52b1">libsdi</a>
+- SDI_SW12_SMART_CARD_ERROR_TRM : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a77445278995fc417f5b2ed7dda4d123f">libsdi</a>
+- SDI_SW12_SMART_CARD_REMOVED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a7b74452f38eedd39b8a20504ec4f793f">libsdi</a>
+- SDI_SW12_SUCCESS : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ae57ec322bacc511a361f808f98f564f3">libsdi</a>
+- SDI_SW12_TAG_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a1beeefc2a6d62a7d0d8057caa66d0ed2">libsdi</a>
+- SDI_SW12_TAG_LENGTH_ERROR : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a1d4321526bd3f9cdc8ca2e9dfbbff6e7">libsdi</a>
+- SDI_SW12_TIMEOUT : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a9c607d5185c40929820c1c9292d9b51d">libsdi</a>
+- SDI_SW12_TIMEOUT_CARD_REMOVAL : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ac806247c865c9bdbb21518f96f619dd0">libsdi</a>
+- SDI_SW12_TIMEOUT_NO_MSR_DATA : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ab8a2a0db5f2f52ee3dd1066a8c04192e">libsdi</a>
+- SDI_SW12_TIMEOUT_PIN_ENTRY : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a4577fb4a16020814123d3c1fa619d8fd">libsdi</a>
+- SDI_SW12_TWO_CARDS : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a586613b1225fbf678b38cee3cf3a7142">libsdi</a>
+- SDI_SW12_UNIT_TAMPERED : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9ad9a685bc18c7c8de640ef247e3eee810">libsdi</a>
+- SDI_SW12_UNKNOWN_CLA_BYTE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9adaafeb9592a43e1b1e1df473878c12e5">libsdi</a>
+- SDI_SW12_UNKNOWN_INS_BYTE : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a4732718054169c5df10d763f2407cfde">libsdi</a>
+- SDI_SW12_UNKNOWN_PLUGIN_ID : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a85faafe48c5a77b74e64371e00f92552">libsdi</a>
+- SDI_SW12_UNKNOWN_PLUGING_ID : <a href="namespacelibsdi.md#a0af9b7a9de719071122f396865ecebc9a154334af8973844fb6186fe237c59c0e">libsdi</a>
+- sdi_update_dir() : <a href="namespacesdi_1_1filesystem.md#a62f821b6937b4f380d3e22cde31d2920">sdi::filesystem</a>
+- SDICLIENT_ERROR : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4">libsdi</a>
+- SDICLIENT_ERROR_COMMUNICATION : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4aab3b6e7486f51ef410adba644a849a3d">libsdi</a>
+- SDICLIENT_ERROR_CONCURRENT_USE : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ab43c112b5f9c1dc09079c3f465da64cf">libsdi</a>
+- SDICLIENT_ERROR_CONNECT : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ac57157366b2f1737fa91428a8eea9abc">libsdi</a>
+- SDICLIENT_ERROR_NO_RECEIVE : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ae2341948a78a19f5a780d2f5b3acc750">libsdi</a>
+- SDICLIENT_ERROR_NONE : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4a9cadc1bff1d76bb047113cc578078e77">libsdi</a>
+- SDICLIENT_ERROR_NOT_ALLOWED : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4a6b95428c9c6cd460b20eae3c5c5516d5">libsdi</a>
+- SDICLIENT_ERROR_NOT_SUPPORTED : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4aa664cf103d2d1be3392f0947649ff331">libsdi</a>
+- SDICLIENT_ERROR_OTHER : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ab129b3613fd2cf21c2d573d4499ec5db">libsdi</a>
+- SDICLIENT_ERROR_OVERFLOW : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ad420eeba936f0d2edd106d669eed837a">libsdi</a>
+- SDICLIENT_ERROR_PARAM : <a href="namespacelibsdi.md#a88afe55c2211351a88265153f28797e4ad3cf0ecfe1512f2806d2515efdcbf194">libsdi</a>
+- SDITags : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4">vfisdi</a>
+- Sec_AS2805KeyMgmnt() : <a href="namespacecom__verifone__seccmd.md#a6db6f20b1810117273ba926c668abe09">com_verifone_seccmd</a>
+- Sec_Close() : <a href="namespacecom__verifone__seccmd.md#aed03f5425bde3f1404d4b97f8175c39f">com_verifone_seccmd</a>
+- Sec_DecryptData() : <a href="namespacecom__verifone__seccmd.md#abd1a0b2921b3987ea04a3554f9b01654">com_verifone_seccmd</a>
+- Sec_Destroy() : <a href="namespacecom__verifone__seccmd.md#a9815dafaa8bd5999fbfaa20d7d22e661">com_verifone_seccmd</a>
+- Sec_EncryptData() : <a href="namespacecom__verifone__seccmd.md#a86bd1dbbaa97e44d4678e2cfbddca9a0">com_verifone_seccmd</a>
+- Sec_GenerateMAC() : <a href="namespacecom__verifone__seccmd.md#a415992011cbd54131165ca25801edb8a">com_verifone_seccmd</a>
+- Sec_GetKeyData() : <a href="namespacecom__verifone__seccmd.md#a3deda460871c6786f09216ea917dbfe0">com_verifone_seccmd</a>
+- Sec_GetSvcVersion() : <a href="namespacecom__verifone__seccmd.md#ac17ac87391e0a1843fab4825be72b151">com_verifone_seccmd</a>
+- Sec_GetVersion() : <a href="namespacecom__verifone__seccmd.md#aac3397523242fcae1a15786ff8f5aa09">com_verifone_seccmd</a>
+- Sec_GetVersions() : <a href="namespacecom__verifone__seccmd.md#acbda26bbc5a491c6cc45e05e801e0c43">com_verifone_seccmd</a>
+- Sec_IncrementKSN() : <a href="namespacecom__verifone__seccmd.md#a1bdf809486c2ce3ef0e8dc9b4dd97130">com_verifone_seccmd</a>
+- Sec_Init() : <a href="namespacecom__verifone__seccmd.md#a9871b00715c29b88812f6cbe88657a21">com_verifone_seccmd</a>
+- SEC_KEY_TYPE\_\_INVALID_E : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba6d662fd7881533815c01bd40e6e73c56">vfisdi</a>
+- SEC_KEY_TYPE_ACQ_SESSION_KEYS : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba19d5d949727399855d03ae373b33e8e1">vfisdi</a>
+- SEC_KEY_TYPE_ACQUIRER_MK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba92730f7372afbbdaa40800c9711c86ba">vfisdi</a>
+- SEC_KEY_TYPE_CERT : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba25300e82e330df0aec5e5d5c40229933">vfisdi</a>
+- SEC_KEY_TYPE_DDK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40baf8782982b57c7fce8a1aaff736b1d097">vfisdi</a>
+- SEC_KEY_TYPE_DEK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba29aea6e4ae7f504ca191e854b31825b7">vfisdi</a>
+- SEC_KEY_TYPE_DELETE_ALL_KEYS : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bad29ea05d83de01f487e41221efe1aa53">vfisdi</a>
+- SEC_KEY_TYPE_DELETE_SYS_KEY : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bad6ca4e4214127de00a9853325467b924">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_AUTHEX_ENC : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba342924e813f6ec77dd82da9aa3a99626">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_AUTHEX_SYSK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bade3df6b92b1f8b54527d6988280044f4">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_MK_ENC : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba7a3e1438a5d90a412b9e768804531eab">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_MK_PLAIN : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba6c1efbd555faa122ac1d17a2f89ffd4a">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_SYSK_ENC : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba2ba065913b4673c5f9f0016d5bb27546">vfisdi</a>
+- SEC_KEY_TYPE_DIRECT_SYSK_PLAIN : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba4054f8ab5b543dcfe2c16a48252b00f3">vfisdi</a>
+- SEC_KEY_TYPE_DUKPT : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba4269b9cb586ecc9f138b8efd3c843f5e">vfisdi</a>
+- SEC_KEY_TYPE_ENC_KI_FMT_0 : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bae60214aa5f355589aa514e7543bfe544">vfisdi</a>
+- SEC_KEY_TYPE_ENC_KI_FMT_1 : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba80525c2601dcadee69c8bcc00f0b0934">vfisdi</a>
+- SEC_KEY_TYPE_ENC_KI_FMT_2 : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40badd8173026686338c825cd02267f202b8">vfisdi</a>
+- SEC_KEY_TYPE_ENC_PPASN : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba63a98b82893927cce61a153cc0082549">vfisdi</a>
+- SEC_KEY_TYPE_ENC_PPID : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba3ff1a9f35fb43c3faca0491ff4e3d04d">vfisdi</a>
+- SEC_KEY_TYPE_KEK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba070e92105057aa3169450f8b4b6baaa1">vfisdi</a>
+- SEC_KEY_TYPE_KVC_KEK1 : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40baad8d9ca2731ebd93f203b9f1ea4185b9">vfisdi</a>
+- SEC_KEY_TYPE_KVC_KIA : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bae4741629f67556bc70e0d4207ef86f8c">vfisdi</a>
+- SEC_KEY_TYPE_MGK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40baa970f10a654a8b3f56541c4ca568a128">vfisdi</a>
+- SEC_KEY_TYPE_MVK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40baa0309366ad3281e919157ab9735b2b3f">vfisdi</a>
+- SEC_KEY_TYPE_PPK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba3047c34fd04a014ca23e3502ae9d8953">vfisdi</a>
+- SEC_KEY_TYPE_SEC_ACQ_KI : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba6a526bee227cb7bfcbfa4ce74f71ffbf">vfisdi</a>
+- SEC_KEY_TYPE_SEC_ACQ_MK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba78842901105a21149b43add811ffb7f8">vfisdi</a>
+- SEC_KEY_TYPE_SPONSOR_KI : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba44e8c9a22846ed7794e7a702dc6596a9">vfisdi</a>
+- SEC_KEY_TYPE_SPONSOR_MK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba3ff25755ff59afdb77edf1ebf5eb6bc3">vfisdi</a>
+- SEC_KEY_TYPE_SPONSOR_PK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba3c91e756ac325103b8073c8365458df2">vfisdi</a>
+- SEC_KEY_TYPE_TCU_PK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40ba998e495284b3ba2d54e7d85f18f22748">vfisdi</a>
+- SEC_KEY_TYPE_TMK : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40bad9c26015aba294674930103a45195e30">vfisdi</a>
+- Sec_Open() : <a href="namespacecom__verifone__seccmd.md#a16e0564f479c004161cf826dbc6670b1">com_verifone_seccmd</a>
+- Sec_RetrieveEncryptedPIN() : <a href="namespacecom__verifone__seccmd.md#a9a8932b53f4d3b1c33fe80636f25abb5">com_verifone_seccmd</a>
+- Sec_SelectHostConf() : <a href="namespacecom__verifone__seccmd.md#ae805c757835a3b0a1b9e8adfc5ab574c">com_verifone_seccmd</a>
+- Sec_SetDUKPTMask() : <a href="namespacecom__verifone__seccmd.md#ad71befc1abbf8dad13f233b4730c8f08">com_verifone_seccmd</a>
+- Sec_SetKSId() : <a href="namespacecom__verifone__seccmd.md#a88e049aa8e79d431c600e78fee76a969">com_verifone_seccmd</a>
+- SEC_STATUS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a2a3fd1c8e25ad3e6b42e4d2dcc2b46ae">vfisdi</a>
+- Sec_UpdateKey() : <a href="namespacecom__verifone__seccmd.md#a433ea1cf1bb2d33de167c140f01239ed">com_verifone_seccmd</a>
+- Sec_VerifyMAC() : <a href="namespacecom__verifone__seccmd.md#a8a524ef7b08dde1a6e71492a44f1ea6b">com_verifone_seccmd</a>
+- secClearTransactionData() : <a href="namespacecom__verifone__seccmd.md#ac31ab997e8dc434d72e427a5d841186a">com_verifone_seccmd</a>
+- secClose() : <a href="namespacecom__verifone__seccmd.md#a34f8a9e3b92467759d0bbdbf7b2dd8c0">com_verifone_seccmd</a>
+- SecCmd_errors : <a href="namespacecom__verifone__seccmd.md#a37f4111ddad314e8d0d664c1c4ec3a0a">com_verifone_seccmd</a>
+- secDecryptData() : <a href="namespacecom__verifone__seccmd.md#a9cd679dc9763b06566dff28b3d3268c9">com_verifone_seccmd</a>
+- secDestroy() : <a href="namespacecom__verifone__seccmd.md#a644b5479904871433cffef9145c53dad">com_verifone_seccmd</a>
+- secDigest() : <a href="namespacecom__verifone__seccmd.md#a0cca8cfbb868cbf34d35afabe5af29af">com_verifone_seccmd</a>
+- secEncryptData() : <a href="namespacecom__verifone__seccmd.md#aa58bc1a6a2056aebd3edc92f3bfcce9d">com_verifone_seccmd</a>
+- secEncryptTransactionData() : <a href="namespacecom__verifone__seccmd.md#aaed6fc175245ba31936547cffd988948">com_verifone_seccmd</a>
+- secError : <a href="namespacecom__adksec__cmd.md#af511ddd4237541a758df48299546d49a">com_adksec_cmd</a>
+- secError_t : <a href="namespacecom__adksec__cmd.md#ae9f0bf534a30b1423c9e00302d53b7b8">com_adksec_cmd</a>
+- secErrorGroup : <a href="namespacecom__adksec__cmd.md#afe1062c1bfd2726a8d1ab38e7811bfb1">com_adksec_cmd</a>
+- secGenerateRandom() : <a href="namespacecom__verifone__seccmd.md#a689199c9e7e4d8a553f3ab2f379b812e">com_verifone_seccmd</a>
+- secGetApiVersion() : <a href="namespacecom__verifone__seccmd.md#a5ea5cbc9daa2ea726212741cd596b294">com_verifone_seccmd</a>
+- secGetKeyData() : <a href="namespacecom__verifone__seccmd.md#aff0a109c58ef5637c7bf3ffc0722c48d">com_verifone_seccmd</a>
+- secGetKeyInventory() : <a href="namespacecom__verifone__seccmd.md#a79b00ea8a8aed3b7950800bf136a1944">com_verifone_seccmd</a>
+- secGetPermission() : <a href="namespacecom__verifone__seccmd.md#af127868b6268758596f8a2a1ca0aaab3">com_verifone_seccmd</a>
+- secGetStatus() : <a href="namespacecom__verifone__seccmd.md#a008e3cde266f576be23846d0c7b729c5">com_verifone_seccmd</a>
+- secGetSvcVersion() : <a href="namespacecom__verifone__seccmd.md#a029d7e16ab6b044379e9568a6c969afa">com_verifone_seccmd</a>
+- secGetTransactionValue() : <a href="namespacecom__verifone__seccmd.md#a85ada2e35c1d1cbf60c05454b88b4b44">com_verifone_seccmd</a>
+- secGetVersions() : <a href="namespacecom__verifone__seccmd.md#a5499423d685ed9deb7ace9c22114adf2">com_verifone_seccmd</a>
+- secHandle_t : <a href="namespacecom__adksec__cmd.md#acc01edab4b0f73c92142d9d43dc7a7f7">com_adksec_cmd</a>
+- secIncrementKSN() : <a href="namespacecom__verifone__seccmd.md#a77860b4cffed3ba159a5c124c8e2cde2">com_verifone_seccmd</a>
+- secIndex_t : <a href="namespacecom__adksec__cmd.md#ad15b3c697f22fd80a8a42e5547c5b8e4">com_adksec_cmd</a>
+- secInit() : <a href="namespacecom__verifone__seccmd.md#ab649bee85abb5cb4085c3958f279483d">com_verifone_seccmd</a>
+- SECKeyType : <a href="namespacevfisdi.md#a87dd143fe6111a6ef7ba8fc25a4ec40b">vfisdi</a>
+- secOpen() : <a href="namespacecom__verifone__seccmd.md#a8091d419f67f4b53630f2fabe1888a09">com_verifone_seccmd</a>
+- secPutTransactionData() : <a href="namespacecom__verifone__seccmd.md#a6bc0d39e1739680282d33d3d68df84c9">com_verifone_seccmd</a>
+- secRetrieveEncryptedPIN() : <a href="namespacecom__verifone__seccmd.md#ab3d26136c64019fd223aa9ccd120d4e0">com_verifone_seccmd</a>
+- secSetKSId() : <a href="namespacecom__verifone__seccmd.md#a75edecb24f839e04debb1aa5e47b5714">com_verifone_seccmd</a>
+- secSign() : <a href="namespacecom__verifone__seccmd.md#a66a1992f617359f2e4a96f4980478f82">com_verifone_seccmd</a>
+- SecTransactionData_t : <a href="namespacecom__adksec__cmd.md#a8963c1dd7c626a621a8033209294fcbd">com_adksec_cmd</a>
+- SecTransactionValue : <a href="namespacecom__adksec__cmd.md#abddf3fd58f8658a7475911ed80e0fe20">com_adksec_cmd</a>
+- secUpdateKey() : <a href="namespacecom__verifone__seccmd.md#ab249c77069e9fc9946745fd4c63d5e39">com_verifone_seccmd</a>
+- secVerify() : <a href="namespacecom__verifone__seccmd.md#a5470ce89fa947abc445f251ae0b2387b">com_verifone_seccmd</a>
+- SELECT_ITEM : <a href="namespacevficom_1_1event_1_1stk.md#a5c9f20e9dfda7ed7ed70d7a4b3dab65caff4dbb9d650bf39f32e93d17f47ed147">vficom::event::stk</a>
+- SENSITIVE_TAG_MODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a7d732d7bd2e93e5ecaf85628277302ef">vfisdi</a>
+- SET_UP_EVENT_LIST : <a href="namespacevficom_1_1event_1_1stk.md#a5c9f20e9dfda7ed7ed70d7a4b3dab65ca579e57dd8e1b4d3aeea89024110a8faa">vficom::event::stk</a>
+- setApi() : <a href="namespacevficpl.md#aef8408b1629d19eaa27a183be2bef5e2">vficpl</a>
+- setBasket() : <a href="namespacevficpl.md#a47c8903f6cf26144150fa99d21fd807e">vficpl</a>
+- setBrightness() : <a href="namespacevfisysinfo.md#ab373028a6c5ee63e4e24a4bab90bf220">vfisysinfo</a>
+- setEnvironmentDataProvider() : <a href="namespacevficpl.md#a770b649a42bf6c1cf1d34e0c6165ff58">vficpl</a>
+- SIGNATURE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4be978bb26bdf2bb63c8faa3281de678">vfisdi</a>
+- SIGNATURE_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4adbd1c8f6ee790a67122375e3acd1dbe2">vfisdi</a>
+- SIGNATURE_FORMAT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1455ee3caa33c891d820e8cc5d8177b4">vfisdi</a>
+- SIGNATURE_VALUE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ae8ae730e7d0d1a082a8303397a9aa4a1">vfisdi</a>
+- sim_access : <a href="namespacevficom_1_1cmd.md#a1fd1468bac3dd5a05fa3d5acac24bcf8">vficom::cmd</a>
+- size : <a href="namespacevficom_1_1cmdparam_1_1in_1_1ping.md#ae0d180616fe53dddd61f70c62526b0db">vficom::cmdparam::in::ping</a>
+- SLEEP : <a href="namespacevfisyspm.md#ad6865f9a76c1985e26c2e86719fc674aad6137abebe4fdc59e2f0f2c84bdbe3fa">vfisyspm</a>
+- SMARTCARD_LED : <a href="namespacevfisysinfo.md#ab6831a7d06c0a2bc69f9b024f6445a80a9b4d97ca299bb13e9449f7b7af2511c9">vfisysinfo</a>
+- SOFTWARE_UPLOAD_FILENAME : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a0262cc72ac8f8f52d2b8137e04b8080c">vfisdi</a>
+- SOFTWARE_UPLOAD_MD5 : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad1ccca1d7523a81a3a6192967162f3d3">vfisdi</a>
+- SOFTWARE_UPLOAD_PACKET_NBR : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4abfd48eba1f622db240d0468ff4521aec">vfisdi</a>
+- SOFTWARE_UPLOAD_RECORD_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a7c347ae83759d0615a1e15db350c1fb5">vfisdi</a>
+- SPONSOR_CERT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a58c536e6b87b314472cee07e0934af2f">vfisdi</a>
+- ssid : <a href="namespacevficom_1_1cmdparam_1_1out_1_1wlan__scan_1_1json__keys.md#a58be0109b1094934766fb07b04083670">vficom::cmdparam::out::wlan_scan::json_keys</a>
+- STANDBY : <a href="namespacevfisyspm.md#ad6865f9a76c1985e26c2e86719fc674aae4634ae4352b512b38c5da9dc1610ca6">vfisyspm</a>
+- STARVATION : <a href="namespacevficom_1_1status.md#ae7ba2f563df916ce3ce6be92a19d2bbca16447fcbaada0814065a175e7cc7823f">vficom::status</a>
+- status : <a href="namespacevficom_1_1cmdparam_1_1out_1_1stk__status.md#ab4544ed7ac29b175d220bc3866c13d2c">vficom::cmdparam::out::stk_status</a> , <a href="namespacevficom_1_1cmdparam_1_1out_1_1ussd__status.md#ab4544ed7ac29b175d220bc3866c13d2c">vficom::cmdparam::out::ussd_status</a>
+- std : <a href="namespacevficom_1_1cmdparam_1_1out_1_1wlan__scan_1_1json__keys.md#aeeb2b1c8a9d5f1a4aaf251729b2b8368">vficom::cmdparam::out::wlan_scan::json_keys</a>
+- STK_ENV_CMD_EVENT_DOWNLOAD : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a37a60d6078b7db799def050b0df8575ca9df31c97c0de893a08eb38b005bdc223">vficom::cmdparam::in::stk_write::msg</a>
+- STK_ENV_CMD_MENU_SELECT : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a37a60d6078b7db799def050b0df8575ca18c3b5c6924431fbdf0b17510f1bd520">vficom::cmdparam::in::stk_write::msg</a>
+- STK_ENV_MAX_ENUM : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a37a60d6078b7db799def050b0df8575caec02de6efa9b755fe3ba03d6beb071a5">vficom::cmdparam::in::stk_write::msg</a>
+- stk_off : <a href="namespacevficom_1_1cmd.md#ab87430479d817a2b0f173db3ab49709c">vficom::cmd</a>
+- stk_on : <a href="namespacevficom_1_1cmd.md#a9361760ae5960eea59f608300ca3002f">vficom::cmd</a>
+- stk_status : <a href="namespacevficom_1_1cmd.md#a47636d831d5cbc65b7c6915f1701f0a2">vficom::cmd</a>
+- STK_TR_CMD_REFRESH : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5daa0ce25efd0caa8725b776aceb8584bb2">vficom::cmdparam::in::stk_write::msg</a>
+- STK_TR_CMD_SELECT_ITEM : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5da657d0e99bbd4f535e31c71cb691489ed">vficom::cmdparam::in::stk_write::msg</a>
+- STK_TR_CMD_SETUP_EVENT_LIST : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5da3de966187a2f9d6339188503d787a674">vficom::cmdparam::in::stk_write::msg</a>
+- STK_TR_CMD_SETUP_MENU : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5da94d7ddbc8ab0069214ef7eb64a64fe2d">vficom::cmdparam::in::stk_write::msg</a>
+- STK_TR_MAX_ENUM : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5dabf2853413140a0f6b3e77d4ad6b45967">vficom::cmdparam::in::stk_write::msg</a>
+- STK_URC_PRO_MAX_ENUM : <a href="namespacevficom_1_1event_1_1stk.md#a5c9f20e9dfda7ed7ed70d7a4b3dab65caeb25216260e5ee725a779863deb4d0a3">vficom::event::stk</a>
+- stk_write : <a href="namespacevficom_1_1cmd.md#a3de5a6fc99b71f79469478abe765738b">vficom::cmd</a>
+- STKENVCommand : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a37a60d6078b7db799def050b0df8575c">vficom::cmdparam::in::stk_write::msg</a>
+- STKTRCommand : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg.md#a234450c2c657a6d5316bb8188dbbcd5d">vficom::cmdparam::in::stk_write::msg</a>
+- STKURCProCommand : <a href="namespacevficom_1_1event_1_1stk.md#a5c9f20e9dfda7ed7ed70d7a4b3dab65c">vficom::event::stk</a>
+- str : <a href="namespacevficom_1_1cmdparam_1_1in_1_1ussd__write.md#aa2ad567d2728772e7ce46242b9f5e83a">vficom::cmdparam::in::ussd_write</a> , <a href="namespacevficom_1_1event_1_1ussd.md#aa2ad567d2728772e7ce46242b9f5e83a">vficom::event::ussd</a>
+- stringmap : <a href="namespacevfihtml.md#a53240b3eda61c045f82728814874a1f8">vfihtml</a>
+- SUPPORTED_CARD_TECHNOLOGY : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a5371dc460e2fb03fa6d02685b41ddbac">vfisdi</a>
+- SWITCH_OFF : <a href="namespacevfisysinfo.md#ac53d0dd4fdb8c227b07184816614b3f9a31773366e575d3bc1209834eedf2f525">vfisysinfo</a>
+- SWITCH_ON : <a href="namespacevfisysinfo.md#ac53d0dd4fdb8c227b07184816614b3f9a44eaafa32143d3ddf31d2074e76a0f60">vfisysinfo</a>
+- sys_Active() : <a href="namespacevfisyspm.md#a7bac542d589655ccc9fd16450ccb0ccb">vfisyspm</a>
+- SYS_BASE_INSTALL_FAIL : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574ad06d637dd93eb8ec348fe3f71f424ddc">vfinetloader</a>
+- SYS_BLOCKING : <a href="namespacevfinetloader.md#a94cc038c7531a6a77b801ea738c8c207a6eb1637d52cb720bad9093a06b3d0ce9">vfinetloader</a>
+- SYS_CANCEL : <a href="namespacevfinetloader.md#a94cc038c7531a6a77b801ea738c8c207ab87968ad51b944e6b68d2bc38cb2a3cd">vfinetloader</a>
+- sys_CancelSleep() : <a href="namespacevfisyspm.md#a13541ab5c56e234226b5b9994fc78d90">vfisyspm</a>
+- sys_CancelTimer() : <a href="namespacevfisyspm.md#a23b7b0a976a2d72581cba03f355fba6b">vfisyspm</a>
+- sys_CancelTimers() : <a href="namespacevfisyspm.md#addd3c8a0add2df978b277b7a0591b9f1">vfisyspm</a>
+- sys_CancelWakeupTime() : <a href="namespacevfisyspm.md#a379d3c0293774ea6ae82c084715c9e6a">vfisyspm</a>
+- sys_ClearPciRebootTime() : <a href="namespacevfisyspm.md#a8d11de8c8d681b6e9023abb735bd2f8a">vfisyspm</a>
+- sys_ClearWakeupTimes() : <a href="namespacevfisyspm.md#a445bbf4ec804907506c633fef8e814f8">vfisyspm</a>
+- sys_CriticalSectionEnter() : <a href="namespacevfisyspm.md#ac46060410ba78b557470d51eb9c90feb">vfisyspm</a>
+- sys_CriticalSectionExit() : <a href="namespacevfisyspm.md#a1fe354c573d66613fbae37897509cf04">vfisyspm</a>
+- sys_CriticalSectionList() : <a href="namespacevfisyspm.md#aad5db89fd567428a39c63cc68a3d62c8">vfisyspm</a>
+- sys_CriticalSectionState() : <a href="namespacevfisyspm.md#a553702af12298474a0dbe35685aa582e">vfisyspm</a>
+- sys_DeepSleep() : <a href="namespacevfisyspm.md#acb4d7c188a1d12752c5215a44ced3263">vfisyspm</a>
+- sys_Deinit() : <a href="namespacevfisyspm.md#a691e7888b9004d8a527f419e7966df7f">vfisyspm</a>
+- SYS_DNLD_DONE : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a2eb37b39c728843c7f77129bac4f4e59">vfinetloader</a>
+- SYS_DNLD_ERR : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a1ea0900fd364c4bad650e83da73855d4">vfinetloader</a>
+- SYS_DNLD_FILE : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574ac669b4cc9530e9b8d205cd6c4a41607c">vfinetloader</a>
+- SYS_DNLD_INSTALL : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574aa026777c6f5b3cee773aade827188da5">vfinetloader</a>
+- SYS_DNLD_INSTALL_DONE : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574ae4aa6c6e56e57aee208fd3edfd0ec096">vfinetloader</a>
+- SYS_DNLD_INSTALL_FAIL : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a196ac998408748267d37a9fc867f276d">vfinetloader</a>
+- SYS_ERR : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a3ab6be3c1b0fd47ca2fcd2d7363b50f0">vfinetloader</a>
+- SYS_ERR_ACCESS : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a6496b238204357c59002508061f1c172">vfisysinfo</a>
+- SYS_ERR_ACTIVE_TIMEZONE : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a9ed2880f739be360d77a0f46c3a08691">vfisysinfo</a>
+- SYS_ERR_ANDROID_NOT_AVAILABLE : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a10037a2aeca857fcc0b26de926b81698">vfisysinfo</a>
+- SYS_ERR_BASE_CTRL_NOT_AVAILABLE : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a404a2a185d40b430e68a6ea2ac32d2ee">vfisysinfo</a>
+- SYS_ERR_BUNDLE_VERSION : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09aac4414e4c98660e6af68dfcd51980ca2">vfisysinfo</a>
+- SYS_ERR_CALCULATING : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a5e65ec20be12cfba8db8d7aac38371f6">vfisysinfo</a>
+- SYS_ERR_CONFIGURATIION : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a8a1501bb254bd970165895642e54d6f5">vfisysinfo</a>
+- SYS_ERR_EXISTS : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a9d0ca00f32b541af09a3800cd50a538b">vfisysinfo</a>
+- SYS_ERR_EXPECTED_KEY : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a325e4a1a846270d97b6a3b0fea2f978d">vfisysinfo</a>
+- SYS_ERR_FAIL : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09adc4c428b31b0c7764696b3f25121a08c">vfisysinfo</a>
+- SYS_ERR_FILE_DOES_NOT_EXIST : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a185a7c2ce2ce941bf0a771e2de7c997d">vfisysinfo</a>
+- SYS_ERR_GET_CWD : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a917ddc6c0da221a3c40f7017b371148e">vfisysinfo</a>
+- SYS_ERR_INSTALL_LIMIT : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09aa41059e859f567948cf01409b50a844d">vfisysinfo</a>
+- SYS_ERR_IPC : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a673ae20098cc84a102d32cbb09b6aae8">vfisysinfo</a>
+- SYS_ERR_KEY_MISSING : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a66e91b01c0d043dc3ce9481d89f221eb">vfisysinfo</a>
+- SYS_ERR_NOT_DOCKED : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a8ec7b5d155f0a7f69c2f34819499d887">vfisysinfo</a>
+- SYS_ERR_OK : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09ab5f89011b3966738d416aa0aadf18d92">vfisysinfo</a>
+- SYS_ERR_PARAMETER : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09ad6fb86a08ba48db4f333915ae4a74aba">vfisysinfo</a>
+- SYS_ERR_PATHNAME_TOO_LONG : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09ae5ac24e380fc2047df8da4d580aabd2a">vfisysinfo</a>
+- SYS_ERR_PERMISSION : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a98294b67b51a3fefb96bb3d2e561e21f">vfisysinfo</a>
+- SYS_ERR_PROP_READ_ONLY : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09acc98a3e7cf09547bd1edb15246e9a834">vfisysinfo</a>
+- SYS_ERR_PROP_UNSUPPORTED : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09aee91879eb5487ea1c08c5df3f2f24ce9">vfisysinfo</a>
+- SYS_ERR_PROP_WRITE_ONLY : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a64be0d83464a4ed0029c2ab2dad2630e">vfisysinfo</a>
+- SYS_ERR_REBOOT_NEEDED : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09afa707e88cc69d08dcdeeb67c84970b41">vfisysinfo</a>
+- SYS_ERR_REGION : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a525b649bb9f37ad057660003e6fbe727">vfisysinfo</a>
+- SYS_ERR_RUNNING : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09af802e34f87c3c8f89e770366ed6cfa2f">vfisysinfo</a>
+- SYS_ERR_SDI_NOT_CONNECTED : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09a271d06521567568f63b7007dd2e47fe5">vfisysinfo</a>
+- SYS_ERR_UNSUPPORTED : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09ad7f6353969ac3cbb2c079a77e7e66f03">vfisysinfo</a>
+- SYS_EXT_MSG : <a href="namespacevfinetloader.md#aed6b03cebf679080000ec2bc8e934436ada6e7f6d43a0f5efa4f0cc6a80d33ef0">vfinetloader</a>
+- SYS_EXT_MSG_1 : <a href="namespacevfinetloader.md#aed6b03cebf679080000ec2bc8e934436a9b4c794232f8f1a26e9edce0fe8a9c0d">vfinetloader</a>
+- SYS_EXT_MSG_1_2 : <a href="namespacevfinetloader.md#aed6b03cebf679080000ec2bc8e934436a722c4c0d8e05257102ccdb41180842cd">vfinetloader</a>
+- SYS_EXT_MSG_DISABLED : <a href="namespacevfinetloader.md#aed6b03cebf679080000ec2bc8e934436ad1bbcd783f557f7d8f9dee3af5820fc7">vfinetloader</a>
+- SYS_FILE_FINISH : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a5faeb632dd222d6dec15ed7517c00e57">vfinetloader</a>
+- sys_GetChargingMode() : <a href="namespacevfisyspm.md#a72fd982609120a896c05d8f390c59dc9">vfisyspm</a>
+- sys_GetConfig() : <a href="namespacevfisyspm.md#ac334c4dcb872d09be68678ee3fe4d348">vfisyspm</a>
+- sys_GetCurrentState() : <a href="namespacevfisyspm.md#a6c55f9ea47af8b4082e4f3ce63be4ece">vfisyspm</a>
+- sys_GetPciRebootTime() : <a href="namespacevfisyspm.md#aa08792636f5c4645041fa8fe765108ce">vfisyspm</a>
+- sys_GetRebootReason() : <a href="namespacevfisyspm.md#a39c288392cb669a9ac2984e1ca54f57c">vfisyspm</a>
+- sys_GetSvcVersion() : <a href="namespacevfisyspm.md#a3d4c62b4ad7152888495785a9efd3705">vfisyspm</a>
+- sys_GetVersion() : <a href="namespacevfisyspm.md#ae217f122b64926db63e29372317fa200">vfisyspm</a>
+- sys_Hibernate() : <a href="namespacevfisyspm.md#afe74f69646f3357df026f70ac5d943ae">vfisyspm</a>
+- sys_Init() : <a href="namespacevfisyspm.md#a828c03869c165b8b79ebba5cccc27fa4">vfisyspm</a>
+- SYS_LAST : <a href="namespacevfinetloader.md#a94cc038c7531a6a77b801ea738c8c207a71f587b6099a2f4c5ae573a4d4a5eb5d">vfinetloader</a>
+- SYS_LED_NONE : <a href="namespacevfisysinfo.md#ab6831a7d06c0a2bc69f9b024f6445a80aac9b09da35c2d54eb64ab416abb37645">vfisysinfo</a>
+- SYS_MSG : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a21933eb4e27259f1a267e9fb749a489d">vfinetloader</a>
+- SYS_NETLOADER_EXIT : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574aba573103184526a99faf0ff769fbc087">vfinetloader</a>
+- SYS_NETLOADER_READY : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a4dd35a555c49706006658088a4a353a1">vfinetloader</a>
+- SYS_NON_BLOCKING : <a href="namespacevfinetloader.md#a94cc038c7531a6a77b801ea738c8c207aa94ece816839eabaf0167cdb5de9314c">vfinetloader</a>
+- SYS_PM_ERR_ALLOWED : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746ac297c7c9668ba922b7794f3bf77f5773">vfisyspm</a>
+- SYS_PM_ERR_ALREADY_INIT : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a2a1727fbf8eb5c5aaa7d932b96e4e46e">vfisyspm</a>
+- SYS_PM_ERR_CHARGING : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746aea05ecd5dd03fd74cc3d3228f0fa8eb0">vfisyspm</a>
+- SYS_PM_ERR_CONFIG : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746ac0c023e278546f72723caeec35b4f170">vfisyspm</a>
+- SYS_PM_ERR_DAEMON_COM : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a5884170ce1ce8d75d8a74f4bd374bb11">vfisyspm</a>
+- SYS_PM_ERR_FAIL : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746af5bd33ce0af71453dfb44a9814d03cb5">vfisyspm</a>
+- SYS_PM_ERR_IN_CRIT_SECTION : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a207bb908cae8a83962b29bac0251d1f4">vfisyspm</a>
+- SYS_PM_ERR_INIT : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a54f680b1baeda8a550260a8cd4d782c4">vfisyspm</a>
+- SYS_PM_ERR_IPC : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a92c5f00991921b77c8e64a3b59284a67">vfisyspm</a>
+- SYS_PM_ERR_LIBNOTIFY : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a299d89b8ddcaef1c1cb68415ce412739">vfisyspm</a>
+- SYS_PM_ERR_LOW_LEVEL : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a5d7a0ef8dbdeffdc3f85bb9066850695">vfisyspm</a>
+- SYS_PM_ERR_NON_EXISTING : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746af6cdb2549cde9a9e94df56d89e8a62ed">vfisyspm</a>
+- SYS_PM_ERR_NOT_RUNNING : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a2ba53fd74486fb81a91f6e5507fb55c4">vfisyspm</a>
+- SYS_PM_ERR_NOTIFY_SVC : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a9652fa520e4543e8237af60e0aa5a191">vfisyspm</a>
+- SYS_PM_ERR_OK : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746ae6e828a228aa2729ef13e39aeb60c993">vfisyspm</a>
+- SYS_PM_ERR_PARAM : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746aef56cc53fc519e9cefd5e3360c05c2ca">vfisyspm</a>
+- SYS_PM_ERR_POWER : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a4202f878b3a87ff06fae1d55724a1967">vfisyspm</a>
+- SYS_PM_ERR_STATE : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a65f6f5eb0488509067c8a9fac31c6c08">vfisyspm</a>
+- SYS_PM_ERR_TIMEOUT : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a92138b43bfc3d7edab2a1ab6641c08e3">vfisyspm</a>
+- SYS_PM_ERR_TIMER : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a569d82151dc442011b139abf87e618a0">vfisyspm</a>
+- SYS_PM_ERR_UNKNOWN : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746aae8d7f2b6ae4f09e48dcc0fd6bce9839">vfisyspm</a>
+- SYS_PM_ERR_UNSUPPORTED : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a82b2f70a22c97206fee5b8dca67f84c0">vfisyspm</a>
+- SYS_PM_ERR_WAKE_UP_IS_PENDING : <a href="namespacevfisyspm.md#a116cd14a22494b717a346ddd5be42746a4eb7c919019f254c797582f75e29c8df">vfisyspm</a>
+- SYS_PROP_ADE_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a2edf2297e30ddc12845a1793761bd0ba">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a2edf2297e30ddc12845a1793761bd0ba">vfisysinfo</a>
+- SYS_PROP_ADK_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8ab3a6e46e6619287bb6f21f54e6e649">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8ab3a6e46e6619287bb6f21f54e6e649">vfisysinfo</a>
+- SYS_PROP_ALL_LOADED_KEYS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6d56e1f9158ae2a3654065a855c5df90">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6d56e1f9158ae2a3654065a855c5df90">vfisysinfo</a>
+- SYS_PROP_ALL_LOADED_KEYS_V2 : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a22c87a9c4e15c984c3af9697edd4d253">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a22c87a9c4e15c984c3af9697edd4d253">vfisysinfo</a>
+- SYS_PROP_ANDROID : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abea86f2adb2f792b1bd67028f5a8c436">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abea86f2adb2f792b1bd67028f5a8c436">vfisysinfo</a>
+- SYS_PROP_ANDROID_DNS1 : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a38554f4c78dc32a40bf4b3c16ca3a24f">vfisysinfo</a>
+- SYS_PROP_ANDROID_DNS2 : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a54de65f74acca0e59f0be26dd73e498f">vfisysinfo</a>
+- SYS_PROP_ANDROID_GATEWAY : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abce7c9c1828c1f109b1db45ee0bef855">vfisysinfo</a>
+- SYS_PROP_ANDROID_IP_V4_ADDRESS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a28180a21097570b4a2e3ebf624aa9bb3">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a28180a21097570b4a2e3ebf624aa9bb3">vfisysinfo</a>
+- SYS_PROP_ANDROID_IP_V6_ADDRESS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a054197b33e074339c31a98b042a1acab">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a054197b33e074339c31a98b042a1acab">vfisysinfo</a>
+- SYS_PROP_ANDROID_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a410fae5a9e8075564c7669615c6d3b23">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a410fae5a9e8075564c7669615c6d3b23">vfisysinfo</a>
+- SYS_PROP_ANDROID_PREFIX_LENGTH : <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae2f2f514c4f22815c7cde6959bd046f3">vfisysinfo</a>
+- SYS_PROP_ANDROID_TIME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ada1b86b61a94b461d95909a82681b6a7">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ada1b86b61a94b461d95909a82681b6a7">vfisysinfo</a>
+- SYS_PROP_ANDROID_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a995dc60fe948eb479e8e59d2fbb66685">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a995dc60fe948eb479e8e59d2fbb66685">vfisysinfo</a>
+- SYS_PROP_APP_BUNDLE_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a93c85c8a6862d9c5d4ed929a51ed05dc">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a93c85c8a6862d9c5d4ed929a51ed05dc">vfisysinfo</a>
+- SYS_PROP_APP_PKG_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4928bd0adace70014a96ee5da5c95ea4">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4928bd0adace70014a96ee5da5c95ea4">vfisysinfo</a>
+- SYS_PROP_ATTACK_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad7105f523f39aca2beafeed5d1e028ea">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad7105f523f39aca2beafeed5d1e028ea">vfisysinfo</a>
+- SYS_PROP_ATTACK_STATUS_CODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5e3b5089b7416513cf231b800b753c08">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5e3b5089b7416513cf231b800b753c08">vfisysinfo</a>
+- SYS_PROP_BARCODE_SCANNER : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1e627078426ad3ebc6512f512b79a55f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1e627078426ad3ebc6512f512b79a55f">vfisysinfo</a>
+- SYS_PROP_BARCODE_SCANNER_FW_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab358e2b432363ea56fee93f360bc41c3">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab358e2b432363ea56fee93f360bc41c3">vfisysinfo</a>
+- SYS_PROP_BATTERY_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aefc67319cd8a7037e0b9d32d15f6031e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aefc67319cd8a7037e0b9d32d15f6031e">vfisysinfo</a>
+- SYS_PROP_BATTERY_CALIBRATION : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7c651ba23bc342e93cd9a3ce10d16882">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7c651ba23bc342e93cd9a3ce10d16882">vfisysinfo</a>
+- SYS_PROP_BATTERY_CAPACITY : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abc37e1851d7ceb948147000c19557b1a">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abc37e1851d7ceb948147000c19557b1a">vfisysinfo</a>
+- SYS_PROP_BATTERY_CHARGE_IN_SLEEP : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a37527938ac672896d40befc88e40ccae">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a37527938ac672896d40befc88e40ccae">vfisysinfo</a>
+- SYS_PROP_BATTERY_CHARGE_LEVEL : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae46779893654548bb0b7692f55f8360d">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae46779893654548bb0b7692f55f8360d">vfisysinfo</a>
+- SYS_PROP_BATTERY_CHARGE_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6acecc3b39778929a06b2182b5c4fa4d7a">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6acecc3b39778929a06b2182b5c4fa4d7a">vfisysinfo</a>
+- SYS_PROP_BATTERY_CHARGING : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9c15681c70f0381eae1df038c94b2347">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9c15681c70f0381eae1df038c94b2347">vfisysinfo</a>
+- SYS_PROP_BATTERY_CRITICAL : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a888f1afa77874e164141c5f7479f1792">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a888f1afa77874e164141c5f7479f1792">vfisysinfo</a>
+- SYS_PROP_BATTERY_CURRENT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a8ff7df266f8d28410e5777ddd01b88a6">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a8ff7df266f8d28410e5777ddd01b88a6">vfisysinfo</a>
+- SYS_PROP_BATTERY_DEVICE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a3d8570a544f0a00df41fb3794c3ab574">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a3d8570a544f0a00df41fb3794c3ab574">vfisysinfo</a>
+- SYS_PROP_BATTERY_FCC : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aca1af4d63f4535be7647362998a79543">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aca1af4d63f4535be7647362998a79543">vfisysinfo</a>
+- SYS_PROP_BATTERY_FULL : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4371fbba406624f207c3807795d3873b">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4371fbba406624f207c3807795d3873b">vfisysinfo</a>
+- SYS_PROP_BATTERY_LOW : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a208ec2c5e2391b98c8f49cb89b5fe22b">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a208ec2c5e2391b98c8f49cb89b5fe22b">vfisysinfo</a>
+- SYS_PROP_BATTERY_NORMAL : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a967b67fbc6f5363196d5c12b6afc0455">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a967b67fbc6f5363196d5c12b6afc0455">vfisysinfo</a>
+- SYS_PROP_BATTERY_SERIALNO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9da144330f85e3767920716128cfec94">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9da144330f85e3767920716128cfec94">vfisysinfo</a>
+- SYS_PROP_BATTERY_SOH : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a55bec03e4f9a5c099cd36cbbc8ac8e28">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a55bec03e4f9a5c099cd36cbbc8ac8e28">vfisysinfo</a>
+- SYS_PROP_BATTERY_STATUS_OK : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa89f4d63707dc05ceb8ab3c06e1f8724">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa89f4d63707dc05ceb8ab3c06e1f8724">vfisysinfo</a>
+- SYS_PROP_BATTERY_TECHNOLOGY : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a26d1913473b834cfa42887947f6f5d3e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a26d1913473b834cfa42887947f6f5d3e">vfisysinfo</a>
+- SYS_PROP_BATTERY_TEMP : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad3c190ea8b87cade9b51e8c99778e90e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad3c190ea8b87cade9b51e8c99778e90e">vfisysinfo</a>
+- SYS_PROP_BATTERY_TYPE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a92badb495da634e27eea2927be7fbd1c">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a92badb495da634e27eea2927be7fbd1c">vfisysinfo</a>
+- SYS_PROP_BATTERY_VOLTAGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a73e181a8f521c1dc5afe4b5e2daf1f90">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a73e181a8f521c1dc5afe4b5e2daf1f90">vfisysinfo</a>
+- SYS_PROP_BOOT_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5ff94c4d417317c748e919d09fa3e7c6">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5ff94c4d417317c748e919d09fa3e7c6">vfisysinfo</a>
+- SYS_PROP_BT_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a71fdcddc54ae6bd5740eb99054ffec9c">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a71fdcddc54ae6bd5740eb99054ffec9c">vfisysinfo</a>
+- SYS_PROP_BUNDLE_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abc40a40708a95af3a3b26885c540d430">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abc40a40708a95af3a3b26885c540d430">vfisysinfo</a>
+- SYS_PROP_BUZZER_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1b9fd2445b0a1bf16097a9b189018f60">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1b9fd2445b0a1bf16097a9b189018f60">vfisysinfo</a>
+- SYS_PROP_CAMERA : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a502c97a77a77d9761fb1055ad415cdaf">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a502c97a77a77d9761fb1055ad415cdaf">vfisysinfo</a>
+- SYS_PROP_CARD_SLOT2_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a58796fbdad1c4a985719c91c8c9c4b2d">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a58796fbdad1c4a985719c91c8c9c4b2d">vfisysinfo</a>
+- SYS_PROP_CARD_SLOT_COUNT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7f8d2012f713181ad3854d402c141dd5">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7f8d2012f713181ad3854d402c141dd5">vfisysinfo</a>
+- SYS_PROP_CERT_SPONSOR_MODE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a75c4704f290f74d9e96cb66c89be6823">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a75c4704f290f74d9e96cb66c89be6823">vfisysinfo</a>
+- SYS_PROP_CERT_SPONSOR_PROD : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a990a3118be6ffe60a3b09196ca021e75">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a990a3118be6ffe60a3b09196ca021e75">vfisysinfo</a>
+- SYS_PROP_CERT_SPONSOR_SN : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a51ef347801050f049f7a5af7f9a04879">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a51ef347801050f049f7a5af7f9a04879">vfisysinfo</a>
+- SYS_PROP_CHARGE_CYCLE_COUNT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac6a492411530c37ef8a07f9f57f3367d">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac6a492411530c37ef8a07f9f57f3367d">vfisysinfo</a>
+- SYS_PROP_CHARGE_ON_SAVING : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a70731749397c88a6ccea34ecfb26d4f4">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a70731749397c88a6ccea34ecfb26d4f4">vfisysinfo</a>
+- SYS_PROP_CIB_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae1c3940464f170891652136f16ffdf30">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae1c3940464f170891652136f16ffdf30">vfisysinfo</a>
+- SYS_PROP_CONSOLE_STATE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a2ec32ae60ed3c4be6ea71d51b6de83ee">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a2ec32ae60ed3c4be6ea71d51b6de83ee">vfisysinfo</a>
+- SYS_PROP_COUNTRY : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a204a207f84472bea854184a4affb74a7">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a204a207f84472bea854184a4affb74a7">vfisysinfo</a>
+- SYS_PROP_CTLS_COUNTERS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa078ab77a5d121781695f88ece376b3d">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa078ab77a5d121781695f88ece376b3d">vfisysinfo</a>
+- SYS_PROP_CTLS_INFO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9fb203fa02fbd686ad551a3a4b5b03fb">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9fb203fa02fbd686ad551a3a4b5b03fb">vfisysinfo</a>
+- SYS_PROP_DEV_ID : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a50413150d2cf5c39a43f0128621e0482">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a50413150d2cf5c39a43f0128621e0482">vfisysinfo</a>
+- SYS_PROP_DEVICE_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a53b59b617148d6103f118f73ddefe054">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a53b59b617148d6103f118f73ddefe054">vfisysinfo</a>
+- SYS_PROP_DEVICE_TYPE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac789f556bfc207077f1736a2ca07e625">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac789f556bfc207077f1736a2ca07e625">vfisysinfo</a>
+- SYS_PROP_DISP : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abf54c5396d13503362d18e8716cf25af">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abf54c5396d13503362d18e8716cf25af">vfisysinfo</a>
+- SYS_PROP_DISP_BACKLIGHT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5af0fd9d81e732b9f15962c0c340aa3f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5af0fd9d81e732b9f15962c0c340aa3f">vfisysinfo</a>
+- SYS_PROP_DISP_COLOR : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6afe687980907521c2e53028b2ad4babc8">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6afe687980907521c2e53028b2ad4babc8">vfisysinfo</a>
+- SYS_PROP_DISP_CONTRAST : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5581e41b2f416c48aea2ae94dd2d35cc">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5581e41b2f416c48aea2ae94dd2d35cc">vfisysinfo</a>
+- SYS_PROP_DISP_HEIGHT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aec005ebac83ca731603686f66cd4a17e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aec005ebac83ca731603686f66cd4a17e">vfisysinfo</a>
+- SYS_PROP_DISP_HW : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6afdf36f463336d996544b9ed371512c17">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6afdf36f463336d996544b9ed371512c17">vfisysinfo</a>
+- SYS_PROP_DISP_TOUCH : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab3b1ae923edf7b0f6b2cbb5fd788edbd">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab3b1ae923edf7b0f6b2cbb5fd788edbd">vfisysinfo</a>
+- SYS_PROP_DISP_WIDTH : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae43827746675b7159305b23b68a35ffd">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae43827746675b7159305b23b68a35ffd">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_HW_REV : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ad486139e3ac99a4ff4503e2972401f3b">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ad486139e3ac99a4ff4503e2972401f3b">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_INSTALL : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5afe3bb54a6d26a845713f79df6da8f6c8">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5afe3bb54a6d26a845713f79df6da8f6c8">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_IP_ADDRESS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4f94bd9ec3b8e70e5d35a02442469035">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4f94bd9ec3b8e70e5d35a02442469035">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_IP_V6_ADDRESS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a06a71a2f6bc3bf36c7b3042d3124c65d">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a06a71a2f6bc3bf36c7b3042d3124c65d">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aae4c39ff63886e6bd6465f3701d2dca4">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aae4c39ff63886e6bd6465f3701d2dca4">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_MODEL : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1a6b19ae30618fe8874a4cfd19d6a869">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1a6b19ae30618fe8874a4cfd19d6a869">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_OS_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7b6fec2bd0d208f73fcae0c3696aaa30">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7b6fec2bd0d208f73fcae0c3696aaa30">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_PN : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae93bfe57aa4984b2d2d38227ed89e357">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae93bfe57aa4984b2d2d38227ed89e357">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_SN : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab60cf7af6af0e5f58e9cfd15cb12700e">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab60cf7af6af0e5f58e9cfd15cb12700e">vfisysinfo</a>
+- SYS_PROP_DOCK_STATION_USB1_IP_ADDRESS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1d2f9ca7fffb18f84237107d527afdc9">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1d2f9ca7fffb18f84237107d527afdc9">vfisysinfo</a>
+- SYS_PROP_DOCK_SUPPORT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aff00ec2256d2f36fe9fb651939ed087f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aff00ec2256d2f36fe9fb651939ed087f">vfisysinfo</a>
+- SYS_PROP_DOCKING_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6af8354dc76725e372b36488f53380b83f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6af8354dc76725e372b36488f53380b83f">vfisysinfo</a>
+- SYS_PROP_DT_NAME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a49602db3d2f22d0ed1210e21a092a654">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a49602db3d2f22d0ed1210e21a092a654">vfisysinfo</a>
+- SYS_PROP_ECC_VRK_SUPPORT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7cfd54b2ae30aef076602c1a78418b8b">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7cfd54b2ae30aef076602c1a78418b8b">vfisysinfo</a>
+- SYS_PROP_ETH2_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae8d206bf1bf48cd4dd5445b60911343b">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae8d206bf1bf48cd4dd5445b60911343b">vfisysinfo</a>
+- SYS_PROP_ETH_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab3e3c166a26b816acf61f7bc2bc94912">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab3e3c166a26b816acf61f7bc2bc94912">vfisysinfo</a>
+- SYS_PROP_EXT_NFC_ANTENNA : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad3de9b30d02418d8dc0e90e6c3d80245">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad3de9b30d02418d8dc0e90e6c3d80245">vfisysinfo</a>
+- SYS_PROP_EXT_STORAGE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aca5b9f296c56e579d5789419858f58ee">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aca5b9f296c56e579d5789419858f58ee">vfisysinfo</a>
+- SYS_PROP_FET : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a04847409c2a101bf3abcc2e3b05fe671">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a04847409c2a101bf3abcc2e3b05fe671">vfisysinfo</a>
+- SYS_PROP_FILE_NAME_TO_INSTALL : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5075cb0ddde96fe765df572a8c493d02">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5075cb0ddde96fe765df572a8c493d02">vfisysinfo</a>
+- SYS_PROP_FW_PCI_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aca5a1c92bfa6163af1228294bf2adbca">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aca5a1c92bfa6163af1228294bf2adbca">vfisysinfo</a>
+- SYS_PROP_GSM_FIRMWARE_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8ace1a7b28d9626f27346d7bc7e5a0a0">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8ace1a7b28d9626f27346d7bc7e5a0a0">vfisysinfo</a>
+- SYS_PROP_HW_DATA_PARTITION_SIZE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a131d64ad853672af8b4706a281c81399">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a131d64ad853672af8b4706a281c81399">vfisysinfo</a>
+- SYS_PROP_HW_DATA_PARTITION_USED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a94740d73d7f4596cda052d50e720cc60">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a94740d73d7f4596cda052d50e720cc60">vfisysinfo</a>
+- SYS_PROP_HW_EXE_PARTITION_SIZE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aae43134ab62237dab64dbe1ab6367fec">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aae43134ab62237dab64dbe1ab6367fec">vfisysinfo</a>
+- SYS_PROP_HW_EXE_PARTITION_USED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6af71f5edbfeab0c9db116ececa03f7500">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6af71f5edbfeab0c9db116ececa03f7500">vfisysinfo</a>
+- SYS_PROP_HW_FLASH_SIZE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abd4d85110ee2d9283b0ccf4663948346">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abd4d85110ee2d9283b0ccf4663948346">vfisysinfo</a>
+- SYS_PROP_HW_FLASH_USED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa276858f56b1405ee82b1444ebe9951e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa276858f56b1405ee82b1444ebe9951e">vfisysinfo</a>
+- SYS_PROP_HW_ID : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a0b9617674a9d745f38290f36d6197848">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a0b9617674a9d745f38290f36d6197848">vfisysinfo</a>
+- SYS_PROP_HW_LOT_NO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abbcd45f660cc15ecb101669fa4ea23d3">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abbcd45f660cc15ecb101669fa4ea23d3">vfisysinfo</a>
+- SYS_PROP_HW_MODEL_NAME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7d561d8e30e9d4bdf416a94b2a4e935e">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7d561d8e30e9d4bdf416a94b2a4e935e">vfisysinfo</a>
+- SYS_PROP_HW_MODEL_NAME_SEC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a832c4fc03cdc12433b7c7af94f521f10">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a832c4fc03cdc12433b7c7af94f521f10">vfisysinfo</a>
+- SYS_PROP_HW_MODEL_NAME_SHORT : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa8c1d890378799073bfab4b1ab6f79bb">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa8c1d890378799073bfab4b1ab6f79bb">vfisysinfo</a>
+- SYS_PROP_HW_PART_NO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2737e98f4f848f6719edb19e29f8b1c2">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2737e98f4f848f6719edb19e29f8b1c2">vfisysinfo</a>
+- SYS_PROP_HW_PTID : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ac5a71632b851ff3b04bc6189305b0ccd">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ac5a71632b851ff3b04bc6189305b0ccd">vfisysinfo</a>
+- SYS_PROP_HW_RAM_SIZE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac45aecc8b4cdaeedc3e99f619ff93da9">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac45aecc8b4cdaeedc3e99f619ff93da9">vfisysinfo</a>
+- SYS_PROP_HW_RAM_USED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a0b0ca2786f8cbe3f8c6c2159229de43d">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a0b0ca2786f8cbe3f8c6c2159229de43d">vfisysinfo</a>
+- SYS_PROP_HW_SERIALNO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa3fa762fb6cfe51564a8d5c3d467aadc">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa3fa762fb6cfe51564a8d5c3d467aadc">vfisysinfo</a>
+- SYS_PROP_HW_STRING : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a820afb457966ee7375403baafc447e79">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a820afb457966ee7375403baafc447e79">vfisysinfo</a>
+- SYS_PROP_HW_TOUCH_GROUNDED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac9987251dfac389b35faedcb03a66476">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac9987251dfac389b35faedcb03a66476">vfisysinfo</a>
+- SYS_PROP_HW_VARIANT_NAME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5f4b19b7304b56c2ea3d9ac8094134eb">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5f4b19b7304b56c2ea3d9ac8094134eb">vfisysinfo</a>
+- SYS_PROP_HW_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa3b079aefa9d23fa514c73bd09e8149f">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa3b079aefa9d23fa514c73bd09e8149f">vfisysinfo</a>
+- SYS_PROP_INSTALLED_PCKG_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1fb8147c3c6399a27003a405c2f334ca">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a1fb8147c3c6399a27003a405c2f334ca">vfisysinfo</a>
+- SYS_PROP_INTERNAL_BATTERY_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a63b3a13f237ce79653aa2ade02353f58">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a63b3a13f237ce79653aa2ade02353f58">vfisysinfo</a>
+- SYS_PROP_INTERNAL_BATTERY_VOLTAGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4833d131394eb6de47495e29055290ae">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4833d131394eb6de47495e29055290ae">vfisysinfo</a>
+- SYS_PROP_KERNEL_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a324045684ff5ec20280af8f9a4021825">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a324045684ff5ec20280af8f9a4021825">vfisysinfo</a>
+- SYS_PROP_KEYB_BACKLIGHT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6554f51a46750fcfd60bcf927c6b546f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6554f51a46750fcfd60bcf927c6b546f">vfisysinfo</a>
+- SYS_PROP_KEYBOARD_BEEP : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae1c39d3bf7da90daf5bf075a97160888">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae1c39d3bf7da90daf5bf075a97160888">vfisysinfo</a>
+- SYS_PROP_KEYBOARD_HW : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a33444be655ab942232e2c595c533169f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a33444be655ab942232e2c595c533169f">vfisysinfo</a>
+- SYS_PROP_KEYBOARD_SIZE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5dc9cf0131fb2c7c75185cda3f6b7044">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5dc9cf0131fb2c7c75185cda3f6b7044">vfisysinfo</a>
+- SYS_PROP_KEYBOARD_TYPE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1d6b74eb399eaafc04a3c38277e7ab62">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a1d6b74eb399eaafc04a3c38277e7ab62">vfisysinfo</a>
+- SYS_PROP_LCD_PANEL_ID : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6af551f02e97e92e2d1d8dad2219352fc5">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6af551f02e97e92e2d1d8dad2219352fc5">vfisysinfo</a>
+- SYS_PROP_LCD_PANEL_MODEL : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abfd76aaae223630aedbe51f14d43e865">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abfd76aaae223630aedbe51f14d43e865">vfisysinfo</a>
+- SYS_PROP_LED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5b10a0efae399b9119b75f8437650a31">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5b10a0efae399b9119b75f8437650a31">vfisysinfo</a>
+- SYS_PROP_LOW_THRESHOLD_VOLTAGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab82d94c6d1a7f20a2551396fc7664d3a">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab82d94c6d1a7f20a2551396fc7664d3a">vfisysinfo</a>
+- SYS_PROP_MANUF_DATE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a27c287766d2773f1caf6bcb41e982a07">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a27c287766d2773f1caf6bcb41e982a07">vfisysinfo</a>
+- SYS_PROP_MIB_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4501cf719263a7631edd4b5b9d3a8964">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a4501cf719263a7631edd4b5b9d3a8964">vfisysinfo</a>
+- SYS_PROP_MOBILE_RADIO_SW_VERSION : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a53c2e133b245023c89afe8ed54ed17ec">vfisysinfo</a>
+- SYS_PROP_MSR_COUNTERS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa90c372f124aca597377ae89db988799">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa90c372f124aca597377ae89db988799">vfisysinfo</a>
+- SYS_PROP_MSR_INFO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2ab3fe72ee58842ffc1bdec55d46fd87">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2ab3fe72ee58842ffc1bdec55d46fd87">vfisysinfo</a>
+- SYS_PROP_MTD_INFO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9b246aaf364d64b76d6c78e0d86af640">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9b246aaf364d64b76d6c78e0d86af640">vfisysinfo</a>
+- SYS_PROP_NAVIGATOR_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab7df374ae885fb92848c4f31c2c8be3e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab7df374ae885fb92848c4f31c2c8be3e">vfisysinfo</a>
+- SYS_PROP_NTP_SERVER : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae5a863c5d8864f466473646efd9885fe">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae5a863c5d8864f466473646efd9885fe">vfisysinfo</a>
+- SYS_PROP_OPENPROTOCOL_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5ccfb823e05fd08a9757af28de4f1d3d">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a5ccfb823e05fd08a9757af28de4f1d3d">vfisysinfo</a>
+- SYS_PROP_OS_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8fc1a63a16b1dc89107df762a4292487">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8fc1a63a16b1dc89107df762a4292487">vfisysinfo</a>
+- SYS_PROP_PCI : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad4bc87b33e676f1b85b0e7ec92ad1e60">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad4bc87b33e676f1b85b0e7ec92ad1e60">vfisysinfo</a>
+- SYS_PROP_PCI_APPS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a080de5bf14f866384329233e8c4a1bde">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a080de5bf14f866384329233e8c4a1bde">vfisysinfo</a>
+- SYS_PROP_PCI_REBOOT_TIME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2a138d9b29c8a0b64f7f1d44de20fcc8">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a2a138d9b29c8a0b64f7f1d44de20fcc8">vfisysinfo</a>
+- SYS_PROP_PKG_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae4e55e7a318ab9a6bc87d35db96535f2">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae4e55e7a318ab9a6bc87d35db96535f2">vfisysinfo</a>
+- SYS_PROP_POGO_CHARGING_STATE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4802d11ea057516792653701fafba407">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4802d11ea057516792653701fafba407">vfisysinfo</a>
+- SYS_PROP_POGO_DATA_STATE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a35dff060c5f4a9bb3517ed838f1e1c2c">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a35dff060c5f4a9bb3517ed838f1e1c2c">vfisysinfo</a>
+- SYS_PROP_POSEIDON_ENCRYPTION_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a8ee75d6db3ccb061ee5bd6953938cd3b">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a8ee75d6db3ccb061ee5bd6953938cd3b">vfisysinfo</a>
+- SYS_PROP_POWER_ON : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4a51a29c38e901e1c72fde5e73feba73">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4a51a29c38e901e1c72fde5e73feba73">vfisysinfo</a>
+- SYS_PROP_POWER_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6acabc9feddd1d3f6e4c9c940e159bdefd">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6acabc9feddd1d3f6e4c9c940e159bdefd">vfisysinfo</a>
+- SYS_PROP_PRINTER_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a76d2f2429c6d311c0483a869a3a6d4fd">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a76d2f2429c6d311c0483a869a3a6d4fd">vfisysinfo</a>
+- SYS_PROP_REBOOT_REASON : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae79dd5af0c3fcae3268e1c74da0387e7">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae79dd5af0c3fcae3268e1c74da0387e7">vfisysinfo</a>
+- SYS_PROP_RELEASE_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ac228e85b7165bec5681885341e281a1d">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ac228e85b7165bec5681885341e281a1d">vfisysinfo</a>
+- SYS_PROP_RFS_SECURITY_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6e2ad0a9e79f0de7a139a3ee753f714b">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6e2ad0a9e79f0de7a139a3ee753f714b">vfisysinfo</a>
+- SYS_PROP_RFS_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5acf9e6439bd398e22ada1a6bbf9fb3a7e">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5acf9e6439bd398e22ada1a6bbf9fb3a7e">vfisysinfo</a>
+- SYS_PROP_RTC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5acc6155fb36b174c57c784326228e50a3">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5acc6155fb36b174c57c784326228e50a3">vfisysinfo</a>
+- SYS_PROP_SBI_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aac4963dc9d597b0c5a3a1a23cc759152">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aac4963dc9d597b0c5a3a1a23cc759152">vfisysinfo</a>
+- SYS_PROP_SCR_COUNTERS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a3bd49e99a5616e64f2d3ffd738892ff5">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a3bd49e99a5616e64f2d3ffd738892ff5">vfisysinfo</a>
+- SYS_PROP_SCR_INFO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8bd463a79a4fff2cb3aa4757eac001ea">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a8bd463a79a4fff2cb3aa4757eac001ea">vfisysinfo</a>
+- SYS_PROP_SECAPP_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a45c90c98bcd15d1bffc92a7e06a01d42">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a45c90c98bcd15d1bffc92a7e06a01d42">vfisysinfo</a>
+- SYS_PROP_SERVICE_SWITCH_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a08f92f27e3cf840b8ade35c77e4d373e">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a08f92f27e3cf840b8ade35c77e4d373e">vfisysinfo</a>
+- SYS_PROP_SLP_TAINTED_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad8ca7302ece0ecd11d59705d7a03addf">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ad8ca7302ece0ecd11d59705d7a03addf">vfisysinfo</a>
+- SYS_PROP_SPEAKER_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abcb899136da44e3bc105aab472aabe54">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abcb899136da44e3bc105aab472aabe54">vfisysinfo</a>
+- SYS_PROP_SRED_MODE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6afd5690d909b01f174f91c26c01cb58">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a6afd5690d909b01f174f91c26c01cb58">vfisysinfo</a>
+- SYS_PROP_SRED_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aad961784fed78eb6cb41c9dc24bb98ea">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aad961784fed78eb6cb41c9dc24bb98ea">vfisysinfo</a>
+- SYS_PROP_STATUSBAR_COLOR : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9fced6aaff93a1decfac22b8bbf9a232">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a9fced6aaff93a1decfac22b8bbf9a232">vfisysinfo</a>
+- SYS_PROP_STBY_MCU_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa051ac976b90c23973df5d4082941793">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5aa051ac976b90c23973df5d4082941793">vfisysinfo</a>
+- SYS_PROP_SWITCH_THRESHOLD_VOLTAGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7392b2cd6f44828067a7173ec138f291">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7392b2cd6f44828067a7173ec138f291">vfisysinfo</a>
+- SYS_PROP_SYSMODE_BUTTON : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6acc75fa2ba2022b32b265b8606a27ff19">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6acc75fa2ba2022b32b265b8606a27ff19">vfisysinfo</a>
+- SYS_PROP_TAMPER_RECORDS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae1272a1a468b0a7692d950b41ba50a88">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ae1272a1a468b0a7692d950b41ba50a88">vfisysinfo</a>
+- SYS_PROP_TERMINAL_SPONSOR : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a792a2e993dcdb817306dc0ccdf1626fd">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a792a2e993dcdb817306dc0ccdf1626fd">vfisysinfo</a>
+- SYS_PROP_TIME_ISO8601 : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a94fc9dde3f48015c6d3ab0ad42338293">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a94fc9dde3f48015c6d3ab0ad42338293">vfisysinfo</a>
+- SYS_PROP_TIME_ZONE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5af86d8d7cfe224b255b9642e863fe4b07">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5af86d8d7cfe224b255b9642e863fe4b07">vfisysinfo</a>
+- SYS_PROP_TIME_ZONE_FROM_FILE : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a11b66a87725375dfff3ff9cecca51375">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a11b66a87725375dfff3ff9cecca51375">vfisysinfo</a>
+- SYS_PROP_TIME_ZONE_LIST : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5af53e6ac1fc05d6b953c802067587f8e1">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5af53e6ac1fc05d6b953c802067587f8e1">vfisysinfo</a>
+- SYS_PROP_TIME_ZONE_NAME : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a418649eca34ab3a86418cc1846adf062">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a418649eca34ab3a86418cc1846adf062">vfisysinfo</a>
+- SYS_PROP_TOUCH_CONFIG_VERSION : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a705e026b15184535f093a4b69ae4d1dc">vfisysinfo</a>
+- SYS_PROP_TOUCH_HW_VERSION : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a33054a071b5e7070d27574a35c421a2a">vfisysinfo</a>
+- SYS_PROP_TOUCH_NAME : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a24269c1926357ee3c6dfd9a278b2d3bd">vfisysinfo</a>
+- SYS_PROP_TOUCH_SW_VERSION : <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ac0bdb84838ac7073f6980e30115c09a9">vfisysinfo</a>
+- SYS_PROP_UPTIME : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a83bbd94a976b75aa96147596b46dcdb8">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a83bbd94a976b75aa96147596b46dcdb8">vfisysinfo</a>
+- SYS_PROP_USB1_CHARGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a118533b786669fed5eb1f2947a5767ad">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a118533b786669fed5eb1f2947a5767ad">vfisysinfo</a>
+- SYS_PROP_USB1_CONFIGURABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a154bda4ceea4e9d48abcb850448b3a33">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a154bda4ceea4e9d48abcb850448b3a33">vfisysinfo</a>
+- SYS_PROP_USB1_DEFAULT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5a8907e62166fd08a976c4dc3aaf9573">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a5a8907e62166fd08a976c4dc3aaf9573">vfisysinfo</a>
+- SYS_PROP_USB1_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aaead90e48245d7d78ec76252549b3967">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aaead90e48245d7d78ec76252549b3967">vfisysinfo</a>
+- SYS_PROP_USB2_CHARGE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a96682017ea044f819484aef602988e2a">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a96682017ea044f819484aef602988e2a">vfisysinfo</a>
+- SYS_PROP_USB2_CONFIGURABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9919249f4c8fadd8ddd1a40b971aefb7">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9919249f4c8fadd8ddd1a40b971aefb7">vfisysinfo</a>
+- SYS_PROP_USB2_DEFAULT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6abcc5abd90c186f32974945e1c5db89aa">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6abcc5abd90c186f32974945e1c5db89aa">vfisysinfo</a>
+- SYS_PROP_USB2_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a64fa0b3803f99c1ff6ea89c649492cfe">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a64fa0b3803f99c1ff6ea89c649492cfe">vfisysinfo</a>
+- SYS_PROP_USB_C_CHARGING_STATE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a10c958205e8720348e007f47080d8a2d">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a10c958205e8720348e007f47080d8a2d">vfisysinfo</a>
+- SYS_PROP_USB_HIGH_POWER_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9c75638018ec53517f3d705822ab7881">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9c75638018ec53517f3d705822ab7881">vfisysinfo</a>
+- SYS_PROP_UX100_ANTI_REMOVAL_SWITCH : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6452a6809a05a64ec94578593d94b781">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6452a6809a05a64ec94578593d94b781">vfisysinfo</a>
+- SYS_PROP_UX100_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9bd293b29b4ad661b3ee1e704f35f6bc">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9bd293b29b4ad661b3ee1e704f35f6bc">vfisysinfo</a>
+- SYS_PROP_UX100_BACKLIGHT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6e77acb76a717e179153e17ff05bc8ed">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a6e77acb76a717e179153e17ff05bc8ed">vfisysinfo</a>
+- SYS_PROP_UX100_FW_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7a1219176108d085f59739e9ecec2371">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a7a1219176108d085f59739e9ecec2371">vfisysinfo</a>
+- SYS_PROP_UX100_OPERATIONAL_MODE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a96025196a71df79ff1c5b49afb1c724c">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a96025196a71df79ff1c5b49afb1c724c">vfisysinfo</a>
+- SYS_PROP_UX100_PARTNO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a037f139fb2f952df47db43eb91daa405">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a037f139fb2f952df47db43eb91daa405">vfisysinfo</a>
+- SYS_PROP_UX100_SERIALNO : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a0e652487d1965de8958f2352c0b7a322">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a0e652487d1965de8958f2352c0b7a322">vfisysinfo</a>
+- SYS_PROP_UX100_TYPE : <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a788535e1ce73ce56ab5935befb51efb3">vfisysinfo</a>
+- SYS_PROP_UX115_UNIT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aef32bfa7bc4d93f4a4cb4037f8ccb7f4">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aef32bfa7bc4d93f4a4cb4037f8ccb7f4">vfisysinfo</a>
+- SYS_PROP_UX400_AVAILABLE : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab7c6ca31643bc80b062818283172b1c3">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab7c6ca31643bc80b062818283172b1c3">vfisysinfo</a>
+- SYS_PROP_UX_MDB : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4d3b4c2a8620f9aed28a26eea2895528">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a4d3b4c2a8620f9aed28a26eea2895528">vfisysinfo</a>
+- SYS_PROP_UX_UNIT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa260a84faff1b0c921fd9f5c07f6ea91">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6aa260a84faff1b0c921fd9f5c07f6ea91">vfisysinfo</a>
+- SYS_PROP_VATS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae08ccb599a0c0026f1202aaba28f5cba">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ae08ccb599a0c0026f1202aaba28f5cba">vfisysinfo</a>
+- SYS_PROP_VAULT_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab9d957b338fcdff4b4ad9b9c0249afcd">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5ab9d957b338fcdff4b4ad9b9c0249afcd">vfisysinfo</a>
+- SYS_PROP_VCL_ENCRYPTION_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a387a14a845076eb83744fb11db320b6b">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a387a14a845076eb83744fb11db320b6b">vfisysinfo</a>
+- SYS_PROP_VOLTAGE_ENCRYPTION_STATUS : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac2f774a05a5f69d19e80553f0dcbc159">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ac2f774a05a5f69d19e80553f0dcbc159">vfisysinfo</a>
+- SYS_PROP_VOLUME : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab245b84c72978864738d485ae1bc5b1f">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6ab245b84c72978864738d485ae1bc5b1f">vfisysinfo</a>
+- SYS_PROP_VRK2_SUPPORT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9243632ffa323a635e5b274e0f9f4c4c">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a9243632ffa323a635e5b274e0f9f4c4c">vfisysinfo</a>
+- SYS_PROP_VRK_CERT_INSTALLED : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a72179d4fa62bc0df93966920bb8d90e5">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a72179d4fa62bc0df93966920bb8d90e5">vfisysinfo</a>
+- SYS_PROP_VRK_PACKAGING_UVRK_SUPPORT : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7f2802bdba2a6b9d3ba1c039065cb851">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6a7f2802bdba2a6b9d3ba1c039065cb851">vfisysinfo</a>
+- SYS_PROP_VSS_VERSION : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a20704377fc6989cc98ff2f0261d50cfe">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a20704377fc6989cc98ff2f0261d50cfe">vfisysinfo</a>
+- SYS_PROP_WARRANTIED_KEYS : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a79df7419f287c7139ba51e801002b4e8">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5a79df7419f287c7139ba51e801002b4e8">vfisysinfo</a>
+- SYS_PROP_WIFI_MAC : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abfc879b8385f2e14158be213f55b90c4">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5abfc879b8385f2e14158be213f55b90c4">vfisysinfo</a>
+- SYS_REBOOT : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a1621f521ace543fe69dc4fdf31e943a2">vfinetloader</a>
+- sys_Reboot() : <a href="namespacevfisyspm.md#ad55a0bca60ed5c19f87f0a12e9e552e3">vfisyspm</a>
+- SYS_REBOOT_REQUIRED : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574a1d3ebe09ea1b211ab781dbe36db40e9d">vfinetloader</a>
+- sys_RebootDock() : <a href="namespacevfisyspm.md#af09cc28d263f6316e293617ab360c9cd">vfisyspm</a>
+- sys_RefreshConfig() : <a href="namespacevfisyspm.md#a70b475852f505c319505a7b8d0a13193">vfisyspm</a>
+- sys_remove_sponsor_dir() : <a href="namespacesdi_1_1filesystem.md#a6c67d203b4323cce1f3c274d3f2827ee">sdi::filesystem</a>
+- sys_ResetBatteryFaultState() : <a href="namespacevfisyspm.md#a4d6492c4002bd0fe29ab6cb46860b3a6">vfisyspm</a>
+- sys_SetChargingMode() : <a href="namespacevfisyspm.md#a5993899ccf9771a2c045a4d15b65f621">vfisyspm</a>
+- sys_SetConfig() : <a href="namespacevfisyspm.md#a0d11383cc1a0947dd99a8eae48692218">vfisyspm</a>
+- sys_SetNotificationCB() : <a href="namespacevfisyspm.md#a34c2604900fb863f387cb2485d5c8b8c">vfisyspm</a>
+- sys_SetPciRebootTime() : <a href="namespacevfisyspm.md#a27733055b3dffa5f12f8a7a2fdaf4755">vfisyspm</a>
+- sys_SetTimer() : <a href="namespacevfisyspm.md#ab520652032bdfab68634715ead24caf7">vfisyspm</a>
+- sys_SetTimerCallback() : <a href="namespacevfisyspm.md#af7e5cd36fc1da64f6d3bc6608150c40d">vfisyspm</a>
+- sys_SetWakeupTime() : <a href="namespacevfisyspm.md#a8357d72c64c8dcf1a6f6d0069e9d7bf9">vfisyspm</a>
+- sys_Shutdown() : <a href="namespacevfisyspm.md#a5b1865b11b0d0bd3887347e29692b8c2">vfisyspm</a>
+- sys_Sleep() : <a href="namespacevfisyspm.md#ac082ceac95b7703ded5445c8aee7536f">vfisyspm</a>
+- sys_Standby() : <a href="namespacevfisyspm.md#add1c02a9ecf32dea3ffedb136972c7ce">vfisyspm</a>
+- sys_StartSysmode() : <a href="namespacevfisyspm.md#aecc49995b326dd842df308d43f882fec">vfisyspm</a>
+- sys_StrError() : <a href="namespacevfisyspm.md#a2c4c002f9b1eed4e0e310fac1a764ad7">vfisyspm</a>
+- SYS_UPDATE_CARD_RANGES : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11ac8a46b8368cb3367cd57df6af4b76c2c">vfisdi</a>
+- SYS_UPDATE_FIRMWARE : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11abe2b0ebf34d107fddb3e425f5fd47da5">vfisdi</a>
+- SYS_UPDATE_KEYS : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a9f057e7d39f928b800b1267db1ded018">vfisdi</a>
+- SYS_UPDATE_REMOVE_SDI_USER_CONFIG : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a87895583ad616691c8b72276a7170e0b">vfisdi</a>
+- SYS_UPDATE_REMOVE_SPONSOR : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11ab40786b48e5e6043ab4ef36ab958248c">vfisdi</a>
+- SYS_UPDATE_SDI_PLUGIN_PACKAGE : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11ab9234eb69ea28f6b02892173eb1f5765">vfisdi</a>
+- SYS_UPDATE_SDI_PLUGIN_REMOVAL : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a666bd3d7060cf49caab63459af1840ab">vfisdi</a>
+- SYS_UPDATE_SDI_USER_CONFIG : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a86a6af2f50a78cbd3fcc620bb54f1906">vfisdi</a>
+- SYS_UPDATE_SENSITIVE_TAGS : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a1265af3041bd8c7c861ad951fc5aff1f">vfisdi</a>
+- SYS_UPDATE_WHITELIST : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11a4960ea810e5814abc9e6d3cc3bf4a7bd">vfisdi</a>
+- SYS_UPLOAD_CONFIG_CARD_RANGES : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faab3e669cc243295e940eba812f8346805">libsdi</a> , <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faab3e669cc243295e940eba812f8346805">vfisdi</a>
+- SYS_UPLOAD_CONFIG_SDIEMV : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa842ed5565a14a6d2a44a6f29b4bf2203">vfisdi</a>
+- SYS_UPLOAD_CONFIG_SENSITIVE_TAGS : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faab044559af2f7e7efdb8840a21de1c7e3">libsdi</a> , <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faab044559af2f7e7efdb8840a21de1c7e3">vfisdi</a>
+- SYS_UPLOAD_CONFIG_WHITELIST : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faaec0451d262a6044c91a3858f96195f91">libsdi</a> , <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faaec0451d262a6044c91a3858f96195f91">vfisdi</a>
+- SYS_UPLOAD_CP_PACKAGE : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faae551258380b3653c63ded0d4e6233e70">vfisdi</a>
+- SYS_UPLOAD_EMV_CONFIG_PACKAGE : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faaf40bcc209ef62d283f560ab1ed9a9c75">vfisdi</a>
+- SYS_UPLOAD_EMV_CONFIGURATION : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faa1d6e6991b8a3f8c12b9caa76c3c04057">libsdi</a>
+- SYS_UPLOAD_FIRMWARE_UPDATE : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa39b863a5181e3962cfd83324a9ea3d52">vfisdi</a>
+- SYS_UPLOAD_INSTALL_CP_PACKAGE : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faab12973d84013b26e9f9f89a2f4c7e509">libsdi</a>
+- SYS_UPLOAD_KEYS : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa9bf209cf26256094d18e25c7b02d4508">vfisdi</a>
+- SYS_UPLOAD_PLUGIN : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa88f65e060b890761b4dd239c22357efe">vfisdi</a>
+- SYS_UPLOAD_REMOVE_CONFIG_SDIEMV : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa2eb425e452a8616d9b7562e2ad6591d5">vfisdi</a>
+- SYS_UPLOAD_REMOVE_PLUGIN : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa12b4e9ce15be0cf12330c3fb843b464d">vfisdi</a>
+- SYS_UPLOAD_REMOVE_SPONSOR : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faaa09f45e879beb5ea96e85a7dda9da8db">vfisdi</a>
+- SYS_UPLOAD_SOFTWARE_UPDATE : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366faa45f06815e16da88212b9ee5ed2f3ddc8">libsdi</a> , <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa45f06815e16da88212b9ee5ed2f3ddc8">vfisdi</a>
+- SYS_UPLOAD_UVRK_PACKAGE : <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366faa6621ee8b268958221149d257d3b7460c">vfisdi</a>
+- SYS_USB_DEFAULT : <a href="namespacevfisysinfo.md#a646d1bfd53de12ebf78fd6c379f37a39a407cbaa8892c0efcdb513649f984433b">vfisysinfo</a>
+- SYS_USB_DEVICE : <a href="namespacevfisysinfo.md#a646d1bfd53de12ebf78fd6c379f37a39a235b6713b250a970fab84ba8ba1e1d59">vfisysinfo</a>
+- SYS_USB_HOST : <a href="namespacevfisysinfo.md#a646d1bfd53de12ebf78fd6c379f37a39a267d155a8e685efe64856fd287ff5676">vfisysinfo</a>
+- SYS_USB_UNKNOWN : <a href="namespacevfisysinfo.md#a646d1bfd53de12ebf78fd6c379f37a39ae100df3d9e4dbf59bccade11e0ccfb6a">vfisysinfo</a>
+- sysAssignToLayout() : <a href="namespacevfimac.md#aad01e467699aabea2fa64b588ede1fec">vfimac</a>
+- sysAuthenticateFile() : <a href="namespacevfisysinstall.md#a0860cad505a474f8a061cdf2d298863c">vfisysinstall</a>
+- sysBaseInstall() : <a href="namespacevfisysinstall.md#a32b8ada3672bd95b04fca4c2c61623a1">vfisysinstall</a>
+- sysBeepError() : <a href="namespacevfisysinfo.md#afe4e3fa3d5e705451be9469978f7fd44">vfisysinfo</a>
+- sysBeepNormal() : <a href="namespacevfisysinfo.md#a44a9ee5ce7fe78c798eb2ad1db29c356">vfisysinfo</a>
+- sysChangeLayout() : <a href="namespacevfimac.md#a868378044b45895f8c85d0530c482a9e">vfimac</a>
+- sysDeepSleep() : <a href="namespacevfisysinfo.md#a363ef3b20e3852f6e6cd87085b295f22">vfisysinfo</a>
+- sysError : <a href="namespacevfisysinfo.md#aadc050f211cba10bc174fe72cc02ac09">vfisysinfo</a>
+- sysErrorMessage() : <a href="namespacevfisysinfo.md#ad76462c4331a43ce2ae5245d237fad21">vfisysinfo</a>
+- sysErrorMsg() : <a href="namespacevfisysinfo.md#a926cb3391c24a1a16c5ffd22e1cb7e73">vfisysinfo</a>
+- sysFreeResourcesInstall() : <a href="namespacevfisysinstall.md#ae97c35980e2527791d524fb9e28f25cc">vfisysinstall</a>
+- sysFullscreenMode() : <a href="namespacevfimac.md#a56bd229ab93be9b2ee7ae2f95d10c166">vfimac</a>
+- sysGetAppList() : <a href="namespacevfimac.md#a807e4d61017fe99f6f6c66a8bd37ad08">vfimac</a>
+- sysGetCPAppRootDir() : <a href="namespacevfimac.md#a0d95ca7aac6a37040b0e2135d9f134d1">vfimac</a>
+- sysGetCPRState() : <a href="namespacevfimac.md#a924f920dc0fd9b34e91c6e57bd97816c">vfimac</a>
+- sysGetEnv() : <a href="namespacevfisysinfo.md#a2f4d2c358c2c96255fe07dc63815c341">vfisysinfo</a>
+- sysGetGUIRegionId() : <a href="namespacevfimac.md#a5a32e6fc3ca601108ec200e0bebf10a1">vfimac</a>
+- sysGetInstallStatus() : <a href="namespacevfisysinstall.md#ad0be97821636d524f2cc56c7106e1217">vfisysinstall</a>
+- sysGetPropertyInt() : <a href="namespacevfisysinfo.md#ab94a5b33000760afbee10e7fefd16355">vfisysinfo</a>
+- sysGetPropertyString() : <a href="namespacevfisysinfo.md#acec685f395fb99dfba2c189ae8f4614b">vfisysinfo</a>
+- sysGetRefreshTime() : <a href="namespacevfisysinfo.md#aec0cd92586bee1cd0df1d8637994983a">vfisysinfo</a>
+- sysGetStatusbarValues() : <a href="namespacevfimac.md#a443df02ff6897b4a9e6cb5973f5842b2">vfimac</a> , <a href="namespacevfisysinfo.md#a5babb03e766504b26dde5e51a7f5940d">vfisysinfo</a>
+- sysGetVersion() : <a href="namespacevfisysinfo.md#abc840ced7fc2155fcd4c9d1092d8d862">vfisysinfo</a>
+- sysGetWMState() : <a href="namespacevfimac.md#ad031802bca1577454ee78a31122bde6d">vfimac</a>
+- sysHibernate() : <a href="namespacevfisysinfo.md#a6709c064e4794698a20ca0f076a4345f">vfisysinfo</a>
+- sysInfo_GetVersion() : <a href="namespacevfisysinfo.md#a37689c755c1f4235c484b9079dfdfaa6">vfisysinfo</a>
+- sysInForeground() : <a href="namespacevfimac.md#a438d8362980527e345759c52a2615071">vfimac</a>
+- sysInstall() : <a href="namespacevfisysinstall.md#aa32611fb3057a6b9c560396807476304">vfisysinstall</a>
+- sysInstallCPApp() : <a href="namespacevfimac.md#a86f520239eb2af7b49b1bc31dfc20906">vfimac</a>
+- sysInvokeCPAppAction() : <a href="namespacevfimac.md#a45f53838cafde90263046e5844717399">vfimac</a>
+- sysIsRunning() : <a href="namespacevfimac.md#aae05286692566c22ef2d18a69748c5fe">vfimac</a>
+- sysLaunchApp() : <a href="namespacevfimac.md#a5b1e0d2f61a93565ac1f1f2d89d4caf3">vfimac</a>
+- sysLaunchAppid() : <a href="namespacevfimac.md#a53a3ccda2cdc2d39f2c618015ea81efb">vfimac</a>
+- sysLaunchCPAppByTrigger() : <a href="namespacevfimac.md#a86cff41093ff1ab578ff1c54f47c5062">vfimac</a>
+- sysLaunchCPAppFromDesktop() : <a href="namespacevfimac.md#a509d985b46d2fe8d772bd749888fd1ab">vfimac</a>
+- sysLaunchCPAppFromDesktopSync() : <a href="namespacevfimac.md#aff611b7f21a2748fdc138db0718a481b">vfimac</a>
+- sysLedsChangeState() : <a href="namespacevfisysinfo.md#a468b20d075222dd30fabc2c3633cb50d">vfisysinfo</a>
+- sysLibInfo_GetVersion() : <a href="namespacevfisysinfo.md#a2ea645c1932f87870a8b3efdd3406e98">vfisysinfo</a>
+- sysLibMac_GetVersion() : <a href="namespacevfimac.md#a9145ab384964062fa95dd07ad6cc7480">vfimac</a>
+- sysLockLayout() : <a href="namespacevfimac.md#a1f0513c597f95e860f0d4e516d72b364">vfimac</a>
+- sysMac_GetVersion() : <a href="namespacevfimac.md#a2e646f58a5f98e1b01ccae0a576ab8cf">vfimac</a>
+- sysMsgMode : <a href="namespacevfinetloader.md#aed6b03cebf679080000ec2bc8e934436">vfinetloader</a>
+- sysNetloaderGetMsg() : <a href="namespacevfinetloader.md#a127d1c5998677e041be0271ea9578f20">vfinetloader</a>
+- sysNetloaderSetMsgMode() : <a href="namespacevfinetloader.md#a406deb2a09c387517e831dda0726f3e5">vfinetloader</a>
+- sysNetloaderStart() : <a href="namespacevfinetloader.md#a242ae7a34df4fc588df0296a73764506">vfinetloader</a>
+- sysNetloaderStartBase() : <a href="namespacevfinetloader.md#a9c618b2b0fc7eeb76f20889cdb3ce902">vfinetloader</a>
+- sysNetloaderStop() : <a href="namespacevfinetloader.md#a90f91ae17b4e14bd4ce0787a83b2e34a">vfinetloader</a>
+- sysNetloaderStopBase() : <a href="namespacevfinetloader.md#a165fe3f559570c22c65f6eee716d9fe9">vfinetloader</a>
+- sysNetloaderVersion() : <a href="namespacevfinetloader.md#a4ae7ef57aab598e83caeb2dae452bdf4">vfinetloader</a>
+- sysNotificationCallback() : <a href="namespacevfimac.md#adb02617beacae56d66f518a263ce0890">vfimac</a>
+- sysPlaySound() : <a href="namespacevfisysinfo.md#a920110b547bce1eb8e0c016d4064886f">vfisysinfo</a>
+- sysPlaySoundFreq() : <a href="namespacevfisysinfo.md#a345cb89a149cb5931e68a989da7c5a32">vfisysinfo</a>
+- SYSPropertyInt : <a href="namespacevfisdi.md#a53e0b4c578c61cc0de3c3daa5fee72b6">vfisdi</a> , <a href="namespacevfisysinfo.md#a53e0b4c578c61cc0de3c3daa5fee72b6">vfisysinfo</a>
+- SYSPropertyString : <a href="namespacevfisdi.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5">vfisdi</a> , <a href="namespacevfisysinfo.md#aaa98bbf503c2b2cb3ebd81f35b5cb6c5">vfisysinfo</a>
+- sysPutEnv() : <a href="namespacevfisysinfo.md#a209d53b4f90b64ad292fa420911cb385">vfisysinfo</a>
+- sysReadMode : <a href="namespacevfinetloader.md#a94cc038c7531a6a77b801ea738c8c207">vfinetloader</a>
+- sysReboot() : <a href="namespacevfisysinfo.md#aae13f271ba6f2d8d1e20d65785df0633">vfisysinfo</a>
+- sysRebootDock() : <a href="namespacevfisysinfo.md#a3a740e4154bfe01a6f48463a766ee747">vfisysinfo</a>
+- sysRefreshStatusBar() : <a href="namespacevfisysinfo.md#a0a4c0bc815229837e50e2353c1fb9f51">vfisysinfo</a>
+- sysRelaunchApps() : <a href="namespacevfimac.md#a5b63071e5232000be8cd04e2950b28b2">vfimac</a>
+- sysScanManifests() : <a href="namespacevfimac.md#aec38c483c58974ddb58d576d9f7ac2f0">vfimac</a>
+- sysSDKVersion() : <a href="namespacevfisysinfo.md#a1a0fd931f24992061dd22d0a4ff16126">vfisysinfo</a>
+- sysSetAppid() : <a href="namespacevfimac.md#abcf911819fbee784ef245fe34aa9572c">vfimac</a>
+- sysSetCPEnvData() : <a href="namespacevfimac.md#a3cb1620e29b7920b2b53560c1cae71fe">vfimac</a>
+- sysSetEventCallback() : <a href="namespacevfimac.md#ae4108c74c16f2f512405ba326843109a">vfimac</a>
+- sysSetPropertyInt() : <a href="namespacevfisysinfo.md#a377307b06ac969f30af51e7cccf94dbb">vfisysinfo</a>
+- sysSetPropertyString() : <a href="namespacevfisysinfo.md#ae7c891a4a38d050452eee0939a7f82de">vfisysinfo</a>
+- sysSetRefreshTime() : <a href="namespacevfisysinfo.md#aab58488e2ed93f92618307af850f9880">vfisysinfo</a>
+- sysSetStatusbarValues() : <a href="namespacevfimac.md#a6c72ec8391307ac42e3c9d044eac36e2">vfimac</a> , <a href="namespacevfisysinfo.md#a445f352501e089696320af9f48a43013">vfisysinfo</a>
+- sysShowControlPanel() : <a href="namespacevfimac.md#a395a73335aa92641a3ac0967fc0bb200">vfimac</a>
+- sysShowDesktop() : <a href="namespacevfimac.md#a404d8e38300385724b2d2ed306df863e">vfimac</a>
+- sysShowPowerControlPanel() : <a href="namespacevfimac.md#a085b2f637d5f82e4ee2812baf24eba46">vfimac</a>
+- sysShowPrevApp() : <a href="namespacevfimac.md#a40e24a74e4f3dc63f080b34b0bb6c7de">vfimac</a>
+- sysShowProgress() : <a href="namespacevfimac.md#abb5ddef3187ac018cda433a3aec2c6fb">vfimac</a>
+- sysShutdown() : <a href="namespacevfisysinfo.md#a208c6199b44128a4bccf6fae0be44c95">vfisysinfo</a>
+- sysSleep() : <a href="namespacevfisysinfo.md#aa4e2bde8892f7c052fc3ab3efb80a473">vfisysinfo</a>
+- sysStartStatusbar() : <a href="namespacevfisysinfo.md#a002c2133e3e778923940535109afcca4">vfisysinfo</a>
+- sysStartStatusbarURL() : <a href="namespacevfisysinfo.md#adb049b3a939a78dedeae1ac9aa15c9df">vfisysinfo</a>
+- sysStartStatusbarURLReturnVal() : <a href="namespacevfisysinfo.md#a6401aac22f963860ed0cc55c227ecf8f">vfisysinfo</a>
+- sysStatus : <a href="namespacevfinetloader.md#a5f296faf43817f74cdc62a57df124574">vfinetloader</a>
+- sysStatusbar() : <a href="namespacevfimac.md#a9c942ac576c34a0e8dbd8cd69935a807">vfimac</a>
+- sysStatusbar_GetVersion() : <a href="namespacevfisysinfo.md#a8ce093c74ec3a14ede2e8a89ac6af707">vfisysinfo</a>
+- sysStatusbarCallback : <a href="namespacevfisysinfo.md#ac7fde07fc977e9f7312af64267659506">vfisysinfo</a>
+- sysStatusbarGetVersion() : <a href="namespacevfisysinfo.md#ab9295a05fc42ca989db452a788e77400">vfisysinfo</a>
+- sysStatusbarRefresh() : <a href="namespacevfimac.md#a6f771d3743e177bce7b7d79c26cf3036">vfimac</a>
+- sysStatusbarReturnCallback : <a href="namespacevfisysinfo.md#a3ec38c5db698e56859eb3e175363d22f">vfisysinfo</a>
+- sysStatusbarState() : <a href="namespacevfimac.md#ac3325831385c4e7755c3d96575db9496">vfimac</a>
+- sysStopAllCPApps() : <a href="namespacevfimac.md#a9dea7108a3a1efc9a1cc087e18548c59">vfimac</a>
+- sysStopAllUserApps() : <a href="namespacevfimac.md#a6b24cb5e42ba92f571a4f000e2ed0230">vfimac</a>
+- sysStopAppid() : <a href="namespacevfimac.md#a57f7a1edb91c7479e4c2b2916a252822">vfimac</a>
+- sysStopAppname() : <a href="namespacevfimac.md#a54ba5d09eeee6974f08950ae922c1896">vfimac</a>
+- sysStopOtherApps() : <a href="namespacevfimac.md#ad5c53e66bd56f6368628fbbeaa514622">vfimac</a>
+- sysStopStatusbar() : <a href="namespacevfisysinfo.md#aa28127dbc1ddc94bd9c2b784a98c634c">vfisysinfo</a>
+- SYSTEM_LED : <a href="namespacevfisysinfo.md#ab6831a7d06c0a2bc69f9b024f6445a80a3e1390b17356b014e6e3bb74243a8e89">vfisysinfo</a>
+- SYSTEM_NOTIFICATION_CRITICAL : <a href="namespacevfimac.md#af8d28bc2c3fa0398b42f840088f59a4ba6951f9532ee21d9a68bf0e4f1307d03b">vfimac</a>
+- SYSTEM_NOTIFICATION_INFO : <a href="namespacevfimac.md#af8d28bc2c3fa0398b42f840088f59a4bae45a50bf56795bda968dfc1694ad2871">vfimac</a>
+- SYSTEM_NOTIFICATION_WARNING : <a href="namespacevfimac.md#af8d28bc2c3fa0398b42f840088f59a4ba4313068313501b2088a0336442126a4a">vfimac</a>
+- systemNotificationAdd() : <a href="namespacevfimac.md#ac4a12edca6083bfb03386f390d67bc3d">vfimac</a>
+- systemNotificationList() : <a href="namespacevfimac.md#a49a2afa866d86f54ab20603abcb7eb45">vfimac</a>
+- systemNotificationPriority : <a href="namespacevfimac.md#af8d28bc2c3fa0398b42f840088f59a4b">vfimac</a>
+- systemNotificationRemove() : <a href="namespacevfimac.md#a4aa74ec3d2bd8a53334045452b21820f">vfimac</a>
+- sysToForeground() : <a href="namespacevfimac.md#a424b735dc0296a43429f6dfeab802fa4">vfimac</a>
+- sysToForground() : <a href="namespacevfimac.md#a1ac2b7ae5456bc7a0e543804f92f890a">vfimac</a>
+- sysTransferToBase() : <a href="namespacevfisysbase.md#aa658507910d7a23d2a62b0193a284abf">vfisysbase</a>
+- sysUnSetAppid() : <a href="namespacevfimac.md#a738e18eb97f53b402e01c6ee391b2607">vfimac</a>
+- SYSUpdateType : <a href="namespacevfisdi.md#ae85b937298c01c4202810ff9a3133b11">vfisdi</a>
+- SYSUploadType : <a href="namespacelibsdi.md#af55973ce01a27acae146f17b4a0366fa">libsdi</a> , <a href="namespacevfisdi.md#af55973ce01a27acae146f17b4a0366fa">vfisdi</a>
+- sysUSBmode : <a href="namespacevfisysinfo.md#a646d1bfd53de12ebf78fd6c379f37a39">vfisysinfo</a>
+- sysVirtualKeyboard() : <a href="namespacevfimac.md#a287906c2724d813bb1eb0ad1f3b4f18a">vfimac</a>
+- sysZontalkCancel() : <a href="namespacevfizontalk.md#a0a40c2dc428c53679621bea9a5ad6e44">vfizontalk</a>
+- sysZontalkReceive() : <a href="namespacevfizontalk.md#a84e98dff4544318d162a761adcf925c1">vfizontalk</a>

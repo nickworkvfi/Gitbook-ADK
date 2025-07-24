@@ -1,0 +1,146 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - r -
+
+- rand_serial() : <a href="_v_h_q_security_8c.md#a7a139be7a11cb7f35aef619c2fadd815">VHQSecurity.c</a>
+- RawDial_close() : <a href="ci_a_d_k_raw_dial_8c.md#a67dab2a0577df70f19b65ee3fffad1f1">ciADKRawDial.c</a>
+- RawDial_deinit() : <a href="ci_a_d_k_raw_dial_8c.md#a1d9e27e869a2f4734df72415616256e0">ciADKRawDial.c</a>
+- RawDial_init() : <a href="ci_a_d_k_raw_dial_8c.md#a9a25965960242f36cfd3bc235c5d51a0">ciADKRawDial.c</a>
+- RawDial_NetConn() : <a href="ci_a_d_k_raw_dial_8c.md#aaf6d701fe13aebb155c9c3eec072c4d2">ciADKRawDial.c</a>
+- RawDial_NetDisconn() : <a href="ci_a_d_k_raw_dial_8c.md#a4405320c3da052c042aa5039b33719cd">ciADKRawDial.c</a>
+- RawDial_open() : <a href="ci_a_d_k_raw_dial_8c.md#a14ef5ef9954656dfc4af98ef10f54ecb">ciADKRawDial.c</a>
+- RawDial_status() : <a href="ci_a_d_k_raw_dial_8c.md#a4f4c9abda53d4dfa973eeb7b52da0a07">ciADKRawDial.c</a>
+- RawDial_statuscallback() : <a href="ci_a_d_k_raw_dial_8c.md#a6a8c914f7cac99a3822ee73519f04517">ciADKRawDial.c</a>
+- readCardData() : <a href="_demo_app_8cpp.md#ace0d2a7b66eed6e5dd9d1dc2b422ad73">DemoApp.cpp</a>
+- ReadParamUpdateFile() : <a href="_v_h_q_utils__shared_8c.md#a9782ab9053b7f3482b365b8b7ad5b4d7">VHQUtils_shared.c</a>
+- ReadProcData() : <a href="_v_h_q_utils___m_x_8c.md#a235e244ae2c42f5fafbd5ada54234e46">VHQUtils_MX.c</a>
+- ReadPubKeyCertfile() : <a href="_v_h_q_security_8c.md#a8b595be14dc0e1de14ded83c24ccad74">VHQSecurity.c</a>
+- reboot() : <a href="_v_h_q_xml_operation_processor_8c.md#a55ea6c527be10382bb077aab88e57d0c">VHQXmlOperationProcessor.c</a>
+- REBOOT_EVENT_AFTER_LAST_DL_IN_OP_SET : <a href="_event_scheduler_8c.md#a0981eccd00e4beb9bf10a1590b13b7fc">EventScheduler.c</a>
+- RebootDevice() : <a href="_v_h_q_utils___m_x_8c.md#a7b9587b0eee192b1ae69a3266e2f7e0f">VHQUtils_MX.c</a>
+- RECUR_UNIT_TYPE_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#ab5cb91cffe82957a09a797a48c4c870d">VHQXmlDictionary.c</a>
+- recur_unit_type_xml_conv_t : <a href="_v_h_q_xml_dictionary_8c.md#a219acb4c715f42797f14506d1254ada8">VHQXmlDictionary.c</a>
+- REFERRAL_AFTER_TRX : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga12aa86ad3046acf00e6471607b47af26">EMV_CT_Interface.h</a> , <a href="adk__emv__contactless__programmers__guide_8dox.md#a12aa86ad3046acf00e6471607b47af26">adk_emv_contactless_programmers_guide.dox</a>
+- REFUND_CONFIRM_AMOUNT : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga4edf2c5ac7045ec648b60ad31aee30d5">EMV_CT_Interface.h</a> , <a href="adk__emv__contactless__programmers__guide_8dox.md#a4edf2c5ac7045ec648b60ad31aee30d5">adk_emv_contactless_programmers_guide.dox</a>
+- REFUND_FLOW_ARQC : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga33642d9af66d745a6b1b8b8ec04efaf2">EMV_CT_Interface.h</a>
+- REFUND_FLOW_INTERAC : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga3ebc4a9d9f3ba1e966a2f6c5e11aaa17">EMV_CT_Interface.h</a>
+- REFUND_NO_GENERATE_AC : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#gabfeb6fa819ae4435dc04517213f300e9">EMV_CT_Interface.h</a>
+- REFUND_NO_ZERO_AMOUNT : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#gae91301339a147a2e8f63939ebc0c5e5b">EMV_CT_Interface.h</a>
+- REFUND_PROCESSING_RESTRICTIONS : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#gaf3c86af213c3448eb97e2e9974675b12">EMV_CT_Interface.h</a>
+- RegisterApp() : <a href="_v_h_q_utils___app_interface_8c.md#acca8f73440d65550e78e910887f10c2e">VHQUtils_AppInterface.c</a>
+- registerPlugin() : <a href="loadplugin_8cpp.md#a9d5f8efae300809ef2582ef2d30b8d38">loadplugin.cpp</a> , <a href="loadplugin_8h.md#a9d5f8efae300809ef2582ef2d30b8d38">loadplugin.h</a>
+- ReleaseInfoSvcDBLock : <a href="_v_h_q_config_8cpp.md#a507750c60787636c27e272aa0c3e6253">VHQConfig.cpp</a>
+- ReleaseServerInstanceLock() : <a href="_v_h_q_config_8cpp.md#a91ac5e0f8d7ad4277bfcaea86cc51e5e">VHQConfig.cpp</a>
+- RemoveAgentKeys() : <a href="_v_h_q_security_8c.md#a0804e67f8294f16a0af8a1b6a813a944">VHQSecurity.c</a>
+- removeDir() : <a href="_v_h_q_utils__shared_8c.md#a1c6beef1d29da5a7ef6bd0c78afa014a">VHQUtils_shared.c</a>
+- RemoveFailedMessages() : <a href="_v_h_q_utils___m_x_8c.md#a15e9fcf3bca1afad063dc1d1999c0617">VHQUtils_MX.c</a>
+- removeFile() : <a href="_v_h_q_utils__shared_8c.md#a5b036df1be1ec3c95ce8a57692e2b8c8">VHQUtils_shared.c</a>
+- RemoveVHQRebootFile() : <a href="_v_h_q_utils__shared_8c.md#aa5bc1870ec421e880733acb1a1fbd136">VHQUtils_shared.c</a>
+- RemoveXMLDoc() : <a href="_v_h_q_xml_packager_8c.md#aec7caa6d981875bff883da84fc28d2b2">VHQXmlPackager.c</a>
+- ReqParamUploadRead() : <a href="_v_h_q_utils__shared_8c.md#aa083f0bd8a5aabdfec72f58b85e5add0">VHQUtils_shared.c</a>
+- request_Qid : <a href="_event_scheduler_8c.md#a3b2dcf74e5db5d8dded9b16f4877ea02">EventScheduler.c</a> , <a href="_v_h_q_manager_8c.md#a3b2dcf74e5db5d8dded9b16f4877ea02">VHQManager.c</a>
+- RequestAppRegistrationDelay() : <a href="_v_h_q_utils__shared_8c.md#a0074ccabd79d553d81a88a19201b3d6f">VHQUtils_shared.c</a>
+- RequestDeviceRegistrationMode() : <a href="_v_h_q_manager_8c.md#adc54a75d785d3aab33a1d6b7a66fc0d2">VHQManager.c</a>
+- RequestDirListFromRoot() : <a href="_v_h_q_xml_operation_processor_8c.md#a73635585ad2aacd2a118dbad2a7458df">VHQXmlOperationProcessor.c</a>
+- reset_com_profile() : <a href="ui__mode_8cpp.md#a4b5e64e6037e936f64283fb6f75747ae">ui_mode.cpp</a> , <a href="ui__mode_8h.md#a4b5e64e6037e936f64283fb6f75747ae">ui_mode.h</a>
+- RESET_REQ_STR : <a href="_v_h_q_utils___m_x_8c.md#a2124937bd815b1cc9995ab4c40317292">VHQUtils_MX.c</a>
+- ResetParamUpdateFileSearch() : <a href="_v_h_q_utils___m_x_8c.md#a252a7f453c08981597e0cec77c98aa46">VHQUtils_MX.c</a>
+- ResetServerNONCE() : <a href="_v_h_q_xml_packager_8c.md#aa63037d9c4ff06f6b9ee9e7b9ce5b54f">VHQXmlPackager.c</a>
+- RESP_ADE_NOT_ACTIVE : <a href="sec2_8h.md#a5a30d512781fe64cf6d7bc1c189e3948">sec2.h</a>
+- RESP_CODE_ADE_NOT_ACTIVE : <a href="sec2_8h.md#a4640ef6a2b4052a7bced01b625c09d4d">sec2.h</a>
+- RESP_CODE_API_REQ : <a href="sec2_8h.md#a16a9bb7a92bb25a92d31c2a6fc4ea5db">sec2.h</a>
+- RESP_CODE_ASYNC_PIN_NOT_READY : <a href="sec2_8h.md#a983607e349a3f04cf936d1d32dc36456">sec2.h</a>
+- RESP_CODE_CARD_REMOVED : <a href="sec2_8h.md#a5b9983d310c81207caa032ebc413989a">sec2.h</a>
+- RESP_CODE_CMD_BUSY : <a href="sec2_8h.md#a21b6d3e94e1ce8e004484f584ea77f3a">sec2.h</a>
+- RESP_CODE_CMD_SEQ_ERROR : <a href="sec2_8h.md#adf03aad7d6dda14ae294a6985be2f8b0">sec2.h</a>
+- RESP_CODE_CRYPTO_DEVICE_BLOCKED : <a href="sec2_8h.md#a8af46cd5f2317e930a445ec2c9b7d044">sec2.h</a>
+- RESP_CODE_FAILED : <a href="sec2_8h.md#a2cf52f68d075cec5f772a4d84a30bfa8">sec2.h</a>
+- RESP_CODE_HOST_NOT_FOUND : <a href="sec2_8h.md#a33b5e786a62bafafc45b95471aa93b28">sec2.h</a>
+- RESP_CODE_INVAL : <a href="sec2_8h.md#ae77fb4e32476d37450a1bb122d5b45e8">sec2.h</a>
+- RESP_CODE_INVALID_APP_ID : <a href="sec2_8h.md#a6181d137d762437f075ce7163e685269">sec2.h</a>
+- RESP_CODE_INVALID_CMD : <a href="sec2_8h.md#a744678f8f922bcab03f6c5dd097aebd4">sec2.h</a>
+- RESP_CODE_INVALID_KEY : <a href="sec2_8h.md#a0e82765e2c270eb481b4e09bc6aa76fb">sec2.h</a>
+- RESP_CODE_INVALID_KEY_LENGTH : <a href="sec2_8h.md#a186a905dc00ab07fa534974de7bac5e1">sec2.h</a>
+- RESP_CODE_INVALID_LOCAL_KEY_IDX : <a href="sec2_8h.md#aabd0ff62bb643ea4572c0b461db72358">sec2.h</a>
+- RESP_CODE_INVALID_REQ : <a href="sec2_8h.md#a3b8bb97add27e4783d93458e5b5d7029">sec2.h</a>
+- RESP_CODE_KEY_UPDATE_LIMIT : <a href="sec2_8h.md#a4ad6a1a11cb223e770d346e3e52aa26d">sec2.h</a>
+- RESP_CODE_KSN_INCREMENTATION_ERROR : <a href="sec2_8h.md#a00ee0f3c96710ad4c8a464367ebfc1fe">sec2.h</a>
+- RESP_CODE_MAC_VER_FAILED : <a href="sec2_8h.md#afe6f2c453d492144f5618e6915d948e2">sec2.h</a>
+- RESP_CODE_MISSING_STAN_OR_PAN : <a href="sec2_8h.md#a133912dd98d9d8db9c2254a4ba3f63bd">sec2.h</a>
+- RESP_CODE_MISSING_TMK_OR_DUKPT_KEY : <a href="sec2_8h.md#a95624639fa6683e909595a3972e11b3c">sec2.h</a>
+- RESP_CODE_MISSING_TPK_OR_TAK : <a href="sec2_8h.md#a0b8fb404ed2332db826bdffd404985cb">sec2.h</a>
+- RESP_CODE_MSG_SIZE_TO_LONG : <a href="sec2_8h.md#a2a94729698b5cc86239b80702aa0da3a">sec2.h</a>
+- RESP_CODE_NOT_SUPPORTED_KEY_TYPE : <a href="sec2_8h.md#a2ae9043e1acdcf8223e2e12977f0f1c9">sec2.h</a>
+- RESP_CODE_NOT_SUPPORTED_KSID : <a href="sec2_8h.md#acd3a84e77166b303e1c828cb32412580">sec2.h</a>
+- RESP_CODE_OLD_DEFAULT : <a href="sec_error_8h.md#aca06a96ec93e86c18246ad6b08461aa3">secError.h</a>
+- RESP_CODE_PIN_BLOCKED : <a href="sec2_8h.md#a4f6e722629df5454ec41530771c97e86">sec2.h</a>
+- RESP_CODE_PIN_BYPASS : <a href="sec2_8h.md#a7ee4bfe12e0b17ad3d6e862716735514">sec2.h</a>
+- RESP_CODE_PIN_CANCEL : <a href="sec2_8h.md#ab72bd400b293f26bbea54a0ccfff4df6">sec2.h</a>
+- RESP_CODE_PIN_CANCELED_BY_CLEAR_KEY : <a href="sec2_8h.md#a1e3ee92b7f920f0353e9fcde15412300">sec2.h</a>
+- RESP_CODE_PIN_ENCIPHER_ERROR : <a href="sec2_8h.md#a8a789ab196c5a3c6b3be6c5e07bebcdf">sec2.h</a>
+- RESP_CODE_PIN_EQUAL : <a href="sec2_8h.md#aed87f5ae687ac6338f38a8642c287ac9">sec2.h</a>
+- RESP_CODE_PIN_GET_CHALLENGE_ERROR : <a href="sec2_8h.md#ad414665573b7c1c03f16b010ebeaf1ee">sec2.h</a>
+- RESP_CODE_PIN_MISSING_PIN_BLOCK_DATA : <a href="sec2_8h.md#a97e7a001c756e7a347882a50aac90656">sec2.h</a>
+- RESP_CODE_PIN_VERIFY_FAILED : <a href="sec2_8h.md#ae57aaaebe9692c7c3d9f2138a0d92188">sec2.h</a>
+- RESP_CODE_POS_INVALID_FIELD_LEN : <a href="sec2_8h.md#a48ef9c16d057289c475607e2d234e7db">sec2.h</a>
+- RESP_CODE_POS_MSG_LEN : <a href="sec2_8h.md#af323d1c12037a3cf484f3917456a48df">sec2.h</a>
+- RESP_CODE_RETRY_LIMIT : <a href="sec2_8h.md#a997efd3b93b0cc2ca1eb9a95b492e38b">sec2.h</a>
+- RESP_CODE_SIZE : <a href="sec2_8h.md#afaca498d565a761525757302243ce699">sec2.h</a>
+- RESP_CODE_SIZE_ERROR : <a href="sec2_8h.md#a6acb09d7d00665e5964d30110e39ebde">sec2.h</a>
+- RESP_CODE_SUCCESS : <a href="sec2_8h.md#aedded87ae746218e4381409e9e0a8d12">sec2.h</a>
+- RESP_CODE_TAMPERED : <a href="sec2_8h.md#ad9acafac33ea3c54527752aae53549e6">sec2.h</a>
+- RESP_CODE_TIMEOUT : <a href="sec2_8h.md#a24b448944592e5924af400bad41af7c0">sec2.h</a>
+- RESP_CODE_TRANSPORT_KEYS_CHANGED : <a href="sec2_8h.md#aeaa8e162b91f46a5eabd807b3d53eac1">sec2.h</a>
+- RESP_CODE_UNKNOWN_CMD : <a href="sec2_8h.md#aef2285ccd6ca251c361c92428c28fe61">sec2.h</a>
+- RESP_CODE_UPDATE_KEY_FAILED : <a href="sec2_8h.md#a01b5f717319eccff9468fbbe9966a3b9">sec2.h</a>
+- response_Qid : <a href="_event_scheduler_8c.md#a06d9180560d76eb8df03478b85303c47">EventScheduler.c</a> , <a href="_v_h_q_manager_8c.md#a06d9180560d76eb8df03478b85303c47">VHQManager.c</a>
+- ResponseCodes : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1a">titusstubs.cpp</a>
+- responseRecv_Qid : <a href="_v_h_q_manager_8c.md#aa3064d6b88ce56288620581ae6c3245d">VHQManager.c</a>
+- responseSend_Qid : <a href="_v_h_q_manager_8c.md#a7eec7d6a247b4caf5d31b5f110d653be">VHQManager.c</a>
+- RestartApp() : <a href="_v_h_q_utils___m_x_8c.md#a566ca6bfb27bc7a0d6165c4a96a6f3d9">VHQUtils_MX.c</a>
+- RestoreEventSetTable() : <a href="_event_scheduler_8c.md#ac9194966fa7b39016bdcb3afc619679b">EventScheduler.c</a>
+- RestoreXMLDoc() : <a href="_v_h_q_xml_packager_8c.md#a544a5bca98997f97fbf396f7eca74553">VHQXmlPackager.c</a>
+- RESULT_CLEAR_BUTTON : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9ae3422d8a18a394540cab891cb3b59b78">sys.h</a>
+- RESULT_DATA_AVAILABLE : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9a54ebd26ad0cc26331ce3189908bc1866">sys.h</a>
+- RESULT_EXCESSIVE_PIN_REQUESTS : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9ab7791209b54a1f594110c871500ac7cc">sys.h</a>
+- RESULT_FAIL : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9adbaa15b6c3bcc0196b4b314fac50e36c">sys.h</a>
+- RESULT_INTERCHAR_TIMEOUT : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9aeaabb76b9cc0decb0985ea5797440b88">sys.h</a>
+- RESULT_LOGIC_ERROR : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9a112f04f754eb9b75ffc9852d4c0fb156">sys.h</a>
+- RESULT_MOBILE_ABORT : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9ae0fc559eeb55b5d25b1e3dad4877f02a">sys.h</a>
+- RESULT_NO_LINK : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9abb0279cf3581b071df7f16d126c87477">sys.h</a>
+- RESULT_OK : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9a818c541216b4ca0e29b7885495a46ad2">sys.h</a>
+- RESULT_PARAMETER_ERROR : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9abdddee10f743a36a524e311669116326">sys.h</a>
+- RESULT_TAG_ERROR : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9a98a7e70df73757a57d668cea47b6e058">sys.h</a>
+- RESULT_TAG_LENGTH_ERROR : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9a9b341401cd6686c61d31b0ab76fd3ef1">sys.h</a>
+- RESULT_TIMEOUT : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9ad02c8491b0eab6eab286a00466993805">sys.h</a>
+- RESULT_USER_CANCEL : <a href="sys_8h.md#a0ee277aec4317de742cf8b2bd40af3a9ae9a95470ffa907b24be20927bd6b6524">sys.h</a>
+- RETRIEVE_ENCRYPTED_PIN_COM : <a href="sec2_8h.md#a453e6542f2cb31abde608e81d8ba6837a08f84e010957f4538f3a7876eb506549">sec2.h</a>
+- RETURN : <a href="xmldoc_8c.md#a9a16dd7a920f66fe5d85dee94af8eb02">xmldoc.c</a>
+- return() : <a href="_v_h_q__vfisyspm__wrapper_8cpp.md#abe95a00f8e60264f7043a99eed75eba0">VHQ_vfisyspm_wrapper.cpp</a>
+- RETURN_AFTER_DATA_AUTH : <a href="group___t_x_n___s_t_e_p_s.md#ga7b5030355cb76586dc00a45adc88a42e">EMV_CT_Interface.h</a>
+- RETURN_AFTER_GPO : <a href="group___t_x_n___s_t_e_p_s.md#ga242a275c33fc187bc155a62f1b117ded">EMV_CT_Interface.h</a>
+- RETURN_AFTER_READ_RECORD : <a href="group___t_x_n___s_t_e_p_s.md#ga034cedd9b2f9196288f02f76c5fe38ae">EMV_CT_Interface.h</a>
+- RETURN_AFTER_RISK_MANGEMENT : <a href="group___t_x_n___s_t_e_p_s.md#gae4a2d66cd15dbf9caddc6b8f84519a75">EMV_CT_Interface.h</a>
+- RETURN_CAND_LIST_PREPROC : <a href="group___t_x_n___s_t_e_p_s.md#ga8936aac92ebd19fa3666653d34d6216f">EMV_CT_Interface.h</a>
+- RETURN_CAND_LIST_SKIP : <a href="group___t_x_n___s_t_e_p_s.md#ga35175331617a57b7eac76191bff8cac1">EMV_CT_Interface.h</a>
+- RETURN_CANDIDATE_LIST : <a href="group___t_x_n___s_t_e_p_s.md#ga2fcaeb6dbd43fde799d243d0ff1c223e">EMV_CT_Interface.h</a>
+- RETURN_FOR_CVM_FINISH : <a href="group___t_x_n___s_t_e_p_s.md#gaa698e670b797ef1b9ea264e79e9f4424">EMV_CT_Interface.h</a>
+- RETURN_FOR_CVM_PROCESS : <a href="group___t_x_n___s_t_e_p_s.md#gab1f1530a8f022054521575d32f1cce11">EMV_CT_Interface.h</a>
+- RETURN_ON : <a href="sec_error_8h.md#acc5faf3b744e24a00f560a1689566106">secError.h</a>
+- REUSE_EXISTING_LIST_SEL_0 : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#ga7b5eb66aadc5488f59577c94b178b35f">EMV_CT_Interface.h</a>
+- REUSE_EXISTING_LIST_SEL_1 : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#gab72a8df31dfed1bf5c508745dff70970">EMV_CT_Interface.h</a>
+- REUSE_EXISTING_LIST_SEL_2 : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#gae405c146f924f44570d9f2254cbbc133">EMV_CT_Interface.h</a>
+- REUSE_EXISTING_LIST_SEL_3 : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#gabe2b4f1f57a00d22cff1861b3cfabe5d">EMV_CT_Interface.h</a>
+- REUSE_EXISTING_LIST_SEL_4 : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#ga2cd00e1aaa1f6557fb3903d69afb3c71">EMV_CT_Interface.h</a>
+- REUSE_LIST_REMOVE_AID : <a href="group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.md#ga424a190e27b573d98004e395db003687">EMV_CT_Interface.h</a>
+- RM_FILE_CNT : <a href="_v_h_q_utils__shared_8c.md#aadedbae59fac7c9ff4d15f72e5c4402b">VHQUtils_shared.c</a>
+- ROTATE_LEFT : <a href="md5_8cpp.md#a7417fd4e875360c0533fa5b412cdab49">md5.cpp</a>
+- RPT_ALL : <a href="_v_h_q_utils___m_x_8c.md#a33b481353aa3d7d8dbf3ded0f059235d">VHQUtils_MX.c</a>
+- RPT_CONCISE : <a href="_v_h_q_utils___m_x_8c.md#a8e638d2e083998d0801f000d9a1c2b8a">VHQUtils_MX.c</a>
+- RPT_FULL : <a href="_v_h_q_utils___m_x_8c.md#a2909d2d4f3219db8cb7182da97b87c7a">VHQUtils_MX.c</a>
+- RPT_XML : <a href="_v_h_q_utils___m_x_8c.md#a40575fb78f137bba5bdc3efca92982fc">VHQUtils_MX.c</a>
+- running_event_t : <a href="_event_scheduler_8c.md#ae183d296904392aef11d467e7a38b037">EventScheduler.c</a>

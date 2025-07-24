@@ -1,0 +1,9 @@
+<map id="EMV_CT_TRANSRES_STRUCT" name="EMV_CT_TRANSRES_STRUCT">
+<area shape="rect" id="node1" title="Data structure for output data of EMV_CT_ContinueOffline() and EMV_CT_ContinueOnline()" alt="" coords="435,132,645,159"/>
+<area shape="rect" id="node2" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___i_c_c_r_n_d___s_t_r_u_c_t" title="icc dynamic number" alt="" coords="20,5,212,32"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___i_s_s_d_a_t_a___s_t_r_u_c_t" title="issuer application data" alt="" coords="19,56,213,83"/>
+<area shape="rect" id="node4" href="$group___a_d_k___t_r_x___e_x_e_c.html#struct_e_m_v___c_t___s_r_c_r_i_p_t_r_e_s___s_t_r_u_c_t" title="Data structure for issuer script results. Used in EMV_CT_TRANSRES_STRUCT::scriptresults." alt="" coords="5,107,227,133"/>
+<area shape="rect" id="node5" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___t_r_a_c_k2___s_t_r_u_c_t" title="track 2 data" alt="" coords="19,157,213,184"/>
+<area shape="rect" id="node6" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___c_r_d_n_a_m_e___s_t_r_u_c_t" title="cardholder name" alt="" coords="12,208,220,235"/>
+<area shape="rect" id="node7" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="27,265,205,292"/>
+</map>

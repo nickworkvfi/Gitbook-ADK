@@ -1,0 +1,72 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - d -
+
+- DailyBatteryCheckReqd() : <a href="_v_h_q_utils___m_x_8c.md#a882efd66d82f042388c1721124ebb59c">VHQUtils_MX.c</a>
+- DailyTSCalLogReqd() : <a href="_v_h_q_utils___m_x_8c.md#ad7f9030574e1e3ccfb2395d835ccd895">VHQUtils_MX.c</a>
+- DebugMsg() : <a href="_v_h_q_debug_8c.md#a7e0d32acf1665f3178b96ed7bd0ba0e3">VHQDebug.c</a>
+- DebugMsgBuffer() : <a href="_v_h_q_debug_8c.md#aa13ec5a5ad25cc5e05f32c375e562ee1">VHQDebug.c</a>
+- DebugVoid() : <a href="_v_h_q_debug_8c.md#a84cfe496dc4e08febce6bdd34919ad60">VHQDebug.c</a>
+- decrypt_Data() : <a href="crypt_8cpp.md#ab52056b7a75e86920c5b03cf2d3730ad">crypt.cpp</a> , <a href="crypt_8h.md#ab52056b7a75e86920c5b03cf2d3730ad">crypt.h</a>
+- DeleteAllInstanceFiles() : <a href="_v_h_q_config_8cpp.md#a9a4961dd44587ec063f8185c66c99782">VHQConfig.cpp</a>
+- DeleteHeartBeatEventID() : <a href="_v_h_q_manager_8c.md#a6ce65d0bbfecdb2892294a45aa9f140b">VHQManager.c</a>
+- DeleteServerInstance() : <a href="_v_h_q_config_8cpp.md#afee0bd20f63ea4bc9d976fea573aae17">VHQConfig.cpp</a>
+- DelFileProcessor() : <a href="_v_h_q_xml_operation_processor_8c.md#a6aa04c553e7b73aae909e0aab553a966">VHQXmlOperationProcessor.c</a>
+- DEMO_GetStatus() : <a href="_demo_app_8cpp.md#a18dd623207dbc8ff071b7fa98973fd1c">DemoApp.cpp</a>
+- DEMO_HandlePaymentWithCard() : <a href="_demo_app_8cpp.md#a59a7cd5ea075d5533e6854afe19007a6">DemoApp.cpp</a>
+- DEMO_InjectKeys() : <a href="_demo_app_8cpp.md#a0662130b4714f539176c568f6a5c260b">DemoApp.cpp</a>
+- DEMO_RequestPIN() : <a href="_demo_app_8cpp.md#a699416c756193ae1209f3331c89e52bd">DemoApp.cpp</a>
+- DeviceEventProcessor() : <a href="_v_h_q_manager_8c.md#a9128d5cdba4dc1b9b5826f92f82f0df0">VHQManager.c</a>
+- Direct_close() : <a href="ci_direct_8c.md#a7954a2c6c7d3d3efda7cce26fe52209a">ciDirect.c</a>
+- Direct_deinit() : <a href="ci_direct_8c.md#ab09a84c65f71594a576ecacf8e81d333">ciDirect.c</a>
+- Direct_ErrString() : <a href="ci_direct_8c.md#a7add574cf5e9636377da0e5ed064b54f">ciDirect.c</a>
+- Direct_init() : <a href="ci_direct_8c.md#aa2fc20b9443dc4d15ab2eba9b01adda5">ciDirect.c</a>
+- Direct_NetConn() : <a href="ci_direct_8c.md#a4c56fad0e52ab28ecc97e80365f24812">ciDirect.c</a>
+- Direct_NetDisconn() : <a href="ci_direct_8c.md#a8b0c66a848f30fe9db652a958cd3fab8">ciDirect.c</a>
+- Direct_open() : <a href="ci_direct_8c.md#aa81d23033a1408b30fae9c448bc7531f">ciDirect.c</a>
+- Direct_status() : <a href="ci_direct_8c.md#a0f3afebb197058907fc1612a1d844180">ciDirect.c</a>
+- DirectADK_close() : <a href="ci_a_d_k_8c.md#ac1c1c2a9496ccf9554346f4f71745c92">ciADK.c</a>
+- DirectADK_deinit() : <a href="ci_a_d_k_8c.md#a4c8b1447f733dfc68b995e9b0ad8753e">ciADK.c</a>
+- DirectADK_ErrString() : <a href="ci_a_d_k_8c.md#a143341710d3e44104487f08b113e1bc1">ciADK.c</a>
+- DirectADK_init() : <a href="ci_a_d_k_8c.md#a9100e3514092f49bb9cbbb2234758f04">ciADK.c</a>
+- DirectADK_NetConn() : <a href="ci_a_d_k_8c.md#a2bd3df1a2e07d3c471b2f8446f44be95">ciADK.c</a>
+- DirectADK_NetDisconn() : <a href="ci_a_d_k_8c.md#a61cff86bb8cb19df0bf3a906755c0e12">ciADK.c</a>
+- DirectADK_open() : <a href="ci_a_d_k_8c.md#ad15c47f904402af998ce91aa083afcd3">ciADK.c</a>
+- DirectADK_status() : <a href="ci_a_d_k_8c.md#a0d66b33a0e606847049f08dee7403773">ciADK.c</a>
+- DirectADK_statuscallback() : <a href="ci_a_d_k_8c.md#a53c99ee269bb7c9949f3695cdbbf0884">ciADK.c</a>
+- DirExists() : <a href="_v_h_q_utils__shared_8c.md#a973b49053277a6ec732030aa82f50789">VHQUtils_shared.c</a>
+- dirname() : <a href="pathutil_8cpp.md#a6e314424ccc777b68ffc08f7e73ed6fb">pathutil.cpp</a> , <a href="pathutil_8h.md#a9181ca7ec40f7d471eb410a1215a2321">pathutil.h</a>
+- dispatch() : <a href="main_8cpp.md#a9dbfee7a8a87cdb842e06759f4f2bb40">main.cpp</a> , <a href="main_8h.md#afdcd133c96d68afb81d874f88786367e">main.h</a>
+- DL_ISO8583_COMMON_SetHandler() : <a href="dl__iso8583__common_8h.md#af390da155ccfbd6e3451e198f0b27e41">dl_iso8583_common.h</a>
+- dl_main() : <a href="_v_h_q_downloader_8c.md#a23a182e1762345dd27b5ec18c9141311">VHQDownloader.c</a>
+- DL_MEM_callocWithInit() : <a href="dl__mem_8h.md#ad749c1fc223a8c37d26f2dafe28dc610">dl_mem.h</a>
+- DL_MEM_malloc() : <a href="dl__mem_8h.md#aa2d96ba0b43b73290ef431d18e9ec79f">dl_mem.h</a>
+- DL_STR_Contains() : <a href="dl__str_8h.md#acd50019f560f769c0e63a20c2e6e175b">dl_str.h</a>
+- DL_STR_EncapsulateStr() : <a href="dl__str_8h.md#a43b41ffa60f4fed56e3d4753bfa00deb">dl_str.h</a>
+- DL_STR_GetEncapsulatedStr() : <a href="dl__str_8h.md#a58204181908480ce50f2395da04343a8">dl_str.h</a>
+- DL_STR_GetEnv() : <a href="dl__str_8h.md#a9ccfac393c2534c26d65d0c67bfc910d">dl_str.h</a>
+- DL_STR_IsNumeric() : <a href="dl__str_8h.md#a6c9961cfdfcd3f677c5106d8cea8a18c">dl_str.h</a>
+- DL_STR_LTrim() : <a href="dl__str_8h.md#ad95f905830ca78411feafc6748299240">dl_str.h</a>
+- DL_STR_ReadToBuffer() : <a href="dl__str_8h.md#a8d8a1dc13d99214c3189ada36255f239">dl_str.h</a>
+- DL_STR_RTrim() : <a href="dl__str_8h.md#a9f339970789812bcbbd50f7b9b4cd07e">dl_str.h</a>
+- DL_STR_SkipWS() : <a href="dl__str_8h.md#a8c534cb9d52a315b9899027db8cd7551">dl_str.h</a>
+- DL_STR_StrCat() : <a href="dl__str_8h.md#ae6780674519df9d4e87c852272e94bf2">dl_str.h</a>
+- DL_STR_StrCmp() : <a href="dl__str_8h.md#af90f27c687f23b9b2939a97754b50441">dl_str.h</a>
+- DL_STR_StrCpy() : <a href="dl__str_8h.md#ab15ebc0129002281339256d7bec69892">dl_str.h</a>
+- DL_STR_StrDup() : <a href="dl__str_8h.md#a8df92d2c4aa7e8f6718c4f8bb36d6539">dl_str.h</a>
+- DL_STR_StrLen() : <a href="dl__str_8h.md#ae5bc3001bfd98d55c6f976bd49fa812f">dl_str.h</a>
+- DL_STR_StrLenExWS() : <a href="dl__str_8h.md#a45be348beab150f1b85b01b32bb168da">dl_str.h</a>
+- DL_STR_StrNCmp() : <a href="dl__str_8h.md#a9f6dc8e48e764ed96c87c29996060fc5">dl_str.h</a>
+- DL_STR_StrNDup() : <a href="dl__str_8h.md#a4d5d88155955021af2f19ec295b5d8e1">dl_str.h</a>
+- DL_STR_ToUpper() : <a href="dl__str_8h.md#ae954dcd4743e2e81fc2cecde4e11192c">dl_str.h</a>
+- DL_STR_Validate() : <a href="dl__str_8h.md#abf6441d33a6a46db3ec8c27e6647631d">dl_str.h</a>
+- DoContentCallback() : <a href="_v_h_q_utils___content_8c.md#ae8b362639ea3278d16c027c3bd949224">VHQUtils_Content.c</a>
+- DoContentCallback_New() : <a href="_v_h_q_utils___app_interface_8c.md#a9662e3623f95cff82e876978e10128da">VHQUtils_AppInterface.c</a>
+- DoFileUpload() : <a href="_v_h_q_xml_operation_processor_8c.md#a3bca898d4b7e3484429460ec5647e880">VHQXmlOperationProcessor.c</a>
+- DownloadFile() : <a href="_file_download_8c.md#aa3414fa71d3b4e462fb315c03df25f47">FileDownload.c</a>
+- DownloadFileWorker() : <a href="ftp__curl_8c.md#a01aefd93b7b4b6c8a756c13a8bfd0071">ftp_curl.c</a>
+- DownloadOpSetInProgress() : <a href="_event_scheduler_8c.md#a631a4c3b4f0ebc1276e4c1d47edbe4e1">EventScheduler.c</a>

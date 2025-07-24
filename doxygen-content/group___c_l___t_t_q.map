@@ -1,0 +1,4 @@
+<map id="VISA terminal transaction qualifier" name="VISA terminal transaction qualifier">
+<area shape="rect" id="node1" href="$group___d_e_f___c_o_n_f___a_p_p_l_i.html" title="Definitions used for functions EMV_CT_SetAppliData(), EMV_CT_GetAppliData()" alt="" coords="5,13,133,38"/>
+<area shape="rect" id="node2" title="Possible values for EMV_CTLS_APPLIDATA_VK_STRUCT::TerminalTransactionQualifier_9F66." alt="" coords="181,5,371,45"/>
+</map>

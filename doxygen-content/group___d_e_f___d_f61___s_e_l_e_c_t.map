@@ -1,0 +1,4 @@
+<map id="StartTransaction: Which data was received from the chip" name="StartTransaction: Which data was received from the chip">
+<area shape="rect" id="node1" title="Contents of EMV_CT_SELECTRES_STRUCT::T_DF61_Info_Received_Data." alt="" coords="152,5,332,60"/>
+<area shape="rect" id="node2" href="$group___d_e_f___f_l_o_w___o_u_t_p_u_t.html" title=" " alt="" coords="5,20,104,45"/>
+</map>

@@ -1,0 +1,109 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - g -
+
+- GenerateAgentKeys() : <a href="_v_h_q_security_8c.md#ad4537714f1bbccdacdc63078efebcc20">VHQSecurity.c</a>
+- GenerateAppParamUpdateEvent() : <a href="_v_h_q_utils__shared_8c.md#ac10b9981c6bceedbaae4f57dc4dcbb18">VHQUtils_shared.c</a>
+- GenerateFileTransferCredentials() : <a href="ftp__curl_8c.md#a6a95761e6d904510a71a1c669575b743">ftp_curl.c</a>
+- GenerateInvalidCommID() : <a href="_v_h_q_utils___m_x_8c.md#abebd428d8dca487f95fe462daad70ad7">VHQUtils_MX.c</a>
+- GenerateNonce() : <a href="_v_h_q_utils__shared_8c.md#a8c204a3fac75f9d9e48c7809f3fb67e1">VHQUtils_shared.c</a>
+- get_comtype_by_interface() : <a href="ci_a_d_k_8c.md#a264684fe3e10e9debdcc560c286a7cbf">ciADK.c</a>
+- get_ComType_name() : <a href="_v_h_q_utils__shared_8c.md#a1c287d30caf984e3f014a8c6abd2f7fe">VHQUtils_shared.c</a>
+- get_dock_sts() : <a href="libevt_8h.md#adc9d1c34c7762b01b3b9830f1f70c6ed">libevt.h</a>
+- get_NetworkEvent_description() : <a href="ci_a_d_k_8c.md#addc371761c51a05059a5cc567640ff4b">ciADK.c</a>
+- get_NetworkEvent_description_frormat() : <a href="ci_a_d_k_raw_dial_8c.md#a737f4e0def81d1a07ac9ecefbfc02b2c">ciADKRawDial.c</a>
+- GetAppCustomData() : <a href="_v_h_q_utils___app_interface_8c.md#a4b5fc89a593af86ce9d4c7c07c359a66">VHQUtils_AppInterface.c</a>
+- GetApplications() : <a href="_v_h_q_utils___m_x_8c.md#af4e37bd238dec8630b85a1da90e71f0d">VHQUtils_MX.c</a>
+- GetAppParameterFileByName() : <a href="_v_h_q_utils___app_interface_8c.md#a35bf9729ea50e33d6f7bcea8ee24d614">VHQUtils_AppInterface.c</a>
+- GetAppParameterFilesHash() : <a href="_v_h_q_utils___app_interface_8c.md#aee4dea66b2140390f8ba96e7000457f8">VHQUtils_AppInterface.c</a>
+- GetAppParameters() : <a href="_v_h_q_utils___app_interface_8c.md#a6ae71becfc2adf53d49128553a23b5fe">VHQUtils_AppInterface.c</a>
+- GetApprovalFlag() : <a href="_event_scheduler_8c.md#a778d644cbc58b0ce5c6b0e8bd9c5d2c1">EventScheduler.c</a>
+- GetApprovalMaskStr() : <a href="_event_scheduler_8c.md#ae6f45f5cc5d402c19c4b2df33bee1e81">EventScheduler.c</a>
+- GetBatteryStatus() : <a href="_v_h_q_utils___m_x_8c.md#ace5c0bcfaa8cca77cf120758bd070108">VHQUtils_MX.c</a>
+- GetBinaryFromNode() : <a href="_v_h_q_xml_utils_8c.md#a34bc605d9243c492d880577ff21e20d8">VHQXmlUtils.c</a>
+- GetCertExpiration() : <a href="_v_h_q_security_8c.md#a8ae81cce94b4abcbfdc4add0354c5d8a">VHQSecurity.c</a>
+- GetCertSerNum() : <a href="_v_h_q_security_8c.md#accb8cb96a63c3b2481eca771daa53ac2">VHQSecurity.c</a>
+- GetCommErrWrapper() : <a href="ci_a_d_k_8c.md#a88578bc5651d04ba6474943c963cb3e0">ciADK.c</a> , <a href="ci_a_d_k_raw_dial_8c.md#a88578bc5651d04ba6474943c963cb3e0">ciADKRawDial.c</a>
+- GetCommonName() : <a href="_v_h_q_utils___m_x_8c.md#a293493a71a085e5bf15486208ef5ac47">VHQUtils_MX.c</a>
+- GetComType() : <a href="_v_h_q_utils__shared_8c.md#a9888c0755dd772bdd6056ddbee3dab7c">VHQUtils_shared.c</a>
+- GetContentCallbackRoot() : <a href="_v_h_q_utils___content_8c.md#a87850b224ec88431d69ec79e18263d33">VHQUtils_Content.c</a>
+- GetContentResultRoot() : <a href="_v_h_q_utils___content_8c.md#a7bb01bd1ea7812cdc824235f38b87886">VHQUtils_Content.c</a>
+- GetCPApplications() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a19b926a942c3eec19dfc011eab955023">VHQUtils_shared_cpp.cpp</a>
+- getCurrencyExponent() : <a href="util_8cpp.md#a747e0b130dd6c037d12411a173843e0d">util.cpp</a> , <a href="sdi_2src_2util_8h.md#a747e0b130dd6c037d12411a173843e0d">util.h</a>
+- getCurrencyName() : <a href="sdi_2src_2util_8h.md#af8e537859d3bd237614e1f416351cdbe">util.h</a> , <a href="util_8cpp.md#af8e537859d3bd237614e1f416351cdbe">util.cpp</a>
+- GetCurrentInstance() : <a href="_v_h_q_config_8cpp.md#aa67082322cb4ea104367dd95914ab953">VHQConfig.cpp</a>
+- GetCurrentMessageID() : <a href="_v_h_q_utils__shared_8c.md#af4996d4bb0ec6ed38830f98c2b7ef9bc">VHQUtils_shared.c</a>
+- GetDataProcessor() : <a href="_v_h_q_xml_operation_processor_8c.md#a5196124e4f81a7eadad57cd44aa6113b">VHQXmlOperationProcessor.c</a>
+- GetDeviceIdBackupSource() : <a href="_v_h_q_config_8cpp.md#a460ffe37623ec06ab5c4de5df22bdfa5">VHQConfig.cpp</a>
+- GetDeviceProfile() : <a href="_v_h_q_utils___m_x_8c.md#aa5f17f0de5206ff43d09e008891c5369">VHQUtils_MX.c</a>
+- GetDeviceRegistrationMode() : <a href="_v_h_q_manager_8c.md#a5767f56797c59e480a9fe880ead5aa87">VHQManager.c</a>
+- GetDiagCounters() : <a href="_v_h_q_utils___m_x_8c.md#afbb836f4cac27d4c39199752b9834e1e">VHQUtils_MX.c</a>
+- GetDiagDataProcessor() : <a href="_v_h_q_xml_operation_processor_8c.md#a33e9cf65007b8bd4caecc197f3ddcc13">VHQXmlOperationProcessor.c</a>
+- GetDockingStationInfo() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a4a24dd13764363fb26e4061cc00ef01f">VHQUtils_shared_cpp.cpp</a>
+- GetEventExpiryTime() : <a href="_event_scheduler_8c.md#a953cb45f15b2265f216ed87cb8458755">EventScheduler.c</a>
+- GetExecutingIndex() : <a href="_event_scheduler_8c.md#ab392c94911089845c07106149f73ec14">EventScheduler.c</a>
+- GetFileNameForInstance() : <a href="_v_h_q_config_8cpp.md#acf25078f1b1913ea703b1762a920d9b0">VHQConfig.cpp</a>
+- getForceCurrAbbr() : <a href="util_8cpp.md#ad052d8032bf71a0869d0eccdf4a7c6c5">util.cpp</a>
+- GetHandleInfo() : <a href="_v_h_q_utils___m_x_8c.md#adfcec2a435d671e00b5e209af78f0228">VHQUtils_MX.c</a>
+- GetHBFreq() : <a href="_v_h_q_utils__shared_8c.md#aeb62d0af718d972cb2cb3ddeb651c0c9">VHQUtils_shared.c</a>
+- GetHeartBeatEventID() : <a href="_v_h_q_manager_8c.md#a471e63ef9aa27d3c4a7c20146c8d3135">VHQManager.c</a>
+- GetHostName() : <a href="_v_h_q_utils___m_x_8c.md#a70e95f0a98f1aa43d9a2fb8318cd6a21">VHQUtils_MX.c</a>
+- GetInitialTimerVal() : <a href="_event_scheduler_8c.md#a804732cf9ec603753125a9b245a9403a">EventScheduler.c</a>
+- GetInstanceFromFilename() : <a href="_v_h_q_config_8cpp.md#a17977dc55a636582963142483be82470">VHQConfig.cpp</a>
+- GetIntAttrFromNode() : <a href="_v_h_q_xml_utils_8c.md#ae4dff941d8f413f1e091139b1ce17d59">VHQXmlUtils.c</a>
+- GetIPAddress() : <a href="_v_h_q_utils__shared_8c.md#a811051257f853a442af31fa405c34bc6">VHQUtils_shared.c</a>
+- GetKeyData() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#aac882099a71aa9dfe310b2cd14aab935">VHQUtils_shared_cpp.cpp</a>
+- GetKeyDataLegacy() : <a href="_v_h_q_utils___m_x_8c.md#acb084ca281a56d4621d8f31bfaa94f27">VHQUtils_MX.c</a>
+- getLoadedPlugins() : <a href="loadplugin_8cpp.md#a4f3977607630c58a3dccba35c3de9615">loadplugin.cpp</a> , <a href="loadplugin_8h.md#a96e2ea2dbce448fb41986aa2ee19eba6">loadplugin.h</a>
+- GetLoggingLevel() : <a href="_v_h_q_config_8cpp.md#a8816969cf1877588191d19be307cc9c9">VHQConfig.cpp</a>
+- GetLogSize() : <a href="_v_h_q_config_8cpp.md#a2a2e5df47b5953d767909781984e399b">VHQConfig.cpp</a>
+- GetLongIntAttrFromNode() : <a href="_v_h_q_xml_utils_8c.md#a54bb6bf6d72879709768450b65c7b07f">VHQXmlUtils.c</a>
+- GetMACAddress() : <a href="_v_h_q_utils__shared_8c.md#af1ee6d38b86f3fecc892ed951291d48f">VHQUtils_shared.c</a>
+- GetMainBatteryStatus() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a05ace49c3ef77482731a023a3c38d8ad">VHQUtils_shared_cpp.cpp</a>
+- GetManagerThreadId() : <a href="_v_h_q_manager_8c.md#a2cad7743ca312987fd17f2c598b92ad1">VHQManager.c</a>
+- getManfactureDate() : <a href="_v_h_q_utils___m_x_8c.md#a1cba62d0c38a42cab79511c62c793f52">VHQUtils_MX.c</a>
+- GetMemoryProfile() : <a href="_v_h_q_utils___m_x_8c.md#a5ee919985d35efbeccbc9eb3a8c6ee2c">VHQUtils_MX.c</a>
+- GetMessageID() : <a href="_v_h_q_utils___m_x_8c.md#ab5de5714c8738f14d87254c993f770b5">VHQUtils_MX.c</a>
+- GetModelNumber() : <a href="_v_h_q_utils___m_x_8c.md#a5e795a39184979255cff8cb5a6e6d82e">VHQUtils_MX.c</a>
+- GetMPCStatus() : <a href="_v_h_q_utils___m_x_8c.md#a2b4331c99dfc92c13b84bb2bd5e9c033">VHQUtils_MX.c</a>
+- GetNetworkConfig() : <a href="_v_h_q_utils___m_x_8c.md#a243a26c1daef3abcc5f6ebd94860e12e">VHQUtils_MX.c</a>
+- GetNextParamUpdateFile() : <a href="_v_h_q_utils___m_x_8c.md#af94338a66cdaa3b026378acb97d8b397">VHQUtils_MX.c</a>
+- GetNodeByName() : <a href="_v_h_q_xml_utils_8c.md#a3e27309a34f9979130da9be022f68601">VHQXmlUtils.c</a>
+- GetOperationIdForEvent() : <a href="_event_scheduler_8c.md#afe2c1c65af7f47fd1d2cf5a7530b6e24">EventScheduler.c</a>
+- GetOSBootTime() : <a href="_v_h_q_utils__shared_8c.md#a9d06aef961f06ca519411acc42c0e84c">VHQUtils_shared.c</a>
+- GetParamFileReportingType() : <a href="_v_h_q_config_8cpp.md#a2493ff4899b6fcd655662ae00080b4a5">VHQConfig.cpp</a>
+- GetParamUpdateFileNum() : <a href="_v_h_q_utils___m_x_8c.md#a2e80d8ba5c2dcc9fc0565a83ad1b7537">VHQUtils_MX.c</a>
+- GetParamUpdateProcessor() : <a href="_v_h_q_xml_operation_processor_8c.md#a497a25243a0caf78ebd3b98264400709">VHQXmlOperationProcessor.c</a>
+- getPCipAddr() : <a href="_v_h_q_utils___m_x_8c.md#acc116337f88cb6cede8fd823477d5f41">VHQUtils_MX.c</a>
+- GetPIDbyName() : <a href="_v_h_q_utils___m_x_8c.md#a9335509246101f38cb588271517efa31">VHQUtils_MX.c</a>
+- getPlugin() : <a href="loadplugin_8h.md#a206221de659eaea0b9c26cfcb96bc049">loadplugin.h</a> , <a href="loadplugin_8cpp.md#a206221de659eaea0b9c26cfcb96bc049">loadplugin.cpp</a>
+- GetProcessInfo() : <a href="_v_h_q_utils___m_x_8c.md#a3ce9ee84c24c11c3e3e2eea2c9b3d612">VHQUtils_MX.c</a>
+- GetProcessRAMData() : <a href="_v_h_q_utils___m_x_8c.md#a832110186f01ab60dcf3bfb3a796eaf4">VHQUtils_MX.c</a>
+- GetPubKeyID() : <a href="_v_h_q_security_8c.md#a14ec216733eca01b5c40973c918780e9">VHQSecurity.c</a>
+- GetRAMData() : <a href="_v_h_q_utils___m_x_8c.md#a56d7eb03eeccdef1e304c981cc0ab846">VHQUtils_MX.c</a>
+- GetReceiverType() : <a href="_v_h_q_utils___app_interface_8c.md#a412c43cf6ca872179d25ef5ecd0008a7">VHQUtils_AppInterface.c</a>
+- GetRecevierPipeName() : <a href="_v_h_q_utils___app_interface_8c.md#aec66abf72a0f9a4512158abe71ed67b4">VHQUtils_AppInterface.c</a>
+- GetRecevierUser() : <a href="_v_h_q_utils___app_interface_8c.md#af5c1674f5d6ffd0a129efd283dfa508e">VHQUtils_AppInterface.c</a>
+- GetRegisteredAppAddInfo() : <a href="_v_h_q_utils___app_interface_8c.md#ac2cf4ce750d654eaa6eeec00b399ac6d">VHQUtils_AppInterface.c</a>
+- GetRegisteredAppCustomType() : <a href="_v_h_q_utils___app_interface_8c.md#aaf8fe48955e44cd714561bf4b037ab98">VHQUtils_AppInterface.c</a>
+- GetRegisteredAppName() : <a href="_v_h_q_utils___app_interface_8c.md#a8e9e609851fe040aa440e51cbe7b0a69">VHQUtils_AppInterface.c</a>
+- GetRegisteredAppVersion() : <a href="_v_h_q_utils___app_interface_8c.md#a384d3e384c8d3acae2852b0c86d93cf2">VHQUtils_AppInterface.c</a>
+- GetRestartStatus() : <a href="_v_h_q_manager_8c.md#a99d56462c3eb0a7f9c7d42ed9ad494a0">VHQManager.c</a> , <a href="ci_a_d_k_raw_dial_8c.md#a99d56462c3eb0a7f9c7d42ed9ad494a0">ciADKRawDial.c</a> , <a href="ci_a_d_k_8c.md#a99d56462c3eb0a7f9c7d42ed9ad494a0">ciADK.c</a>
+- GetRTC() : <a href="_v_h_q_utils___m_x_8c.md#aa819f99d2520a9f0c6116e9f229991b5">VHQUtils_MX.c</a>
+- getSecHandle() : <a href="sec_8cpp.md#a5629ef607b8d2f2c3aebd7ceb0d2f586">sec.cpp</a> , <a href="sec_8h.md#ad7f13c5a06cf61a03f3d0a6f993a2cc4">sec.h</a>
+- GetSecondsToNextEvent() : <a href="_event_scheduler_8c.md#a2603fd407a7ba480eb8866dff44ca031">EventScheduler.c</a>
+- GetSecondsToNextHeartbeat() : <a href="_v_h_q_config_8cpp.md#a589f284f9ab4f5f515bbab9b01680e29">VHQConfig.cpp</a>
+- GetSerialNumber() : <a href="_v_h_q_utils___m_x_8c.md#a92bad009043650285ff7c40ff0166473">VHQUtils_MX.c</a>
+- GetServerInstanceList() : <a href="_v_h_q_config_8cpp.md#afcb779f27ed4c00492a5075bf304dfaa">VHQConfig.cpp</a>
+- GetServerURL() : <a href="_i_oinit_8c.md#aadfc901514c1a797fd3ba88d32f9b18d">IOinit.c</a>
+- GetStrAttrFromNode() : <a href="_v_h_q_xml_utils_8c.md#a0f8044c829e87a8c2394569b27403892">VHQXmlUtils.c</a>
+- GetSwUpdateProcessor() : <a href="_v_h_q_manager_8c.md#aa0499176040984549ff671acadafd4dc">VHQManager.c</a>
+- GetTimerExpired() : <a href="_event_scheduler_8c.md#abd02a5cf4a023f80830bba89001a2c45">EventScheduler.c</a>
+- GetUsrAppInfo() : <a href="_v_h_q_utils___m_x_8c.md#adcfe7e11b0a87a796eb112de686f3265">VHQUtils_MX.c</a>
+- GetVCLInfo() : <a href="_v_h_q_utils___m_x_8c.md#a290d293efe7e1e9b0b48b8650f408147">VHQUtils_MX.c</a>
+- GetVSRCertTree() : <a href="_v_h_q_utils___m_x_8c.md#abffcea0c50ae7523e165d2bab15d1491">VHQUtils_MX.c</a>
+- GrepForPCipaddr() : <a href="_v_h_q_utils___m_x_8c.md#ae80dd10c46c8e2c800218380186edb7b">VHQUtils_MX.c</a>

@@ -1,0 +1,9 @@
+<map id="Low level system power management functions. Please use vfisyspm.h instead." name="Low level system power management functions. Please use vfisyspm.h instead.">
+<area shape="rect" id="node1" href="$group__syserro.html" title=" " alt="" coords="301,5,496,31"/>
+<area shape="rect" id="node2" href="$group__led.html" title=" " alt="" coords="317,55,481,80"/>
+<area shape="rect" id="node3" href="$group__sysbar.html" title=" " alt="" coords="299,104,499,129"/>
+<area shape="rect" id="node4" href="$group__util.html" title=" " alt="" coords="335,153,462,179"/>
+<area shape="rect" id="node5" href="$group__sysbeep.html" title=" " alt="" coords="313,203,484,228"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,107,187,177"/>
+<area shape="rect" id="node7" href="$group__sysinfo.html" title=" " alt="" coords="301,252,496,277"/>
+</map>

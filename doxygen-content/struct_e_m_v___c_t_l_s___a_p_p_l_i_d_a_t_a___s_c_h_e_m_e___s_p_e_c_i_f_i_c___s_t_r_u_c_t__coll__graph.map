@@ -1,0 +1,5 @@
+<map id="EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT" name="EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT">
+<area shape="rect" id="node1" title="Structure for configuration of one single application. See EMV_CTLS_SetAppliDataSchemeSpecific() &#160;&#160;XM..." alt="" coords="105,109,313,151"/>
+<area shape="rect" id="node2" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___d_a_t_a___s_t_r_u_c_t" title=" " alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t_l_s___interface_8h.html#struct_e_m_v___c_t_l_s___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="221,5,413,32"/>
+</map>

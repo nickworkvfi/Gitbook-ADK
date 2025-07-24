@@ -1,0 +1,53 @@
+---
+hidden: true
+title: syserror.h
+---
+
+<a href="syserror_8h.md">Go to the documentation of this file.</a>
+
+``` cpp
+ 1 #pragma once
+ 2 
+ 8 #ifndef DOXYGEN
+ 9 
+ 10 namespace vfisysinfo
+ 11 {
+ 12 #endif
+ 13 
+ 15 enum sysError
+ 16 {
+ 17  SYS_ERR_OK = 0,
+ 18  SYS_ERR_PROP_UNSUPPORTED = -1,
+ 19  SYS_ERR_PROP_READ_ONLY = -2,
+ 20  SYS_ERR_PROP_WRITE_ONLY = -3,
+ 21  SYS_ERR_PARAMETER = -4,
+ 22  SYS_ERR_PERMISSION = -5,
+ 23  SYS_ERR_REGION = -6,
+ 24  SYS_ERR_FAIL = -7,
+ 25  SYS_ERR_UNSUPPORTED = -8,
+ 26  SYS_ERR_ACTIVE_TIMEZONE = -9,
+ 27  SYS_ERR_INSTALL_LIMIT = -10,
+ 28  SYS_ERR_REBOOT_NEEDED = -11,
+ 29  SYS_ERR_FILE_DOES_NOT_EXIST = -12,
+ 30  SYS_ERR_BUNDLE_VERSION = -13,
+ 31  SYS_ERR_EXISTS = -14,
+ 32  SYS_ERR_ACCESS = -15,
+ 33  SYS_ERR_NOT_DOCKED = -16,
+ 34  SYS_ERR_KEY_MISSING = -17,
+ 35  SYS_ERR_EXPECTED_KEY = -18,
+ 36  SYS_ERR_CONFIGURATIION = -19,
+ 37  SYS_ERR_PATHNAME_TOO_LONG = -20,
+ 38  SYS_ERR_GET_CWD = -21,
+ 39  SYS_ERR_IPC = -22,
+ 40  SYS_ERR_RUNNING = -23,
+ 41  SYS_ERR_SDI_NOT_CONNECTED = -24,
+ 42  SYS_ERR_CALCULATING = -25,
+ 43  SYS_ERR_BASE_CTRL_NOT_AVAILABLE = -26,
+ 44  SYS_ERR_ANDROID_NOT_AVAILABLE = -27,
+ 45 };
+ 46 
+ 47 #ifndef DOXYGEN
+ 48 } // namespace vfisysinfo
+ 49 #endif
+ 50 
+```

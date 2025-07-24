@@ -1,0 +1,36 @@
+var _v_h_q_utils__timezone_8c =
+[
+    [ "tzhead", "_v_h_q_utils__timezone_8c.html#structtzhead", [
+      [ "tzh_charcnt", "_v_h_q_utils__timezone_8c.html#a2f33e6ce014afdcd0194045e2a6a470f", null ],
+      [ "tzh_leapcnt", "_v_h_q_utils__timezone_8c.html#ab6df9c632110cab9cae9f0b7ddbbc56f", null ],
+      [ "tzh_magic", "_v_h_q_utils__timezone_8c.html#abf5b78217e0b627d296bedd27e819617", null ],
+      [ "tzh_reserved", "_v_h_q_utils__timezone_8c.html#af7943e750040408989f665c8c3dd260d", null ],
+      [ "tzh_timecnt", "_v_h_q_utils__timezone_8c.html#af858b5bd666e1aaf2c702b6fc011c5b4", null ],
+      [ "tzh_ttisgmtcnt", "_v_h_q_utils__timezone_8c.html#a4ff71abd6d63862e4365b8bdc35d4c5b", null ],
+      [ "tzh_ttisstdcnt", "_v_h_q_utils__timezone_8c.html#a102e3d12031ca050b42ad34168db526a", null ],
+      [ "tzh_typecnt", "_v_h_q_utils__timezone_8c.html#aaf862531cd5e7b393db14d45297c853f", null ],
+      [ "tzh_version", "_v_h_q_utils__timezone_8c.html#a06b85cea5b70b121f014d66b4618ed14", null ]
+    ] ],
+    [ "DAYSPERLYEAR", "_v_h_q_utils__timezone_8c.html#ad30f8828a03f696f87110f35e402737e", null ],
+    [ "DAYSPERNYEAR", "_v_h_q_utils__timezone_8c.html#a2c13c5660e97dc3fc82bc43cd752178a", null ],
+    [ "DAYSPERWEEK", "_v_h_q_utils__timezone_8c.html#a9bcc879e9358166ad8cb333bd23baf65", null ],
+    [ "DST_MAX_ENTR", "_v_h_q_utils__timezone_8c.html#a0c0aef51b6bac32607f5b33a4a6543b9", null ],
+    [ "HOURSPERDAY", "_v_h_q_utils__timezone_8c.html#a77e3c323dfbddadb30abe56bc5395f91", null ],
+    [ "MINSPERHOUR", "_v_h_q_utils__timezone_8c.html#ab86ce8e9674b0f354c5491b71148a867", null ],
+    [ "MONSPERYEAR", "_v_h_q_utils__timezone_8c.html#a60cf8c25165a6cc0fb5dd90685ebe8ba", null ],
+    [ "SECSPERDAY", "_v_h_q_utils__timezone_8c.html#a0711b3fc9ababc38239df227d1bd1e62", null ],
+    [ "SECSPERHOUR", "_v_h_q_utils__timezone_8c.html#a235e72e63a254ecde04f29148b3333fb", null ],
+    [ "SECSPERMIN", "_v_h_q_utils__timezone_8c.html#a4fbe1b6bbb5e5f3ff7300e9ea9991f36", null ],
+    [ "SECSPERWEEK", "_v_h_q_utils__timezone_8c.html#a66e439955f393c9e47ef9d3be10f1e06", null ],
+    [ "TM_FRIDAY", "_v_h_q_utils__timezone_8c.html#a72ecfaf4d920c569d26877d46f375896", null ],
+    [ "TM_MONDAY", "_v_h_q_utils__timezone_8c.html#abfd73ba2c1a691d4387f8b601efc02da", null ],
+    [ "TM_SATURDAY", "_v_h_q_utils__timezone_8c.html#a9965a81d13cc94d5ca80337b571a3e82", null ],
+    [ "TM_SUNDAY", "_v_h_q_utils__timezone_8c.html#ac12d450721362983d03aa909cd4d4f07", null ],
+    [ "TM_THURSDAY", "_v_h_q_utils__timezone_8c.html#a4b1d1ad4eda8672a61b69a93079b9ca0", null ],
+    [ "TM_TUESDAY", "_v_h_q_utils__timezone_8c.html#a5d4b2067b074c145894496e179bf07cb", null ],
+    [ "TM_WEDNESDAY", "_v_h_q_utils__timezone_8c.html#aa1f447d8a340e172e33fc437b5beda79", null ],
+    [ "TZ_MAGIC", "_v_h_q_utils__timezone_8c.html#a362553502b52b7e26d09dfd80fa0f5a4", null ],
+    [ "TZ_MAX_ZONES", "_v_h_q_utils__timezone_8c.html#a45533befffc176af76d7a7fed3799833", null ],
+    [ "ZIC_VERSION", "_v_h_q_utils__timezone_8c.html#a042f89a46703d9543b28fd0581ba9714", null ],
+    [ "VHQWriteZone", "_v_h_q_utils__timezone_8c.html#a6fcf50b2f356cb6f9765b1cb7a3e7da1", null ]
+];

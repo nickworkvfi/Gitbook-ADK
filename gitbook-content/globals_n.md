@@ -1,0 +1,118 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - n -
+
+- necessary : <a href="libcom_8h.md#a094c19de8d528a8161a5d6099247faa4">libcom.h</a>
+- NESTED_TAG : <a href="src_2sdi__tags_8h.md#ab378606e755a2b187650b4c7e22aac22">sdi_tags.h</a>
+- netFieldLen : <a href="ci_a_d_k_8c.md#a76079c39f1616f2ed37830b98d25cf54">ciADK.c</a>
+- NETINST_FAIL : <a href="netloader_2include_2netloader_8h.md#abdc69ece4ccafc7956f556ed63a78533ab769adefdf8d0d55c529ac404a17f341">netloader.h</a>
+- NETINST_INVALID_PARAM : <a href="netloader_2include_2netloader_8h.md#abdc69ece4ccafc7956f556ed63a78533a78c33ba9ac9ecb7270208baf4b2dd810">netloader.h</a>
+- NETINST_NO_SOFTWARE : <a href="netloader_2include_2netloader_8h.md#abdc69ece4ccafc7956f556ed63a78533a64594239006567bc2032abea23724a3d">netloader.h</a>
+- NETINST_OK : <a href="netloader_2include_2netloader_8h.md#abdc69ece4ccafc7956f556ed63a78533ab3b516fff9f3e84df64b45285a2d5bdc">netloader.h</a>
+- NETLD_DISPLAY_MESSAGE : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283af92897b8dc4fd248cd20b727b8589e5a">netloader.h</a>
+- NETLD_DOWNLOAD_ERROR : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283aa35c4f74f5771153797d9fc58e5b6f8f">netloader.h</a>
+- NETLD_DOWNLOAD_FILE : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a858a17c0c1f8e73f2fa2dd9ddd66aa66">netloader.h</a>
+- NETLD_DOWNLOAD_OK : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283ac36811050ef96c8aea0ef668fe24d4a7">netloader.h</a>
+- NETLD_ERROR : <a href="netloader_2include_2netloader_8h.md#a9c806f2b892df2b3a86e5b1d867bd2d3af9ff6836efc79578afe59eb7effab993">netloader.h</a>
+- NETLD_INSTALL_ERROR : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a086a0806ee60e52609bc97c276df71f3">netloader.h</a>
+- NETLD_INSTALL_FILE : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a099bc7a7e8baa238cdd38d72d8e484a2">netloader.h</a>
+- NETLD_INSTALL_OK : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283aaeb6459573a64173495a5464a364fb47">netloader.h</a>
+- NETLD_OK : <a href="netloader_2include_2netloader_8h.md#a9c806f2b892df2b3a86e5b1d867bd2d3af215ffc28a70ad9e84c66eff4223f84f">netloader.h</a>
+- NETLD_REBOOT_REQUESTED : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a00e68895b7ca32382cd2071ff701826a">netloader.h</a>
+- NETLD_RUNNING : <a href="netloader_2include_2netloader_8h.md#a9c806f2b892df2b3a86e5b1d867bd2d3a9b674e4e5ea539a79af9ac516ddddc13">netloader.h</a>
+- NETLD_SET_TIME : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a9e54aaef828d28a158647d7ebfa61459">netloader.h</a>
+- NETLD_STOP_REQUESTED : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283a60e03d44908f50e9b98ecdfbcf394945">netloader.h</a>
+- netloader_start() : <a href="netloader_2include_2netloader_8h.md#ad1c52953b207d5e2120b5ae5ff8cf92b">netloader.h</a>
+- netloader_stop() : <a href="netloader_2include_2netloader_8h.md#a3b10a600fb356303f94441e8b36f6441">netloader.h</a>
+- NetLoaderInstallResult : <a href="netloader_2include_2netloader_8h.md#abdc69ece4ccafc7956f556ed63a78533">netloader.h</a>
+- NetLoaderResult : <a href="netloader_2include_2netloader_8h.md#a9c806f2b892df2b3a86e5b1d867bd2d3">netloader.h</a>
+- NetLoaderStatus : <a href="netloader_2include_2netloader_8h.md#a1901938f855dcfca04090c4d682f4283">netloader.h</a>
+- NEXT_KSN : <a href="sec2_8h.md#ac87cdb44ffe0983da72623af316326a6">sec2.h</a>
+- NFC_APDU_Exchange : <a href="sdi__nfc_8h.md#ac17cf22c461d04ea8daf5f2993e559d9">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#af4ee1c833fe1c5cb410982be81a68a12">titusstubs.cpp</a>
+- NFC_BUFFER_SIZE : <a href="nfc_8cpp.md#aa6f734d34c6ee0cf731449ef1548acfc">nfc.cpp</a>
+- NFC_Callback_Test : <a href="sdi__nfc_8h.md#a91e433117cd636124dc1c94b3ae757c9">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a4393526286ccc021c29b5c9ffffea6d5">titusstubs.cpp</a>
+- NFC_Card_Removal() : <a href="titusstubs_8cpp.md#a568828e0b074fc2efb83f864ee06aafb">titusstubs.cpp</a>
+- NFC_CARD_TYPE : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276">titusstubs.cpp</a>
+- NFC_Client_Init : <a href="sdi__nfc_8h.md#a7a9419cd6aa7aa9185fb249ce761ae0f">sdi_nfc.h</a>
+- NFC_Client_Init_CheckVer : <a href="sdi__nfc_8h.md#a5f084aa038d869023d4adcf5324535ff">sdi_nfc.h</a>
+- NFC_COMPLIANT : <a href="titusstubs_8cpp.md#a2283919157fea12db50306ed710f156b">titusstubs.cpp</a>
+- NFC_Config_Init : <a href="sdi__nfc_8h.md#a66b104ffc591487c0725461adc5fbbee">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a0d86892d3fb8c0bd2e38f4dc2558f326">titusstubs.cpp</a>
+- NFC_deletePreloadFile() : <a href="nfc_8cpp.md#a1cd110adeb746aeac51b38d524be8c99">nfc.cpp</a> , <a href="nfc_8h.md#a1cd110adeb746aeac51b38d524be8c99">nfc.h</a>
+- NFC_F_BAUD : <a href="titusstubs_8cpp.md#afbdd40a0f001fb7ab2c52ee99422b5eb">titusstubs.cpp</a>
+- NFC_Felica_Exchange : <a href="sdi__nfc_8h.md#a32cdb54809cf1386509bb5f5eaf05bad">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a2c931bb61406783d5beae327e75f9c62">titusstubs.cpp</a>
+- NFC_Felica_Polling : <a href="sdi__nfc_8h.md#aeaf5016cc3f72d1b8587281997fa9aa4">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a243a0bf8d307ac9e73b6ceb1428b5fee">titusstubs.cpp</a>
+- NFC_Free_Poll_Data : <a href="sdi__nfc_8h.md#abee9ce46691f1a791035539bdccd55c4">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a57637ae13b965f52baad6f2cf6df9b29">titusstubs.cpp</a>
+- NFC_Free_Poll_Data_Full : <a href="sdi__nfc_8h.md#a82a122b52e7c6e1f461117a1ebda6949">sdi_nfc.h</a>
+- NFC_Free_Poll_DataFull() : <a href="titusstubs_8cpp.md#ab5991ed326183f4e8d0f7a00c9ff60a4">titusstubs.cpp</a>
+- NFC_get_appID_Preload() : <a href="nfc_8cpp.md#ac4a4bf1a760772ae31fe002226cc3a90">nfc.cpp</a> , <a href="nfc_8h.md#ac4a4bf1a760772ae31fe002226cc3a90">nfc.h</a>
+- NFC_get_appID_Static() : <a href="nfc_8cpp.md#ac065a52a8673baeae8711309bfc176c6">nfc.cpp</a> , <a href="nfc_8h.md#ac065a52a8673baeae8711309bfc176c6">nfc.h</a>
+- NFC_Get_Version : <a href="sdi__nfc_8h.md#a7e475d639fe88323208beef908223ab2">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#aeb1d7b0b11d9e03b115520994b55f35c">titusstubs.cpp</a>
+- NFC_getPreloadFileName() : <a href="nfc_8cpp.md#a7bb3be6ba4ceea178891fa7b10367a04">nfc.cpp</a> , <a href="nfc_8h.md#ae00a37aa32a3472c5038fb30c6fa7afd">nfc.h</a>
+- NFC_Mifare_Authenticate : <a href="sdi__nfc_8h.md#a754f2fb39a1132dc5de68a8c6743d23b">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#aedec140cfc839fe5a37cf2a50a2817f4">titusstubs.cpp</a>
+- NFC_Mifare_Decrement : <a href="sdi__nfc_8h.md#a1c3ab8af1973a4c01ee1125a256c9fcc">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a0173f202da9dcb995cf8a0ae2c676a9d">titusstubs.cpp</a>
+- NFC_Mifare_Decrement_Only : <a href="sdi__nfc_8h.md#a95b9daa11669ad992967dd8e1dad539b">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#af60063ed1a2e16ea0d36246c00060b9e">titusstubs.cpp</a>
+- NFC_Mifare_Increment : <a href="sdi__nfc_8h.md#a52a8a28d2317e77994570d6e9dbfc599">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a1465ec2daccc203d021d97c85d216628">titusstubs.cpp</a>
+- NFC_Mifare_Increment_Only : <a href="sdi__nfc_8h.md#a81854a6696f2ef4942925eefb6615003">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a905d4c59d169e24179efdefb7b02ea29">titusstubs.cpp</a>
+- NFC_Mifare_Read : <a href="sdi__nfc_8h.md#ad1171a19fb3b2b1545a91c49da67b341">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#ae4ae024c208eeaf4a8a8c6a0d4455850">titusstubs.cpp</a>
+- NFC_Mifare_Restore : <a href="sdi__nfc_8h.md#a15263dc4011284d7a3dae61c1a8f7114">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#ab6deea5c5d4fda9e929350926b527196">titusstubs.cpp</a>
+- NFC_Mifare_Transfer : <a href="sdi__nfc_8h.md#ae3c299890ef9f3eb9306edc7415fe1d1">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a927d249ae02b388d7cd1e673844263d0">titusstubs.cpp</a>
+- NFC_Mifare_Write : <a href="sdi__nfc_8h.md#aa07a2c9d57d47e0dfd9099cd3f739321">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a530661a2519e18704b7b42d20f975d10">titusstubs.cpp</a>
+- NFC_Ping : <a href="sdi__nfc_8h.md#a2a6ea83c72ad383401d3f00e51d25e23">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a67ffc3f45da9f94fe48f8b7915008bf1">titusstubs.cpp</a>
+- NFC_POLL_PARAM_CUSTOM : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a3ac537b8375ed7bd59c84a614586d270">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_A : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a095d722cb68670beea6002cd84ef6a37">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_AB : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9ae44c9cc468b3953877e9420cc8b30950">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_ABF : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a1e79da4b579afa4d1ee3988607832409">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_AF : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a29502eed0bb440065cf05f204fa77854">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_B : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a2fbda2a62f66a6644864cf576f01443d">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_BF : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9aba77a6510477affe00c1d6d5fb329642">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_F : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9ac528b0bb0eacc076f5d5accfe0e52f65">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_F_DEP : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a6c6842f2e8a0bb03131fdff2bafc2a51">titusstubs.cpp</a>
+- NFC_POLL_PARAM_TECH_FELICA : <a href="titusstubs_8cpp.md#a9bd1ffbba4634a8707caf0b8840ed5c9a151d690b298436f3db72c8bb46a62901">titusstubs.cpp</a>
+- NFC_PREFIX : <a href="filesystem_8h.md#a6ba1796ec4977bdd663f9e70fbaad071">filesystem.h</a>
+- NFC_PT_Activation() : <a href="titusstubs_8cpp.md#a969e1a6109a61709214ff554e91eed60">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a3eabcba13619a1388458848aeb81234c">sdi_nfc.h</a>
+- NFC_PT_Adv_TxRx() : <a href="titusstubs_8cpp.md#a38c8ee979705bde141c922ebb2915337">titusstubs.cpp</a>
+- NFC_PT_Cancel_Polling : <a href="sdi__nfc_8h.md#a167c5c7e903dd7f5a3acdb70f7ff8a66">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#ac828fb5be4468adf0d1058e70db106ee">titusstubs.cpp</a>
+- NFC_PT_Close : <a href="sdi__nfc_8h.md#ac9e3d1e964ffb8bb3923e989b968df0d">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a00d4921f4a21667ae4cddb317ffc04a5">titusstubs.cpp</a>
+- NFC_PT_FieldOff : <a href="sdi__nfc_8h.md#ac02dad845a9116e51a68f4bfb394d93b">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a65c5ac372de4d71a8154f61b820abaf0">titusstubs.cpp</a>
+- NFC_PT_FieldOn : <a href="sdi__nfc_8h.md#a099ef9f3ff7261bac7bedd140613dba6">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#af0e3c8e7991ac4edbeceb2e432c10275">titusstubs.cpp</a>
+- NFC_PT_FtechBaud : <a href="sdi__nfc_8h.md#a653f2131d7eae300a7035a7b5430405c">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#af3c0de5e1db22e34a32d0d5adab0e756">titusstubs.cpp</a>
+- NFC_PT_Open() : <a href="titusstubs_8cpp.md#aaa8fefdd6c9e72d4d3a487b0ae5e5925">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a9407a28ffd731a86c08d5c9e13ecd2a4">sdi_nfc.h</a>
+- NFC_PT_Polling : <a href="sdi__nfc_8h.md#a309c7373d9b530f7c6027466d7e6f6f7">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#aa1e541259f194621834060bf770b717b">titusstubs.cpp</a>
+- NFC_PT_PollingFull() : <a href="titusstubs_8cpp.md#ac692591d9c1287d0d4b6131a03b2e977">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#abcc66aaf4a10a256c2c303487e8507f7">sdi_nfc.h</a>
+- NFC_PT_TxRx : <a href="sdi__nfc_8h.md#a668a6a40090d34ee7f9314a9b7a1e67c">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a32723e5224c90c693a167dbdfb7d4700">titusstubs.cpp</a>
+- NFC_SerialClose : <a href="sdi__nfc_8h.md#a3f4b01935c33a7b7339187ae0baba2e0">sdi_nfc.h</a>
+- NFC_SerialOpen : <a href="sdi__nfc_8h.md#a70bb11b4c0d061db8ca5435f17187ca3">sdi_nfc.h</a>
+- NFC_Set_Callback_Function() : <a href="titusstubs_8cpp.md#ae2824260537e148970342b114f4f3cef">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#aa57659975f2480a1d07845e181de9519">sdi_nfc.h</a>
+- NFC_Terminal_Config() : <a href="titusstubs_8cpp.md#ad0a349a0904d698fea9fffa004cb3eb3">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a86d1953748c0d7e6b9e621c2a36dd8e9">sdi_nfc.h</a>
+- NFC_TERMINAL_ReadConfig : <a href="sdi__nfc_8h.md#a064b234e44e08f833cc9d2e153260164">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a2de5511cecb17b6859116720c33b48bf">titusstubs.cpp</a>
+- NFC_VAS_Action : <a href="sdi__nfc_8h.md#afbf908bd85c0c1318f763e880bb09571">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a2598cb3e420c45913bfab5801c6a33a8">titusstubs.cpp</a>
+- NFC_VAS_Activate : <a href="sdi__nfc_8h.md#a4dc6d61bb9ed1d3e8cef769db32f6ac6">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a1f0e681b88497ef9e25abde4ed3b5b3b">titusstubs.cpp</a>
+- NFC_VAS_Cancel : <a href="sdi__nfc_8h.md#a2ae23fb43b8c06ebd88933e1a1b46aa1">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a03691ec1f524ef86c995066b25185e80">titusstubs.cpp</a>
+- NFC_VAS_CancelConfig : <a href="sdi__nfc_8h.md#a1667152f04801a8ef8bb47c5ea3b8930">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a7ea699bbeb85daabaf52bb2d94d7dc61">titusstubs.cpp</a>
+- NFC_VAS_CancelPreLoad() : <a href="titusstubs_8cpp.md#a46e68ef15da8c20bc91ddef1b814859c">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a097ab5411367f3b1b4275d1ae3567219">sdi_nfc.h</a>
+- NFC_VAS_Decrypt : <a href="sdi__nfc_8h.md#a800f9f9d4df08b07fe4c28116dda9c90">sdi_nfc.h</a> , <a href="titusstubs_8cpp.md#a19053197bd7fd0894d55827e7becec0a">titusstubs.cpp</a>
+- NFC_VAS_PreLoad() : <a href="titusstubs_8cpp.md#a8ee28a30cc5757bdd4d9ac413fe7ef17">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a071c33860fb2cf846a1466edf5bedfb7">sdi_nfc.h</a>
+- NFC_VAS_ReadConfig() : <a href="titusstubs_8cpp.md#af8f463010a4c8584d2973b9df3c88c52">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#a7a81c9d472b5da94ae76272358f38dac">sdi_nfc.h</a>
+- NFC_VAS_UpdateConfig() : <a href="titusstubs_8cpp.md#a8816583d91da702a6c7e2143ed68f7d9">titusstubs.cpp</a> , <a href="sdi__nfc_8h.md#aade0ed84b10cb0108216011ba8a30993">sdi_nfc.h</a>
+- NFC_WKY_FILES : <a href="filesystem_8h.md#a8a63178f68224396be284285ca51194f">filesystem.h</a>
+- NfcCallbackFunction : <a href="titusstubs_8cpp.md#a09e0971bdc5fca16b920275a5f9aa508">titusstubs.cpp</a>
+- NO_EVENTS_TABLES : <a href="_event_scheduler_8c.md#aee19e14cf1f6312bfa7f2a830780988c">EventScheduler.c</a>
+- NO_FS_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gac6badbf57c3338dd2352a70d894d3ae2">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gac6badbf57c3338dd2352a70d894d3ae2">E2E_EMV_CT_Serialize.h</a>
+- NO_GETD_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gaed5969edf411d0c89d9407f14c88370d">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gaed5969edf411d0c89d9407f14c88370d">E2E_EMV_CT_Serialize.h</a>
+- NO_GETPROC_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga6aa14dc78be5fe7df7b2142829055d5f">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga6aa14dc78be5fe7df7b2142829055d5f">E2E_EMV_CT_Serialize.h</a>
+- NO_LOA_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1850bd94731ba9d6d34e6c52dd7d6010">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1850bd94731ba9d6d34e6c52dd7d6010">E2E_EMV_CTLS_Serialize.h</a>
+- NO_PSE_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1df1f01640415fc066bdb2ff1b5a4ac4">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1df1f01640415fc066bdb2ff1b5a4ac4">E2E_EMV_CT_Serialize.h</a>
+- NO_RR_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga961428e7b65a0a37fc5e14991a35ff8e">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga961428e7b65a0a37fc5e14991a35ff8e">E2E_EMV_CT_Serialize.h</a>
+- NO_SCRIPT_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gad8768da7cc2f43342337c754055b27c4">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gad8768da7cc2f43342337c754055b27c4">E2E_EMV_CTLS_Serialize.h</a>
+- NO_UNKNOW_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga990eea5fa2320f59950e192b28c95df2">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga990eea5fa2320f59950e192b28c95df2">E2E_EMV_CTLS_Serialize.h</a>
+- NONCE_CHECKING : <a href="_v_h_q_xml_packager_8c.md#a80a7e9388ee39463809a3f8a27c06bca">VHQXmlPackager.c</a>
+- NORMALLY_TERMINATED : <a href="libsecins_8h.md#abb5110af1d94d87754eaf3181b5f6b23">libsecins.h</a>
+- NotifyApps() : <a href="_v_h_q_utils___app_interface_8c.md#ab868f084d7ced3d2cdf1ebdb60b59c01">VHQUtils_AppInterface.c</a>
+- NULL_STR : <a href="_v_h_q_xml_operation_processor_8c.md#a4e344b56b80d155c5821a556099f96a7">VHQXmlOperationProcessor.c</a>
+- NUMBER_OF_FILES : <a href="syslogcmd_8h.md#aa5ce2add12b42175db5dbab55d3c384cacc5886741786e14c009b1406cf99c464">syslogcmd.h</a>
+- NumOpSetAcks : <a href="_v_h_q_xml_packager_8c.md#a399e529ba9f1a619ec4699535f27c2ae">VHQXmlPackager.c</a>

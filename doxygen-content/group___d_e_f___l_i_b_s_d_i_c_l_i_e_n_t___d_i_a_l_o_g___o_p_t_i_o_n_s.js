@@ -1,0 +1,25 @@
+var group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s =
+[
+    [ "DLG_AbortOnCardRemove", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga6b0437461e4d4a7d98969fafcb0362f8", null ],
+    [ "DLG_Async", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga4d125bf05a3f9b71e9b259c0a842ac0d", null ],
+    [ "DLG_CancelKey", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gac6cf7c066fb1c4f8003ed891f5dafd3c", null ],
+    [ "DLG_ClearKey", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gaffdb5a653253d61976412989e5235139", null ],
+    [ "DLG_ClearOnReturn", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gae9259189676071cbe886149be5b98d7c", null ],
+    [ "DLG_CtlsLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gad4ee44410b71ff91ecb097efe3d82f60", null ],
+    [ "DLG_DisplayOnly", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gabaab93c681d50fe37def0595836a72ec", null ],
+    [ "DLG_EnterKey", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga1ea5fd8fc926cbdf923f8647142a9263", null ],
+    [ "DLG_ErrorLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga284c51b689a86530ece463dfd5044b13", null ],
+    [ "DLG_HideSoftKeys", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga63bb7a7162dd1dc62b29b8c0c6cc1abe", null ],
+    [ "DLG_IgnoreExtAbort", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga01056bab2c3bf9e7b2d68d075e5e8889", null ],
+    [ "DLG_NoHeader", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga2caa124d23e575e5fa2be38d872243cf", null ],
+    [ "DLG_NoLEDs", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga0059c3f4c81a452fc98989c9226275a3", null ],
+    [ "DLG_QuestionLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga862467cd7d4b602c9432188524c32cdb", null ],
+    [ "DLG_StoreAsyncResult", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga7c8973d977d8476d239730e1533dbf7c", null ],
+    [ "DLG_SuccessLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gaaa15b4b1ee808d81403aa567774b9572", null ],
+    [ "DLG_TextAlignButton", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga7d044dc28eb369c17286fde22b797253", null ],
+    [ "DLG_TextAlignLeft", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gabe236bce2323a19baaef2fb0690a398d", null ],
+    [ "DLG_TextAlignRight", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga27701f8542a4574d865c0e6e0cbb71a7", null ],
+    [ "DLG_TextAlignTop", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga1f6cec0bde3e98a24bd54aea4e871714", null ],
+    [ "DLG_WaitLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#gae744e624816119045d015c23c3648f64", null ],
+    [ "DLG_WarningLogo", "group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html#ga2576f638a5b398aa5efaf6ce4e1dd88e", null ]
+];

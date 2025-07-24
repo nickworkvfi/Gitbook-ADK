@@ -1,0 +1,83 @@
+---
+title: "ADK-Programmers-Guides: Data Fields - Variables"
+---
+
+ 
+
+### - m -
+
+- m_cardTypes : <a href="titusstubs_8cpp.md#af89065aa1b826be62d51e4eda9233f6a">_cardInfoFull</a>
+- m_child : <a href="classvfisdi_1_1_t_l_v.md#afcc2734e12c53b8280390e586b4daf54">TLV</a>
+- m_contentsize : <a href="classvfisdi_1_1_t_l_v.md#abf78ef14b931e61d33be622a0605f454">TLV</a>
+- m_data : <a href="classvfisdi_1_1_t_l_v.md#a4252108bbe731880b31e853b01cd16d0">TLV</a>
+- m_fn : <a href="structvficpl_1_1_cp_free_fn_imp.md#a37079a7261fff5a7c34ca2c14f8ae0eb">CpFreeFnImp< F, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_01_4.md#a37079a7261fff5a7c34ca2c14f8ae0eb">CpFreeFnImp< F, R ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_01_4.md#a37079a7261fff5a7c34ca2c14f8ae0eb">CpFreeFnImp< F, R, A1 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_00_01_a2_01_4.md#a37079a7261fff5a7c34ca2c14f8ae0eb">CpFreeFnImp< F, R, A1, A2 ></a>
+- m_foundTargetsA : <a href="titusstubs_8cpp.md#a70bb89e64167bca80a50a1c13d2b1b0d">_pollRes</a> , <a href="titusstubs_8cpp.md#a70bb89e64167bca80a50a1c13d2b1b0d">_pollResFull</a>
+- m_foundTargetsB : <a href="titusstubs_8cpp.md#aac77cb3d7ed3a44e4d59915a1d9774a4">_pollRes</a> , <a href="titusstubs_8cpp.md#aac77cb3d7ed3a44e4d59915a1d9774a4">_pollResFull</a>
+- m_foundTargetsF : <a href="titusstubs_8cpp.md#a6216cfc662036bb5e71ac132d66c3b81">_pollRes</a> , <a href="titusstubs_8cpp.md#a6216cfc662036bb5e71ac132d66c3b81">_pollResFull</a>
+- m_foundTargetsTotalCount : <a href="titusstubs_8cpp.md#abeda2a225e2cdc8bb7e4f0ab20816f23">_pollRes</a> , <a href="titusstubs_8cpp.md#abeda2a225e2cdc8bb7e4f0ab20816f23">_pollResFull</a>
+- m_memfn : <a href="structvficpl_1_1_cp_member_fn_imp.md#abcfe38b083b66715c23f923ad431f27b">CpMemberFnImp< M, T, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_01_4.md#abcfe38b083b66715c23f923ad431f27b">CpMemberFnImp< M, T, R ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_01_4.md#abcfe38b083b66715c23f923ad431f27b">CpMemberFnImp< M, T, R, A1 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_00_01_a2_01_4.md#abcfe38b083b66715c23f923ad431f27b">CpMemberFnImp< M, T, R, A1, A2 ></a>
+- m_modulation : <a href="titusstubs_8cpp.md#ad3177646bbbbd111bad7ca9dcedd63fc">_cardInfoFull</a>
+- m_obj : <a href="structvficpl_1_1_cp_member_fn_imp.md#a6f761a901d378ae84d9b32b539450d34">CpMemberFnImp< M, T, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_01_4.md#a6f761a901d378ae84d9b32b539450d34">CpMemberFnImp< M, T, R ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_01_4.md#a6f761a901d378ae84d9b32b539450d34">CpMemberFnImp< M, T, R, A1 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_00_01_a2_01_4.md#a6f761a901d378ae84d9b32b539450d34">CpMemberFnImp< M, T, R, A1, A2 ></a>
+- m_SAK : <a href="titusstubs_8cpp.md#a63a007f5e218a1730aa5ded94911a41c">_cardInfoFull</a>
+- m_tag : <a href="classvfisdi_1_1_t_l_v.md#a48ed14e787b1be6dd92a2782d11a4ff4">TLV</a>
+- mac : <a href="libcom_8h.md#ab819e8af2dd7aa0c074bc36d7612fe57">com_IPConfig</a>
+- MAC : <a href="libcom_8h.md#a55b1e935aab0711d1c52b28dfe3c47fd">com_MAC</a>
+- MagstripeCVM_aboveLimit_DF811E : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a82fc51540e28fb76b48dd01347e13f43">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- MagstripeCVM_belowLimit_DF812C : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#adf50b490082b4ad86b03ed2e044f1b98">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- maint : <a href="svc__tms_8h.md#a5691fe120a1466105997ad02ca59436f">version_t</a>
+- major : <a href="libcom_8h.md#af2ba608b39a08e490997cc5137cb7beb">com_IBeacon</a> , <a href="svc__tms_8h.md#ac8947941479c38403a09c14a60b03f01">version_t</a>
+- mandatory : <a href="dl__iso8583__common_8h.md#ab695d7cb7083e770dc6d546b9ee89ac9">DL_ISO8583_MSG_FIELD_DEF_S</a>
+- Mandatory_Tags_CRD : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a15601aa3b54c9da3032a3ed1d43b0b6b">EMV_CT_APPLIDATA_STRUCT</a>
+- manualEntry : <a href="namespacevficpl.md#acd84162ff17115f0c368209f79a3ae1b">TransactionData</a>
+- manualPromptOption : <a href="namespacevficpl.md#a27bdf2bfd4e3befc9869ad6ee94c3f40">TransactionData</a>
+- manufacturer : <a href="libcom_8h.md#a508f2c7f54b772a4f480611aa045f659">com_USBInfo</a>
+- maskENC : <a href="namespacecom__verifone__seccmd.md#a265ae6eb1e653cae4afe50a5c0859cfb">DUKPTmask</a>
+- maskMAC : <a href="namespacecom__verifone__seccmd.md#a1911d18d93391461f66196bc963138ed">DUKPTmask</a>
+- maskPIN : <a href="namespacecom__verifone__seccmd.md#a47061d0956fc5e25c6ba155879822dc1">DUKPTmask</a>
+- MasterAID : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a4844ee77295b43631df410adb1beaf41">EMV_CT_APPLIDATA_STRUCT</a>
+- max_arc_depth : <a href="classpackmanlib_1_1treewalk_1_1_tree_walker.md#a6477cbfdaff96a77de0cfe7edc1ddb11">TreeWalker</a>
+- max_depth : <a href="classpackmanlib_1_1treewalk_1_1_tree_walker.md#abe0b4340c0a3ede312856c001b86d7ed">TreeWalker</a>
+- MaxCTLSTranslimit : <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#a3a9583914dda18129d8a82c8a1ebd679">EMV_CTLS_TERMDATA_STRUCT</a>
+- maxLen : <a href="group__sdiemvct.md#a2f4a48ff5cdcf5b494bc43fa01a19b7e">SDIClient::AdditionalCardTag</a>
+- maxsize : <a href="engine__keyservice_8h.md#afa6d6d7ff8f9ae9ac926aecabb311349">KS_IOBuffer</a>
+- MaxTargetPercentage : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ae06a2f3428cf719f7fc1523a2e2b9fce">EMV_CT_APPLIDATA_STRUCT</a>
+- mec : <a href="structvficpl_1_1_invoke_result.md#a494889caa45d0a7170733fe0c5eca6e7">InvokeResult</a>
+- memory : <a href="http__get__curl_8c.md#a2bd6d68918bc5a61a6c59af45597b073">MemoryStruct</a>
+- MENU_AbortOnCardRemove : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#ga726a42a0c014963d617c2595666eb676">Dialog</a>
+- MENU_ClearOnReturn : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#ga05465c4007b0d8ab55c7e25b790b7bdd">Dialog</a>
+- menu_func : <a href="struct_com_if_table.md#a5bd8db2a976bb271c64c22dc88928ee7">ComIfTable</a>
+- MENU_IgnoreExtAbort : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#ga5446118b690b64b793684cffa927221d">Dialog</a>
+- MENU_NoHeader : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#gae379c86cc056cdb1b148a72a4ca203b8">Dialog</a>
+- MENU_NoLEDs : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#gaaa7c33fec85275413e8e1bf1e449910e">Dialog</a>
+- MENU_NoOpts : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___m_e_n_u___o_p_t_i_o_n_s.md#gaa10b8418d7abb86c78256b0c6ec076c1">Dialog</a>
+- menuText : <a href="struct_com_if_table.md#a53cc0f32077f64398b7b58928b875229">ComIfTable</a>
+- MerchantCategoryCode_9F15 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_CK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_DK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_MR_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_RK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_SK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_VK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a84da5b354dd3258920611cde310a6682">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- MerchantCustomData_9F7C : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aec9159fa9d8ddc9e72887eec78e0466a">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- MerchantIdentifier_9F16 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_CK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_VK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a97841a4ff9423ac32cff97cbd692930a">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- MerchantNameAndLocation_9F4E : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_CK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_MR_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_PB_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_SK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_VK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acb923ec08caea6869e68eb5019ae108b">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- merchantOfferCode : <a href="classvficpl_1_1_offer.md#ace13e5fcdda9ab438a0f5fceeb17f637">Offer</a>
+- MerchantTypeIndicator_9F58 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a465adca1bc35480a254eb4838faebcc3">EMV_CTLS_APPLIDATA_IK_STRUCT</a>
+- MerchIdent : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a3e3c059a7e2f459a449ab7e746046cf7">EMV_CT_APPLIDATA_STRUCT</a>
+- MessageHoldTime_DF812D : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a1b020166d324dd6547910c8a661ee8e0">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a1b020166d324dd6547910c8a661ee8e0">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- methodOfPayment : <a href="namespacevficpl.md#a8fc8d093ffe50554a4ab86b8bfbe3e35">TechAltPaymentData</a>
+- methodsOfPayment : <a href="namespacevficpl.md#ae441e675383c83cbaf2e4fefd487294f">AltPaymentData</a>
+- metric : <a href="libcom_8h.md#af6cb789cb8426e86b1a2ae828cf00828">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#af6cb789cb8426e86b1a2ae828cf00828">com_NetworkRouteInfo_IPv6</a>
+- mid : <a href="structvfisdi_1_1_e_m_v_txn.md#ae7e18f9a317db7063e35ef5a5d4bd5f7">EMVTxn::FallbackMSR</a>
+- millis : <a href="classvficom_1_1_milliseconds.md#a8105deb555f186cc210ace74c38a50d6">Milliseconds</a>
+- min : <a href="struct_directory_1_1_entry.md#a9b6e0d1177f74dafd99583456cdd53c4">Directory::Entry</a>
+- minLen : <a href="group__sdiemvct.md#af31e4223ee1efad8111aecc0893b88aa">SDIClient::AdditionalCardTag</a>
+- minor : <a href="libcom_8h.md#a6f72c31a8bb281310bd6189bc9b29bd0">com_IBeacon</a> , <a href="svc__tms_8h.md#aec7b96885baf2e6f10efbdef9d935a0b">version_t</a>
+- mode : <a href="struct_directory_1_1_entry.md#a79f1aed8545a4399ce7dbcbe5d0a38f5">Directory::Entry</a> , <a href="classpackmanlib_1_1platform_1_1_platform.md#a1a6b6fb557d8d37d59700faf4e4c9167">Platform</a> , <a href="libsecins_8h.md#a1a6b6fb557d8d37d59700faf4e4c9167">SYS_INFO_OS_HMAC_SHA256_tx</a>
+- MODES : <a href="classpackmanlib_1_1platform_1_1_platform.md#a54e9ae393c97cba8f0d9061e504028c8">Platform</a>
+- ModifiedCandidates : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a4fe0d7ada26ddf2370e623d67a5f00d4">EMV_CT_APPS_SELECT_STRUCT</a>
+- month : <a href="struct_directory_1_1_entry.md#a4900720b55a67c901372712af062d615">Directory::Entry</a>
+- mrd_RFU : <a href="titusstubs_8cpp.md#a3f8dd64c1e4913798a204104e570a9e7">_cardInfoFull</a>
+- mrd_UID : <a href="titusstubs_8cpp.md#aa5047bd14dc5e1f2201b3a27b5792e5e">_cardInfoFull</a>
+- MS : <a href="classsdi_1_1_time_stamp.md#af8efbdf5651c7a9db8f251bbae6a395a">TimeStamp</a>
+- msg_id : <a href="_v_h_q_utils__shared_8c.md#a7c5412e7c7f912fb5227340db18aae97">_CommMsgIdPair_t</a> , <a href="class_connection_context.md#a1740ac5ffae37a5c997160c0e10625f2">ConnectionContext</a>
+- msrAfterCTLSTimeout : <a href="group__sdicrd.md#ae17aed990888a94b6d532424b470eee2">SDIClient::TECOptions</a>
+- msrAfterInsertTimeout : <a href="group__sdicrd.md#a1c95b5388b27d15385e4e98efa0ebea4">SDIClient::TECOptions</a>
+- MSRVersionNumber_9F6D : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#adfde93ebf20039feac2f95c2d0184277">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- MTOL_DFAB50 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ae3e0a5935877843b845d87ecab5c0ae5">EMV_CTLS_APPLIDATA_GK_STRUCT</a>
+- MTU_Size : <a href="libcom_8h.md#ac2683534ca6c20d94d6a871f5f7ea012">com_NetworkInterfaceInfo</a>
+- mutex : <a href="struct_bt_com1a_context.md#a4acff8232e4aec9cd5c6dc200ac55ef3">BtCom1aContext</a>

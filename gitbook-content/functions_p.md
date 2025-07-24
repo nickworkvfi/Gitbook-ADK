@@ -1,0 +1,143 @@
+---
+title: "ADK-Programmers-Guides: Data Fields"
+---
+
+Here is a list of all struct and union fields with links to the structures/unions they belong to:
+
+### - p -
+
+- p : <a href="classvfisdi_1_1_s_d_i_client.md#a937bba97955e17e71a4bd0c26b70e9c8">SDIClient</a>
+- Pack() : <a href="class_i_s_o8583___m_s_g.md#aa2c8b619a7f9f6174d84c1ee03badd9f">ISO8583_MSG</a>
+- package_compressed : <a href="classpackmanlib_1_1platform_1_1_platform.md#a09c15f373ecd692cb8662a699f8ce9ad">Platform</a>
+- package_name : <a href="libsecins_8h.md#a200ff703bf1ebbde4cde961c1e6e9e28">SECINS_ERROR_INFO</a>
+- pad : <a href="titusstubs_8cpp.md#a1b484415b43327651ccdbb1c74a7cd99">felicaPollingOutput</a>
+- paketNbr : <a href="struct_update_context.md#a65850cf52b001c884f60f00cdaaf1a59">UpdateContext</a>
+- pan : <a href="msr__common_8h.md#aed51b577a51e71e43c934bde07ebe995">MSR_Decoded_Track_1</a> , <a href="msr__common_8h.md#aed51b577a51e71e43c934bde07ebe995">MSR_Decoded_Track_2</a>
+- panHandle : <a href="namespacevficpl.md#a1581ff87cc0440b5343bfeb2d4cd3d63">TransactionData</a>
+- par : <a href="namespacevficpl.md#ad92312f74b992f39468e1df55d0cb3c4">CustomerIdentification</a>
+- param1 : <a href="titusstubs_8cpp.md#a475efe48fdd2c9be7de409aaca9cab76">apduCommand</a> , <a href="titusstubs_8cpp.md#a0a3f62614e62f39761a79b2820dad5de">apduTxData</a>
+- param2 : <a href="titusstubs_8cpp.md#a79d4b2ba5c4bf41c436355dda7bccd28">apduCommand</a> , <a href="titusstubs_8cpp.md#af2d997e535beba9f6ad3b3d891a15b08">apduTxData</a>
+- ParamDataCb : <a href="svc__tms_8h.md#a803fd05ebe060ec1c28761d579dab23d">tmsParamUpdateItemNewStruct</a> , <a href="svc__tms_8h.md#a803fd05ebe060ec1c28761d579dab23d">tmsParamUpdateItemStruct</a>
+- ParamDefFile : <a href="svc__tms_8h.md#a825f1594a6ba35b8010007f2029227f2">tmsParamUpdateItemNewStruct</a> , <a href="svc__tms_8h.md#a825f1594a6ba35b8010007f2029227f2">tmsParamUpdateItemStruct</a>
+- parameterCount : <a href="svc__tms_8h.md#ab435eebbb717d77650c4aae8b40d1dac">tmsAppInfo</a>
+- parameterList : <a href="svc__tms_8h.md#abefcf6bba014c1068c8a7b2d5d373cee">tmsAppInfo</a>
+- parameterName : <a href="svc__tms_8h.md#a747d5dd300c2aefb85dac4487b0d034a">tmsAppParameter</a>
+- parameterType : <a href="svc__tms_8h.md#a91bdeda2b497ec06edb6b1bfbcfa2cf6">tmsAppParameter</a>
+- parameterValue : <a href="svc__tms_8h.md#a1632fcd759079455eed061ce7fb52304">tmsAppParameter</a>
+- paramUpdateCount : <a href="svc__tms_8h.md#a45504cc8b36d6dd19e30bad603fa321b">tmsParamUpdateNewStruct</a> , <a href="svc__tms_8h.md#a45504cc8b36d6dd19e30bad603fa321b">tmsParamUpdateStruct</a>
+- paramUpdateList : <a href="svc__tms_8h.md#a1aca0b72b47f62fa92da23d5454943b5">tmsParamUpdateNewStruct</a> , <a href="svc__tms_8h.md#aaefc18752fe371a731ec766dac357b5c">tmsParamUpdateStruct</a>
+- parent : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a457d913bff1ebc8671c1eca1c9d5fc03">BaseNode</a> , <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#a457d913bff1ebc8671c1eca1c9d5fc03">NodeActionMixin</a>
+- Parent : <a href="structvfisdi_1_1_bit_mask.md#adf55221cadf5815d3f2695c828f8bcdf">BitMask< NBITS, ITYPE ></a>
+- parity : <a href="titusstubs_8cpp.md#ab846ad5ffbfc2454b7bf0d652c16ede6">TX_RX_PARAM</a>
+- parse() : <a href="classvfiipc_1_1_j_s_object.md#af76852f0ba85b4b1f82963010fe69a9d">JSObject</a>
+- passthroughCardTypes : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a6e4c160c32a77b556aa14495cc0961c5">EMV_CTLS_START_STRUCT</a>
+- path : <a href="_v_h_q_utils___m_x_8c.md#afe4c498d3cdc7d1134a7f4c88f06cd74">UNUSED_FILE_INFO</a>
+- pAuthenticationParams : <a href="titusstubs_8cpp.md#a9c17ab2df58177b8aaf6ea9cff94c8df">doVASInput</a>
+- pAuthenticationResult : <a href="titusstubs_8cpp.md#ac57e245a5c80cab348c868a5fccce1f2">doVASOutput</a>
+- pax_headers_found : <a href="classpackmanlib_1_1node_1_1_archive.md#a83d5b9606bd143755d31a92ca1a4498a">Archive</a>
+- paymentTimeout : <a href="group__sdicrd.md#aedaad1463f12bdb5163466201880eab4">SDIClient::TECOptions</a>
+- PC_EnableCredentials : <a href="classvfiipc_1_1_pipe.md#a892ce29b9c853749e7c4551f44fe2603a5f770eff268e3423ae7f928a3819e9cf">Pipe</a>
+- PC_None : <a href="classvfiipc_1_1_pipe.md#a892ce29b9c853749e7c4551f44fe2603a5e329e902a710243361d9b592c2db2f3">Pipe</a>
+- pData : <a href="namespacecom__verifone__seccmd.md#a77f0d5374ee675db57c0b29946ca7744">MACData</a>
+- PDOL_tags : <a href="group___a_d_k___t_r_x___e_x_e_c.md#af6254dc7c96cee5696e56da49cd643d7">EMV_CT_SELECTRES_STRUCT</a>
+- pedConfirmKey() : <a href="group__sdiped.md#ga9b28c032314828db9f193eea6092001e">SDIClient</a>
+- pedGetPIN() : <a href="group__sdiped.md#gab8571dbdf371d728c742476ba7de0c1d">SDIClient</a>
+- pedPollPIN() : <a href="group__sdiped.md#ga47195163ef92790cfbaafaa129f02279">SDIClient</a>
+- pedSetPINInputParameter() : <a href="group__sdiped.md#ga17e126450dd93ce68a12128c361141ea">SDIClient</a>
+- pedSetPINTimeout() : <a href="group__sdiped.md#gae0e5bc21aac331f55db87f5c8c32b779">SDIClient</a>
+- pedStartPIN() : <a href="group__sdiped.md#ga8f85134183cb72f71870c6cf81a6f85e">SDIClient</a>
+- pedStopPIN() : <a href="group__sdiped.md#ga2ce1660af41bbb184509a29064ef5231">SDIClient</a>
+- peek() : <a href="classvfiipc_1_1_i_p_c.md#abe719544c505e175fe68e0c616f9742d">IPC</a>
+- percentage : <a href="libcom_8h.md#a2f4f51c5a35082684ccbbcae8dd4dc25">com_WirelessSignalQuality</a>
+- percentDiscount : <a href="classvficpl_1_1_offer.md#a29b54999df7a47aac8155a2f7497cf17">Offer</a>
+- performValidationChecks() : <a href="classlibsdi_1_1_s_d_i.md#a9e2f26480c30241795d22317ac003164">SDI</a>
+- PermDefault : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a805e399a7a4f86c2e94866b45686a309">CTransactionValue</a>
+- PermPrivate : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a365dcdfb1a6183338e17c067a7b15e09">CTransactionValue</a>
+- PermReadAble : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a3340371e06537abe47876a1a201225d8">CTransactionValue</a>
+- PermReadOnly : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7add42429b4665a58e6c0c4cd4965c729d">CTransactionValue</a>
+- PermReadWrite : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a4079243ab3bb9bc6b80ba7d25fb42328">CTransactionValue</a>
+- PermWriteAble : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a2c67698e87a41dc88b9e0a2d241f7b2a">CTransactionValue</a>
+- PermWriteOnly : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7a7eab1f38a3daadc01722b33529f20b23">CTransactionValue</a>
+- pGetServicesParams : <a href="titusstubs_8cpp.md#ab71d5cd5cfbf795ef45a8bb4ac4aca9c">doVASInput</a>
+- pGetServicesResult : <a href="titusstubs_8cpp.md#a9dc2af0ca82bbee9b8b7483257c01547">doVASOutput</a>
+- PhoneMessageTable_DF8131 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ac229a9f37336fc77ec29829b7ef38d21">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- pid : <a href="_v_h_q_utils___m_x_8c.md#af500917c052066b40cf47f96b43c607b">_proc_data_t</a> , <a href="struct__user__cb__t.md#a3b9f2e1a3350af40fc6990284bda6920">_user_cb_t</a> , <a href="_v_h_q_utils___app_interface_8c.md#a3b9f2e1a3350af40fc6990284bda6920">appData_t</a> , <a href="libsecins_8h.md#ac47ca0713353d3fc9435a4f208f6b9a3">child_death_cert</a>
+- PINAlgo : <a href="namespacecom__verifone__seccmd.md#a557ca462c7cd1ef45fa60eca7278c44e">SecConfig</a>
+- PinBlockFormat : <a href="namespacecom__verifone__seccmd.md#a8bde82c057e9ab0ae80ee979d2e92fff">PINBlockParams</a> , <a href="namespacecom__verifone__seccmd.md#a8bde82c057e9ab0ae80ee979d2e92fff">SecConfig</a>
+- pInData : <a href="namespacecom__verifone__seccmd.md#a50cc2fca15f8b361b491279e25edb5c6">EncDecData</a> , <a href="namespacecom__verifone__seccmd.md#a50cc2fca15f8b361b491279e25edb5c6">EncDecDataIV</a>
+- PinEntryType : <a href="namespacecom__verifone__seccmd.md#a28cf375ab35acfc1cd267c53f5e76e4f">SecConfig</a>
+- Pipe() : <a href="classvfiipc_1_1_pipe.md#a7f52bc182c1b34d2394c2bce2ebaa7ee">Pipe</a>
+- PipeConfig : <a href="classvfiipc_1_1_pipe.md#a892ce29b9c853749e7c4551f44fe2603">Pipe</a>
+- pixel() : <a href="classvfigui_1_1_u_i_drawing.md#ac174b243eeff08a6717d7b2cf76f20d2">UIDrawing</a>
+- platform : <a href="classpackmanlib_1_1node_1_1_archive.md#adc3a21ccb616231a81529950cab007f4">Archive</a>
+- pluginCmd() : <a href="group__sdiplugin.md#gacef96fd0fab889b9118f552421198b63">SDIClient</a>
+- pluginCommand() : <a href="classlibsdi_1_1_s_d_i.md#ae03cf495a6cfafebc5367b6fd50ea5cc">SDI</a>
+- pluginId : <a href="classlibsdi_1_1_sdi_base.md#a5e4b5cef3b7379673d5413b394a27b4c">SdiBase::PluginResult</a>
+- pMAC : <a href="namespacecom__verifone__seccmd.md#a46a5d13155423ae6f2c3cff4abc091b0">genMAC</a>
+- poiInformation : <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#aaf88e302e58d70d28ed59a53cdca2f2e">EMV_CTLS_TERMDATA_STRUCT</a>
+- poll() : <a href="classm_a_d_k___p_p___prot.md#a671f8a7fd53920c9532b898a8a26f165">mADK_PP_Prot</a>
+- poll_in() : <a href="classvfiipc_1_1_i_p_c.md#aae3d66ed5454894b1ace225e51de8674">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#aae3d66ed5454894b1ace225e51de8674">TLS</a>
+- poll_timeout : <a href="titusstubs_8cpp.md#a18c12b53a9392906c89073e75a4caa2f">_pollReq</a>
+- pollData : <a href="titusstubs_8cpp.md#aea639825d32505b3d66a7c42892ffd3e">discoveryResult</a>
+- pollDataSize : <a href="titusstubs_8cpp.md#ab422878adc91f6dc973fc6f3c1730bce">discoveryResult</a>
+- pollPinEntry() : <a href="classlibsdi_1_1_p_e_d.md#a38a6450328edc2164a74cf4fda14c79c">PED</a>
+- pollTechnology() : <a href="classlibsdi_1_1_card_detection.md#ac8badf7309b3dec37c15fb5df3adfc8c">CardDetection</a>
+- pollTime : <a href="titusstubs_8cpp.md#ade98601940cfebb955ef50f8d0e7f0b1">discoveryParams</a>
+- port : <a href="crdsync__client_8h.md#ab85ff85aa1f60f4a1c1ca1225a9dad06">CRDSYNC_ServerConfig</a>
+- POS_EntryMode : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a9cec52ed8e47c79a53adb21646bf136e">EMV_CT_APPLIDATA_STRUCT</a>
+- posDisplay() : <a href="classvficpl_1_1_api.md#af96c2751edbbff2d3c699a9804fa72a2">Api</a>
+- posGetConfirmation() : <a href="classvficpl_1_1_api.md#a5a7a91d6f260024e15e08157dda471f8">Api</a>
+- posGetDecimalInput() : <a href="classvficpl_1_1_api.md#a3578c86a627f3f1f5b473ce3aec6aa64">Api</a>
+- posGetTextInput() : <a href="classvficpl_1_1_api.md#a39c1a25fe81d3a84cba5ae1e1eb648de">Api</a>
+- post_actions : <a href="namespacesdi_1_1filesystem.md#aa998d177fc5ce2141ce0a227c96779fd">UpdateFiles</a>
+- post_order : <a href="classpackmanlib_1_1treewalk_1_1_tree_walker.md#a81bec6e1a4754daae86bdef84ac8fa14">TreeWalker</a>
+- pOutData : <a href="namespacecom__verifone__seccmd.md#a0a1c38738d4d7a3ff13fc609689482be">EncDecData</a> , <a href="namespacecom__verifone__seccmd.md#a0a1c38738d4d7a3ff13fc609689482be">EncDecDataIV</a>
+- powerLevel : <a href="libcom_8h.md#a881762f5aff3318a9b9a3d7150a1f2ca">com_EddystoneUID</a> , <a href="libcom_8h.md#a881762f5aff3318a9b9a3d7150a1f2ca">com_EddystoneURL</a> , <a href="libcom_8h.md#a881762f5aff3318a9b9a3d7150a1f2ca">com_EddystoneURLExt</a> , <a href="libcom_8h.md#a881762f5aff3318a9b9a3d7150a1f2ca">com_IBeacon</a>
+- pPAN : <a href="namespacecom__verifone__seccmd.md#a3bb89bd6593352ecd71acedfd206706c">PINBlockParams</a>
+- pPINBlock : <a href="namespacecom__verifone__seccmd.md#a9913f43c55ebfc9e1890d142a54272ba">EncPINBlock</a>
+- pPropData : <a href="namespacecom__verifone__seccmd.md#a72cb8bfe45c9a65d1edbeddac74c1274">PropData</a>
+- pre_actions : <a href="namespacesdi_1_1filesystem.md#afe4e1ea66f93e857ed064cc86b73470a">UpdateFiles</a>
+- PreAuth_Amount : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a30e81fd1e6591284b3122a39e3d5a9e2">EMV_CT_HOST_STRUCT</a>
+- prefix : <a href="namespacesdi_1_1filesystem.md#a5b41c5ae4505891e6c53e26df197e02b">UpdateFiles</a>
+- PreSelected_Language : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a65d6b236583a3e4c90bef5c7043069a6">EMV_CT_PAYMENT_STRUCT</a>
+- prettyDump() : <a href="classvfiipc_1_1_j_s_object.md#aaefb0c5c8394d84951a799c4a324366a">JSObject</a>
+- prev_server_instance : <a href="_v_h_q_manager_8c.md#a2723a60ec714212d72477ed9e116a612">_lock_thread_info_t</a>
+- printBitmap() : <a href="classlibsdi_1_1_s_d_i.md#a4b6848f586bf6e2518a8d782e9774f9c">SDI</a> , <a href="group__sdiprinter.md#gaacfff92e849c75e30ca3598694998a9b">SDIClient</a>
+- printGetPropertyInt() : <a href="group__sdiprinter.md#ga92d545bf0f6984fe616d3b14f2ad5c82">SDIClient</a>
+- printGetPropertyString() : <a href="group__sdiprinter.md#gab608770d63d6067562dcaa6c823c0015">SDIClient</a>
+- printHtml() : <a href="classlibsdi_1_1_s_d_i.md#ac94f53d810b1d23fc63ae62732e6b24a">SDI</a>
+- printHTML() : <a href="group__sdiprinter.md#gaa8aec9712a3bd4364fe03f3dff2afa67">SDIClient</a>
+- printReceipt() : <a href="classvficpl_1_1_api.md#af6b59bdaf755f0a3ad3e024d68698e75">Api</a>
+- printSetPropertyInt() : <a href="group__sdiprinter.md#ga725f0fdf4822cac026c00aac86d49ce1">SDIClient</a>
+- printSetPropertyString() : <a href="group__sdiprinter.md#ga07602dcd5d2f313db6a92c97cf8081a5">SDIClient</a>
+- Priority : <a href="class_u_i_catalog.md#a315655b1bb5848c063491adffde62b15">UICatalog</a>
+- PriorityApplications_DFAB04 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a984c64b64f07f57509ec8581284b3aa7">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- ProceedToFirstWriteFlag_DF8110 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a331f32df08bf0303f3cf092352d219ba">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- processMessage() : <a href="class_s_d_i_plugin.md#a3c7b193aa5b72dc9e8a627619230cf2f">SDIPlugin</a>
+- processTrigger() : <a href="class_s_d_i_plugin.md#a0f730d467656f854300839d8013f9205">SDIPlugin</a>
+- product : <a href="libcom_8h.md#a20f6827e0e31e58d0ca056cadeeca152">com_USBInfo</a>
+- productCode : <a href="classvficpl_1_1_offer.md#af2f2e75f77ffd28349457519ed490b02">Offer</a>
+- profile() : <a href="class_com_config.md#a9ca27570961b101e89318d3a3ac39d8f">ComConfig</a>
+- program : <a href="structvficpl_1_1_invoke_request.md#a451fb3866139bc9c8dfb5155974db964">InvokeRequest</a>
+- programId : <a href="classvficpl_1_1_loyalty_identifier.md#aa42859632a896c98d08cbaedec1d49c2">LoyaltyIdentifier</a> , <a href="classvficpl_1_1_offer.md#aa42859632a896c98d08cbaedec1d49c2">Offer</a>
+- prot_type : <a href="class_connection_context.md#afe41cb219d1eaafed53a4e068dcb2589">ConnectionContext</a>
+- protocol : <a href="libcom_8h.md#a744eedee50fdd2228d733cdc238f5891">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#a744eedee50fdd2228d733cdc238f5891">com_NetworkRouteInfo_IPv6</a>
+- PROTOCOL_B : <a href="classvfisdi_1_1_s_d_i_client.md#a2b99fb4e4914a533566284f2ed3b0186a1047589f56e6de0f5cd3dada0723fdab">SDIClient</a>
+- PROTOCOL_C : <a href="classvfisdi_1_1_s_d_i_client.md#a2b99fb4e4914a533566284f2ed3b0186a6aa928c13ed99c74ac4969146cf1a92f">SDIClient</a>
+- ProtocolState : <a href="classm_a_d_k___p_p___prot.md#ad77822a0ad67023ae49897b8b80c151d">mADK_PP_Prot</a>
+- ProtocolType : <a href="classvfisdi_1_1_s_d_i_client.md#a2b99fb4e4914a533566284f2ed3b0186">SDIClient</a>
+- PrtErrorEntry() : <a href="structvfiprt_1_1_prt_error_entry.md#ac97d3d215506ef11e92a308141ad37a4">PrtErrorEntry</a>
+- PS_Aborted : <a href="classm_a_d_k___p_p___prot.md#ad77822a0ad67023ae49897b8b80c151dae8a4ddbdf955d29d8db6d3a41d2a0512">mADK_PP_Prot</a>
+- PS_Running : <a href="classm_a_d_k___p_p___prot.md#ad77822a0ad67023ae49897b8b80c151da00205e8fcfd4185829a8a89d5378e547">mADK_PP_Prot</a>
+- PS_Stopped : <a href="classm_a_d_k___p_p___prot.md#ad77822a0ad67023ae49897b8b80c151dace7d572a2b50123f5244b47996bd39fc">mADK_PP_Prot</a>
+- pSTAN : <a href="namespacecom__verifone__seccmd.md#a6b0b46dc97e6b631879f2989a97efc25">PINBlockParams</a>
+- ptr : <a href="dl__iso8583__common_8h.md#a41a5b4ce478baa63b7881d0fcf1f852f">DL_ISO8583_MSG_FIELD_S</a>
+- pucData : <a href="struct_b_t_l_v_node.md#a53aa1f2ebeda62fb9f53902b93665db7">BTLVNode</a>
+- pushBack() : <a href="class_directory.md#ad46c690eb8d3d3ca0958371d41ae5556">Directory</a>
+- putFileType : <a href="svc__tms_8h.md#a5ae8965e66eee2f16dd748a6881ec8e8">tmsEventData</a>
+- pvEnd : <a href="mem__pool_8h.md#a0293de992857c1f28f1bbc9c44f22442">MemoryPool</a>
+- pvStart : <a href="mem__pool_8h.md#adf0da0ec96ad18edb06fb8b635b336a5">MemoryPool</a>
+- pxFirst : <a href="struct_b_t_l_v_node.md#a66f9bd31fc168407f7724e16edf60bf5">BTLVNode</a> , <a href="mem__pool_8h.md#ad2dab0f894c4f671fd8a83a42a934141">MemoryPool</a>
+- pxMempool : <a href="struct_b_t_l_v_node.md#a3faa46016cfde528233b2d81eddc8fd3">BTLVNode</a>
+- pxNext : <a href="struct_b_t_l_v_node.md#a048aed5fef433724f94d95cfec2d33df">BTLVNode</a> , <a href="mem__pool_8h.md#afc40ddbf92ac5ac397c4fb056389a260">PoolNode</a>
+- pxParent : <a href="struct_b_t_l_v_node.md#a60e4095f792d811b9826a4cff5047fcc">BTLVNode</a>
