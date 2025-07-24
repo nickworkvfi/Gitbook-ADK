@@ -1,0 +1,239 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - c -
+
+- calculate_CMAC() : <a href="crypt_8cpp.md#affad0aaba09298a627562b262e523d93">crypt.cpp</a> , <a href="crypt_8h.md#affad0aaba09298a627562b262e523d93">crypt.h</a>
+- calculate_MD5() : <a href="crypt_8h.md#a9d396bd846d00eab3b94e9c2763236cc">crypt.h</a> , <a href="crypt_8cpp.md#a9d396bd846d00eab3b94e9c2763236cc">crypt.cpp</a>
+- CancelEventSet() : <a href="_event_scheduler_8c.md#a636ae0e877282dcaf7cbd4c07a0245aa">EventScheduler.c</a>
+- CancelEventSetByOpId() : <a href="_event_scheduler_8c.md#aebd0382eb19a81b27e1c9ef11fc120c9">EventScheduler.c</a>
+- ccp_thread_func() : <a href="ui__mode_8cpp.md#aae2c9091b1d1a28076f110321042c399">ui_mode.cpp</a>
+- check4Interrupt() : <a href="sys_8cpp.md#af8ff9f4a2125f866eda540eaf867197b">sys.cpp</a> , <a href="sys_8h.md#af8ff9f4a2125f866eda540eaf867197b">sys.h</a>
+- check4pppd() : <a href="_v_h_q_utils___m_x_8c.md#a9d9ec147fd9fccbdd56065a66833d693">VHQUtils_MX.c</a>
+- check_AuthScript() : <a href="crypt_8cpp.md#aa132af50976d028410ad9789f5ec5aab">crypt.cpp</a> , <a href="crypt_8h.md#aa132af50976d028410ad9789f5ec5aab">crypt.h</a>
+- check_CMAC() : <a href="crypt_8cpp.md#a3242ff53cdc315266c6a352f86359c70">crypt.cpp</a> , <a href="crypt_8h.md#a3242ff53cdc315266c6a352f86359c70">crypt.h</a>
+- check_mac_decrypt() : <a href="main_8h.md#ab39e67ca68823580152fc861898a77da">main.h</a> , <a href="main_8cpp.md#a14410a47bc85fc785f5b90cfaaae8c4c">main.cpp</a>
+- CheckADKConnectionFileReadPermissions() : <a href="ci_a_d_k_raw_dial_8c.md#a1c2994fa1bb9babc967b90e24c59217e">ciADKRawDial.c</a>
+- CheckAndInitLog() : <a href="_com_intf_8c.md#af8673306bb95c4811b31e9f1dc1a8ca3">ComIntf.c</a> , <a href="ci_a_d_k_8c.md#a4dd68818b6d7d663ab24c7b866f6d52a">ciADK.c</a> , <a href="ci_a_d_k_raw_dial_8c.md#a4dd68818b6d7d663ab24c7b866f6d52a">ciADKRawDial.c</a> , <a href="ci_direct_8c.md#af8673306bb95c4811b31e9f1dc1a8ca3">ciDirect.c</a>
+- checkBundleInstalled() : <a href="sys_8cpp.md#a3aeb676c0c19ca74396503eb1267f979">sys.cpp</a> , <a href="sys_8h.md#a3aeb676c0c19ca74396503eb1267f979">sys.h</a>
+- CheckForEvents() : <a href="_v_h_q_utils___m_x_8c.md#a49f508a12c9cdf15b92756893aae1158">VHQUtils_MX.c</a>
+- CheckForInstance() : <a href="_v_h_q_utils___m_x_8c.md#a903eda61b8fd928acb79935771c55393">VHQUtils_MX.c</a>
+- CheckFreeMemForDownload() : <a href="_v_h_q_downloader_8c.md#a5962aed860ee9f91347ad8ccb00c08c2">VHQDownloader.c</a>
+- checkLibraryVersion() : <a href="main_8cpp.md#adc2d81ce0635e8bfeaae7cb9134309ec">main.cpp</a>
+- CleanApplicationsList() : <a href="_v_h_q_utils___m_x_8c.md#a1d334dcba9d6ad140a3238be0b0be87d">VHQUtils_MX.c</a>
+- cleanupHandler() : <a href="_file_upload_8c.md#a52c4a85b2a16ab733db4178eade67bbd">FileUpload.c</a>
+- cleanUpSecHandles() : <a href="sec_8cpp.md#a8ab35d4f50f1f1a915b30797fa283c03">sec.cpp</a> , <a href="sec_8h.md#a8ab35d4f50f1f1a915b30797fa283c03">sec.h</a>
+- CleanupServerInstanceList() : <a href="_v_h_q_config_8cpp.md#aea26cafd2bc32bdefa8356afee885e7a">VHQConfig.cpp</a>
+- CleanupTempDownloads() : <a href="_v_h_q_manager_8c.md#aecab840269cfd1924c5abc304e4471a2">VHQManager.c</a>
+- CleanupUnusedFiles() : <a href="_v_h_q_utils___m_x_8c.md#a0d2ba746547d041b0b150ba315983355">VHQUtils_MX.c</a>
+- ClearAppCustomData() : <a href="_v_h_q_utils___app_interface_8c.md#a45c05f219879015274826b64ddbf2c42">VHQUtils_AppInterface.c</a>
+- ClearDeviceRegistrationMode() : <a href="_v_h_q_manager_8c.md#a13cc92cead1d47c38addcfeb4773c6b1">VHQManager.c</a>
+- ClearEventsTable() : <a href="_event_scheduler_8c.md#a11aeaec936d5c12e593b97f47d6e4681">EventScheduler.c</a>
+- ClearInstanceEventSetsTable() : <a href="_event_scheduler_8c.md#ad4b45621db77089dbe5d01ffa6a4899d">EventScheduler.c</a>
+- ClearOpSetAckArray() : <a href="_v_h_q_xml_packager_8c.md#a601e5096322b7d9057bf0b8a3c7fb6df">VHQXmlPackager.c</a>
+- closeHbResult() : <a href="_v_h_q_utils__shared_8c.md#a0eef5bd8c9b6750ba3deb0c35891a2eb">VHQUtils_shared.c</a>
+- closesocket_callback() : <a href="ci_a_d_k_8c.md#a1750ae75de0cf41c067a0365f1b26b93">ciADK.c</a>
+- CMDiag() : <a href="_v_h_q_utils___m_x_8c.md#a62057181e4cafb5faf0b2370047da947">VHQUtils_MX.c</a>
+- com1a_bt_thread_func() : <a href="ui__mode_8cpp.md#a255eedc1025a4bbc93356842974aa660">ui_mode.cpp</a>
+- com_AddInterfaceBridge() : <a href="libcom_8h.md#ae8c264deaa66e6a8455da5e0eb6f9a76">libcom.h</a>
+- com_AddNetworkRoute() : <a href="libcom_8h.md#ae439ab0952d7aa4e2d2a4896386b31a9">libcom.h</a>
+- com_AttachNetwork() : <a href="libcom_8h.md#a10cdfc0c9edf6383c69f8ac03d84131e">libcom.h</a>
+- com_AttachNetworkAsync() : <a href="libcom_8h.md#a657bd48e7c3c4e82e6cac4b7d0831d39">libcom.h</a>
+- com_BaseNetworkRestart() : <a href="libcom_8h.md#adcf40f994a4c9a0e4e6a7f4925612e61">libcom.h</a>
+- com_BTDisableVirtualChannels() : <a href="libcom_8h.md#a30083e9610136998d08ce6aa64552c4b">libcom.h</a>
+- com_BTEnableVirtualChannels() : <a href="libcom_8h.md#a429f0346020ea1e3ca47c7819d3ebb99">libcom.h</a>
+- com_BTExtConfirm() : <a href="libcom_8h.md#a6d8fdcc0fda7412457b70613684a177d">libcom.h</a>
+- com_BTExtPair() : <a href="libcom_8h.md#a50ab27fff8e9fb6eb6fd6644758ad217">libcom.h</a>
+- com_BTExtSetPIN() : <a href="libcom_8h.md#ab64c0609658a65b7e7952d682b7de117">libcom.h</a>
+- com_BTExtStartDiscovery() : <a href="libcom_8h.md#a9bc08d1ba0f589865eb2aeb464a1f2a4">libcom.h</a>
+- com_BTExtStopDiscovery() : <a href="libcom_8h.md#a452dab4cc355c4adb42f839ee14d6c03">libcom.h</a>
+- com_BTGATTAddCharacteristicCallback() : <a href="libcom_8h.md#a0f0901372792544d1bcecc923e34b740">libcom.h</a>
+- com_BTGATTAddStatusCallback() : <a href="libcom_8h.md#aa7bceb5d86c028f0ae4ff24a1e945453">libcom.h</a>
+- com_BTGATTDisconnect() : <a href="libcom_8h.md#a225fb1b5839859c7f704bd6fd7346446">libcom.h</a>
+- com_BTGATTReadCharacteristic() : <a href="libcom_8h.md#a5c35ed9103da7b49c849ee11097029b7">libcom.h</a>
+- com_BTGATTRemoveCharacteristicCallback() : <a href="libcom_8h.md#ae5f17e8e14c3b8d77ecca9420dfe6e19">libcom.h</a>
+- com_BTGATTRemoveStatusCallback() : <a href="libcom_8h.md#a4a1e811a032c1ac7b75451df76360417">libcom.h</a>
+- com_BTGATTSetup() : <a href="libcom_8h.md#a438bc746568e203c0ad74cbbd6aa9bd8">libcom.h</a>
+- com_BTGATTStart() : <a href="libcom_8h.md#aed79e2c4cab6f33a4e31615053917cad">libcom.h</a>
+- com_BTGATTStartBeaconing() : <a href="libcom_8h.md#a1d89fcb8d31ecbae17cbfca9ac393fba">libcom.h</a>
+- com_BTGATTStop() : <a href="libcom_8h.md#a4c4884bf1c0f49f28c15e7adc806c768">libcom.h</a>
+- com_BTGATTStopBeaconing() : <a href="libcom_8h.md#a396d00ea9f49d7994e9f7c89ba979985">libcom.h</a>
+- com_BTGATTWriteCharacteristic() : <a href="libcom_8h.md#a186a5526e06d21127878661465ff14eb">libcom.h</a>
+- com_BTPair() : <a href="libcom_8h.md#adb0a8b3cac950b79562f5bafbb4cc4af">libcom.h</a>
+- com_BTUnPair() : <a href="libcom_8h.md#a651875c5863f9b25b41127efc9de4b69">libcom.h</a>
+- com_CloseNetworkHandle() : <a href="libcom_8h.md#a984ace436d24619b860cb6c44e0a42eb">libcom.h</a>
+- com_Connect() : <a href="libcom_8h.md#a38b33fccc951bc546fbaee4ea832ef13">libcom.h</a>
+- com_ConnectAsync() : <a href="libcom_8h.md#a65f3a6e7059cb1dfa3a924aad3122c90">libcom.h</a>
+- com_ConnectClose() : <a href="libcom_8h.md#a8bca756375d8e08dcfdb9884f2226623">libcom.h</a>
+- com_ConnectGetFD() : <a href="libcom_8h.md#a749c6c6286ed822ae71541f71655bbdc">libcom.h</a>
+- com_ConnectGetSslFD() : <a href="libcom_8h.md#a5a31613d54ff87e6eaf134ba28229004">libcom.h</a>
+- com_ConnectGetSslObj() : <a href="libcom_8h.md#a883a247538d9db1a9075bde34fb2786b">libcom.h</a>
+- com_ConnectWait() : <a href="libcom_8h.md#ad6270f5c1d4a16369395040b6e2d69f6">libcom.h</a>
+- com_DeleteNetworkRoute() : <a href="libcom_8h.md#a751564e8f30e477ad4e53626449567ad">libcom.h</a>
+- com_Destroy() : <a href="libcom_8h.md#a9c42f243213c1bd460f2b1ae0aea067e">libcom.h</a>
+- com_DetachNetwork() : <a href="libcom_8h.md#ac712564077229407508035ed93d78c50">libcom.h</a>
+- com_DetachNetworkAsync() : <a href="libcom_8h.md#a300e60c2174e268dcf17e2767b0c3a68">libcom.h</a>
+- com_DNSResolveHostname() : <a href="libcom_8h.md#ad85fe86dad1b30e4344829b47f072750">libcom.h</a>
+- com_EddystoneUIDGetAdvertisement() : <a href="libcom_8h.md#a1c2230843310aeb56eccf564c1646967">libcom.h</a>
+- com_EddystoneUIDSetAdvertisement() : <a href="libcom_8h.md#a65333b921ee49dca15e33b9155087ba6">libcom.h</a>
+- com_EddystoneUIDStartAdvertisement() : <a href="libcom_8h.md#ab7d6229fc4c241f5fd9ac94ec4c3be12">libcom.h</a>
+- com_EddystoneUIDStopAdvertisement() : <a href="libcom_8h.md#a7864b2fce473630093486b95bbd42d8e">libcom.h</a>
+- com_EddystoneURLGetAdvertisement() : <a href="libcom_8h.md#a6bf1ed3560b6340028f2c9f29895794a">libcom.h</a>
+- com_EddystoneURLGetAdvertisementExt() : <a href="libcom_8h.md#a3163590cfa3a4ff5ff6cb5efb708883b">libcom.h</a>
+- com_EddystoneURLSetAdvertisement() : <a href="libcom_8h.md#a2dd60d34cc1ed4cc66a07ec151f23a6d">libcom.h</a>
+- com_EddystoneURLSetAdvertisementExt() : <a href="libcom_8h.md#a7eab5f7f7382383034c0b37d63d044ec">libcom.h</a>
+- com_EddystoneURLStartAdvertisement() : <a href="libcom_8h.md#a6c2d3c2686096cfbaf89bd266109fa3e">libcom.h</a>
+- com_EddystoneURLStopAdvertisement() : <a href="libcom_8h.md#a0c7972227577e361b158a6cc7e95be17">libcom.h</a>
+- com_GetBaseEthernetLinkState() : <a href="libcom_8h.md#a7a9a65e33e19cf46bcdabdcd162233e1">libcom.h</a>
+- com_GetBaseNetworkInterfaceInfo() : <a href="libcom_8h.md#a722ba84c2e8558ce2d5a85be246303a7">libcom.h</a>
+- com_GetBaseNetworkMode() : <a href="libcom_8h.md#aa010b0294abc2af3e3b878c4a1493ab3">libcom.h</a>
+- com_GetConnectionState() : <a href="libcom_8h.md#ae23ee8dc30e74adcfceb8cdc35b277f8">libcom.h</a>
+- com_GetConnectionType() : <a href="libcom_8h.md#a0279909b652b8a01fb4662a5b15d7612">libcom.h</a>
+- com_GetDevicePropertyInt() : <a href="libcom_8h.md#a801f39cf08b0bfa7136393854278e597">libcom.h</a>
+- com_GetDevicePropertyString() : <a href="libcom_8h.md#a6c6b018a491e95447da2a948d2f188d7">libcom.h</a>
+- com_GetErrorString() : <a href="libcom_8h.md#a64ded2e202ac2485d3406f63a13538e8">libcom.h</a>
+- com_GetNetworkInfo() : <a href="libcom_8h.md#af854f7b94462cbd1b7aa272f1113f567">libcom.h</a>
+- com_GetNetworkInterfaceInfo() : <a href="libcom_8h.md#a93110e3419cc76be68ce6f4472150ccd">libcom.h</a>
+- com_GetNetworkRouteInfo() : <a href="libcom_8h.md#aa8ba2a877f35517bc8cebd9bb5fe56a6">libcom.h</a>
+- com_GetNetworkStatus() : <a href="libcom_8h.md#af8cabb81d2ebc6a005e5b39239866870">libcom.h</a>
+- com_GetProfileNodePropertyInt() : <a href="libcom_8h.md#a13070d8dda6381cfc273b241e00e6fdd">libcom.h</a>
+- com_GetProfileNodePropertyString() : <a href="libcom_8h.md#ac260d5cd0c8f4593e6120e5afb3a4c75">libcom.h</a>
+- com_GetProfilePropertyInt() : <a href="libcom_8h.md#a256e125f12ac7cda21afa82e25b6229d">libcom.h</a>
+- com_GetProfilePropertyString() : <a href="libcom_8h.md#a8629e7051f4be75c131b23de2f461591">libcom.h</a>
+- com_GetSvcVersion() : <a href="libcom_8h.md#a8b4969ca794633232fdfc9605ae95c6e">libcom.h</a>
+- com_GetUSBInfo() : <a href="libcom_8h.md#adf24ee0003a22eb725b4622d7848a5dd">libcom.h</a>
+- com_GetVersion() : <a href="libcom_8h.md#ab88f9728460434908b808e34a856b6af">libcom.h</a>
+- com_GetWirelessSignalQuality() : <a href="libcom_8h.md#aa8a3311b947c1039f6f52b9350be02d4">libcom.h</a>
+- com_IBeaconGetAdvertisement() : <a href="libcom_8h.md#a2c13209f2854692dc63309551fdc3de1">libcom.h</a>
+- com_IBeaconSetAdvertisement() : <a href="libcom_8h.md#acba33f21f870bf27b8e62a600ec1be17">libcom.h</a>
+- com_IBeaconStartAdvertisement() : <a href="libcom_8h.md#a4808892fb28569f7f949fa14aa103ef6">libcom.h</a>
+- com_IBeaconStopAdvertisement() : <a href="libcom_8h.md#a35633db6e2632562eff1452a5207408d">libcom.h</a>
+- com_Init() : <a href="libcom_8h.md#ac8c39547d8e7fefb66c9e6168da8b35d">libcom.h</a>
+- com_NetworkAddCallback() : <a href="libcom_8h.md#a4eb5e5841f8bed136745567b470ac75c">libcom.h</a>
+- com_NetworkInterfaceInfo_Free() : <a href="libcom_8h.md#ae8a2fcfa86cc8570bac8fd005d1be77a">libcom.h</a>
+- com_NetworkRemoveCallback() : <a href="libcom_8h.md#a29f971baf107867cb108478b27b442fc">libcom.h</a>
+- com_NetworkRemoveCallbackSync() : <a href="libcom_8h.md#a72a9001b9f8e925d765134a7c71e0bdb">libcom.h</a>
+- com_NetworkRestart() : <a href="libcom_8h.md#a820193ecb965f10c494a1393fbe9bd3b">libcom.h</a>
+- com_NetworkRouteInfo_Free() : <a href="libcom_8h.md#a947a70004b4fbb64e170d537e3a9ce18">libcom.h</a>
+- com_NetworkSetCallback() : <a href="libcom_8h.md#ac86c6411e3a7f50c61d552f06fda58e9">libcom.h</a>
+- com_NetworkWait() : <a href="libcom_8h.md#a3b34259bae0aa09b980e8b3b6a2b4125">libcom.h</a>
+- com_PairDockedBase() : <a href="libcom_8h.md#a4cb847d0c1534aa131ecbc4d5a4c2cd2">libcom.h</a>
+- com_Ping() : <a href="libcom_8h.md#aa8873f893a11785bf2d04782ca86d4a2">libcom.h</a>
+- com_PowerModeSet() : <a href="libcom_8h.md#a24251c13b11f210e1543a88d03401fc3">libcom.h</a>
+- com_PowerModeStatus() : <a href="libcom_8h.md#a35c8340ad2d5496d084d3fcac3d952dc">libcom.h</a>
+- com_purgeCache() : <a href="libcom_8h.md#a1907e8fd1f2815b951b9955684bb1fca">libcom.h</a>
+- com_Receive() : <a href="libcom_8h.md#a61643cc4c9047a8cd528f10846e3ec17">libcom.h</a>
+- com_ReceiveFrom() : <a href="libcom_8h.md#a523c494a8fd5d4397257ba439a9f0c45">libcom.h</a>
+- com_RemoveInterfaceBridge() : <a href="libcom_8h.md#af88341ba7935adfdeba8e33b5c678d92">libcom.h</a>
+- com_RestartNetworkAsync() : <a href="libcom_8h.md#ad21aa775c950864715037a697a63efd1">libcom.h</a>
+- com_Select() : <a href="libcom_8h.md#a19c50d06994f4123bfdd643fdb2f26de">libcom.h</a>
+- com_SelectInterrupt() : <a href="libcom_8h.md#a06d69e74c54b68da65afb9ca9ba4222e">libcom.h</a>
+- com_SelectInterruptReset() : <a href="libcom_8h.md#a6cd6411812f39b74fedaadd81eb40433">libcom.h</a>
+- com_Send() : <a href="libcom_8h.md#a86944e9a76e84d162fa1f6312696d9f9">libcom.h</a>
+- com_SendTo() : <a href="libcom_8h.md#a5d8b92257989b0842af3a49a1cc0ac0e">libcom.h</a>
+- com_SetBaseNetworkMode() : <a href="libcom_8h.md#aa16a425c030afc1b8f4cd83616098096">libcom.h</a>
+- com_SetBTSPPPort() : <a href="libcom_8h.md#a7153f12bb09be2b99fb52d255c20b09e">libcom.h</a>
+- com_SetDevicePropertyInt() : <a href="libcom_8h.md#aec65bb14d18ca83d519299e117f20469">libcom.h</a>
+- com_SetDevicePropertyString() : <a href="libcom_8h.md#a5ee98c76f68a71a8f6784f79fd7b2f67">libcom.h</a>
+- com_SetInterfacePriority() : <a href="libcom_8h.md#a25f401a278d7578730eb85a85dbba9b5">libcom.h</a>
+- com_SetMultiThreadingMode() : <a href="libcom_8h.md#a97bb1f10786bfc96ae0fcbe4c70d07dd">libcom.h</a>
+- com_SetPassword() : <a href="libcom_8h.md#af66689ca828262faa844703399d6e128">libcom.h</a>
+- com_SetStunnelConfig() : <a href="libcom_8h.md#a3658c67822073afab2c329755aaddd37">libcom.h</a>
+- com_TetheringDisable() : <a href="libcom_8h.md#a5a9510006cd78a31cb798dd349e1b540">libcom.h</a>
+- com_TetheringEnable() : <a href="libcom_8h.md#a30812b5475dd598141cb317925571cd0">libcom.h</a>
+- com_TetheringState() : <a href="libcom_8h.md#adb3f0666f7c925603a1184e5d6487b62">libcom.h</a>
+- com_USBInfo_Free() : <a href="libcom_8h.md#a2e4fff93e7962f69652892f4a882d5bc">libcom.h</a>
+- com_WirelessScan() : <a href="libcom_8h.md#afda205165fdc3f98af8715f527fe3027">libcom.h</a>
+- com_WirelessScanAsync() : <a href="libcom_8h.md#aa84a48c75547b1fa8604fcc0d41aa549">libcom.h</a>
+- comcfg_file_valid() : <a href="ui__mode_8cpp.md#a4b12b6e2cef9b3406881aed32e1217fc">ui_mode.cpp</a> , <a href="ui__mode_8h.md#ad17510e582c63802351a6b0acb27dfca">ui_mode.h</a>
+- CommClose() : <a href="_com_intf_8c.md#a76f97fa1c6daadbc4f8458957bdc4d30">ComIntf.c</a>
+- CommDeinit() : <a href="_com_intf_8c.md#ac333116610eb7d0056863b3a922eb7d5">ComIntf.c</a>
+- CommGetErrString() : <a href="_com_intf_8c.md#af367fcd161fc82ac7c092586811c6c4f">ComIntf.c</a>
+- CommInit() : <a href="_com_intf_8c.md#a6f6bcd92cfbca713feb14635853d7fb9">ComIntf.c</a>
+- CommNetConnect() : <a href="_com_intf_8c.md#a3fe87f9ff21f10d6ebd7d26a7b14a7cc">ComIntf.c</a>
+- CommNetDisconnect() : <a href="_com_intf_8c.md#acfad3a7c0027b8665f841eae2d89fc7b">ComIntf.c</a>
+- CommOpen() : <a href="_com_intf_8c.md#a2a165fe9ecfd9d0a3dff2174e65239da">ComIntf.c</a>
+- CommStatus() : <a href="_com_intf_8c.md#a16f9e8a6cd24441d031ae50a22e463a8">ComIntf.c</a>
+- ConcatenateFile() : <a href="_v_h_q_utils__shared_8c.md#a9d3f8b4d9c193694ca4eadb97ae4dcaa">VHQUtils_shared.c</a>
+- ConfigureConnectionProfile() : <a href="ci_a_d_k_8c.md#a9b04009d734df35bae738326dd9f1594">ciADK.c</a>
+- connectSerialPPP() : <a href="_v_h_q_utils___m_x_8c.md#ab7ad94ee94c074b52f9f539ea1080c06">VHQUtils_MX.c</a>
+- convert_tm_to_time_t() : <a href="_v_h_q_utils__shared_8c.md#a8ad225a588b6beb4aa3df958b32c0667">VHQUtils_shared.c</a>
+- ConvertActionType() : <a href="_v_h_q_xml_dictionary_8c.md#a7ce7eaa67bad34d8f4fa2a534d75ec37">VHQXmlDictionary.c</a>
+- ConvertAppActionType() : <a href="_v_h_q_xml_dictionary_8c.md#a9a8acb0dfbde6b4c89bb590af7d2e106">VHQXmlDictionary.c</a>
+- ConvertAppActivationStatusToString() : <a href="_v_h_q_xml_dictionary_8c.md#a2bb3c863916022746bb101e36eb54111">VHQXmlDictionary.c</a>
+- ConvertAppTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#a5f4912a4b74b5d248173b683ed7b94b3">VHQXmlDictionary.c</a>
+- ConvertBinaryToHexString() : <a href="_v_h_q_utils__shared_8c.md#aa18c2ae7db3dc325b32bd67faeffb70f">VHQUtils_shared.c</a>
+- ConvertDeviceUTCToServerLocalTime() : <a href="_v_h_q_utils__shared_8c.md#acae1b2c91f4f87686e9aa53e8f84d654">VHQUtils_shared.c</a>
+- ConvertDownloadFileDownloadType() : <a href="_v_h_q_xml_dictionary_8c.md#a3e75c1ddba1b15378e8095291c692a49">VHQXmlDictionary.c</a>
+- ConvertDownloadFileMethod() : <a href="_v_h_q_xml_dictionary_8c.md#ac79f3a8be2b18138aed2d7cdad21865e">VHQXmlDictionary.c</a>
+- ConvertDownloadFileParameterType() : <a href="_v_h_q_xml_dictionary_8c.md#a63df3f65d545b2fd800f2da017200973">VHQXmlDictionary.c</a>
+- ConvertDownloadHashAlgo() : <a href="_v_h_q_xml_dictionary_8c.md#a5b553d25f1c452787635b56988fdfff3">VHQXmlDictionary.c</a>
+- ConvertEventMaskToString() : <a href="_v_h_q_xml_dictionary_8c.md#a09d2ed537fccaab89313772a709fbe47">VHQXmlDictionary.c</a>
+- ConvertGetDataIndentifierToMask() : <a href="_v_h_q_xml_dictionary_8c.md#a2b1bfec27283bb1689de296d78f24b44">VHQXmlDictionary.c</a>
+- ConvertHexStringToBinary() : <a href="_v_h_q_utils__shared_8c.md#a45e959e286a0f8df784358e90b046695">VHQUtils_shared.c</a>
+- ConvertIncludeParamToBool() : <a href="_v_h_q_xml_dictionary_8c.md#aa0ede8664ce1d087fff819415f115a14">VHQXmlDictionary.c</a>
+- ConvertKeyTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#ad02556336d65e215842541c0af1d9db6">VHQXmlDictionary.c</a>
+- ConvertOperationHandler() : <a href="_v_h_q_xml_dictionary_8c.md#a87f3764e9e3db096280fd795ddb57802">VHQXmlDictionary.c</a>
+- ConvertOperationIdentifier() : <a href="_v_h_q_xml_dictionary_8c.md#a61fd1c0a13b8c88bd850b0f97b0c80b6">VHQXmlDictionary.c</a>
+- ConvertOperationOnError() : <a href="_v_h_q_xml_dictionary_8c.md#a0c4815ece3b47dfdbac6afecc224089a">VHQXmlDictionary.c</a>
+- ConvertRecurUnitType() : <a href="_v_h_q_xml_dictionary_8c.md#acda6f593e7ac493276656f41018f26db">VHQXmlDictionary.c</a>
+- ConvertServerLocalTimeToDeviceUTC() : <a href="_v_h_q_utils__shared_8c.md#a4ebffa518aa91ddda309fc99f61cf1a8">VHQUtils_shared.c</a>
+- ConvertSetDataIndentifierToType() : <a href="_v_h_q_xml_dictionary_8c.md#a06e045075e9d290c9a9d2446168b16c8">VHQXmlDictionary.c</a>
+- ConvertSeverityToString() : <a href="_v_h_q_xml_dictionary_8c.md#af1d0f1e9e8dcbf78c78725c18b79d995">VHQXmlDictionary.c</a>
+- ConvertSrvMsgIdentifier() : <a href="_v_h_q_xml_dictionary_8c.md#a90dfbfc035a27ca5ea4bb564352b8076">VHQXmlDictionary.c</a>
+- ConvertSrvMsgIdentifierToString() : <a href="_v_h_q_xml_dictionary_8c.md#adb6dc95feaea83f25a4f63ee956c5dce">VHQXmlDictionary.c</a>
+- ConvertSrvMsgType() : <a href="_v_h_q_xml_dictionary_8c.md#a7267bf539769d6c24469235cbef26f58">VHQXmlDictionary.c</a>
+- ConvertSrvMsgTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#afac57d99678bdbed0daad7ef4197a513">VHQXmlDictionary.c</a>
+- ConvertSrvOpType() : <a href="_v_h_q_xml_dictionary_8c.md#ae9cd6743dd04495a9eebe5e0594aa60b">VHQXmlDictionary.c</a>
+- ConvertSrvOpTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#affbc10c50266ec5812a59a003e434b6a">VHQXmlDictionary.c</a>
+- ConvertTrueFalse() : <a href="_v_h_q_xml_dictionary_8c.md#a38d426a0c8c8aaa14e11adeaf1544eab">VHQXmlDictionary.c</a>
+- ConvertUploadFileMethod() : <a href="_v_h_q_xml_dictionary_8c.md#a1d8b3c53adf8e38eed120123e3a6787a">VHQXmlDictionary.c</a>
+- ConvertUploadFileType() : <a href="_v_h_q_xml_dictionary_8c.md#a8c1f089f25be6dd52b543a7b2d40795a">VHQXmlDictionary.c</a>
+- ConvertUploadFileTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#a38e480c640b9bd64f0f3d348d6104098">VHQXmlDictionary.c</a>
+- ConvertUploadTypeToString() : <a href="_v_h_q_xml_dictionary_8c.md#aaac512acff26f2d4971ed406b8d27290">VHQXmlDictionary.c</a>
+- ConvertVHQResultToEventResult() : <a href="_v_h_q_utils__shared_8c.md#aa1a155e7e2a67c13bd89d22993ad45ca">VHQUtils_shared.c</a>
+- ConvertVHQResultToStr() : <a href="_v_h_q_utils__shared_8c.md#a39181809d1b887a77785f1e956eed250">VHQUtils_shared.c</a>
+- CopyFile() : <a href="_v_h_q_utils__shared_8c.md#a1ba5e708dc37fdf6f3c65bade56fabce">VHQUtils_shared.c</a>
+- CopyFileAsRoot() : <a href="_v_h_q_utils___m_x_8c.md#a40a9ba8618554b9087e120e2e5548b31">VHQUtils_MX.c</a>
+- crash_cleanup_pop() : <a href="_v_h_q_utils___m_x_8c.md#ae094c69fa8d20a63a736bcb36addb226">VHQUtils_MX.c</a>
+- crash_cleanup_popall() : <a href="_v_h_q_utils___m_x_8c.md#a74cdfe1570409e25045ea838ec14271a">VHQUtils_MX.c</a>
+- crash_cleanup_push() : <a href="_v_h_q_utils___m_x_8c.md#a6a536e596979226989c2075cb87dacb3">VHQUtils_MX.c</a>
+- crdSync_Close() : <a href="crdsync__client_8h.md#ab0c482a0301b187a94c57efcb14cadbc">crdsync_client.h</a> , <a href="crdsync_8h.md#a6f7218a5eddce4c7a642d1c020192934">crdsync.h</a>
+- crdSync_ConfigureServer() : <a href="crdsync__client_8h.md#ab2e78bd9c5c6b74f19cea21b58cc46ff">crdsync_client.h</a>
+- crdSync_IsCardPresent() : <a href="crdsync__client_8h.md#a6c35c135ee3df66ce32f0046b68ff136">crdsync_client.h</a> , <a href="crdsync_8h.md#a0337406ca951ed912c718448567f0c86">crdsync.h</a>
+- crdSync_Open() : <a href="crdsync_8h.md#af2e8b408142c3fdf772936352aaec87a">crdsync.h</a> , <a href="crdsync__client_8h.md#ae4db0dd5e9a3959cb1c275398d12a5ab">crdsync_client.h</a>
+- crdSync_PowerDown() : <a href="crdsync_8h.md#aa210b9d21f89580090da29bf7b9de69d">crdsync.h</a> , <a href="crdsync__client_8h.md#ac07f135ba2e36dd12e6b119c6595173f">crdsync_client.h</a>
+- crdSync_PowerUp() : <a href="crdsync__client_8h.md#a7ab38bf1f5e50e8abfcd793fbd0afaca">crdsync_client.h</a> , <a href="crdsync_8h.md#a54f538cdfe50976653de0ed7550a716b">crdsync.h</a>
+- crdSync_PresentSecretCode() : <a href="crdsync_8h.md#a0956e82cc1a12c4f1b9f27b6dd2d576c">crdsync.h</a> , <a href="crdsync__client_8h.md#aac1af40e85e5849800866c522caed887">crdsync_client.h</a>
+- crdSync_ReadData() : <a href="crdsync_8h.md#afbd3dd4039b9bf6429ed7ea88d90826d">crdsync.h</a> , <a href="crdsync__client_8h.md#a46ece5ab7da04e01c3e816dfbad788b9">crdsync_client.h</a>
+- crdSync_ReadProtectionMem() : <a href="crdsync_8h.md#a89f8fa5cd76e3b6c9a86f57281339f32">crdsync.h</a> , <a href="crdsync__client_8h.md#afce4d1364cf78742a866311f793fd433">crdsync_client.h</a>
+- crdSync_ReadSecurityMem() : <a href="crdsync_8h.md#ad3eccb6485c7583082120d95981a6a38">crdsync.h</a> , <a href="crdsync__client_8h.md#af865ea38609963f14c129e150586ce0e">crdsync_client.h</a>
+- crdSync_ReadWithProtectionBit() : <a href="crdsync_8h.md#aa7f47bb821fe3ca17f13e5db732f8aed">crdsync.h</a> , <a href="crdsync__client_8h.md#afcab5a3b6a0f4e7fa248da2652653d8f">crdsync_client.h</a>
+- crdSync_SetTraceCallback() : <a href="crdsync__client_8h.md#a3d9902893c6348c09d6d70f20b0a13b2">crdsync_client.h</a> , <a href="crdsync_8h.md#a3d9902893c6348c09d6d70f20b0a13b2">crdsync.h</a>
+- crdSync_Version() : <a href="crdsync__client_8h.md#aad6e42b9b4a77a320b963da0d9ebd455">crdsync_client.h</a> , <a href="crdsync_8h.md#aad6e42b9b4a77a320b963da0d9ebd455">crdsync.h</a>
+- crdSync_WriteData() : <a href="crdsync__client_8h.md#ac37939611b8253d24be1eda8ec7ae0a9">crdsync_client.h</a> , <a href="crdsync_8h.md#a74d8a2a3fedd23009bdbb24d34883b86">crdsync.h</a>
+- crdSync_WriteProtectionMem() : <a href="crdsync__client_8h.md#a4d53646e79d8f7e0cd5ff8076328ebc7">crdsync_client.h</a> , <a href="crdsync_8h.md#a3e651310d7f0502e94062bffdadf102e">crdsync.h</a>
+- crdSync_WriteSecurityMem() : <a href="crdsync__client_8h.md#a5f567f6f82f15f84a73e08a589da5a55">crdsync_client.h</a> , <a href="crdsync_8h.md#aa41d492f0275f153748ef692748b1f8c">crdsync.h</a>
+- crdSync_WriteWithProtectionBit() : <a href="crdsync_8h.md#a5d10ad831fab9466b20dd3ae4dccaa0e">crdsync.h</a> , <a href="crdsync__client_8h.md#a55cf46f272ccde8eb8c2d1f4d37e490a">crdsync_client.h</a>
+- CreateAdkComDialXmlProfile() : <a href="_v_h_q_utils__shared_8c.md#ac0fd51284886fa3be9182e4d26aedb53">VHQUtils_shared.c</a>
+- CreateAdkComXmlProfile() : <a href="_v_h_q_utils__shared_8c.md#a69ccef5b9611d73dead6d736d786f76b">VHQUtils_shared.c</a>
+- CreateDir() : <a href="_v_h_q_utils__shared_8c.md#a2e098388f665cdebdb57860680621d95">VHQUtils_shared.c</a>
+- CreateFileListing() : <a href="_v_h_q_utils___m_x_8c.md#a2653d8f8c9c9315a92bead87e16f3218">VHQUtils_MX.c</a>
+- CreateResponseXml() : <a href="_v_h_q_xml_packager_8c.md#ae243c860b9c0ba1a2690a96328cb5ab3">VHQXmlPackager.c</a>
+- CreateVHQRebootFile() : <a href="_v_h_q_utils__shared_8c.md#ade0398725c4bf7b8bae5507da845e384">VHQUtils_shared.c</a>
+- cts_AddTechnologies() : <a href="tec_8h.md#aa60922ab5b40a033ac85a36e8022cafa">tec.h</a>
+- cts_RemoveTechnologies() : <a href="tec_8h.md#a8569782d27f43e5d88cef3575a5d12c6">tec.h</a>
+- cts_SetNotificationCallback() : <a href="tec_8h.md#ada083dc0f484d99ab24df79ed5f145c9">tec.h</a>
+- cts_SetOptions() : <a href="tec_8h.md#aa237be1f0249503d0b959d3800f1ee34">tec.h</a>
+- cts_SetTraceCallback() : <a href="tec__common_8h.md#a90770d44c55c14fa472396c74fec6052">tec_common.h</a>
+- cts_StartSelection() : <a href="tec_8h.md#ac6699fe32fc23e90713eb617e9ff25e7">tec.h</a>
+- cts_StopSelection() : <a href="tec_8h.md#acaf2d75d1b584ae97ff9ee4da47cee38">tec.h</a>
+- cts_Version() : <a href="tec__common_8h.md#a68272ed65703130d4858d9c28c21f9b9">tec_common.h</a>
+- cts_WaitCardRemoval() : <a href="tec_8h.md#a8db288b6803c1fba534d94a99f1b646b">tec.h</a>
+- cts_WaitCardRemoval2() : <a href="tec_8h.md#a92ab7780df1f8150c6d8a9b3ab3163bf">tec.h</a>
+- cts_WaitSelection() : <a href="tec_8h.md#aee5b104d8ad6e85feddb685379cdbf0c">tec.h</a>
+- cURLsetMandatoryConfig() : <a href="_v_h_qc_u_r_lconfiguration_8c.md#a7e1cf6889ac428c9c18f62549f52498d">VHQcURLconfiguration.c</a>
+- current_dir() : <a href="pathutil_8cpp.md#a09608c3ce15e00f7f375ecdcf050ee72">pathutil.cpp</a> , <a href="pathutil_8h.md#a5338868628e8af64851c06a4d5672474">pathutil.h</a>

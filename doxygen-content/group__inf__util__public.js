@@ -1,0 +1,56 @@
+var group__inf__util__public =
+[
+    [ "inf_util.h", "inf__util_8h.html", null ],
+    [ "ImExPar", "group__inf__util__public.html#struct_im_ex_par", [
+      [ "condition", "group__inf__util__public.html#a6013a273f7f1cfd9854bde677f3c9bff", null ],
+      [ "is_conditional", "group__inf__util__public.html#af8bdfc19de31376094b0947fcf4ae504", null ],
+      [ "op", "group__inf__util__public.html#af907ef6d33afb0a27d4ac427846d2c1d", null ],
+      [ "subop", "group__inf__util__public.html#a2474806f227807a92949440f1582e3e7", null ]
+    ] ],
+    [ "ErrorInfo", "group__inf__util__public.html#struct_error_info", [
+      [ "errorCode", "group__inf__util__public.html#aa3ee3eda7281264af498587b1f244d28", null ],
+      [ "extendedMessage", "group__inf__util__public.html#aef6e9746044b5d9d1a8587aad88f51dd", null ],
+      [ "location", "group__inf__util__public.html#a6a0d5603410d5eda93c0ff341966cce1", null ],
+      [ "shortMessage", "group__inf__util__public.html#ac41a84e83b81958ec6e9df60dd08e52c", null ]
+    ] ],
+    [ "ErrorCode", "group__inf__util__public.html#ga59e56af19e754a6aa26a612ebf91d05f", [
+      [ "INFO_E_OK", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fae68ba0b1134392f5da641ddee28fbe71", null ],
+      [ "INFO_E_BAD_DB_SCHEMA_FILE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa5be3dde74d9d17a8194d3a37b0fb0537", null ],
+      [ "INFO_E_BAD_DATA_SCHEMA_FILE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa6e33879c03fd180b25df18ccd52c5cf6", null ],
+      [ "INFO_E_BAD_DB", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa7f326dd24642867ef8807dbd48d45f43", null ],
+      [ "INFO_E_BAD_DATA_FILE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fada3d517617be644a0d42a0639ad3cda1", null ],
+      [ "INFO_E_FILE_IO", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fae79e3a320f35a2b58cf253ec4fd9621d", null ],
+      [ "INFO_E_DB_FAILURE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa858ba6ec9e5cf8d171bed9ba6e09a979", null ],
+      [ "INFO_E_DB_INSERT", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa087340e75a4ac0fd699b19f1bff2cda8", null ],
+      [ "INFO_E_DB_READ", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa0fdb9d9a09de6fd5ca12f767b1e2cf15", null ],
+      [ "INFO_E_DB_TRANSACTION", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05faeeec8af383aa416f8b55ef1dd44df434", null ],
+      [ "INFO_E_DB_DELETE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa192bbbf41df3d07b8f860a0d5f4e0597", null ],
+      [ "INFO_E_PARSE_ERROR", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fac4ddc287af5887b0a30f6883573f4a1b", null ],
+      [ "INFO_E_NO_MORE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa63f25277d2d2de83d84f95e932f3119c", null ],
+      [ "INFO_E_UNKNOWN", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05faa37c4ca5dbc0693b88b07f5c83745a9c", null ],
+      [ "INFO_E_SKIPPED", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa8d2a98de16d6eb4c7d4352f455fcc1a3", null ],
+      [ "INFO_E_NOT_IMPL", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa9e5197133a18fa013348582a12aee328", null ],
+      [ "INFO_E_INTERNAL_ERROR", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa0962cacbe8f8661cd7784a0b4c07ef8d", null ],
+      [ "INFO_E_PARAM", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa9d59c9c4da6e8df9253776ed07a450b8", null ],
+      [ "INFO_E_BACKEND", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa7db006c3fb86a536a1142d070e136afe", null ],
+      [ "INFO_E_BACKEND_ROLE", "group__inf__util__public.html#gga59e56af19e754a6aa26a612ebf91d05fa09dd2684c518a6f846ad808721354903", null ]
+    ] ],
+    [ "OperationSubType", "group__inf__util__public.html#ga436e393d88341728721b3496ededd5a3", [
+      [ "INFO_OP_FULL", "group__inf__util__public.html#gga436e393d88341728721b3496ededd5a3ad9c3be77e956290d97cb38ee023f94d3", null ],
+      [ "INFO_OP_PARTIAL", "group__inf__util__public.html#gga436e393d88341728721b3496ededd5a3a541723e2d922a2255ea2234e9773981e", null ],
+      [ "INFO_OP_MERGE", "group__inf__util__public.html#gga436e393d88341728721b3496ededd5a3a6b373622a755b7cbee3491e97840c764", null ]
+    ] ],
+    [ "error_info_free", "group__inf__util__public.html#gab01e86686ec39099f98fc710fa1a1cf8", null ],
+    [ "info_export", "group__inf__util__public.html#gacc8c27e963a0deb2af270918ec233f7c", null ],
+    [ "info_export_property_db", "group__inf__util__public.html#gad68545aeaee0777b75d402be3c239d06", null ],
+    [ "info_import", "group__inf__util__public.html#ga258b17ec88ed2273039e1477c463ba0f", null ],
+    [ "info_import", "group__inf__util__public.html#gab028dff98150e41fc21c1b3a3f5d336d", null ],
+    [ "info_import_property_db", "group__inf__util__public.html#gabb79f6feed0203e74b933c0aef3d412e", null ],
+    [ "info_import_property_db", "group__inf__util__public.html#ga188443d652530e5cd3b6c2eac7d3870d", null ],
+    [ "info_merge_import_property_db", "group__inf__util__public.html#ga2e1f19af8ac77b89414cb307e7be6ebe", null ],
+    [ "info_merge_import_property_db", "group__inf__util__public.html#gad27f3e972a4ef344ffdc18a32b1c6e70", null ],
+    [ "info_partial_import", "group__inf__util__public.html#gacc99cea360371439ac165789200eacda", null ],
+    [ "info_partial_import", "group__inf__util__public.html#gaa9ed5d1644c56b30f1dcbad90537deb7", null ],
+    [ "info_partial_import_property_db", "group__inf__util__public.html#gad453df8d3bf2a654b35cdba2ac25ec09", null ],
+    [ "info_partial_import_property_db", "group__inf__util__public.html#ga51782a9663512eea89a58503d1b0f8b7", null ]
+];

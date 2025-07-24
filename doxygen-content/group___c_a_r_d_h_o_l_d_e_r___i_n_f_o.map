@@ -1,0 +1,4 @@
+<map id="Defines for callback function &quot;cardholder information&quot;" name="Defines for callback function &quot;cardholder information&quot;">
+<area shape="rect" id="node1" href="$group___t_l_v___c_a_l_l_b_c_k.html" title="Callback function to be implemented in the same entity as EMV ADK." alt="" coords="5,20,148,45"/>
+<area shape="rect" id="node2" title="In order to show the cardholder additional information, e.g. wrong PIN, last PIN try,..." alt="" coords="196,5,355,60"/>
+</map>

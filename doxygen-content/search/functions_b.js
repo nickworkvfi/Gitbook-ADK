@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['keyservice_5fget_5fbuild_5fdate_17741',['keyservice_get_build_date',['../sdikeyservice_8cpp.html#a5b89ea49a6fdb8f2f7f1821ea9636915',1,'keyservice_get_build_date():&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#ab421e5234fb10c889cddac6b78d3c5ea',1,'keyservice_get_build_date():&#160;sdikeyservice.cpp']]],
+  ['keyservice_5fget_5flibname_17742',['keyservice_get_libname',['../sdikeyservice_8cpp.html#ade45a421d3a30912d254dc9fbee2ba2a',1,'keyservice_get_libname():&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#a3fabfa707548aef85d0a275bf161437d',1,'keyservice_get_libname():&#160;sdikeyservice.cpp']]],
+  ['keyservice_5fget_5fversion_17743',['keyservice_get_version',['../sdikeyservice_8cpp.html#af9ab59e3a46544a91b38f6f458c3dd37',1,'keyservice_get_version():&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#ad987589fe9eb5c2406524bf8ec4147df',1,'keyservice_get_version():&#160;sdikeyservice.cpp']]],
+  ['keyservice_5fread_5fcertificate_17744',['keyservice_read_certificate',['../sdikeyservice_8cpp.html#a9a4d0843e4abfa130e3cac563376c8e1',1,'keyservice_read_certificate(const string &amp;refname, vector&lt; unsigned char &gt; &amp;certificate):&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#ab974c4fe15eef3d7f1599b8a5d965cb5',1,'keyservice_read_certificate(const std::string &amp;refname, std::vector&lt; unsigned char &gt; &amp;certificate):&#160;sdikeyservice.h']]],
+  ['keyservice_5fstart_17745',['keyservice_start',['../sdikeyservice_8cpp.html#aff15ff808005686075653f803fad5a00',1,'keyservice_start():&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#aff15ff808005686075653f803fad5a00',1,'keyservice_start():&#160;sdikeyservice.cpp']]],
+  ['keyservice_5fstop_17746',['keyservice_stop',['../sdikeyservice_8cpp.html#a9e49df21fedb4d23fc8c0ea2f8b6f4e0',1,'keyservice_stop():&#160;sdikeyservice.cpp'],['../sdikeyservice_8h.html#a9e49df21fedb4d23fc8c0ea2f8b6f4e0',1,'keyservice_stop():&#160;sdikeyservice.cpp']]]
+];

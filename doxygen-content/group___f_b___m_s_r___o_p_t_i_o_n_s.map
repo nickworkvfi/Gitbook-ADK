@@ -1,0 +1,4 @@
+<map id="Bit field for additional fallback options for magstripe applications (not originating from DC POS tag DF18)" name="Bit field for additional fallback options for magstripe applications (not originating from DC POS tag DF18)">
+<area shape="rect" id="node1" title="for use in fallbackMsrOptions of EMV_CT_SELECT_TYPE" alt="" coords="141,5,364,75"/>
+<area shape="rect" id="node2" href="$group___d_e_f___f_l_o_w___i_n_p_u_t.html" title=" " alt="" coords="5,27,93,53"/>
+</map>

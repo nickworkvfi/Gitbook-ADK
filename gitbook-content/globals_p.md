@@ -1,0 +1,207 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - p -
+
+- P1 : <a href="nfc_8cpp.md#a6c2a9f7efd46f0160f3037869924d6ce">nfc.cpp</a>
+- P2 : <a href="nfc_8cpp.md#ae00a52dba55d31948c377fa85d385b87">nfc.cpp</a>
+- P2_CLONE : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga3171d7e1bf6ef77813a8fd2ac595961b">E2E_EMV_CT_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga3171d7e1bf6ef77813a8fd2ac595961b">E2E_EMV_CTLS_Serialize.h</a>
+- P2_GET : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga2a2911f7e67d626c4c5f4ec1bd69dff6">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga2a2911f7e67d626c4c5f4ec1bd69dff6">E2E_EMV_CT_Serialize.h</a>
+- P2_SET : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#gaf0ba91f2a3df6af70463601679417fd4">E2E_EMV_CT_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#gaf0ba91f2a3df6af70463601679417fd4">E2E_EMV_CTLS_Serialize.h</a>
+- PACKAGE_FILE : <a href="_v_h_q_utils___m_x_8c.md#a08a0761418d5be66e58333e88603de36">VHQUtils_MX.c</a>
+- PACKAGE_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#ab53f9d7066359a8c9bbdab7cd2443196">VHQUtils_MX.c</a>
+- PACKAGE_SECTION_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#a3b9b0bcd6c80165d5aaa9b740c1d51e3">VHQUtils_MX.c</a>
+- PACKAGE_SIZE_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#adbaa254b8457e8d6c3393f32872aec28">VHQUtils_MX.c</a>
+- PACKAGE_VERSION_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#ac59b0fc334be57b39b8ef0f4f3b460a5">VHQUtils_MX.c</a>
+- PAGES_TO_KB : <a href="_v_h_q_utils___m_x_8c.md#a5cf1e2356a2064e2bf44937d94644eff">VHQUtils_MX.c</a>
+- PAN_ENTERED_CHECK_AND_CONFIRM : <a href="ui_8h.md#ac58a59fe7cf09a094b60c02f551622c8">ui.h</a>
+- PAN_SIZE : <a href="sec2_8h.md#aceeb2a7f2c289494dc2338db7f3ff895">sec2.h</a>
+- PAN_TS : <a href="sec2_8h.md#a66e07a91c4208e036cf8f46d734646b8">sec2.h</a>
+- PATH_SEPARATOR : <a href="pathutil_8cpp.md#a256a5721249aa3309437212cc21a9fe4">pathutil.cpp</a>
+- pathcat() : <a href="pathutil_8cpp.md#a5dd4ecc523c12d8cf7421fe1f5a1e395">pathutil.cpp</a> , <a href="pathutil_8h.md#a01bbf38e5df83444a0b653a5424d1471">pathutil.h</a>
+- pathclean() : <a href="pathutil_8cpp.md#a347cd6565ce1d822a333b272312c72eb">pathutil.cpp</a> , <a href="pathutil_8h.md#aa01a783fcf5ab8dfb3371ddf1937b1d8">pathutil.h</a>
+- pcBTLVTagStr() : <a href="btlv_8h.md#a1b418cf187e4f149ea7caeeae687eca5">btlv.h</a>
+- pcBTLVTagStr2() : <a href="btlv_8h.md#a898c1c73324c3f1b98dadc47e1d3d8ca">btlv.h</a>
+- PCI_REBOOT_GAP : <a href="_v_h_q_utils__shared_8c.md#a807cde75ba7dae30ab6d0ebe83b1519e">VHQUtils_shared.c</a>
+- PED_CERT_ERR : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#gadc787271097273d39c4fb060749b1fab">ped.h</a>
+- PED_ERR_LOAD : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga32914a81dec6b55185b81e4bf63d97be">ped.h</a>
+- PED_ERROR : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga07ea4d4fee5bde6444f6b3d28bbc59b5">ped.h</a>
+- PED_LINK_OK : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#ga17d00e6cf6e771b1e428c332fe87a23f">ped.h</a>
+- ped_MovePin() : <a href="tec_2export_2tec_2ped_8h.md#ab4792fd3cacefd42f8f7bf365e779484">ped.h</a>
+- PED_NS_DONE : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#ga8fc33540b096a9d3fe25a78f13b3968c">ped.h</a>
+- PED_NS_ERR : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#gad80ab1587eb3f1a4dc204cd277098cd9">ped.h</a>
+- PED_OK : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga554b92063910b0a4149bb5d59fb62af3">ped.h</a>
+- ped_Pairing() : <a href="tec_2export_2tec_2ped_8h.md#a124ea72634b37bdf5d09ce5e0869ca55">ped.h</a>
+- ped_RcvCallback : <a href="tec_2export_2tec_2ped_8h.md#a944bf4f4f1a0e2f08d0a0f21a5e1718a">ped.h</a>
+- ped_SendCallback : <a href="tec_2export_2tec_2ped_8h.md#a0999264b51baabb5ce8b71694e5b3b85">ped.h</a>
+- ped_SetSendRcvCb() : <a href="tec_2export_2tec_2ped_8h.md#aa093da583e918cfb6dd8e152c39af3bc">ped.h</a>
+- pedReset() : <a href="ped_8cpp.md#a2cdc4bd6bf4da35073f47249ee9357c2">ped.cpp</a> , <a href="sdi_2src_2ped_8h.md#a2cdc4bd6bf4da35073f47249ee9357c2">ped.h</a>
+- pedSetExtButton() : <a href="ped_8cpp.md#abb33c3404058f8446010977ace0907b8">ped.cpp</a> , <a href="sdi_2src_2ped_8h.md#aa0c8c216f26262d3bb93de55d10086e4">ped.h</a>
+- PES_STATE_COMPLETED : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca06d29cab2f4173ba4ded51e52268cb63">EventScheduler.c</a>
+- PES_STATE_EVENT_COMPLETED : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714caffdbbb3cb31ee0e837b06cd1ae24a277">EventScheduler.c</a>
+- PES_STATE_INITIAL : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca311161859d03acceaa61f305d774057c">EventScheduler.c</a>
+- PES_STATE_RUNNING : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca7db86ccd7727481416bbab7357114086">EventScheduler.c</a>
+- pesStateToStr() : <a href="_event_scheduler_8c.md#a7751718dbb8453224e713da617123c91">EventScheduler.c</a>
+- PIN_AbortOnCardRemove : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a9dfeeb3f8fb4a36718045760945312b4">ui.h</a>
+- PIN_ALGORITHM_SIZE : <a href="sec2_8h.md#a745e010c088efb6cfa5ddd7b1ee6dffc">sec2.h</a>
+- PIN_ALGORITHM_TS : <a href="sec2_8h.md#a0d7831e0be76fc3ffad810657b5fdc74">sec2.h</a>
+- PIN_AllowedExtOptions : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a6003c3467ccbca13da8b003dc8fbd760">ui.h</a>
+- PIN_AutoEnter : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ad1fa104e654e6c088663aeac2eddfc23">ui.h</a>
+- PIN_Beep : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ae9d961aaad7f3dad4d6bf9509757e790">ui.h</a>
+- PIN_BLOCK_FORMAT_MAX : <a href="sec2_8h.md#a44aad3991d8950186aaefff8ba4ae3ae">sec2.h</a>
+- PIN_BLOCK_FORMAT_MIN : <a href="sec2_8h.md#a5424ce382a93195958480d9224e7ad7a">sec2.h</a>
+- PIN_BLOCK_FORMAT_SIZE : <a href="sec2_8h.md#a805f5a5f931127b4eb0d4c6f6827a157">sec2.h</a>
+- PIN_BLOCK_FORMAT_TS : <a href="sec2_8h.md#a46e0424c5acb6872e46b9f48ac95fb5c">sec2.h</a>
+- PIN_BYPASS : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga1b11ddaf81867095dd71695d2c8223c7">EMV_CT_Interface.h</a>
+- PIN_CANCEL : <a href="group__vss.md#ga5cf897892e478bad3ca024677db9651d">moduleDescription.h</a>
+- PIN_CANCEL_SIZE : <a href="sec2_8h.md#adc6f40c85a55b22928e0857d43bfbda8">sec2.h</a>
+- PIN_CANCEL_TS : <a href="sec2_8h.md#a736081c397b95df10d74a88592bfad3c">sec2.h</a>
+- PIN_ClearAllDigits : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a74530e73c20faf0e6b7c52b85e75848c">ui.h</a>
+- PIN_ClearOnReturn : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ab2102291c926e18b07a2e7f9e76deb16">ui.h</a>
+- PIN_ENTRY_TIMEOUT_SIZE : <a href="sec2_8h.md#a8f9e6818c67cfa82c8c673ac8187b854">sec2.h</a>
+- PIN_ENTRY_TIMEOUT_TS : <a href="sec2_8h.md#a755ac27b722ed1079239b8b30a5c66f1">sec2.h</a>
+- PIN_ENTRY_TYPE_SIZE : <a href="sec2_8h.md#a2c25db0c6072d5d610d8788730257591">sec2.h</a>
+- PIN_ENTRY_TYPE_TS : <a href="sec2_8h.md#a65de59f47e83e0364303941b9795e784">sec2.h</a>
+- PIN_FINISH : <a href="group__vss.md#gab26fba5550fe958a8d95fa51a700cc38">moduleDescription.h</a>
+- PIN_IgnoreExtAbort : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49afa79a26238464052d9dc46ea9f269a6c">ui.h</a>
+- PIN_INIT : <a href="group__vss.md#ga66a8f8bb1534842a3e7cab64637fef1f">moduleDescription.h</a>
+- PIN_ITERATION : <a href="group__vss.md#ga78fe99462d905bd0aa6f43e50052c1ed">moduleDescription.h</a>
+- PIN_NavigatorMode_1 : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a604b3eaf05fe40a63cbafe255489b697">ui.h</a>
+- PIN_NavigatorMode_2 : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a78a302ca51ec258709d2c4404fe7de5e">ui.h</a>
+- PIN_NoAmount : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a0e346cddafa652c33c73c83e83ee55be">ui.h</a>
+- PIN_NoCardAppLabel : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49acf6a643135657aecf4e5c2fa17708482">ui.h</a>
+- PIN_NoHeader : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a910ab4a46abbd3417b5120d678299a29">ui.h</a>
+- PIN_NoLEDs : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49aa80cee0745f62ca2a70b23dc2d0a7272">ui.h</a>
+- PIN_NoOpts : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a17596fceda9610ca318260b1f8b23ae0">ui.h</a>
+- PIN_TRY_FLAG_SIZE : <a href="sec2_8h.md#ae49ebf33110079cb8f1c3e632316ddf0">sec2.h</a>
+- PIN_TRY_FLAG_TS : <a href="sec2_8h.md#a75e2df4bd5aadab3b56a2e4f2fca9c8a">sec2.h</a>
+- PINBypass_Clear : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a1dfd732485ef3075302c685c5bcc3288">ui.h</a>
+- PINBypass_DisableByDigit : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1ab20307c5065433769b6efffff2653662">ui.h</a>
+- PINBypass_Disabled : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1ad1099ac5696f8dafd3fc194aa7853ebd">ui.h</a>
+- PINBypass_Enter : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a2576d980abb84370ff76007b4cb7e959">ui.h</a>
+- PINBypass_MaskAllowed : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a5982133dd5857d94756febdd1ea4b5ad">ui.h</a>
+- PING_REQ_STR : <a href="_v_h_q_utils___m_x_8c.md#a15d21cc50cd6ddff52b07dbf83eaa5f1">VHQUtils_MX.c</a>
+- pinstateCallback() : <a href="ui_8cpp.md#a5258ad4e0cbe13f486f274129a358288">ui.cpp</a>
+- pinType : <a href="ped_8cpp.md#a853c96033e0a366c1cd4b64a74652247">ped.cpp</a>
+- PLAIN_TXT_PIN_BLOCK_TS : <a href="sec2_8h.md#a35922f0772e5c410b4037ecdf088eaf5">sec2.h</a>
+- PLUGIN_CONFIG_PATTERN : <a href="filesystem_8h.md#aa607fc35ca1d341e94853b44c73380c8">filesystem.h</a>
+- PLUGIN_EXT : <a href="filesystem_8h.md#a35a8a8490296aaab573191e17924ae82">filesystem.h</a>
+- PLUGIN_PATTERN : <a href="filesystem_8h.md#ae3f54c6ea2eb0c81566552ae0dcc6bc9">filesystem.h</a>
+- PLUGIN_PREFIX : <a href="filesystem_8h.md#ade68c478230cc910fd42088b23a50469">filesystem.h</a>
+- PLUGIN_READ_FIRST : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79a0aa41ba4fbff30ac457cbdb815e35d01">loadplugin.h</a>
+- PLUGIN_READ_NEXT : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79a5ec9c0b384babec5670c5b48f212f18e">loadplugin.h</a>
+- PLUGIN_READ_NONE : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79af9f39d0a4daadbd9ab293e28651d94a1">loadplugin.h</a>
+- PLUGIN_READ_TYPE : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79">loadplugin.h</a>
+- pluginInstalledForTrigger() : <a href="loadplugin_8cpp.md#a4a24ab51f8a1f35a6d9b09fdc4639f4a">loadplugin.cpp</a> , <a href="loadplugin_8h.md#a4a24ab51f8a1f35a6d9b09fdc4639f4a">loadplugin.h</a>
+- plugins : <a href="loadplugin_8cpp.md#ac05523f594f474b2718c180c15fc11de">loadplugin.cpp</a>
+- PLUS_2K_SL_1 : <a href="titusstubs_8cpp.md#a7405413ab8b172c9539cdd1f851e9420">titusstubs.cpp</a>
+- PLUS_2K_SL_2 : <a href="titusstubs_8cpp.md#ad3a0b75332626545a7b430f16212c818">titusstubs.cpp</a>
+- PLUS_2K_SL_3 : <a href="titusstubs_8cpp.md#afab8839c55c2dad35b4a8a579be6c1c8">titusstubs.cpp</a>
+- PLUS_4K_SL_1 : <a href="titusstubs_8cpp.md#ad2f459f5a2cd67baf02442e3be3fcb3f">titusstubs.cpp</a>
+- PLUS_4K_SL_2 : <a href="titusstubs_8cpp.md#a67ee9df73f586e3f6a9971b27bad369d">titusstubs.cpp</a>
+- PLUS_4K_SL_3 : <a href="titusstubs_8cpp.md#afe1ac3006d24252fb43bcf34248b3604">titusstubs.cpp</a>
+- pm_criticalSection() : <a href="main_8cpp.md#a2640a9e85a15b5c3a3e800e532939c67">main.cpp</a> , <a href="main_8h.md#a2640a9e85a15b5c3a3e800e532939c67">main.h</a>
+- pm_setCriticalSection() : <a href="main_8cpp.md#a11c5a1b173cf19d42db73a73a1ad6d90">main.cpp</a> , <a href="main_8h.md#a11c5a1b173cf19d42db73a73a1ad6d90">main.h</a>
+- PM_SUPRESS_ALL : <a href="group___power.md#gabd5fc58abfa592ed34817dd83600211f">vfisyspm.h</a>
+- PM_SUPRESS_CHARGE_CHECK : <a href="group___power.md#ga1968c44922fe78c262f75b40e1583774">vfisyspm.h</a>
+- PM_SUPRESS_CRITICAL_SECTION : <a href="group___power.md#ga0d02a37c110367e53d3a69d985429b31">vfisyspm.h</a>
+- PM_SUPRESS_NONE : <a href="group___power.md#gad8cd9341efa39f085693d8da543bbbe4">vfisyspm.h</a>
+- pollReq : <a href="titusstubs_8cpp.md#ab4fc5a0481fff4756bbb875051581e61">titusstubs.cpp</a>
+- pollRes : <a href="titusstubs_8cpp.md#abc99c096c433e8ed2fc1a6ac42d2bbc6">titusstubs.cpp</a>
+- pollResFull : <a href="titusstubs_8cpp.md#abffd13a24a89d1aedf98ae22d6e40eb4">titusstubs.cpp</a>
+- POS_TIMEOUT_SIZE : <a href="sec2_8h.md#aefea51eda08782eae4697732a978cd58">sec2.h</a>
+- POS_TIMEOUT_TS : <a href="sec2_8h.md#a6f89a54f9ea56e6c1706c8af6c1d4886">sec2.h</a>
+- PosAgentPeerPingServer() : <a href="_v_h_q_utils___m_x_8c.md#aba2715e2a0d2626ad4d39a4ad5d06287">VHQUtils_MX.c</a>
+- PosAgentResetPeer() : <a href="_v_h_q_utils___m_x_8c.md#a76e7e15eb799a21dd4db7649e7bc6c8a">VHQUtils_MX.c</a>
+- PostPayload() : <a href="_web_service_wrappers_8c.md#a02b30940054f1980e6eb755934e10952">WebServiceWrappers.c</a>
+- PostUpload() : <a href="_web_service_wrappers_8c.md#accfb9c141193e73bee596406d96fbd31">WebServiceWrappers.c</a>
+- PPIN_ASTERISK_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ac3136fce70b5f87b4eb5f3de171325af">ped.cpp</a>
+- PPIN_BACKSPACE_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57af3705a5afd991ebc54f558356a1007b8">ped.cpp</a>
+- PPIN_BACKSPACE_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a9fdd5c6b47f3cd142e2c9de1291a3b8f">ped.cpp</a>
+- PPIN_BYPASS : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57afd80070c266253383274e92ccc1e5c19">ped.cpp</a>
+- PPIN_CALLBACK : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0af2c1b5a4e6ba37fbb06001540f34896f">ped.cpp</a>
+- PPIN_CANCEL : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57aa42f3abdd29d1069f03e8e1aa26e8f5f">ped.cpp</a>
+- PPIN_CANCEL_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ae5f96f409873c4e821c353ecc7de6f02">ped.cpp</a>
+- PPIN_CANCEL_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a8df826cde163532bc777f01797bf9174">ped.cpp</a>
+- PPIN_COLLECTING : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ad32fcb1c4144ec5ad26082449d23f22e">ped.cpp</a>
+- PPIN_DIGIT_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a9481a031a571e537c79cea5fb484b89d">ped.cpp</a>
+- PPIN_DIGIT_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57aa13af76806d750f88201e919e98d1925">ped.cpp</a>
+- PPIN_DONE : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a3c80448ee3c13b64791063750f3c2585">ped.cpp</a>
+- PPIN_ENTRY : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0">ped.cpp</a>
+- PPIN_ERROR : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a916c1ad466f13765601d0b02edf775ab">ped.cpp</a>
+- PPIN_F1_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ac85fb535597b0c2ed946ec383ae08590">ped.cpp</a>
+- PPIN_F2_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57adf1bc9f28a65d19c6faf2d68ad3e588c">ped.cpp</a>
+- PPIN_F3_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a28dd34ff079e1534fe4b9439d1df864c">ped.cpp</a>
+- PPIN_F4_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ad2be115a0024c071ea7cd21ff36c8f4a">ped.cpp</a>
+- PPIN_HASH_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a4f631f28f7897ba3bbf07607add3772b">ped.cpp</a>
+- PPIN_IDLE : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0a4fa988dd629cca8b9d3beaa760639667">ped.cpp</a>
+- PPIN_MULTITOUCH : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a12fb502d27c361b12ff37e8d54339ce2">ped.cpp</a>
+- PPIN_OK_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a93cc4a944a0f7dd46a303b9085061ce2">ped.cpp</a>
+- PPIN_OK_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a0f2751e204567da01854c8e0f0425a82">ped.cpp</a>
+- PPIN_OVERFLOW : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ab89aa97c0e629cd91568346c98c65caa">ped.cpp</a>
+- PPIN_POLLING : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0a5b03d17c2d8839f88a710488158e57ce">ped.cpp</a>
+- PPIN_POLLING_DONE : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0ac8830ecf692ead2a6b96de78f4c2a64a">ped.cpp</a>
+- PPIN_RESULT : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57">ped.cpp</a>
+- PPIN_TIMEOUT : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a69e81fedc3912ad73e23df8aca4d4c17">ped.cpp</a>
+- PPIN_UNDERFLOW : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a1963994479d0ba697da1c82edce0e208">ped.cpp</a>
+- PRIMARY_SERVER_INSTANCE_NAME : <a href="svc__tms_8h.md#af9ce0cfbf24db75b72dc5696f6e0ed68">svc_tms.h</a>
+- PRIMITIVE_TAG : <a href="btlv_8h.md#adf764cbdea00d65edcd07bb9953ad2b7ac55c03a8fda74e99b525713117c28871">btlv.h</a>
+- print_bitmap() : <a href="prt__bitmap__vos_8cpp.md#ad23c179a90a8246f38ba424afaf63336">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__k81_8cpp.md#ad23c179a90a8246f38ba424afaf63336">prt_bitmap_k81.cpp</a> , <a href="prt__bitmap_8h.md#a13743df79aa9cb84acc14fa71a1e8557">prt_bitmap.h</a> , <a href="prt__bitmap__png_8cpp.md#ad23c179a90a8246f38ba424afaf63336">prt_bitmap_png.cpp</a>
+- PRINT_EVENT_SET_TABLE : <a href="_event_scheduler_8c.md#a42e50623ecd2ee20af7f9286e4bcb05c">EventScheduler.c</a>
+- print_getStatus() : <a href="sdi_2src_2prt_8h.md#a47bd7ed2e6b0486a15adcfd3d1b58457">prt.h</a> , <a href="prt__bitmap__k81_8cpp.md#ac31cf0c86df552cedad0dba2f840d45d">prt_bitmap_k81.cpp</a>
+- PRINTER_BYTES_PER_ROW : <a href="prt__bitmap__k81_8cpp.md#a385c44f6fb256e5716a2302a5b940388ac9eb66aa9aba19fda4a028305e3e999b">prt_bitmap_k81.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#ac36f475ca5b446f4fde4c9b90bec77c8ac9eb66aa9aba19fda4a028305e3e999b">prt_bitmap_vos.cpp</a>
+- PRINTER_WIDTH : <a href="prt__bitmap__k81_8cpp.md#a385c44f6fb256e5716a2302a5b940388aa24ed1c134538684bb1d59a06f7bde38">prt_bitmap_k81.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#ac36f475ca5b446f4fde4c9b90bec77c8aa24ed1c134538684bb1d59a06f7bde38">prt_bitmap_vos.cpp</a>
+- PrintResult : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0">prt_bitmap_png.cpp</a>
+- PRIVATE_CLASS : <a href="btlv_8h.md#adf764cbdea00d65edcd07bb9953ad2b7a5f6e319a5eb9707d04a8955d9ba84b2d">btlv.h</a>
+- PROC_CMD_LINE : <a href="_v_h_q_utils___m_x_8c.md#ad1e08b3a5cfd7bb75497969e8d5e0e5f">VHQUtils_MX.c</a>
+- proc_data_t : <a href="_v_h_q_utils___m_x_8c.md#aa7f4551484c02b1e86732c48a336e6c6">VHQUtils_MX.c</a>
+- PROC_DIRECTORY : <a href="_v_h_q_utils___m_x_8c.md#a3377a5f6fe537f0473ab27e5e5d592f4">VHQUtils_MX.c</a>
+- process_event_sets_state_t : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714c">EventScheduler.c</a>
+- process_side_command() : <a href="main_8cpp.md#a4892e1b795462119ef4d6fa87c860b90">main.cpp</a> , <a href="main_8h.md#a4892e1b795462119ef4d6fa87c860b90">main.h</a>
+- ProcessAction() : <a href="_v_h_q_utils___m_x_8c.md#ac36a1fcec555ea4eb60beca93beffccc">VHQUtils_MX.c</a>
+- ProcessAppAction() : <a href="_v_h_q_utils__shared_8c.md#af1d2a9f13c79bec2150675026ab83b62">VHQUtils_shared.c</a>
+- ProcessAppGeneratedParameterUpdate() : <a href="_v_h_q_utils__shared_8c.md#a7d9767400e21778bbef439e1a9914e2a">VHQUtils_shared.c</a>
+- ProcessDelFile() : <a href="_v_h_q_utils___m_x_8c.md#a66248ea9268361c7c1132c970b388c3f">VHQUtils_MX.c</a>
+- ProcessDownloadFile() : <a href="_file_download_8c.md#ae39de27973e7d48f7dcc630a95b362a6">FileDownload.c</a>
+- ProcessEventSets() : <a href="_event_scheduler_8c.md#a5a8c06a47fd796c525bd85b4c1c120be">EventScheduler.c</a>
+- ProcessOperation() : <a href="_v_h_q_xml_operation_processor_8c.md#a8c29cea60413ff96b51e61ec932bc827">VHQXmlOperationProcessor.c</a>
+- ProcessServerRequests() : <a href="_v_h_q_manager_8c.md#a48c49e92aafd1c64e296dad826694a44">VHQManager.c</a>
+- ProfileSubType : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21c">ui_mode.cpp</a>
+- PROMPT_FILL_TS : <a href="sec2_8h.md#a389f91039b11ba2ee52b15eccd0846c1">sec2.h</a>
+- PROP_NAME : <a href="group__propdb.md#ga2062ba7b5292b2cb9456209022cbdac7">infodb.h</a>
+- PROT_TYPE_VALID : <a href="madk__pp__protocol_8cpp.md#ab9bafea5a62aef8469d807060b6c26c2">madk_pp_protocol.cpp</a>
+- protocol_status_callback() : <a href="madk__pp__protocol_8cpp.md#a68226f5dfe1781967a021e9de6ea34fe">madk_pp_protocol.cpp</a>
+- protocol_status_ui_update() : <a href="ui__mode_8h.md#a6a46d1447df15675918b58136a68b3b1">ui_mode.h</a> , <a href="ui__mode_8cpp.md#a6a46d1447df15675918b58136a68b3b1">ui_mode.cpp</a>
+- PRT_BUSY : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a8de6b77dc9ed09b215c1999c7e2ba06b">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a8de6b77dc9ed09b215c1999c7e2ba06b">prt_bitmap_png.cpp</a>
+- PRT_FAIL : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0ae4bf0cf9fc2178e4bab2ee0ddfbb1cbc">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0ae4bf0cf9fc2178e4bab2ee0ddfbb1cbc">prt_bitmap_vos.cpp</a>
+- PRT_getProperty() : <a href="prt_8cpp.md#ae7dc6e84f128c0990b7261b4576c4e7e">prt.cpp</a>
+- PRT_HEADOPEN : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0ad9c03d6e1ea575ed6f996d945d83a945">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0ad9c03d6e1ea575ed6f996d945d83a945">prt_bitmap_vos.cpp</a>
+- PRT_NO_PRINTER : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a7e51c5aeff1f987d71f6fe16119f026a">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a7e51c5aeff1f987d71f6fe16119f026a">prt_bitmap_vos.cpp</a>
+- PRT_OK : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0af2ad9f75739b523e78df0375ad38a546">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0af2ad9f75739b523e78df0375ad38a546">prt_bitmap_png.cpp</a>
+- PRT_OVERHEAT : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a429988d9a2c4de64c091c963c53de39f">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a429988d9a2c4de64c091c963c53de39f">prt_bitmap_vos.cpp</a>
+- PRT_OVERVOLTAGE : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a41e79c4dbe0869fdf53de2ac223a6c55">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a41e79c4dbe0869fdf53de2ac223a6c55">prt_bitmap_vos.cpp</a>
+- PRT_PAPEREND : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a800ccbd12989598a0bfd6aa12141776c">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a800ccbd12989598a0bfd6aa12141776c">prt_bitmap_png.cpp</a>
+- PRT_PAPERJAM : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a97c7d651a078ac337e76812e2c065ee8">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a97c7d651a078ac337e76812e2c065ee8">prt_bitmap_png.cpp</a>
+- PRT_setProperty() : <a href="prt_8cpp.md#a904f53b3ce4a0dadc1ef14c001508ae3">prt.cpp</a>
+- PRT_UNDERVOLTAGE : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a4b5ae5a3826908d62ba457037a20f78d">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a4b5ae5a3826908d62ba457037a20f78d">prt_bitmap_vos.cpp</a>
+- PST_COM1A_BT_USB : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca1c60a2b6dc2a23d1442910400ae7e633">ui_mode.cpp</a>
+- PST_COM1A_USB : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21caa334105b2c0cc946207913b59fdf07d1">ui_mode.cpp</a>
+- PST_EPP_TLS : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21caea4d2147beb5d10787ee82f53000ad70">ui_mode.cpp</a>
+- PST_INTERNAL_ANDROID : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca47eb4ed9df1bcc8ee733fdbd4f31148c">ui_mode.cpp</a>
+- PST_NONE : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca02e9c10cb1b2ddd85ff084180c5e1e69">ui_mode.cpp</a>
+- pszConnectionFile : <a href="ci_a_d_k_8c.md#a5d847c4bab1b1a9108829112298d746f">ciADK.c</a>
+- pthread_create_detached() : <a href="pthreadutil_8h.md#a883e5b0e61c35298edeb0ad3bb133bd3">pthreadutil.h</a> , <a href="pthreadutil_8c.md#a883e5b0e61c35298edeb0ad3bb133bd3">pthreadutil.c</a>
+- PTP_host : <a href="_v_h_q_utils___m_x_8c.md#ac66b6ca5b7157a92bc80987167d0a7db">VHQUtils_MX.c</a>
+- PUT_TRANSACTIONDATA_COM : <a href="sec2_8h.md#a453e6542f2cb31abde608e81d8ba6837a8adcf51ecf1611ec2c45e01121eb139e">sec2.h</a>
+- PutAppParameterFileByName() : <a href="_v_h_q_utils___app_interface_8c.md#a87bddc827195ac9c4a1d41232c7a2b5b">VHQUtils_AppInterface.c</a>
+- pvPoolMalloc() : <a href="mem__pool_8h.md#ad61c1fd291939dc423bfd58a1b455c10">mem_pool.h</a>
+- pvPoolRealloc() : <a href="mem__pool_8h.md#a9ff3d2a2c810e692ad344650ced21427">mem_pool.h</a>
+- pxBTLVAppendTag() : <a href="btlv_8h.md#a0c33e9a258ab58a2ad1662ab7ab8e60d">btlv.h</a>
+- pxBTLVFindNextTag() : <a href="btlv_8h.md#a977bdec574dab7f629a9044b39d14760">btlv.h</a>
+- pxBTLVFindTag() : <a href="btlv_8h.md#ac74569eef6689e6b833ec7f9fe53e5ab">btlv.h</a>
+- pxBTLVGetChild() : <a href="btlv_8h.md#a52cd9eb8cdb1868c6cba4d733f219a1d">btlv.h</a>
+- pxBTLVGetParent() : <a href="btlv_8h.md#a09a6ac5853977837f126c5c9af05de77">btlv.h</a>
+- pxBTLVWriteTag() : <a href="btlv_8h.md#a9819b6c9e4d8be3c412cf251e564d31d">btlv.h</a>

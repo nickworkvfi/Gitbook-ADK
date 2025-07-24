@@ -1,0 +1,6 @@
+<map id="ICC Interface" name="ICC Interface">
+<area shape="rect" id="node1" title="Definitions used for functions EMV_CT_SmartISO(), EMV_CT_SmartReset(), EMV_CT_SmartPowerOff(),..." alt="" coords="5,70,112,95"/>
+<area shape="rect" id="node2" href="$group___f_u_n_c___i_c_c.html" title=" " alt="" coords="160,5,345,45"/>
+<area shape="rect" id="node3" href="$group___a_d_k___i_c_c___o_p_t_i_o_n.html" title="Options for ICC access, e.g. for EMV_CTLS_SmartISO(), EMV_CTLS_SmartReset(), EMV_CTLS_SmartPowerOff()" alt="" coords="169,70,337,95"/>
+<area shape="rect" id="node4" href="$group___s_m_a_r_t___s_t_a_t_u_s.html" title="Return values for functions of group Functions for transparent ICC access." alt="" coords="200,119,305,145"/>
+</map>

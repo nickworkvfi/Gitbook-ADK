@@ -1,0 +1,253 @@
+---
+hidden: true
+title: vfihtml Namespace ReferencePrinting functions
+---
+
+[Data Structures](#nested-classes) \| [Typedefs](#typedef-members) \| [Functions](#func-members)
+
+|  |  |
+|----|----|
+| Data Structures |  |
+| class   | <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> |
+
+|  |  |
+|----|----|
+| Typedefs |  |
+| typedef <a href="classvfiipc_1_1_j_s_object.md">vfiipc::JSObject</a>  | [JSObject](#aae7be032793c509f7d46a8e251b0f0e5) |
+| typedef bool(\*  | [ScriptProcessor](#a3cbd3cd62b8b160ff8fd641acf6858e2)) (void \*data, const std::string &script, std::map\< std::string, std::string \> &<a href="_web_service_wrappers_8c.md#a6e248376c0290338633d8137822eb209">value</a>, std::string &out, std::string &err, std::string &exitcode) |
+| typedef bool(\*  | [ScriptProcessorExt](#ab0bf156adfcbf468dc8caedf9fc0c747)) (void \*data, const std::string &script, std::map\< std::string, std::string \> &<a href="_web_service_wrappers_8c.md#a6e248376c0290338633d8137822eb209">value</a>, std::string &out, std::string &err, std::string &exitcode, ExtContext \*context) |
+| typedef std::map\< std::string, std::string \>  | [stringmap](#a53240b3eda61c045f82728814874a1f8) |
+
+|  |  |
+|----|----|
+| Functions |  |
+| <a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> void  | [htmlSetScriptProcessor](#a67c7add0a3e05b7854d310b3678b9f41) (const char \*name, [ScriptProcessor](#a3cbd3cd62b8b160ff8fd641acf6858e2) proc, void \*data) |
+| <a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> void  | [htmlSetScriptProcessor](#a3635a881d0a3f4ac7e347a6990bc9021) (const char \*name, [ScriptProcessorExt](#ab0bf156adfcbf468dc8caedf9fc0c747) proc, void \*data=0) |
+| <a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a>  | [operator+](#a3d78ca4ce27a959bf398e15ffb3ac35c) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| <a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a>  | [operator-](#abb5f451bfe33b4d0957051af55e3ae99) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator==](#a8925dae3d083f52e28204c76dc63cfb5) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator!=](#a6869fb59c93e8b8039fa26a47db06300) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator\<](#a62aae78823ad670db1f2a3871f9c6138) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator\<=](#a157e4057ccddad828bf42ae796a7c877) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator\>](#a9b79b43d164b3effb8259fab63cde591) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| bool  | [operator\>=](#a1bfa3d2893680e868a6e38bc12b17b05) (const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &a, const <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> &b) |
+| <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a>  | [operator\*](#a6f93946b848787d14daadba81d73b56c) (int t, <a href="classvfihtml_1_1_time_stamp.md#classvfihtml_1_1_time_stamp_1_1_unit___m_s">TimeStamp::Unit_MS</a>) |
+| <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a>  | [operator\*](#a91630290de39196e23b6360b1a67c272) (int t, <a href="classvfihtml_1_1_time_stamp.md#classvfihtml_1_1_time_stamp_1_1_unit___s">TimeStamp::Unit_S</a>) |
+
+## TypedefDocumentation {#typedef-documentation}
+
+## JSObject <a href="#aae7be032793c509f7d46a8e251b0f0e5" id="aae7be032793c509f7d46a8e251b0f0e5"></a>
+
+<p>typedef <a href="classvfiipc_1_1_j_s_object.md">vfiipc::JSObject</a> [JSObject](#aae7be032793c509f7d46a8e251b0f0e5)</p>
+
+## ScriptProcessor <a href="#a3cbd3cd62b8b160ff8fd641acf6858e2" id="a3cbd3cd62b8b160ff8fd641acf6858e2"></a>
+
+<p>typedef bool(\* ScriptProcessor) (void \*data, const std::string &script, std::map\< std::string, std::string \> &<a href="_web_service_wrappers_8c.md#a6e248376c0290338633d8137822eb209">value</a>, std::string &out, std::string &err, std::string &exitcode)</p>
+
+script processor callback
+
+**Parameters**
+
+\[in\] **data** transparent callback data pointer \[in\] **script** script to be processed, leading and trailing whitespace has been removed. \[in\] **value** name value pairs that are used as initial value of input fields, checkboxes, etc. and that are used during script processing. \[out\] **out** resulting HTML code that was generated by the script. On invocation it is empty. \[out\] **err** error messages that were generated during script execution (comparable to output to stderr). On invocation it is empty. \[out\] **exitcode** content of parameter that was passed to exit()
+
+### Returns
+
+true if script was successful and if the script is to be replaced by the content of *out*, false if error or exit with exit code
+
+## ScriptProcessorExt <a href="#ab0bf156adfcbf468dc8caedf9fc0c747" id="ab0bf156adfcbf468dc8caedf9fc0c747"></a>
+
+<p>typedef bool(\* ScriptProcessorExt) (void \*data, const std::string &script, std::map\< std::string, std::string \> &<a href="_web_service_wrappers_8c.md#a6e248376c0290338633d8137822eb209">value</a>, std::string &out, std::string &err, std::string &exitcode, ExtContext \*context)</p>
+
+script processor callback for ADK-GUIPRT internal processors with extended capabilities
+
+**Parameters**
+
+\[in\] **data** transparent callback data pointer \[in\] **script** script to be processed, leading and trailing whitespace has been removed. \[in\] **value** name value pairs that are used as initial value of input fields, checkboxes, etc. and that are used during script processing. \[out\] **out** resulting HTML code that was generated by the script. On invocation it is empty. \[out\] **err** error messages that were generated during script execution (comparable to output to stderr). On invocation it is empty. \[out\] **exitcode** content of parameter that was passed to exit() \[in,out\] **context** internal extended context
+
+### Returns
+
+true if script was successful and if the script is to be replaced by the content of *out*, false if error or exit with exit code
+
+## stringmap <a href="#a53240b3eda61c045f82728814874a1f8" id="a53240b3eda61c045f82728814874a1f8"></a>
+
+<p>typedef std::map\<std::string,std::string\> [stringmap](#a53240b3eda61c045f82728814874a1f8)</p>
+
+map\<string,string\>
+
+## FunctionDocumentation {#function-documentation}
+
+## htmlSetScriptProcessor()\[1/2\] <a href="#a67c7add0a3e05b7854d310b3678b9f41" id="a67c7add0a3e05b7854d310b3678b9f41"></a> {#htmlsetscriptprocessor-12}
+
+<p><a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> void vfihtml::htmlSetScriptProcessor</p>
+
+set script processor
+
+**Parameters**
+
+\[in\] **name** name of the scripting processor, i.e. the name immediately following \'\<?\' \[in\] **proc** processing function pointer, use NULL to delete a script processor. \[in\] **data** callback data passed on as first parameter to the processing function
+
+## htmlSetScriptProcessor()\[2/2\] <a href="#a3635a881d0a3f4ac7e347a6990bc9021" id="a3635a881d0a3f4ac7e347a6990bc9021"></a> {#htmlsetscriptprocessor-22}
+
+<p><a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> void vfihtml::htmlSetScriptProcessor</p>
+
+set script processor
+
+**Parameters**
+
+\[in\] **name** name of the scripting processor, i.e. the name immediately following \'\<?\' \[in\] **proc** processing function pointer, use NULL to delete a script processor. \[in\] **data** unused, provided just for compatibility
+
+## operator!=() <a href="#a6869fb59c93e8b8039fa26a47db06300" id="a6869fb59c93e8b8039fa26a47db06300"></a>
+
+<p>bool vfihtml::operator!=</p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a!=b
+
+## operator\*()\[1/2\] <a href="#a6f93946b848787d14daadba81d73b56c" id="a6f93946b848787d14daadba81d73b56c"></a> {#operator-12}
+
+<p><a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> vfihtml::operator\*</p>
+
+inline
+
+convert int to time value by multiplying with MS unit
+
+**Parameters**
+
+\[in\] **t** time in milliseconds
+
+### Returns
+
+time value
+
+## operator\*()\[2/2\] <a href="#a91630290de39196e23b6360b1a67c272" id="a91630290de39196e23b6360b1a67c272"></a> {#operator-22}
+
+<p><a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> vfihtml::operator\*</p>
+
+inline
+
+convert int to time value by multiplying with S unit
+
+**Parameters**
+
+\[in\] **t** time in seconds
+
+### Returns
+
+time value
+
+## operator+() <a href="#a3d78ca4ce27a959bf398e15ffb3ac35c" id="a3d78ca4ce27a959bf398e15ffb3ac35c"></a>
+
+<p><a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> vfihtml::operator+</p>
+
+add two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a+b
+
+## operator-() <a href="#abb5f451bfe33b4d0957051af55e3ae99" id="abb5f451bfe33b4d0957051af55e3ae99"></a>
+
+<p><a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">DllSpec</a> <a href="classvfihtml_1_1_time_stamp.md">TimeStamp</a> vfihtml::operator-</p>
+
+substract two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a-b
+
+## operator\<() <a href="#a62aae78823ad670db1f2a3871f9c6138" id="a62aae78823ad670db1f2a3871f9c6138"></a>
+
+<p>bool vfihtml::operator\<</p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a\<b
+
+## operator\<=() <a href="#a157e4057ccddad828bf42ae796a7c877" id="a157e4057ccddad828bf42ae796a7c877"></a>
+
+<p>bool vfihtml::operator\<=</p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a\<=b
+
+## operator==() <a href="#a8925dae3d083f52e28204c76dc63cfb5" id="a8925dae3d083f52e28204c76dc63cfb5"></a>
+
+<p>bool vfihtml::operator==</p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a==b
+
+## operator\>() <a href="#a9b79b43d164b3effb8259fab63cde591" id="a9b79b43d164b3effb8259fab63cde591"></a>
+
+<p>bool vfihtml::operator\></p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a\>b
+
+## operator\>=() <a href="#a1bfa3d2893680e868a6e38bc12b17b05" id="a1bfa3d2893680e868a6e38bc12b17b05"></a>
+
+<p>bool vfihtml::operator\>=</p>
+
+inline
+
+compare two time values
+
+**Parameters**
+
+\[in\] **a** first time value \[in\] **b** second time value
+
+### Returns
+
+result of a\>=b

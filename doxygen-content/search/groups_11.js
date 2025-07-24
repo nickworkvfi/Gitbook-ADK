@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['serialization_27727',['Serialization',['../group___a_d_k___s_e_r_i_a_l_i_z_a_t_i_o_n.html',1,'']]],
+  ['supported_20contactless_20modes_27728',['Supported Contactless modes',['../group___c_l___m_o_d_e_s.html',1,'']]],
+  ['scheme_20specific_20transaction_20types_27729',['Scheme specific transaction types',['../group___c_l_t_r_x___s_c_h_e_m_e___t_r_x___t_y_p_e_s.html',1,'']]],
+  ['synchronous_20card_20types_27730',['Synchronous Card Types',['../group___c_r_d_s_y_n_c___card___types.html',1,'']]],
+  ['support_20of_20cardholder_20confirmation_27731',['Support of cardholder confirmation',['../group___d_e_f___c_a_r_d___c_o_n_f.html',1,'']]],
+  ['starttransaction_3a_20which_20data_20was_20received_20from_20the_20chip_27732',['StartTransaction: Which data was received from the chip',['../group___d_e_f___d_f61___s_e_l_e_c_t.html',1,'']]],
+  ['supported_27733',['Supported',['../group___e_m_v___m_o_d_e_s.html',1,'']]],
+  ['system_20led_20functions_27734',['System LED functions',['../group__led.html',1,'']]],
+  ['status_20code_27735',['Status code',['../group___m_s_r___s_t_a_t_u_s___c_o_d_e_s.html',1,'']]],
+  ['sdi_20protocol_20error_20codes_27736',['SDI Protocol Error Codes',['../group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html',1,'']]],
+  ['sdi_20protocol_20initialization_20options_27737',['SDI Protocol Initialization Options',['../group___s_d_i___p_r_o_t_o_c_o_l___i_n_i_t___o_p_t_i_o_n_s.html',1,'']]],
+  ['sdi_20and_20emv_20callbacks_27738',['SDI and EMV callbacks',['../group__sdicallback.html',1,'']]],
+  ['sdi_20client_20nfc_20interface_27739',['SDI client NFC interface',['../group__sdinfc.html',1,'']]],
+  ['sdi_20plugin_20commands_27740',['SDI plugin commands',['../group__sdiplugin.html',1,'']]],
+  ['sdi_20client_20setup_27741',['SDI client setup',['../group__sdisetup.html',1,'']]],
+  ['system_20interface_27742',['System interface',['../group__sdisystem.html',1,'']]],
+  ['sdi_20client_20vas_20interface_27743',['SDI client VAS interface',['../group__sdivas.html',1,'']]],
+  ['smart_20status_27744',['Smart status',['../group___s_m_a_r_t___s_t_a_t_u_s.html',1,'']]],
+  ['special_20tag_20handling_27745',['Special tag handling',['../group___s_p_e_c_i_a_l___t_a_g___h_a_n_d_l_i_n_g.html',1,'']]],
+  ['status_20information_27746',['Status information',['../group___s_t_a_t_u_s___i_n_f_o.html',1,'']]],
+  ['system_20statusbar_20functions_27747',['System statusbar functions',['../group__sysbar.html',1,'']]],
+  ['system_20beep_20functions_27748',['System beep functions',['../group__sysbeep.html',1,'']]],
+  ['system_20property_20functions_27749',['System property functions',['../group__syserro.html',1,'']]],
+  ['system_20property_20functions_27750',['System property functions',['../group__sysinfo.html',1,'']]]
+];

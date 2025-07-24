@@ -1,0 +1,44 @@
+---
+hidden: true
+title: ADK Programming Interfaces
+---
+
+- **Card Reading and Transactions**
+  - <a href="pg_tec_programmers_guide.md">Card Acceptance and Technology Selection</a>
+  - <a href="pg_msr_programmers_guide.md">Magnetic Stripe Reading</a>
+  - <a href="pg_emv_contact_users_guide.md">EMV Contact Cards</a>
+  - <a href="pg_emv_contactless_users_guide.md">EMV Contactless Cards</a>
+  - <a href="pg_crdsync_programmers_guide.md">Synchronous Cards</a>
+  - <a href="pg_nfc_users_guide.md">NFC Cards and Wallets</a>
+  - <a href="pg_iso8583_users_guide.md">ISO8583 Message Packing</a>
+- **User Interaction**
+  - <a href="pg_gui_users_guide.md">User Interface</a>
+  - <a href="pg_printer_users_guide.md">Receipt Printing</a>
+  - <a href="pg_sound_users_guide.md">Sound Output</a>
+  - <a href="pg_fps_users_guide.md">Finger Print Sensor (externally USB connected)</a>
+  - <a href="pg_preventing_image_persistence.md">Preventing Image Persistence</a>
+  - <a href="pg_touchscreen_tips.md">Touchscreen Usage Rules</a>
+- **Security Functions**
+  - <a href="pg_sec_users_guide.md">Security Service</a>
+  - <a href="pg_sec_users_guide.md#subsubsec_security_key_management">Key Management</a>
+  - <a href="pg_sec_users_guide.md#subsubsec_security_pin_handling">PIN Processing</a>
+  - <a href="group___config.md#sred">SRED Data Encryption (ADE, VCL)</a>
+  - <a href="pg_vss_documentation.md">Verifone Structure Script (VSS)</a>
+  - <a href="pg_vrk_agt_users_guide.md">Verifone Remote Keys injection Agent (VRK)</a>
+  - <a href="pg_scp_users_guide.md">Security Control Panel (SCP)</a>
+- **Communication Functions**
+  - <a href="pg_ccp_users_guide.md">Communication Control Panel (CCP)</a>
+  - <a href="pg_com_users_guide.md">Communication Library</a>
+  - <a href="pg_ipc_users_guide.md">Inter-Process-Communication</a>
+- **Application Management**
+  - <a href="pg_vos_secins_guide.md">Secure Installer</a>
+  - <a href="pg_mac_users_guide.md">Multi-Application Control</a>
+  - <a href="pg_agt_users_guide.md">VHQ Agent</a>
+- **System Functions and Utilities**
+  - <a href="pg_syspm_users_guide.md">Power Management</a>
+    - <a href="pg_pm_app_notes.md">Application Note</a>
+  - <a href="pg_sysinfo_users_guide.md">System Information</a>
+  - <a href="pg_logging_users_guide.md">Logging</a>
+  - <a href="pg_inf_users_guide.md">Information Database and Utilities</a>
+  - <a href="pg_expat_users_guide.md">Data Parsing: XML, JSON, INI, Regex</a>
+  - <a href="pg_evt_users_guide.md">Event Framework (Deprecated)</a>

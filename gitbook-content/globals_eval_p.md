@@ -1,0 +1,81 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - p -
+
+- PES_STATE_COMPLETED : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca06d29cab2f4173ba4ded51e52268cb63">EventScheduler.c</a>
+- PES_STATE_EVENT_COMPLETED : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714caffdbbb3cb31ee0e837b06cd1ae24a277">EventScheduler.c</a>
+- PES_STATE_INITIAL : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca311161859d03acceaa61f305d774057c">EventScheduler.c</a>
+- PES_STATE_RUNNING : <a href="_event_scheduler_8c.md#a3363138f7723e04024b5d5d5e1ab714ca7db86ccd7727481416bbab7357114086">EventScheduler.c</a>
+- PIN_AbortOnCardRemove : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a9dfeeb3f8fb4a36718045760945312b4">ui.h</a>
+- PIN_AllowedExtOptions : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a6003c3467ccbca13da8b003dc8fbd760">ui.h</a>
+- PIN_AutoEnter : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ad1fa104e654e6c088663aeac2eddfc23">ui.h</a>
+- PIN_Beep : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ae9d961aaad7f3dad4d6bf9509757e790">ui.h</a>
+- PIN_ClearAllDigits : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a74530e73c20faf0e6b7c52b85e75848c">ui.h</a>
+- PIN_ClearOnReturn : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49ab2102291c926e18b07a2e7f9e76deb16">ui.h</a>
+- PIN_IgnoreExtAbort : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49afa79a26238464052d9dc46ea9f269a6c">ui.h</a>
+- PIN_NavigatorMode_1 : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a604b3eaf05fe40a63cbafe255489b697">ui.h</a>
+- PIN_NavigatorMode_2 : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a78a302ca51ec258709d2c4404fe7de5e">ui.h</a>
+- PIN_NoAmount : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a0e346cddafa652c33c73c83e83ee55be">ui.h</a>
+- PIN_NoCardAppLabel : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49acf6a643135657aecf4e5c2fa17708482">ui.h</a>
+- PIN_NoHeader : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a910ab4a46abbd3417b5120d678299a29">ui.h</a>
+- PIN_NoLEDs : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49aa80cee0745f62ca2a70b23dc2d0a7272">ui.h</a>
+- PIN_NoOpts : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49a17596fceda9610ca318260b1f8b23ae0">ui.h</a>
+- PINBypass_Clear : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a1dfd732485ef3075302c685c5bcc3288">ui.h</a>
+- PINBypass_DisableByDigit : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1ab20307c5065433769b6efffff2653662">ui.h</a>
+- PINBypass_Disabled : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1ad1099ac5696f8dafd3fc194aa7853ebd">ui.h</a>
+- PINBypass_Enter : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a2576d980abb84370ff76007b4cb7e959">ui.h</a>
+- PINBypass_MaskAllowed : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1a5982133dd5857d94756febdd1ea4b5ad">ui.h</a>
+- PLUGIN_READ_FIRST : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79a0aa41ba4fbff30ac457cbdb815e35d01">loadplugin.h</a>
+- PLUGIN_READ_NEXT : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79a5ec9c0b384babec5670c5b48f212f18e">loadplugin.h</a>
+- PLUGIN_READ_NONE : <a href="loadplugin_8h.md#a87d5b69b03a93be2f94ede88b3675e79af9f39d0a4daadbd9ab293e28651d94a1">loadplugin.h</a>
+- PPIN_ASTERISK_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ac3136fce70b5f87b4eb5f3de171325af">ped.cpp</a>
+- PPIN_BACKSPACE_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57af3705a5afd991ebc54f558356a1007b8">ped.cpp</a>
+- PPIN_BACKSPACE_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a9fdd5c6b47f3cd142e2c9de1291a3b8f">ped.cpp</a>
+- PPIN_BYPASS : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57afd80070c266253383274e92ccc1e5c19">ped.cpp</a>
+- PPIN_CALLBACK : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0af2c1b5a4e6ba37fbb06001540f34896f">ped.cpp</a>
+- PPIN_CANCEL : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57aa42f3abdd29d1069f03e8e1aa26e8f5f">ped.cpp</a>
+- PPIN_CANCEL_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ae5f96f409873c4e821c353ecc7de6f02">ped.cpp</a>
+- PPIN_CANCEL_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a8df826cde163532bc777f01797bf9174">ped.cpp</a>
+- PPIN_COLLECTING : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ad32fcb1c4144ec5ad26082449d23f22e">ped.cpp</a>
+- PPIN_DIGIT_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a9481a031a571e537c79cea5fb484b89d">ped.cpp</a>
+- PPIN_DIGIT_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57aa13af76806d750f88201e919e98d1925">ped.cpp</a>
+- PPIN_DONE : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a3c80448ee3c13b64791063750f3c2585">ped.cpp</a>
+- PPIN_ERROR : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a916c1ad466f13765601d0b02edf775ab">ped.cpp</a>
+- PPIN_F1_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ac85fb535597b0c2ed946ec383ae08590">ped.cpp</a>
+- PPIN_F2_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57adf1bc9f28a65d19c6faf2d68ad3e588c">ped.cpp</a>
+- PPIN_F3_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a28dd34ff079e1534fe4b9439d1df864c">ped.cpp</a>
+- PPIN_F4_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ad2be115a0024c071ea7cd21ff36c8f4a">ped.cpp</a>
+- PPIN_HASH_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a4f631f28f7897ba3bbf07607add3772b">ped.cpp</a>
+- PPIN_IDLE : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0a4fa988dd629cca8b9d3beaa760639667">ped.cpp</a>
+- PPIN_MULTITOUCH : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a12fb502d27c361b12ff37e8d54339ce2">ped.cpp</a>
+- PPIN_OK_ENTERED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a93cc4a944a0f7dd46a303b9085061ce2">ped.cpp</a>
+- PPIN_OK_SELECTED : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a0f2751e204567da01854c8e0f0425a82">ped.cpp</a>
+- PPIN_OVERFLOW : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57ab89aa97c0e629cd91568346c98c65caa">ped.cpp</a>
+- PPIN_POLLING : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0a5b03d17c2d8839f88a710488158e57ce">ped.cpp</a>
+- PPIN_POLLING_DONE : <a href="ped_8cpp.md#a7e5271615c82cb53d7930081c6c78eb0ac8830ecf692ead2a6b96de78f4c2a64a">ped.cpp</a>
+- PPIN_TIMEOUT : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a69e81fedc3912ad73e23df8aca4d4c17">ped.cpp</a>
+- PPIN_UNDERFLOW : <a href="ped_8cpp.md#a84e8130fbf06d7905466b51ac9aa0a57a1963994479d0ba697da1c82edce0e208">ped.cpp</a>
+- PRIMITIVE_TAG : <a href="btlv_8h.md#adf764cbdea00d65edcd07bb9953ad2b7ac55c03a8fda74e99b525713117c28871">btlv.h</a>
+- PRINTER_BYTES_PER_ROW : <a href="prt__bitmap__k81_8cpp.md#a385c44f6fb256e5716a2302a5b940388ac9eb66aa9aba19fda4a028305e3e999b">prt_bitmap_k81.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#ac36f475ca5b446f4fde4c9b90bec77c8ac9eb66aa9aba19fda4a028305e3e999b">prt_bitmap_vos.cpp</a>
+- PRINTER_WIDTH : <a href="prt__bitmap__k81_8cpp.md#a385c44f6fb256e5716a2302a5b940388aa24ed1c134538684bb1d59a06f7bde38">prt_bitmap_k81.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#ac36f475ca5b446f4fde4c9b90bec77c8aa24ed1c134538684bb1d59a06f7bde38">prt_bitmap_vos.cpp</a>
+- PRIVATE_CLASS : <a href="btlv_8h.md#adf764cbdea00d65edcd07bb9953ad2b7a5f6e319a5eb9707d04a8955d9ba84b2d">btlv.h</a>
+- PRT_BUSY : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a8de6b77dc9ed09b215c1999c7e2ba06b">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a8de6b77dc9ed09b215c1999c7e2ba06b">prt_bitmap_png.cpp</a>
+- PRT_FAIL : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0ae4bf0cf9fc2178e4bab2ee0ddfbb1cbc">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0ae4bf0cf9fc2178e4bab2ee0ddfbb1cbc">prt_bitmap_png.cpp</a>
+- PRT_HEADOPEN : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0ad9c03d6e1ea575ed6f996d945d83a945">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0ad9c03d6e1ea575ed6f996d945d83a945">prt_bitmap_vos.cpp</a>
+- PRT_NO_PRINTER : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a7e51c5aeff1f987d71f6fe16119f026a">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a7e51c5aeff1f987d71f6fe16119f026a">prt_bitmap_png.cpp</a>
+- PRT_OK : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0af2ad9f75739b523e78df0375ad38a546">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0af2ad9f75739b523e78df0375ad38a546">prt_bitmap_vos.cpp</a>
+- PRT_OVERHEAT : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a429988d9a2c4de64c091c963c53de39f">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a429988d9a2c4de64c091c963c53de39f">prt_bitmap_vos.cpp</a>
+- PRT_OVERVOLTAGE : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a41e79c4dbe0869fdf53de2ac223a6c55">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a41e79c4dbe0869fdf53de2ac223a6c55">prt_bitmap_vos.cpp</a>
+- PRT_PAPEREND : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a800ccbd12989598a0bfd6aa12141776c">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a800ccbd12989598a0bfd6aa12141776c">prt_bitmap_vos.cpp</a>
+- PRT_PAPERJAM : <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a97c7d651a078ac337e76812e2c065ee8">prt_bitmap_vos.cpp</a> , <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a97c7d651a078ac337e76812e2c065ee8">prt_bitmap_png.cpp</a>
+- PRT_UNDERVOLTAGE : <a href="prt__bitmap__png_8cpp.md#a7350482c4308f419111c9dd6edb941c0a4b5ae5a3826908d62ba457037a20f78d">prt_bitmap_png.cpp</a> , <a href="prt__bitmap__vos_8cpp.md#a7350482c4308f419111c9dd6edb941c0a4b5ae5a3826908d62ba457037a20f78d">prt_bitmap_vos.cpp</a>
+- PST_COM1A_BT_USB : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca1c60a2b6dc2a23d1442910400ae7e633">ui_mode.cpp</a>
+- PST_COM1A_USB : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21caa334105b2c0cc946207913b59fdf07d1">ui_mode.cpp</a>
+- PST_EPP_TLS : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21caea4d2147beb5d10787ee82f53000ad70">ui_mode.cpp</a>
+- PST_INTERNAL_ANDROID : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca47eb4ed9df1bcc8ee733fdbd4f31148c">ui_mode.cpp</a>
+- PST_NONE : <a href="ui__mode_8cpp.md#a2a5f9f0f77ae498a2bf12bdd7ea1e21ca02e9c10cb1b2ddd85ff084180c5e1e69">ui_mode.cpp</a>
+- PUT_TRANSACTIONDATA_COM : <a href="sec2_8h.md#a453e6542f2cb31abde608e81d8ba6837a8adcf51ecf1611ec2c45e01121eb139e">sec2.h</a>

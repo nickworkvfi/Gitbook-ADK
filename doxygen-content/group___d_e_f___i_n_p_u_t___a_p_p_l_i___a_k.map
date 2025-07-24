@@ -1,0 +1,4 @@
+<map id="Appli data scheme specific &#45; Amex &#45; Availability bits" name="Appli data scheme specific &#45; Amex &#45; Availability bits">
+<area shape="rect" id="node1" href="$group___d_e_f___c_o_n_f___a_p_p_l_i.html" title="Definitions used for functions EMV_CT_SetAppliData(), EMV_CT_GetAppliData()" alt="" coords="5,13,133,38"/>
+<area shape="rect" id="node2" title="Contents of the input in EMV_CTLS_APPLIDATA_AK_STRUCT::IncludedData." alt="" coords="181,5,377,45"/>
+</map>

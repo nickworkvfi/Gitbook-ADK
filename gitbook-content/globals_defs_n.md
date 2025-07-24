@@ -1,0 +1,70 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - n -
+
+- NESTED_TAG : <a href="src_2sdi__tags_8h.md#ab378606e755a2b187650b4c7e22aac22">sdi_tags.h</a>
+- NEXT_KSN : <a href="sec2_8h.md#ac87cdb44ffe0983da72623af316326a6">sec2.h</a>
+- NFC_APDU_Exchange : <a href="sdi__nfc_8h.md#ac17cf22c461d04ea8daf5f2993e559d9">sdi_nfc.h</a>
+- NFC_BUFFER_SIZE : <a href="nfc_8cpp.md#aa6f734d34c6ee0cf731449ef1548acfc">nfc.cpp</a>
+- NFC_Callback_Test : <a href="sdi__nfc_8h.md#a91e433117cd636124dc1c94b3ae757c9">sdi_nfc.h</a>
+- NFC_Client_Init : <a href="sdi__nfc_8h.md#a7a9419cd6aa7aa9185fb249ce761ae0f">sdi_nfc.h</a>
+- NFC_Client_Init_CheckVer : <a href="sdi__nfc_8h.md#a5f084aa038d869023d4adcf5324535ff">sdi_nfc.h</a>
+- NFC_COMPLIANT : <a href="titusstubs_8cpp.md#a2283919157fea12db50306ed710f156b">titusstubs.cpp</a>
+- NFC_Config_Init : <a href="sdi__nfc_8h.md#a66b104ffc591487c0725461adc5fbbee">sdi_nfc.h</a>
+- NFC_Felica_Exchange : <a href="sdi__nfc_8h.md#a32cdb54809cf1386509bb5f5eaf05bad">sdi_nfc.h</a>
+- NFC_Felica_Polling : <a href="sdi__nfc_8h.md#aeaf5016cc3f72d1b8587281997fa9aa4">sdi_nfc.h</a>
+- NFC_Free_Poll_Data : <a href="sdi__nfc_8h.md#abee9ce46691f1a791035539bdccd55c4">sdi_nfc.h</a>
+- NFC_Free_Poll_Data_Full : <a href="sdi__nfc_8h.md#a82a122b52e7c6e1f461117a1ebda6949">sdi_nfc.h</a>
+- NFC_Get_Version : <a href="sdi__nfc_8h.md#a7e475d639fe88323208beef908223ab2">sdi_nfc.h</a>
+- NFC_Mifare_Authenticate : <a href="sdi__nfc_8h.md#a754f2fb39a1132dc5de68a8c6743d23b">sdi_nfc.h</a>
+- NFC_Mifare_Decrement : <a href="sdi__nfc_8h.md#a1c3ab8af1973a4c01ee1125a256c9fcc">sdi_nfc.h</a>
+- NFC_Mifare_Decrement_Only : <a href="sdi__nfc_8h.md#a95b9daa11669ad992967dd8e1dad539b">sdi_nfc.h</a>
+- NFC_Mifare_Increment : <a href="sdi__nfc_8h.md#a52a8a28d2317e77994570d6e9dbfc599">sdi_nfc.h</a>
+- NFC_Mifare_Increment_Only : <a href="sdi__nfc_8h.md#a81854a6696f2ef4942925eefb6615003">sdi_nfc.h</a>
+- NFC_Mifare_Read : <a href="sdi__nfc_8h.md#ad1171a19fb3b2b1545a91c49da67b341">sdi_nfc.h</a>
+- NFC_Mifare_Restore : <a href="sdi__nfc_8h.md#a15263dc4011284d7a3dae61c1a8f7114">sdi_nfc.h</a>
+- NFC_Mifare_Transfer : <a href="sdi__nfc_8h.md#ae3c299890ef9f3eb9306edc7415fe1d1">sdi_nfc.h</a>
+- NFC_Mifare_Write : <a href="sdi__nfc_8h.md#aa07a2c9d57d47e0dfd9099cd3f739321">sdi_nfc.h</a>
+- NFC_Ping : <a href="sdi__nfc_8h.md#a2a6ea83c72ad383401d3f00e51d25e23">sdi_nfc.h</a>
+- NFC_PREFIX : <a href="filesystem_8h.md#a6ba1796ec4977bdd663f9e70fbaad071">filesystem.h</a>
+- NFC_PT_Activation : <a href="sdi__nfc_8h.md#a3eabcba13619a1388458848aeb81234c">sdi_nfc.h</a>
+- NFC_PT_Cancel_Polling : <a href="sdi__nfc_8h.md#a167c5c7e903dd7f5a3acdb70f7ff8a66">sdi_nfc.h</a>
+- NFC_PT_Close : <a href="sdi__nfc_8h.md#ac9e3d1e964ffb8bb3923e989b968df0d">sdi_nfc.h</a>
+- NFC_PT_FieldOff : <a href="sdi__nfc_8h.md#ac02dad845a9116e51a68f4bfb394d93b">sdi_nfc.h</a>
+- NFC_PT_FieldOn : <a href="sdi__nfc_8h.md#a099ef9f3ff7261bac7bedd140613dba6">sdi_nfc.h</a>
+- NFC_PT_FtechBaud : <a href="sdi__nfc_8h.md#a653f2131d7eae300a7035a7b5430405c">sdi_nfc.h</a>
+- NFC_PT_Open : <a href="sdi__nfc_8h.md#a9407a28ffd731a86c08d5c9e13ecd2a4">sdi_nfc.h</a>
+- NFC_PT_Polling : <a href="sdi__nfc_8h.md#a309c7373d9b530f7c6027466d7e6f6f7">sdi_nfc.h</a>
+- NFC_PT_PollingFull : <a href="sdi__nfc_8h.md#abcc66aaf4a10a256c2c303487e8507f7">sdi_nfc.h</a>
+- NFC_PT_TxRx : <a href="sdi__nfc_8h.md#a668a6a40090d34ee7f9314a9b7a1e67c">sdi_nfc.h</a>
+- NFC_SerialClose : <a href="sdi__nfc_8h.md#a3f4b01935c33a7b7339187ae0baba2e0">sdi_nfc.h</a>
+- NFC_SerialOpen : <a href="sdi__nfc_8h.md#a70bb11b4c0d061db8ca5435f17187ca3">sdi_nfc.h</a>
+- NFC_Set_Callback_Function : <a href="sdi__nfc_8h.md#aa57659975f2480a1d07845e181de9519">sdi_nfc.h</a>
+- NFC_Terminal_Config : <a href="sdi__nfc_8h.md#a86d1953748c0d7e6b9e621c2a36dd8e9">sdi_nfc.h</a>
+- NFC_TERMINAL_ReadConfig : <a href="sdi__nfc_8h.md#a064b234e44e08f833cc9d2e153260164">sdi_nfc.h</a>
+- NFC_VAS_Action : <a href="sdi__nfc_8h.md#afbf908bd85c0c1318f763e880bb09571">sdi_nfc.h</a>
+- NFC_VAS_Activate : <a href="sdi__nfc_8h.md#a4dc6d61bb9ed1d3e8cef769db32f6ac6">sdi_nfc.h</a>
+- NFC_VAS_Cancel : <a href="sdi__nfc_8h.md#a2ae23fb43b8c06ebd88933e1a1b46aa1">sdi_nfc.h</a>
+- NFC_VAS_CancelConfig : <a href="sdi__nfc_8h.md#a1667152f04801a8ef8bb47c5ea3b8930">sdi_nfc.h</a>
+- NFC_VAS_CancelPreLoad : <a href="sdi__nfc_8h.md#a097ab5411367f3b1b4275d1ae3567219">sdi_nfc.h</a>
+- NFC_VAS_Decrypt : <a href="sdi__nfc_8h.md#a800f9f9d4df08b07fe4c28116dda9c90">sdi_nfc.h</a>
+- NFC_VAS_PreLoad : <a href="sdi__nfc_8h.md#a071c33860fb2cf846a1466edf5bedfb7">sdi_nfc.h</a>
+- NFC_VAS_ReadConfig : <a href="sdi__nfc_8h.md#a7a81c9d472b5da94ae76272358f38dac">sdi_nfc.h</a>
+- NFC_VAS_UpdateConfig : <a href="sdi__nfc_8h.md#aade0ed84b10cb0108216011ba8a30993">sdi_nfc.h</a>
+- NFC_WKY_FILES : <a href="filesystem_8h.md#a8a63178f68224396be284285ca51194f">filesystem.h</a>
+- NO_EVENTS_TABLES : <a href="_event_scheduler_8c.md#aee19e14cf1f6312bfa7f2a830780988c">EventScheduler.c</a>
+- NO_FS_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gac6badbf57c3338dd2352a70d894d3ae2">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gac6badbf57c3338dd2352a70d894d3ae2">E2E_EMV_CTLS_Serialize.h</a>
+- NO_GETD_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gaed5969edf411d0c89d9407f14c88370d">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gaed5969edf411d0c89d9407f14c88370d">E2E_EMV_CT_Serialize.h</a>
+- NO_GETPROC_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga6aa14dc78be5fe7df7b2142829055d5f">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga6aa14dc78be5fe7df7b2142829055d5f">E2E_EMV_CTLS_Serialize.h</a>
+- NO_LOA_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1850bd94731ba9d6d34e6c52dd7d6010">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1850bd94731ba9d6d34e6c52dd7d6010">E2E_EMV_CT_Serialize.h</a>
+- NO_PSE_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1df1f01640415fc066bdb2ff1b5a4ac4">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga1df1f01640415fc066bdb2ff1b5a4ac4">E2E_EMV_CTLS_Serialize.h</a>
+- NO_RR_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga961428e7b65a0a37fc5e14991a35ff8e">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga961428e7b65a0a37fc5e14991a35ff8e">E2E_EMV_CTLS_Serialize.h</a>
+- NO_SCRIPT_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gad8768da7cc2f43342337c754055b27c4">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#gad8768da7cc2f43342337c754055b27c4">E2E_EMV_CT_Serialize.h</a>
+- NO_UNKNOW_RECS : <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga990eea5fa2320f59950e192b28c95df2">E2E_EMV_CT_Serialize.h</a> , <a href="group___v_e_r_i___l1___d_u_m_p___t_a_g_s.md#ga990eea5fa2320f59950e192b28c95df2">E2E_EMV_CTLS_Serialize.h</a>
+- NONCE_CHECKING : <a href="_v_h_q_xml_packager_8c.md#a80a7e9388ee39463809a3f8a27c06bca">VHQXmlPackager.c</a>
+- NORMALLY_TERMINATED : <a href="libsecins_8h.md#abb5110af1d94d87754eaf3181b5f6b23">libsecins.h</a>
+- NULL_STR : <a href="_v_h_q_xml_operation_processor_8c.md#a4e344b56b80d155c5821a556099f96a7">VHQXmlOperationProcessor.c</a>

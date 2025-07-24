@@ -1,0 +1,68 @@
+var infodb_8h =
+[
+    [ "INF_API", "infodb_8h.html#aeb6fcbde9f085c588eb4b161b86b6175", null ],
+    [ "PROP_NAME", "group__propdb.html#ga2062ba7b5292b2cb9456209022cbdac7", null ],
+    [ "InfoDB", "group__propdb.html#ga4ddf94c49950552d783161dda5443e0f", null ],
+    [ "InfoNode", "group__propdb.html#ga371205fdb002d88c01543e80d67c188d", null ],
+    [ "INFO_ROOT", "group__propdb.html#gga726ca809ffd3d67ab4b8476646f26635a9752fad95ea540238bfad2ac28fbf1b0", null ],
+    [ "InfoMode", "group__propdb.html#ga9b99e447e7b4f91cd7b9fba838b825f0", [
+      [ "INFO_READ_ONLY", "group__propdb.html#gga9b99e447e7b4f91cd7b9fba838b825f0ae1293e987f7ec2d1963e8ee796dc4c86", null ],
+      [ "INFO_READ_WRITE", "group__propdb.html#gga9b99e447e7b4f91cd7b9fba838b825f0a2ea780c3c29a4a4989d414089641488e", null ]
+    ] ],
+    [ "InfoOption", "group__propdb.html#gaa315d0c6482a2ebccc7547e9295a211d", [
+      [ "INFO_OPT_DISABLE_AUTOCOMMIT", "group__propdb.html#ggaa315d0c6482a2ebccc7547e9295a211da16008ad085c1be473320e4df194c0d27", null ],
+      [ "INFO_OPT_MULTIPLE_ENTRIES", "group__propdb.html#ggaa315d0c6482a2ebccc7547e9295a211da238bdf391e95b811f9ac5e8c772b6af6", null ]
+    ] ],
+    [ "InfoResult", "group__propdb.html#ga1f20dc2829c95bd71bdb14239bc3b2c8", [
+      [ "INFO_OK", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8aeed232bfb806b5e87f0f1308aca346ef", null ],
+      [ "INFO_FAIL", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a84e5813d027c7b570cf59b048a276419", null ],
+      [ "INFO_NO_DB", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a0703a78aa4d8dbb735f4f885cf2f8f7e", null ],
+      [ "INFO_NOT_FOUND", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a3b1f244145443aefc6bc416ee178110d", null ],
+      [ "INFO_INVALID_PARAM", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8ab35a928a60d11b22b11200706f346f50", null ],
+      [ "INFO_BUSY", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a1144601a481f8efa44dbfb02f2c05286", null ],
+      [ "INFO_MEM", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a82d358474cb1a4681487cdcfe3b2e1d5", null ],
+      [ "INFO_BREAK", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8af9b83681708f932f8f3960d39e3936c0", null ],
+      [ "INFO_NODE_NAME_INVALID", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a209d19f7193b4a25e96f55ce06ffb374", null ],
+      [ "INFO_NOT_IMPL", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a8772e66ffc6da38cfed56f7724bb1717", null ],
+      [ "INFO_NOT_SUPP", "group__propdb.html#gga1f20dc2829c95bd71bdb14239bc3b2c8a7e732670c842bfcdaa985eff7b28b5a5", null ]
+    ] ],
+    [ "InfoType", "group__propdb.html#ga4fab2721054fd66cc89f138fd029fd1f", [
+      [ "INFO_VOID", "group__propdb.html#gga4fab2721054fd66cc89f138fd029fd1fa1e2ec92ebdcd376972b8cd557aaa8b02", null ],
+      [ "INFO_INTEGER", "group__propdb.html#gga4fab2721054fd66cc89f138fd029fd1fa5dd4a9b6e283187cee362ee67501928a", null ],
+      [ "INFO_NUMBER", "group__propdb.html#gga4fab2721054fd66cc89f138fd029fd1fac11f023f86358f75382dc489903b17ef", null ],
+      [ "INFO_STRING", "group__propdb.html#gga4fab2721054fd66cc89f138fd029fd1fa02921ca454a797dd48d6d4b053eae727", null ],
+      [ "INFO_BINARY", "group__propdb.html#gga4fab2721054fd66cc89f138fd029fd1fa667a98036d4afd2297eaa5fee8bb4358", null ]
+    ] ],
+    [ "info_autocommit", "group__propdb.html#ga0801c688741d290aea51941ece9da78c", null ],
+    [ "info_closedb", "group__propdb.html#ga9636f5a41459a3366255bd2fc8ad2b3f", null ],
+    [ "info_delete", "group__propdb.html#gab0cab9361709296139598c7edda1f1ed", null ],
+    [ "info_find", "group__propdb.html#gaa167931ed0a92796ee478b9ac93347a2", null ],
+    [ "info_getOptions", "group__propdb.html#ga5a7085e70df8abd29bcaea9e4e3d2c77", null ],
+    [ "info_getPath", "group__propdb.html#ga5147f1308f849af0f18ee2f9dfdadbce", null ],
+    [ "info_getType", "group__propdb.html#ga507d337f52d3d7acf3691a287d565515", null ],
+    [ "info_getVersion", "group__propdb.html#ga45afbfe3853490244c17383a667fe0e7", null ],
+    [ "info_incrementInt", "group__propdb.html#ga0b9ac4c2f9a7b257d0610d3d7248a722", null ],
+    [ "info_list", "group__propdb.html#ga54f4b018748882e6c5cdc509177fcee7", null ],
+    [ "info_nodeGetType", "group__propdb.html#gaf943103c0cb3018c835ee081a35c2629", null ],
+    [ "info_nodeReadBinary", "group__propdb.html#ga08fcfd8fe23a1a5457b523a9cf967a10", null ],
+    [ "info_nodeReadDouble", "group__propdb.html#ga24f0af1a2b3ad3989365661e02a4682f", null ],
+    [ "info_nodeReadInt", "group__propdb.html#ga6d85fe7b4326970a1b00000d029fec78", null ],
+    [ "info_nodeReadString", "group__propdb.html#ga9447dc74d3c0b289936bc262ef15f49b", null ],
+    [ "info_opendb", "group__propdb.html#ga4cf176ac250d5f4ac40a717bdf49bad9", null ],
+    [ "info_readBinary", "group__propdb.html#ga0924a766bf84c449058a7b4f78bd1a96", null ],
+    [ "info_readDouble", "group__propdb.html#ga8e36e70267096d0de8b8d8e50d1542a6", null ],
+    [ "info_readInt", "group__propdb.html#ga3b1d6872aab17d7043fc6258caaf4f36", null ],
+    [ "info_readString", "group__propdb.html#ga045b2122ffcea050015ce6de52c106f6", null ],
+    [ "info_readUnsignedInt", "group__propdb.html#gac59bbe74aae83c5888f510c3bc169063", null ],
+    [ "info_setOptions", "group__propdb.html#ga34be6def57c4f44b170128532f78fe2d", null ],
+    [ "info_transactionBegin", "group__propdb.html#ga816c14a5630ad3e2e0734a52fe285e54", null ],
+    [ "info_transactionCommit", "group__propdb.html#ga3c2f5b212c59c57adbe313812e63b350", null ],
+    [ "info_transactionRollback", "group__propdb.html#ga61db7da4ef43b0e4994dd46d26bd0ebe", null ],
+    [ "info_updateNodeName", "group__propdb.html#ga4bd971d1088aed8566212896522ec147", null ],
+    [ "info_walkTree", "group__propdb.html#ga672f3d4caf24ff01c3b6801b13bf4463", null ],
+    [ "info_writeBinary", "group__propdb.html#ga31c4f4a46c0818f7e64a269b43d5c272", null ],
+    [ "info_writeDouble", "group__propdb.html#gadd1c03a124342cb7d889360e2a866c51", null ],
+    [ "info_writeInt", "group__propdb.html#gaa569328ef9e8c2da03429b5c270101c5", null ],
+    [ "info_writeString", "group__propdb.html#gaa820eb834650ba97b27d9cc4d558fb8d", null ],
+    [ "info_writeUnsignedInt", "group__propdb.html#ga4347be8fa85445d67ef163ef3bdc6acd", null ]
+];

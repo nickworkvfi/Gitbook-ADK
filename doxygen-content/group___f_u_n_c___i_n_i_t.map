@@ -1,0 +1,9 @@
+<map id="EMV ADK functions for initialization" name="EMV ADK functions for initialization">
+<area shape="rect" id="node1" href="$group___c_l_i_n_i_t___o_p_t_i_o_n_s.html" title="Flags used in EMV_CTLS_Init_Framework." alt="" coords="391,5,555,45"/>
+<area shape="rect" id="node2" href="$group___a_d_k___i_n_i_t_i_a_l_i_z_a_t_i_o_n.html" title=" " alt="" coords="5,134,108,159"/>
+<area shape="rect" id="node6" title=" " alt="" coords="156,127,325,167"/>
+<area shape="rect" id="node3" href="$group___c_l_i_n_i_t___r_e_s_u_l_t___f_l_a_g_s.html" title="Flags used in EMV_CTLS_Init_Framework." alt="" coords="374,69,573,109"/>
+<area shape="rect" id="node4" href="$group___e_x_i_t___f_w___o_p_t_i_o_n_s.html" title="Meaning of TAG_DF8F0A_EXIT_OPTIONS, see also EMV_CTLS_Exit_Framework_extended()" alt="" coords="373,134,573,159"/>
+<area shape="rect" id="node5" href="$group___c_t_i_n_i_t___o_p_t_i_o_n_s.html" title="Flags used in parameter options in EMV_CT_Init_Framework." alt="" coords="391,184,555,224"/>
+<area shape="rect" id="node7" href="$group___e_n_d___t_x_n___o_p_t_i_o_n_s.html" title="Meaning of TAG_DF8F0A_EXIT_OPTIONS, see also EMV_CTLS_EndTransaction()" alt="" coords="373,249,573,274"/>
+</map>

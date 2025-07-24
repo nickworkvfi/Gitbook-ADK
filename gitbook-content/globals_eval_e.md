@@ -1,0 +1,75 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - e -
+
+- EM_ATTRIBUTE : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaacf249f526bf4db771494db24ca476e74">EMV_EM_Interface.h</a>
+- EM_BLOCKED : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa8881632fec5d793d9b3381c8d8ee803a">EMV_EM_Interface.h</a>
+- EM_FAILURE : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa84750ccc2863a3b3f8af1f12cf4dc26a">EMV_EM_Interface.h</a>
+- EM_NOT_SENSITIVE : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa7387a993b4f9b352214e93c348be1f5a">EMV_EM_Interface.h</a>
+- EM_OK : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa1d721c0d6412a32e0908f41ea4bab010">EMV_EM_Interface.h</a>
+- EM_PARAM_ERROR : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa1a0929da5fdea29667f453392453afb7">EMV_EM_Interface.h</a>
+- EM_SENSTIVE_ENCRYPTED : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaa404f17f09840048050093143b0643215">EMV_EM_Interface.h</a>
+- EM_SENSTIVE_FORMAT_PRESERVING : <a href="_e_m_v___e_m___interface_8h.md#a78c621aa7637de09eabc74b9ac450cbaabe3a18a6a1d33197e354173f8c9716b0">EMV_EM_Interface.h</a>
+- EMB_APP_2ND_AUTHENTICATION_FAILED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa3a0355ef9602f97cf3cd9a3d4b96bffe">titusstubs.cpp</a>
+- EMB_APP_APPLICATION_DATA_NOT_ALLOWED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa25fef497cf4c74f20887eee42ca8ad28">titusstubs.cpp</a>
+- EMB_APP_APPLICATION_NOT_FOUND : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa642ba1011f50313969be3ae73351d986">titusstubs.cpp</a>
+- EMB_APP_AUTO_RUN : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa85e9eafbcabf2c45ed2ebb1d022782be">titusstubs.cpp</a>
+- EMB_APP_BAD_SYNTAX : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa1639270ddc8d372d46ee0d6061894580">titusstubs.cpp</a>
+- EMB_APP_CALLBACK_SET_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa545c5b4f2bb83c9b4c11e67ea8235c07">titusstubs.cpp</a>
+- EMB_APP_CANCEL_DONE : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aafabca2e04d597898c898833b8c7ce6db">titusstubs.cpp</a>
+- EMB_APP_CANCEL_IRRELEVANT : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa37075839dd27bc1cfb48aaedc6941bff">titusstubs.cpp</a>
+- EMB_APP_CANCEL_NOT_ALLOWED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aac1e64c57ff2fea77a25f5f8dd9958923">titusstubs.cpp</a>
+- EMB_APP_CARD_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aafebbcf8141dbcddb65012f78546e3d74">titusstubs.cpp</a>
+- EMB_APP_CARD_NOT_FOUND : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa091726a012061e05ff7d0365de388c0c">titusstubs.cpp</a>
+- EMB_APP_COMM_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa24e0dafa39a46392eb21e22e9cce49b7">titusstubs.cpp</a>
+- EMB_APP_COMMAND_NOT_ALLOWED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaed22b476375aa37fb50330d1814175a8">titusstubs.cpp</a>
+- EMB_APP_COMMAND_NOT_SUPPORTED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa23d842fb52fb9c7e2edc30a8c333d846">titusstubs.cpp</a>
+- EMB_APP_CRC_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa7afa89583fd2f48ec6e9df6978fc6b19">titusstubs.cpp</a>
+- EMB_APP_DATA_CRC_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa7f9aa628463bd420dc1b4e1611da3396">titusstubs.cpp</a>
+- EMB_APP_DISCOVERY_CANCELED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa29c1d452b7a420e45eef56ec4432ff48">titusstubs.cpp</a>
+- EMB_APP_DUMMY_FUNC_CALL : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf48275d704ede739cd5793f71b589426">titusstubs.cpp</a>
+- EMB_APP_FAILED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf35513b90b5a053dea0ca992bb20f1f1">titusstubs.cpp</a>
+- EMB_APP_INCORRECT_APP_NAME : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf4d7b3061b0cd0ea2bf95331fb6c6a69">titusstubs.cpp</a>
+- EMB_APP_INCORRECT_DATA : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa36e526dd5acf4a3ce487da1e48bf5ddd">titusstubs.cpp</a>
+- EMB_APP_INCORRECT_HEADER : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aadbc10f56d46e462bfeaf4500bd431124">titusstubs.cpp</a>
+- EMB_APP_INCORRECT_LEN : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaddec18878c94681f0d6881ca20e45a43">titusstubs.cpp</a>
+- EMB_APP_INIT_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa66b47940f40a23fec0e893d00c8d301b">titusstubs.cpp</a>
+- EMB_APP_INTERNAL_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa4547070a73a3905a09a34d57e735201d">titusstubs.cpp</a>
+- EMB_APP_L1_CARD_NOT_ACTIVE : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aae65561b21e5d4ae28c97e0ad957c3376">titusstubs.cpp</a>
+- EMB_APP_L1_CARD_PROTOCOL_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa22b159dd27817ac8e1b22282f453ce2b">titusstubs.cpp</a>
+- EMB_APP_L1_DRIVER_CLOSED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf88fbe772fbd14d061dbad2ac7daf464">titusstubs.cpp</a>
+- EMB_APP_MISMATHCED_UID : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa56288f47aa408d7355247465edb53664">titusstubs.cpp</a>
+- EMB_APP_MISSING_MANDATORY_DATA : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa8432f9d9eb6ff2673eeaac4d1d63fa1b">titusstubs.cpp</a>
+- EMB_APP_MULTI_CARDS : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa18b8a2ed42ec0c8d30bc932beeecd3ac">titusstubs.cpp</a>
+- EMB_APP_NFC_GROUP_RET_FAIL : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa59665a57652856273260bc1150600039">titusstubs.cpp</a>
+- EMB_APP_NFCUTIL_ERROR : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa8ec129611f9a6e54cae94b102ebf927d">titusstubs.cpp</a>
+- EMB_APP_OK : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa1ae5b9979c8827877b43c0eb6dbf193d">titusstubs.cpp</a>
+- EMB_APP_OTHER_APP_RUNNING : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa2379d0505ba1c598d85c7ccc0b640ffb">titusstubs.cpp</a>
+- EMB_APP_OUT_OF_ORDER_COMMAND : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa23cac3e7820d9457347e2ff3ad09dd4e">titusstubs.cpp</a>
+- EMB_APP_PARAMETER_NOT_SUPPORTED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf55a0ff1ed620d281f8f0a46f6b83e5a">titusstubs.cpp</a>
+- EMB_APP_SECOND_TAP_FAILED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa64a2394c4994cf11a70f4034fa00be50">titusstubs.cpp</a>
+- EMB_APP_START_PAYMENT : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf659038e8cff8c2e14be64bb50bb6c04">titusstubs.cpp</a>
+- EMB_APP_SUBCOMMAND_NOT_SUPPORTED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaeb631791b2927af13383b7c287d789bf">titusstubs.cpp</a>
+- EMB_APP_TIMEOUT : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa23ef12dc79b4c33fa7a8c04f8dfb134a">titusstubs.cpp</a>
+- EMB_APP_TO_MANY_WALLETS : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa1470bc59ca5b22189e574d0e1ec997c6">titusstubs.cpp</a>
+- EMB_APP_TWO_SNEP_DEFAULT_WALLET : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aadf3c87d70162043abc70eaea4f75221a">titusstubs.cpp</a>
+- EMB_APP_UNKNOWN_APP_NAME : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa6d346c08346da4fa08ca922c866af099">titusstubs.cpp</a>
+- EMB_APP_UNKNOWN_COMMAND : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa9f99ca121c6c185ecb9acd8617306e6f">titusstubs.cpp</a>
+- EMB_APP_UNKNOWN_SUBCOMMAND : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aacea836e8c378e7f22cf69fcbd576061c">titusstubs.cpp</a>
+- EMB_APP_UNSUPPORTED_CARD : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aaf46968b1c847491d30ceafc78edb0232">titusstubs.cpp</a>
+- EMB_APP_USER_ACTION_REQUIRED_UI : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa440b092da2e8723b50c264f4e837ef87">titusstubs.cpp</a>
+- EMB_APP_VAS_DATA_NOT_ACTIVATED : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aa81eda044206542c5d9f75b1538a7e8c4">titusstubs.cpp</a>
+- EMB_APP_WALLET_NOT_EXIST : <a href="titusstubs_8cpp.md#a42e167e83e1f0229d501a09e3f1d2b1aab659e922ff9890f56e932ee5160436df">titusstubs.cpp</a>
+- EMV_CLIENT_MODE_GATEWAY : <a href="_e_m_v___common___interface_8h.md#aa5ecae39726aadf1805b96849d3d28f5a29ce82ab149b2affc20e7cee75aa2bc1">EMV_Common_Interface.h</a>
+- EMV_CLIENT_MODE_LIBRARY : <a href="_e_m_v___common___interface_8h.md#aa5ecae39726aadf1805b96849d3d28f5a734eca1bc48bbf53190086d7238c18b1">EMV_Common_Interface.h</a>
+- EMV_CLIENT_MODE_SDI : <a href="_e_m_v___common___interface_8h.md#aa5ecae39726aadf1805b96849d3d28f5aaf0ee82626c70656d071e14fcdfa3758">EMV_Common_Interface.h</a>
+- EMV_CLIENT_MODE_SERVER : <a href="_e_m_v___common___interface_8h.md#aa5ecae39726aadf1805b96849d3d28f5af2cf755d9a54e6697c39cdd5b69af5e9">EMV_Common_Interface.h</a>
+- ENABLED : <a href="syslogcmd_8h.md#aa5ce2add12b42175db5dbab55d3c384ca99788d1f27bac42d0c7bac63026c5959">syslogcmd.h</a>
+- ENCRYPT_DATA_COM : <a href="sec2_8h.md#a453e6542f2cb31abde608e81d8ba6837a27711fd9270a6de583fdbfd35753c1a5">sec2.h</a>
+- ETH : <a href="syslogcmd_8h.md#a3634f6fef0c62931e673162e0714d39cadbc24c1d2cb5f08132fc9a0f7aa683ae">syslogcmd.h</a>
+- EVT_OPT_COPY_NEW_ONLY_EVENTS_IN_GET_BY_HANDLE_FUNC : <a href="libevt_8h.md#aaeb183a7a4790d18f96fa3755b1cbc42a3256b804f3c9350097da691390b88f76">libevt.h</a>
+- EVT_OPT_DEFAULT : <a href="libevt_8h.md#aaeb183a7a4790d18f96fa3755b1cbc42aef88812f61bd57953fff8fa42b9a6fd0">libevt.h</a>

@@ -1,0 +1,9 @@
+<map id="System LED functions" name="System LED functions">
+<area shape="rect" id="node1" href="$group__syserro.html" title=" " alt="" coords="284,5,479,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,129,169,155"/>
+<area shape="rect" id="node3" href="$group__sysbar.html" title=" " alt="" coords="281,55,481,80"/>
+<area shape="rect" id="node4" href="$group__util.html" title=" " alt="" coords="318,104,445,129"/>
+<area shape="rect" id="node5" href="$group__sysbeep.html" title=" " alt="" coords="296,153,467,179"/>
+<area shape="rect" id="node6" href="$group__syspm.html" title=" " alt="" coords="291,203,472,273"/>
+<area shape="rect" id="node7" href="$group__sysinfo.html" title=" " alt="" coords="284,297,479,323"/>
+</map>

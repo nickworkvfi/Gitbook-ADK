@@ -1,0 +1,4 @@
+<map id="Modes of domestic application handling" name="Modes of domestic application handling">
+<area shape="rect" id="node1" href="$group___t_l_v___c_a_l_l_b_c_k.html" title="Callback function to be implemented in the same entity as EMV ADK." alt="" coords="5,13,148,38"/>
+<area shape="rect" id="node2" title="Used as return TAG_DF7E_CBK_DOM_APP_RES for EMV_CT_CALLBACK_FnT TAG_BF05_CBK_DOM_APPS." alt="" coords="196,5,419,45"/>
+</map>

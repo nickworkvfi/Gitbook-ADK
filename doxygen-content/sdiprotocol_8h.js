@@ -1,0 +1,28 @@
+var sdiprotocol_8h =
+[
+    [ "SDI_PROTOCOL_ERR_CONCURRENT_USE", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga2c14582f53cf96b5d7da98ad7aaec3fa", null ],
+    [ "SDI_PROTOCOL_ERR_CONNECT", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga5dfdaf75378fda9eb5b5154f7106d99a", null ],
+    [ "SDI_PROTOCOL_ERR_IO", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga4de1bdcb5c337f55bd27bff7d78b6fc5", null ],
+    [ "SDI_PROTOCOL_ERR_NO_RECEIVE", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga32009f58520dc4d040c7e577bd452c93", null ],
+    [ "SDI_PROTOCOL_ERR_OTHER", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga6fd8126004df1ac26026fbdb701ff893", null ],
+    [ "SDI_PROTOCOL_ERR_OVERFLOW", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#ga6f5fdc2d404fff5ab9a873002e3de41d", null ],
+    [ "SDI_PROTOCOL_ERR_PARAM", "group___s_d_i___p_r_o_t_o_c_o_l___e_r_r_o_r___c_o_d_e_s.html#gadb13d1abf7263afbffbc365e0882b1dc", null ],
+    [ "SDI_PROTOCOL_INIT_OPT_TRACE_ADK_LOG", "group___s_d_i___p_r_o_t_o_c_o_l___i_n_i_t___o_p_t_i_o_n_s.html#ga388c8eea73c5da8e6453f347ff9bbcac", null ],
+    [ "SDI_PROTOCOL_INIT_OPT_TRACE_EMV_CBK", "group___s_d_i___p_r_o_t_o_c_o_l___i_n_i_t___o_p_t_i_o_n_s.html#ga39f86a1acf5041aeb65747c144a78ae1", null ],
+    [ "SDI_PROTOCOL_INIT_OPT_TRACE_SYSLOG", "group___s_d_i___p_r_o_t_o_c_o_l___i_n_i_t___o_p_t_i_o_n_s.html#gae8bb92331299549acb6d1feed717490c", null ],
+    [ "CARD_DETECTED_CALLBACK_TYPE", "sdiprotocol_8h.html#a7289a1e4c8b54784f131b283f24f2c6f", null ],
+    [ "EOF_DETECTED_CALLBACK_TYPE", "sdiprotocol_8h.html#a32fdd6f1d5d248f6b50c8521ca5d3297", null ],
+    [ "SDI_CALLBACK_TYPE", "sdiprotocol_8h.html#a279358c02723f5f0fedb5fbc31e10da1", null ],
+    [ "SDI_DATA_AVAILABLE_CALLBACK_TYPE", "sdiprotocol_8h.html#a6abcbebf57233884aede515b9e8d9aa1", null ],
+    [ "SDI_Disconnect", "sdiprotocol_8h.html#a665e7f44cf329b0222d9ee8b624fc32c", null ],
+    [ "SDI_ProtocolInit", "sdiprotocol_8h.html#abca943173d2f57b9d5aea916fa37d010", null ],
+    [ "SDI_Receive", "sdiprotocol_8h.html#aee8a61a1bccdbe552ecaf1db3e1eacf9", null ],
+    [ "SDI_Send", "sdiprotocol_8h.html#ab3428d0ca92d1516b4efaa2ed7849795", null ],
+    [ "SDI_SendExternalButton", "sdiprotocol_8h.html#a56ba57441b1c4f2eb535f5ed8ca58df8", null ],
+    [ "SDI_SendReceive", "sdiprotocol_8h.html#a4aa2844124e589c89fd41fca774e21fe", null ],
+    [ "SDI_SendSysAbort", "sdiprotocol_8h.html#a7ce1c5445e39ce0a025fe20b1ccfd988", null ],
+    [ "SDI_SetCardDetectedCallback", "sdiprotocol_8h.html#a22d21817e82e46fad2837a0e5ecd5737", null ],
+    [ "SDI_SetDataAvailableCallback", "sdiprotocol_8h.html#ab08218e1215675470afea05b45bdccb9", null ],
+    [ "SDI_SetEOFDetectedCallback", "sdiprotocol_8h.html#a367fbca79358a37885bd274761289793", null ],
+    [ "SDI_SetSdiCallback", "sdiprotocol_8h.html#a77a7796fbf67ab1207dd80355dfcc251", null ]
+];

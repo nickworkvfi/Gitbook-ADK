@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['defines_20for_20led_20handling_27622',['Defines for LED handling',['../group___a_d_k___l_e_d___d_e_f_i_n_e_s.html',1,'']]],
+  ['defines_20for_20led_20ids_27623',['Defines for LED IDs',['../group___a_d_k___l_e_d___d_e_f_i_n_e_s___i_d_s.html',1,'']]],
+  ['defines_20for_20led_20modes_27624',['Defines for LED modes',['../group___a_d_k___l_e_d___d_e_f_i_n_e_s___m_o_d_e_s.html',1,'']]],
+  ['defines_20for_20led_20states_27625',['Defines for LED states',['../group___a_d_k___l_e_d___d_e_f_i_n_e_s___s_t_a_t_e_s.html',1,'']]],
+  ['definitions_20for_20pin_20input_20callback_20function_27626',['Definitions for PIN Input callback function',['../group___a_d_k___p_i_n___p_a_r_a_m.html',1,'']]],
+  ['defines_20for_20application_20flow_20capabilities_27627',['Defines for Application flow capabilities',['../group___a_p_p___f_l_o_w___c_a_p_s.html',1,'']]],
+  ['defines_20for_20callback_20function_20_22cardholder_20information_22_27628',['Defines for callback function &quot;cardholder information&quot;',['../group___c_a_r_d_h_o_l_d_e_r___i_n_f_o.html',1,'']]],
+  ['dcc_20callback_20information_27629',['DCC callback information',['../group___c_b_c_k___d_c_c___i_n_f_o.html',1,'']]],
+  ['domestic_20callback_20information_27630',['Domestic callback information',['../group___c_b_c_k___d_o_m___i_n_f_o.html',1,'']]],
+  ['domestic_20callback_20options_27631',['Domestic callback options',['../group___c_b_c_k___d_o_m___o_p_t_i_o_n.html',1,'']]],
+  ['defines_20for_20emvco_20checksum_20calculation_27632',['Defines for EMVCo checksum calculation',['../group___c_h_k_s_u_m___d_e_f_s.html',1,'']]],
+  ['dcc_20mode_27633',['DCC mode',['../group___d_c_c___m_o_d_e.html',1,'']]],
+  ['dialog_20options_27634',['Dialog options',['../group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.html',1,'']]],
+  ['dialog_20invocation_20return_20values_27635',['Dialog invocation return values',['../group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.html',1,'']]],
+  ['drl_20feature_20switching_27636',['DRL feature switching',['../group___d_r_l___f_e_a_t_u_r_e___s_w_i_t_c_h_s.html',1,'']]],
+  ['dynamic_20reader_20limits_27637',['Dynamic reader limits',['../group___d_y_n_a_m_i_c___r_e_a_d_e_r___l_i_m_i_t_s.html',1,'']]],
+  ['defines_20for_20callback_20function_20_22put_20merchant_20information_22_27638',['Defines for callback function &quot;put merchant information&quot;',['../group___m_e_r_c_h___i_n_f_o.html',1,'']]],
+  ['defines_20for_20type_20of_20read_20application_20data_20mode_27639',['Defines for type of read application data mode',['../group___r_e_a_d___a_p_p_l_i___t_y_p_e.html',1,'']]],
+  ['data_20interface_27640',['Data interface',['../group__sdidata.html',1,'']]],
+  ['display_20interface_27641',['Display interface',['../group__sdidisplay.html',1,'']]],
+  ['defines_20for_20special_20transaction_20configuration_27642',['Defines for special transaction configuration',['../group___s_p_e_c_i_a_l___t_r_x_s.html',1,'']]],
+  ['defines_20for_20type_20of_20virtual_20terminal_20map_27643',['Defines for type of virtual terminal map',['../group___v_i_r_t_u_a_l_t_e_r_m_m_a_p___m_o_d_e.html',1,'']]]
+];

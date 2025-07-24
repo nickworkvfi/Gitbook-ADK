@@ -1,0 +1,4 @@
+<map id="Byte defines for CVM not supported / CVM not required" name="Byte defines for CVM not supported / CVM not required">
+<area shape="rect" id="node1" title="see AIP_CVM_not_supported and EMV_CT_APPLIDATA_STRUCT::CVM_not_required" alt="" coords="181,5,340,60"/>
+<area shape="rect" id="node2" href="$group___d_e_f___c_o_n_f___a_p_p_l_i.html" title="Definitions used for functions EMV_CT_SetAppliData(), EMV_CT_GetAppliData()" alt="" coords="5,20,133,45"/>
+</map>

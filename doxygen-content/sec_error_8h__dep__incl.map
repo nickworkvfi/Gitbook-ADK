@@ -1,0 +1,18 @@
+<map id="sec/src/api/export/sec/secError.h" name="sec/src/api/export/sec/secError.h">
+<area shape="rect" id="node1" title="ADK Security Service Error Codes." alt="" coords="571,5,709,47"/>
+<area shape="rect" id="node2" href="$_c_transaction_data_8h.html" title="ADK Security Service Transaction Data." alt="" coords="615,95,793,136"/>
+<area shape="rect" id="node3" href="$libsec_8h.html" title="ADK Security Service API." alt="" coords="571,184,709,225"/>
+<area shape="rect" id="node4" href="$crypt_8cpp.html" title=" " alt="" coords="5,281,133,307"/>
+<area shape="rect" id="node5" href="$filesystem_8cpp.html" title=" " alt="" coords="157,281,320,307"/>
+<area shape="rect" id="node6" href="$sec_8h.html" title=" " alt="" coords="545,281,647,307"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title=" " alt="" coords="340,370,468,397"/>
+<area shape="rect" id="node10" href="$sys_8cpp.html" title=" " alt="" coords="873,370,991,397"/>
+<area shape="rect" id="node11" href="$vcl__ser_8h.html" title=" " alt="" coords="344,281,469,307"/>
+<area shape="rect" id="node13" href="$ped_8cpp.html" title=" " alt="" coords="723,281,842,307"/>
+<area shape="rect" id="node14" href="$_demo_app_8cpp.html" title="Demo Application." alt="" coords="867,273,1043,315"/>
+<area shape="rect" id="node15" href="$compatibility_helper_8h.html" title="ADK Security Service Compatibility Helper." alt="" coords="1117,273,1309,315"/>
+<area shape="rect" id="node16" href="$libseccmd-comp_8h.html" title="ADK Security Service API (legacy)" alt="" coords="1072,363,1243,404"/>
+<area shape="rect" id="node7" href="$madk__pp__protocol_8cpp.html" title=" " alt="" coords="493,370,707,397"/>
+<area shape="rect" id="node9" href="$sec_8cpp.html" title=" " alt="" coords="732,370,849,397"/>
+<area shape="rect" id="node12" href="$vcl__ser_8cpp.html" title=" " alt="" coords="175,370,315,397"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CardDetection" name="CardDetection">
+<area shape="rect" id="node1" title="Interface for SDI Card Detection Interface, command class 23." alt="" coords="5,155,120,181"/>
+<area shape="rect" id="node2" href="$classlibsdi_1_1_sdi_cmd.html" title="Composition for TLV based SDI commands." alt="" coords="27,80,99,107"/>
+<area shape="rect" id="node3" href="$classlibsdi_1_1_sdi_base.html" title=" " alt="" coords="25,5,100,32"/>
+</map>

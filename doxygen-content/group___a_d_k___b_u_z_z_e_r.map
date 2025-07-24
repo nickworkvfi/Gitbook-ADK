@@ -1,0 +1,4 @@
+<map id="Buzzer handling" name="Buzzer handling">
+<area shape="rect" id="node1" title="Defines given in callback TAG_BF19_CTLS_CBK_BEEP." alt="" coords="196,5,323,31"/>
+<area shape="rect" id="node2" href="$group___t_l_v___c_a_l_l_b_c_k.html" title="Callback function to be implemented in the same entity as EMV ADK." alt="" coords="5,5,148,31"/>
+</map>

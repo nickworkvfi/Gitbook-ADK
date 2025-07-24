@@ -1,0 +1,91 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - i -
+
+- I_DEP : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a902aba4d258a8f49df9479c28e2d7e37">titusstubs.cpp</a>
+- I_FELICA : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276aab6e793bee8234a2e5a8338bfa7801f1">titusstubs.cpp</a>
+- I_ISO14443A : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a3c01f70e75a226e41d3da590894a5420">titusstubs.cpp</a>
+- I_ISO14443A_APDU_MIFARE_1K : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a1b0b79737533639714a9b7ce73c9178b">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_1K : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276ae89ee3a1a38bb5c408a60dea6bcf12ba">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_4K : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a29aff7e4401402cd5bf2a3f184b56d4e">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_DES : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a1ed02278f8caa3a39778c50e340158c8">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_MINI : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a29101ced040fb2c598886e4d6daef0a1">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_PLUS : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276ad30e84105080a927b71592065ff9c85c">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_UL : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a407f42558e97c012ade03a996964f2c0">titusstubs.cpp</a>
+- I_ISO14443A_MIFARE_UL_C : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a512aa5b7cccd17f04f5a02272d5ddc95">titusstubs.cpp</a>
+- I_ISO14443B : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276af83700cd9387203788e0eea62b589a16">titusstubs.cpp</a>
+- I_ISO14443B2CT : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276acc483e7e63fd2ed9f3608378692409d8">titusstubs.cpp</a>
+- I_ISO14443B2SR : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a25721b05538db8287192e9b9fc8a57ee">titusstubs.cpp</a>
+- I_ISO14443BI : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a2ff69117c375dfae66bfa98536b88fe0">titusstubs.cpp</a>
+- I_JEWEL : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276a5622953c1d34372843815f2f3b186ac5">titusstubs.cpp</a>
+- I_MIFARE_TYPE_CLASSIC : <a href="titusstubs_8cpp.md#a305e8ef6dafad4980a3c94ce20eb4528adad7ef11b13de8b7177ce35220e7aba4">titusstubs.cpp</a>
+- I_MIFARE_TYPE_CLASSIC_4K : <a href="titusstubs_8cpp.md#a305e8ef6dafad4980a3c94ce20eb4528a34d109084b2a8060213edeb2fa250031">titusstubs.cpp</a>
+- I_MIFARE_TYPE_ULTRALIGHT : <a href="titusstubs_8cpp.md#a305e8ef6dafad4980a3c94ce20eb4528a25079351bd0ad1a1b8095bd10ce35c60">titusstubs.cpp</a>
+- I_MIFARE_TYPE_ULTRALIGHT_C : <a href="titusstubs_8cpp.md#a305e8ef6dafad4980a3c94ce20eb4528a25821f35dee2e0981f981b2037c3f35e">titusstubs.cpp</a>
+- I_UNKNOWN_CARD_TYPE : <a href="titusstubs_8cpp.md#aaa127d57ebb465856805042ac5cd3276aaa8ce646247179be2819e126c2edf3ea">titusstubs.cpp</a>
+- IDLE : <a href="titusstubs_8cpp.md#ad4a095600742c645131c8e3afbefc436afd6a0e4343048b10646dd2976cc5ad18">titusstubs.cpp</a>
+- IDLE_AdminMode : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8eba3ca089a78876470be3fb26a89d861ea2">ui.h</a>
+- IDLE_DisplayOnly : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8ebaa368a35cf197e8e77afd19364ba0c3b0">ui.h</a>
+- IDLE_InfoKey : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8eba548e109a0bb7caaa49db050a1faf2d73">ui.h</a>
+- Idle_MenuEnabled : <a href="sys_8h.md#acdffce6b62c4db2a50dd9cdae6caba78a18fc0e990d0fa8795a191a2a03b9ef64">sys.h</a>
+- IDLE_MenuKey : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8ebafa66453b492ab5158d41b14e8e463beb">ui.h</a>
+- Idle_NoAdminMode : <a href="sys_8h.md#acdffce6b62c4db2a50dd9cdae6caba78a2ddddb450f003d9d854201353a3cd4b6">sys.h</a>
+- IDLE_NoLEDs : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8eba3528e93e923d1897d09b6c3750852586">ui.h</a>
+- Idle_Normal : <a href="sys_8h.md#acdffce6b62c4db2a50dd9cdae6caba78abe85fe1a66041bcdd883413a79606363">sys.h</a>
+- IDLE_WaitLogo : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8eba9cbddaf197a7e05c591619859699c324">ui.h</a>
+- Idle_WaitLogo : <a href="sys_8h.md#acdffce6b62c4db2a50dd9cdae6caba78a6bc06fe4ebc2a6b6d3e76ea084f42710">sys.h</a>
+- ILT_AdminLock : <a href="sys_8h.md#acbca865bf1cc550151c765b4bb11dc7ea0af1ff86e1129d6f7f9ad06a68a7b104">sys.h</a>
+- ILT_ApiLock : <a href="sys_8h.md#acbca865bf1cc550151c765b4bb11dc7ea952eed5112fd85859a0bd8ecd62b9647">sys.h</a>
+- ILT_NoLock : <a href="sys_8h.md#acbca865bf1cc550151c765b4bb11dc7ea78d433f6f876bbc24a90dbccae665624">sys.h</a>
+- INF_BAUD212 : <a href="titusstubs_8cpp.md#afbdd40a0f001fb7ab2c52ee99422b5eba8340c2a3c3e67d28784023e1b22fcd9b">titusstubs.cpp</a>
+- INF_BAUD424 : <a href="titusstubs_8cpp.md#afbdd40a0f001fb7ab2c52ee99422b5eba8ebd537666fa94d66b54f31560e0e53f">titusstubs.cpp</a>
+- INFO_BINARY : <a href="group__propdb.md#gga4fab2721054fd66cc89f138fd029fd1fa667a98036d4afd2297eaa5fee8bb4358">infodb.h</a>
+- INFO_BREAK : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8af9b83681708f932f8f3960d39e3936c0">infodb.h</a>
+- INFO_BUSY : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a1144601a481f8efa44dbfb02f2c05286">infodb.h</a>
+- INFO_E_BACKEND : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa7db006c3fb86a536a1142d070e136afe">inf_util.h</a>
+- INFO_E_BACKEND_ROLE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa09dd2684c518a6f846ad808721354903">inf_util.h</a>
+- INFO_E_BAD_DATA_FILE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fada3d517617be644a0d42a0639ad3cda1">inf_util.h</a>
+- INFO_E_BAD_DATA_SCHEMA_FILE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa6e33879c03fd180b25df18ccd52c5cf6">inf_util.h</a>
+- INFO_E_BAD_DB : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa7f326dd24642867ef8807dbd48d45f43">inf_util.h</a>
+- INFO_E_BAD_DB_SCHEMA_FILE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa5be3dde74d9d17a8194d3a37b0fb0537">inf_util.h</a>
+- INFO_E_DB_DELETE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa192bbbf41df3d07b8f860a0d5f4e0597">inf_util.h</a>
+- INFO_E_DB_FAILURE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa858ba6ec9e5cf8d171bed9ba6e09a979">inf_util.h</a>
+- INFO_E_DB_INSERT : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa087340e75a4ac0fd699b19f1bff2cda8">inf_util.h</a>
+- INFO_E_DB_READ : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa0fdb9d9a09de6fd5ca12f767b1e2cf15">inf_util.h</a>
+- INFO_E_DB_TRANSACTION : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05faeeec8af383aa416f8b55ef1dd44df434">inf_util.h</a>
+- INFO_E_FILE_IO : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fae79e3a320f35a2b58cf253ec4fd9621d">inf_util.h</a>
+- INFO_E_INTERNAL_ERROR : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa0962cacbe8f8661cd7784a0b4c07ef8d">inf_util.h</a>
+- INFO_E_NO_MORE : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa63f25277d2d2de83d84f95e932f3119c">inf_util.h</a>
+- INFO_E_NOT_IMPL : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa9e5197133a18fa013348582a12aee328">inf_util.h</a>
+- INFO_E_OK : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fae68ba0b1134392f5da641ddee28fbe71">inf_util.h</a>
+- INFO_E_PARAM : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa9d59c9c4da6e8df9253776ed07a450b8">inf_util.h</a>
+- INFO_E_PARSE_ERROR : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fac4ddc287af5887b0a30f6883573f4a1b">inf_util.h</a>
+- INFO_E_SKIPPED : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05fa8d2a98de16d6eb4c7d4352f455fcc1a3">inf_util.h</a>
+- INFO_E_UNKNOWN : <a href="group__inf__util__public.md#gga59e56af19e754a6aa26a612ebf91d05faa37c4ca5dbc0693b88b07f5c83745a9c">inf_util.h</a>
+- INFO_FAIL : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a84e5813d027c7b570cf59b048a276419">infodb.h</a>
+- INFO_INTEGER : <a href="group__propdb.md#gga4fab2721054fd66cc89f138fd029fd1fa5dd4a9b6e283187cee362ee67501928a">infodb.h</a>
+- INFO_INVALID_PARAM : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8ab35a928a60d11b22b11200706f346f50">infodb.h</a>
+- INFO_MEM : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a82d358474cb1a4681487cdcfe3b2e1d5">infodb.h</a>
+- INFO_NO_DB : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a0703a78aa4d8dbb735f4f885cf2f8f7e">infodb.h</a>
+- INFO_NODE_NAME_INVALID : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a209d19f7193b4a25e96f55ce06ffb374">infodb.h</a>
+- INFO_NOT_FOUND : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a3b1f244145443aefc6bc416ee178110d">infodb.h</a>
+- INFO_NOT_IMPL : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a8772e66ffc6da38cfed56f7724bb1717">infodb.h</a>
+- INFO_NOT_SUPP : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8a7e732670c842bfcdaa985eff7b28b5a5">infodb.h</a>
+- INFO_NUMBER : <a href="group__propdb.md#gga4fab2721054fd66cc89f138fd029fd1fac11f023f86358f75382dc489903b17ef">infodb.h</a>
+- INFO_OK : <a href="group__propdb.md#gga1f20dc2829c95bd71bdb14239bc3b2c8aeed232bfb806b5e87f0f1308aca346ef">infodb.h</a>
+- INFO_OP_FULL : <a href="group__inf__util__public.md#gga436e393d88341728721b3496ededd5a3ad9c3be77e956290d97cb38ee023f94d3">inf_util.h</a>
+- INFO_OP_MERGE : <a href="group__inf__util__public.md#gga436e393d88341728721b3496ededd5a3a6b373622a755b7cbee3491e97840c764">inf_util.h</a>
+- INFO_OP_PARTIAL : <a href="group__inf__util__public.md#gga436e393d88341728721b3496ededd5a3a541723e2d922a2255ea2234e9773981e">inf_util.h</a>
+- INFO_OPT_DISABLE_AUTOCOMMIT : <a href="group__propdb.md#ggaa315d0c6482a2ebccc7547e9295a211da16008ad085c1be473320e4df194c0d27">infodb.h</a>
+- INFO_OPT_MULTIPLE_ENTRIES : <a href="group__propdb.md#ggaa315d0c6482a2ebccc7547e9295a211da238bdf391e95b811f9ac5e8c772b6af6">infodb.h</a>
+- INFO_READ_ONLY : <a href="group__propdb.md#gga9b99e447e7b4f91cd7b9fba838b825f0ae1293e987f7ec2d1963e8ee796dc4c86">infodb.h</a>
+- INFO_READ_WRITE : <a href="group__propdb.md#gga9b99e447e7b4f91cd7b9fba838b825f0a2ea780c3c29a4a4989d414089641488e">infodb.h</a>
+- INFO_ROOT : <a href="group__propdb.md#gga726ca809ffd3d67ab4b8476646f26635a9752fad95ea540238bfad2ac28fbf1b0">infodb.h</a>
+- INFO_STRING : <a href="group__propdb.md#gga4fab2721054fd66cc89f138fd029fd1fa02921ca454a797dd48d6d4b053eae727">infodb.h</a>
+- INFO_VOID : <a href="group__propdb.md#gga4fab2721054fd66cc89f138fd029fd1fa1e2ec92ebdcd376972b8cd557aaa8b02">infodb.h</a>
+- INPUT_TYPE_BUFFER : <a href="crypt_8h.md#adcc10b90a6f6d8e58954648e01763711a79533d6f7db12575872d194e46769c03">crypt.h</a>
+- INPUT_TYPE_FILE : <a href="crypt_8h.md#adcc10b90a6f6d8e58954648e01763711a3ea0caa77a66799987c3b1bed67f68e7">crypt.h</a>

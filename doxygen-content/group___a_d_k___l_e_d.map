@@ -1,0 +1,7 @@
+<map id="LED control" name="LED control">
+<area shape="rect" id="node1" href="$group___a_d_k___l_e_d___d_e_f_i_n_e_s___i_d_s.html" title="LED numbers in EMV_CTLS_LED()" alt="" coords="167,5,314,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,101,105"/>
+<area shape="rect" id="node3" href="$group___a_d_k___l_e_d___d_e_f_i_n_e_s.html" title="LED numbers and modes to be used in EMV_CT_LED()" alt="" coords="149,55,332,80"/>
+<area shape="rect" id="node4" href="$group___a_d_k___l_e_d___d_e_f_i_n_e_s___s_t_a_t_e_s.html" title="LED states to be used in EMV_CTLS_LED()" alt="" coords="157,104,324,129"/>
+<area shape="rect" id="node5" href="$group___a_d_k___l_e_d___d_e_f_i_n_e_s___m_o_d_e_s.html" title="LED modes to be used in EMV_CTLS_LED_SetMode()" alt="" coords="155,153,326,179"/>
+</map>

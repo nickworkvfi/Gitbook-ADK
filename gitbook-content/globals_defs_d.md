@@ -1,0 +1,128 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - d -
+
+- D_MAX : <a href="group__vss.md#ga80559d0c68c2da7e9f75937fd154a93c">moduleDescription.h</a>
+- DATA_ALGORITHM_SIZE : <a href="sec2_8h.md#a1274b4f9b3de4e594e172fbe71d623af">sec2.h</a>
+- DATA_ALGORITHM_TS : <a href="sec2_8h.md#a441f27a6000d4c51907523c465e8df76">sec2.h</a>
+- DAYSPERLYEAR : <a href="_v_h_q_utils__timezone_8c.md#ad30f8828a03f696f87110f35e402737e">VHQUtils_timezone.c</a>
+- DAYSPERNYEAR : <a href="_v_h_q_utils__timezone_8c.md#a2c13c5660e97dc3fc82bc43cd752178a">VHQUtils_timezone.c</a>
+- DAYSPERWEEK : <a href="_v_h_q_utils__timezone_8c.md#a9bcc879e9358166ad8cb333bd23baf65">VHQUtils_timezone.c</a>
+- DBG_STREAM : <a href="logapi__stream_8hpp.md#af8459281f9d29605ebd0b888981791bd">logapi_stream.hpp</a>
+- DBG_TAG_STREAM : <a href="logapi__stream_8hpp.md#a4073faef165c8aa5a00524a0e0c4d8a0">logapi_stream.hpp</a>
+- DBGS_ALERT : <a href="logapi__stream_8hpp.md#aa7939a6d40ee3e119d489b3b79342b73">logapi_stream.hpp</a>
+- DBGS_CRIT : <a href="logapi__stream_8hpp.md#ad493ea6309fe5e4911437bcb7ef63bdc">logapi_stream.hpp</a>
+- DBGS_EMERG : <a href="logapi__stream_8hpp.md#ac3acf629502d630cda04ca400fd187ce">logapi_stream.hpp</a>
+- DBGS_ERROR : <a href="logapi__stream_8hpp.md#a2df43910ebfbc369d5480ee767869624">logapi_stream.hpp</a>
+- DBGS_INFO : <a href="logapi__stream_8hpp.md#a6306a6bce29ad002c33678c3393ca19a">logapi_stream.hpp</a>
+- DBGS_NOTICE : <a href="logapi__stream_8hpp.md#a092c717082b9fa9714226efc76e92fbd">logapi_stream.hpp</a>
+- DBGS_TAG_ALERT : <a href="logapi__stream_8hpp.md#ada4940676ce7f881e6ef9550c33244ff">logapi_stream.hpp</a>
+- DBGS_TAG_CRIT : <a href="logapi__stream_8hpp.md#a43082dba6e3e519bb2ed0dd06a4dcd8c">logapi_stream.hpp</a>
+- DBGS_TAG_EMERG : <a href="logapi__stream_8hpp.md#a5fcd9850190605f4eb620d992d5cf26e">logapi_stream.hpp</a>
+- DBGS_TAG_ERROR : <a href="logapi__stream_8hpp.md#ab07b9c7135c51719f94b3f7a78bbe7e8">logapi_stream.hpp</a>
+- DBGS_TAG_INFO : <a href="logapi__stream_8hpp.md#acf41215e98459bf8d24fdfeb3a5cb223">logapi_stream.hpp</a>
+- DBGS_TAG_NOTICE : <a href="logapi__stream_8hpp.md#a6ec3101f544a85c0f2ea67be1a7dc0ef">logapi_stream.hpp</a>
+- DBGS_TAG_TRACE : <a href="logapi__stream_8hpp.md#afaf9cc701b079682dffd17c971e6154c">logapi_stream.hpp</a>
+- DBGS_TAG_WARN : <a href="logapi__stream_8hpp.md#a11d6301bedb19750d5007af7f48f68fe">logapi_stream.hpp</a>
+- DBGS_TRACE : <a href="logapi__stream_8hpp.md#ac6a0d93c42bda38eb87b2165d1cf933a">logapi_stream.hpp</a>
+- DBGS_WARN : <a href="logapi__stream_8hpp.md#ac93d0d4de78aa30ec751bb7f2e59f5a1">logapi_stream.hpp</a>
+- DCC_CBCK_INFO_LEN : <a href="group___c_b_c_k___d_c_c___i_n_f_o.md#gab73c5753d6f75eff121f419375029d4a">EMV_CT_Interface.h</a>
+- DCC_CBCK_INFO_PDOL_FORBIT : <a href="group___c_b_c_k___d_c_c___i_n_f_o.md#ga75a19c7a2fa1f0cc270623760bfc89c7">EMV_CT_Interface.h</a>
+- DCC_CHECK : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#gab46cea653620bce1d34685cb1ab851d9">EMV_CT_Interface.h</a>
+- DEBUG_AES_CMAC : <a href="_v_h_q_security_8c.md#ade5d472b300abf17cf9facf13476778f">VHQSecurity.c</a>
+- DEBUG_SIGNATURE_VALIDATION : <a href="_v_h_q_xml_packager_8c.md#a816f7429e924e7c46074c6085cb532a8">VHQXmlPackager.c</a>
+- DECRYPT_CBC_ITERATION : <a href="group__vss.md#ga286799b6e4775a2000f8f23a3deae819">moduleDescription.h</a>
+- DECRYPT_FINISH : <a href="group__vss.md#ga23484114a161add6102ec674917c0666">moduleDescription.h</a>
+- DECRYPT_INIT : <a href="group__vss.md#ga9dda1955fda005d373617cea91fa60fb">moduleDescription.h</a>
+- DECRYPT_ITERATION : <a href="group__vss.md#ga0f890003acddc5ab054f9be9bb9c4638">moduleDescription.h</a>
+- DEFAULT_COMM_TIMEOUT : <a href="libseccmd-comp_8h.md#a749dc153d334bffad7096bca6ff9e540">libseccmd-comp.h</a>
+- DEFAULT_WAIT : <a href="_event_scheduler_8c.md#a49cc942bb646de5cedadd52be0c431d8">EventScheduler.c</a>
+- DEPRECATED : <a href="ipc_8h.md#ac1e8a42306d8e67cb94ca31c3956ee78">ipc.h</a> , <a href="notify_8h.md#ac1e8a42306d8e67cb94ca31c3956ee78">notify.h</a> , <a href="libseccmd-comp_8h.md#ac1e8a42306d8e67cb94ca31c3956ee78">libseccmd-comp.h</a>
+- DES_IV_SIZE : <a href="sec2_8h.md#ac3774eaa9f99a0dfefc97d62317466f2">sec2.h</a>
+- DESFIRE_CL1 : <a href="titusstubs_8cpp.md#ab8e8b957c7b98ba00619fe90f3700343">titusstubs.cpp</a>
+- DESFIRE_CL2 : <a href="titusstubs_8cpp.md#a6ade05bbb66dcb6f2cc55b5f1313d76b">titusstubs.cpp</a>
+- DEVICE_EVENT_RETRY_FREQ : <a href="_v_h_q_manager_8c.md#a041b90b2fdf89b99f085e9b7ef565485">VHQManager.c</a>
+- DF61_SEL_50_APPLICATION_NAME : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga2a136de4b885bf0efb99812105a2dbf9">EMV_CT_Interface.h</a>
+- DF61_SEL_5F2D_LANG_PREF : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gafcefbcbc00c29d564087846a0a82c51e">EMV_CT_Interface.h</a>
+- DF61_SEL_84_DF_NAME : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gad8fc10e41c5b76dd2ce850889ee55740">EMV_CT_Interface.h</a>
+- DF61_SEL_9F11_CODE_TABLE : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga6f2019836faeb7c75c5d00fe56a7aa78">EMV_CT_Interface.h</a>
+- DF61_SEL_9F12_PREF_NAME : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gaae585dbc65a76a43d4db141d251dd241">EMV_CT_Interface.h</a>
+- DF61_SEL_9F63_DISPTXT : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga49f1c3ce5ba96754ae16bcdc63fc8a18">EMV_CT_Interface.h</a>
+- DF61_SEL_AGREED_APPNAME : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga2378e97de62fd2f6cea91be559d35f88">EMV_CT_Interface.h</a>
+- DF61_SEL_AID : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga81ed11f4cb6d5283679be158b8ee9afe">EMV_CT_Interface.h</a>
+- DF61_SEL_CANDIDATES : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gaf3edcff6fa8fb5b900af301310f2a113">EMV_CT_Interface.h</a>
+- DF61_SEL_DF62_ERRORDATA : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gae16afced77441224b7e157570e996cc1">EMV_CT_Interface.h</a>
+- DF61_SEL_MID_DATA : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#gab5055a2e8156f9bc4d8046062b7cff34">EMV_CT_Interface.h</a>
+- DF61_SEL_PDOL : <a href="group___d_e_f___d_f61___s_e_l_e_c_t.md#ga4af2dc6442c7ca54af02b6a86ad0d609">EMV_CT_Interface.h</a>
+- DF_EXECUTABLE : <a href="_v_h_q_utils___m_x_8c.md#a0a209af4bf22545cc762482a3d950f9f">VHQUtils_MX.c</a>
+- DIAG_START_FW_MAJ_VER : <a href="_v_h_q_utils___m_x_8c.md#a8dc4f36c948b2a971bd9a985a351c9aa">VHQUtils_MX.c</a>
+- DIAG_START_FW_MID_VER : <a href="_v_h_q_utils___m_x_8c.md#a1517f7963d7851daf29e02fc1b7d026a">VHQUtils_MX.c</a>
+- DIAG_START_FW_MIN_VER : <a href="_v_h_q_utils___m_x_8c.md#a0f090d2ea8454f2602ed387a264d3958">VHQUtils_MX.c</a>
+- DL_ASCHEX_2_NIBBLE : <a href="dl__base_8h.md#a69fcb8ac9cd7d49df52686db862f15ef">dl_base.h</a>
+- DL_BIT_CLEAR : <a href="dl__base_8h.md#a12045ae00890f22649af62f349c79890">dl_base.h</a>
+- DL_BIT_SET : <a href="dl__base_8h.md#a9c34a51a4ddd66c6d9e105ad565d44c7">dl_base.h</a>
+- DL_BIT_TEST : <a href="dl__base_8h.md#ac0d0a93c694672c78d00d74447a21b3c">dl_base.h</a>
+- DL_BYTES_TO_UINT16 : <a href="dl__base_8h.md#af2a5e9668996a8083f7d3c7752832367">dl_base.h</a>
+- DL_BYTES_TO_UINT24 : <a href="dl__base_8h.md#a95b0e248f35c8fa51b93075cba16c60e">dl_base.h</a>
+- DL_BYTES_TO_UINT32 : <a href="dl__base_8h.md#a6db3a9d598209aea444f4bd760ce743a">dl_base.h</a>
+- DL_FILE_DL_TYPE_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#a2f3bcb4f5f0c835fb962790a7ace0b11">VHQXmlDictionary.c</a>
+- DL_FILE_HASH_ALGO_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#a673ce31e33ce451f1315db762d135754">VHQXmlDictionary.c</a>
+- DL_FILE_METHOD_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#a230903743c9d7c9e6d1c16da483ebc37">VHQXmlDictionary.c</a>
+- DL_FILE_PARAM_TYPE_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#ac829f82a9eecb5585af3cd57b2636fce">VHQXmlDictionary.c</a>
+- DL_ISO8583_GetFieldDef : <a href="dl__iso8583__common_8h.md#a93ec8b0dba70eaaec8eb7e55e4550168">dl_iso8583_common.h</a>
+- DL_ISO8583_IS_BITMAP : <a href="dl__iso8583__common_8h.md#ad03d384a1a4bd7b80003ab456aca8587">dl_iso8583_common.h</a>
+- DL_MAX_UINT16 : <a href="dl__base_8h.md#addee5c4c3390ff61f6a2ba443eb6b01d">dl_base.h</a>
+- DL_MAX_UINT24 : <a href="dl__base_8h.md#a6ed828aac6968ec7ec28c2057e81fe30">dl_base.h</a>
+- DL_MAX_UINT32 : <a href="dl__base_8h.md#a22b660a732f5cfac16e158a368de6fe7">dl_base.h</a>
+- DL_MAX_UINT8 : <a href="dl__base_8h.md#aeade2352ff531bfd0848eaafd3845345">dl_base.h</a>
+- DL_MEM_free : <a href="dl__mem_8h.md#a744c6817dabe916ffe06478f9386f689">dl_mem.h</a>
+- DL_MEM_memcmp : <a href="dl__mem_8h.md#a7d89c9c5c7d97e149deb2b51497a6b24">dl_mem.h</a>
+- DL_MEM_memcpy : <a href="dl__mem_8h.md#ad8625484f4ea7abdecbefbf4c661b43e">dl_mem.h</a>
+- DL_MEM_memset : <a href="dl__mem_8h.md#aa091e9b1839086b7943127073cdac88a">dl_mem.h</a>
+- DL_NIBBLE_2_ASCHEX : <a href="dl__base_8h.md#a6acd570a50f31a4f697660d05a54c5a0">dl_base.h</a>
+- DL_SIZE_OF_SINT16 : <a href="dl__base_8h.md#a45e4552d7d5725018a0d8eb34f41e29a">dl_base.h</a>
+- DL_SIZE_OF_SINT32 : <a href="dl__base_8h.md#a29122e8c68021e5cddc2f423a97f03bd">dl_base.h</a>
+- DL_SIZE_OF_SINT8 : <a href="dl__base_8h.md#a0b3d243c53fb2efdf4660b6d7f9394e2">dl_base.h</a>
+- DL_SIZE_OF_UINT16 : <a href="dl__base_8h.md#a3ad64089165b8dd4cbacb4d42cea249f">dl_base.h</a>
+- DL_SIZE_OF_UINT24 : <a href="dl__base_8h.md#a5dc6e014724b019aab2d815f813ad5c5">dl_base.h</a>
+- DL_SIZE_OF_UINT32 : <a href="dl__base_8h.md#a28d0d2c755319e1102b3c8ed306b9c27">dl_base.h</a>
+- DL_SIZE_OF_UINT8 : <a href="dl__base_8h.md#abc10ba8d402c49c786e8b2890b54dda9">dl_base.h</a>
+- DL_STR_IsWS : <a href="dl__str_8h.md#a96d9286d658a3a0e173fb12a45391b0a">dl_str.h</a>
+- DL_STR_SafeNum : <a href="dl__str_8h.md#adf4a03fd84400c548a6f59486f902cf9">dl_str.h</a>
+- DL_STR_SafeStr : <a href="dl__str_8h.md#aa16c75d40f15dad726099ab71a4dfee0">dl_str.h</a>
+- DL_STR_StrChr : <a href="dl__str_8h.md#aed449824111f6494232eb6143da90dbf">dl_str.h</a>
+- DL_UINT16_TO_BYTES : <a href="dl__base_8h.md#ac176f737c97ed277e55fadcb45d03378">dl_base.h</a>
+- DL_UINT24_TO_BYTES : <a href="dl__base_8h.md#ad65da73e741c742582e27aca56c70895">dl_base.h</a>
+- DL_UINT32_AddWithLimit : <a href="dl__base_8h.md#aebf4df084d06849d3799a1eb0463777c">dl_base.h</a>
+- DL_UINT32_TO_BYTES : <a href="dl__base_8h.md#a56a2fa26b24c2dd6ed977cc08523d614">dl_base.h</a>
+- DL_UNIX : <a href="dl__base_8h.md#a1ea88a7762787692f15f90d94fd1507b">dl_base.h</a>
+- DLL_CLC : <a href="_e_m_v___c_t_l_s___interface_8h.md#a0c075561565f443dd054da7871da8462">EMV_CTLS_Interface.h</a>
+- DLL_CLF : <a href="_e_m_v___c_t_l_s___ser_interface_8h.md#a2f0bd8ac24ba34e8586df5a784e92539">EMV_CTLS_SerInterface.h</a>
+- DLL_CLL : <a href="_e_m_v___c_t_l_s___link_8h.md#a0aab3b78e27ba7f6f94e6d5aad4fde6a">EMV_CTLS_Link.h</a>
+- DLL_CTC : <a href="_e_m_v___c_t___interface_8h.md#aba0ead6baeabe51c5f4fe870feb9ec16">EMV_CT_Interface.h</a>
+- DLL_CTF : <a href="_e_m_v___c_t___ser_interface_8h.md#a463974457facec16efba585e2cb1c066">EMV_CT_SerInterface.h</a>
+- DLL_CTL : <a href="_e_m_v___c_t___link_8h.md#afe87027abfbdba4e0878ab58013aef55">EMV_CT_Link.h</a>
+- DLL_EMC : <a href="_e_m_v___e_m___interface_8h.md#ab4b56537f29043b46d36de284e28fbb4">EMV_EM_Interface.h</a>
+- DllSpec : <a href="input__plugin_8h.md#ad7c2e1cb200073ed64c64285a5f37231">input_plugin.h</a> , <a href="netloader_2include_2netloader_8h.md#ad7c2e1cb200073ed64c64285a5f37231">netloader.h</a> , <a href="group__vfiprt.md#gad7c2e1cb200073ed64c64285a5f37231">prt.h</a> , <a href="tls_8h.md#ad7c2e1cb200073ed64c64285a5f37231">tls.h</a> , <a href="group__vfiipc.md#gad7c2e1cb200073ed64c64285a5f37231">jsobject.h</a> , <a href="guiprt_2src_2html_2timestamp_8h.md#ad7c2e1cb200073ed64c64285a5f37231">timestamp.h</a> , <a href="ipc_8h.md#ad7c2e1cb200073ed64c64285a5f37231">ipc.h</a> , <a href="group__vfigui.md#gad7c2e1cb200073ed64c64285a5f37231">gui_template.h</a> , <a href="group__vfigui.md#gad7c2e1cb200073ed64c64285a5f37231">gui.h</a> , <a href="fps_8h.md#ad7c2e1cb200073ed64c64285a5f37231">fps.h</a> , <a href="notify_8h.md#ad7c2e1cb200073ed64c64285a5f37231">notify.h</a> , <a href="sdiapi_2src_2sdiapi_2sdi__emv_8h.md#ad7c2e1cb200073ed64c64285a5f37231">sdi_emv.h</a> , <a href="tlv_8h.md#ad7c2e1cb200073ed64c64285a5f37231">tlv.h</a> , <a href="bcd_8h.md#ad7c2e1cb200073ed64c64285a5f37231">bcd.h</a> , <a href="array_8h.md#ad7c2e1cb200073ed64c64285a5f37231">array.h</a> , <a href="libcom_8h.md#ad7c2e1cb200073ed64c64285a5f37231">libcom.h</a> , <a href="sdi_8h.md#ad7c2e1cb200073ed64c64285a5f37231">sdi.h</a> , <a href="sound_8h.md#ad7c2e1cb200073ed64c64285a5f37231">sound.h</a> , <a href="netloader_2include_2zontalk_8h.md#ad7c2e1cb200073ed64c64285a5f37231">zontalk.h</a> , <a href="scriptproc_8h.md#ad7c2e1cb200073ed64c64285a5f37231">scriptproc.h</a> , <a href="jsproc_8h.md#ad7c2e1cb200073ed64c64285a5f37231">jsproc.h</a>
+- DllSpecSEC : <a href="libsec_8h.md#abcde1739ffe76c2296e21ce0b20f0ad3">libsec.h</a> , <a href="_c_transaction_data_8h.md#abcde1739ffe76c2296e21ce0b20f0ad3">CTransactionData.h</a> , <a href="seclogging_8h.md#abcde1739ffe76c2296e21ce0b20f0ad3">seclogging.h</a> , <a href="compatibility_helper_8h.md#abcde1739ffe76c2296e21ce0b20f0ad3">compatibilityHelper.h</a>
+- DO_ENUM : <a href="sec_error_8h.md#a04a18c96de7c999721957aa617bacc1d">secError.h</a>
+- DO_KSN_INCREMENTATION : <a href="sec2_8h.md#aeb5ca7571ca45e74743c0fe81977dcf2">sec2.h</a>
+- DO_OLD : <a href="libseccmd-comp_8h.md#ac0332a842a9abac651216f245a3b21b8">libseccmd-comp.h</a>
+- DOM_INFO_ICC_REQ_AMOUNT : <a href="group___c_b_c_k___d_o_m___i_n_f_o.md#gaeb3b36a8f69dd8add72da9aba3ec3c71">EMV_CT_Interface.h</a>
+- DOM_INFO_ICC_REQ_TRANSTYPE : <a href="group___c_b_c_k___d_o_m___i_n_f_o.md#ga6e2647169399c0dde5bf1b4ed78d8c62">EMV_CT_Interface.h</a>
+- DOM_INFO_LEN : <a href="group___c_b_c_k___d_o_m___i_n_f_o.md#ga80a09039edb34fb64145aa9235cf0b79">EMV_CT_Interface.h</a>
+- DOM_OPTION_ABORT_NO_TEXT : <a href="group___c_b_c_k___d_o_m___o_p_t_i_o_n.md#gae712580240b3496ff0c8d3ea22f4fea9">EMV_CT_Interface.h</a>
+- DOM_OPTION_AUSTRIAN_NGV : <a href="group___c_b_c_k___d_o_m___o_p_t_i_o_n.md#gae73c669e0402299c4832fdb4210354bc">EMV_CT_Interface.h</a>
+- DOM_OPTION_LEN : <a href="group___c_b_c_k___d_o_m___o_p_t_i_o_n.md#gafedbc0e41ccab2706d5e5cf65893f506">EMV_CT_Interface.h</a>
+- DOM_OPTION_TIP_OFF : <a href="group___c_b_c_k___d_o_m___o_p_t_i_o_n.md#gae9fa3993b2c1c6417f5e237a6c138cb9">EMV_CT_Interface.h</a>
+- DOM_OPTION_TRX_INTERCEPT : <a href="adk__emv__contactless__programmers__guide_8dox.md#a24620bac9d70ac65d32489a717944433">adk_emv_contactless_programmers_guide.dox</a> , <a href="group___c_b_c_k___d_o_m___o_p_t_i_o_n.md#ga24620bac9d70ac65d32489a717944433">EMV_CT_Interface.h</a>
+- DOUBLE_KEY_SIZE : <a href="sec2_8h.md#a75aeed9500da52073cd4fa9f79cec477">sec2.h</a>
+- DPAS_CDCVM_SUPPORT : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga0ec1bd03b13c6fe605fd8ef7c6b71f86">EMV_CT_Interface.h</a>
+- DPAS_DATA_STORAGE_SUPPORT : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga925d41cbe427c6b1fd6b70925b9042f7">EMV_CT_Interface.h</a>
+- DPAS_EXTENDED_LOGGING_SUPPORT : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga11aa53fe15a844eee0042676294c5309">EMV_CT_Interface.h</a>
+- DST_MAX_ENTR : <a href="_v_h_q_utils__timezone_8c.md#a0c0aef51b6bac32607f5b33a4a6543b9">VHQUtils_timezone.c</a>
+- DUKPT_MASK_TS : <a href="sec2_8h.md#a6840b89b455f67fdd7459f3f83869012">sec2.h</a>

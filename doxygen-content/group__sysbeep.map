@@ -1,0 +1,9 @@
+<map id="System beep functions" name="System beep functions">
+<area shape="rect" id="node1" href="$group__syserro.html" title=" " alt="" coords="291,5,485,31"/>
+<area shape="rect" id="node2" href="$group__led.html" title=" " alt="" coords="306,55,470,80"/>
+<area shape="rect" id="node3" href="$group__sysbar.html" title=" " alt="" coords="288,104,488,129"/>
+<area shape="rect" id="node4" href="$group__util.html" title=" " alt="" coords="325,153,451,179"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,129,176,155"/>
+<area shape="rect" id="node6" href="$group__syspm.html" title=" " alt="" coords="297,203,479,273"/>
+<area shape="rect" id="node7" href="$group__sysinfo.html" title=" " alt="" coords="291,297,485,323"/>
+</map>

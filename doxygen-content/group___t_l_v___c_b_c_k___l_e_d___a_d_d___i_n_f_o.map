@@ -1,0 +1,4 @@
+<map id="LED callback: Additional information" name="LED callback: Additional information">
+<area shape="rect" id="node1" href="$group___t_l_v___c_b_c_k.html" title="Used in function EMV_CallbackFunction()" alt="" coords="5,5,163,45"/>
+<area shape="rect" id="node2" title="Additional information for LED switching, used for TAG_DF8F60_LED_ADD_INFO." alt="" coords="211,5,389,45"/>
+</map>

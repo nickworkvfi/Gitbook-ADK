@@ -1,0 +1,4 @@
+<map id="Options for DataExchange mode" name="Options for DataExchange mode">
+<area shape="rect" id="node1" href="$group___t_l_v___c_a_l_l_b_c_k.html" title="Callback function to be implemented in the same entity as EMV ADK." alt="" coords="5,5,148,31"/>
+<area shape="rect" id="node2" title="Used in EMV_CTLS_CALLBACK_FnT, TAG_BF0E_CBK_DATA_EXCHANGE, TAG_DF8F5A_DE_MODE." alt="" coords="196,5,429,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="EMV_CTLS_SetupTransaction: Which data is included in result struct" name="EMV_CTLS_SetupTransaction: Which data is included in result struct">
+<area shape="rect" id="node1" title="Contents of the output in EMV_CTLS_STARTRES_STRUCT::T_DF61_Info_Received_Data, EMV_CTLS_SetupTransact..." alt="" coords="152,5,360,60"/>
+<area shape="rect" id="node2" href="$group___d_e_f___f_l_o_w___o_u_t_p_u_t.html" title=" " alt="" coords="5,20,104,45"/>
+</map>

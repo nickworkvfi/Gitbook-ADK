@@ -1,0 +1,87 @@
+---
+title: "ADK-Programmers-Guides: Data Fields - Variables"
+---
+
+ 
+
+### - d -
+
+- d : <a href="classpackmanlib_1_1node_1_1_j_s_o_n_content.md#a1aabac6d068eef6a7bad3fdf50a05cc8">JSONContent</a> , <a href="classvfiipc_1_1_i_p_c.md#a40526579f289c2f9a91bde432367b54b">IPC</a>
+- daemon : <a href="libsecins_8h.md#ab08e9e90d5f85b698dfedafa2fdb7bbe">SecinsDaemonAction</a>
+- data : <a href="libcom_8h.md#a8af493d8b6292c948138db4e4e4af299">com_BLEAttribute</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a507d177b3a7141200e5c55197eb38147">EMV_CTLS_AK_DRL_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#ac24cea2bfcc927fd29bc74d1086707d8">EMV_CTLS_DATA_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#abed0c262cbe7e93a9bb318b3c22767bb">EMV_CTLS_VK_DRL_STRUCT</a> , <a href="msr__common_8h.md#a1898701affed80564be2a2d9be747a82">MSR_Track_1</a> , <a href="msr__common_8h.md#add0e8d8227e7c6f4c05c98e094409712">MSR_Track_2</a> , <a href="msr__common_8h.md#aa97bfa6d4f0982f2ec0be55aaed34802">MSR_Track_3</a> , <a href="_demo_app_8cpp.md#ae081d61a778f0464ced3d2795e53601d">ResponseFromHost</a>
+- data1 : <a href="libcom_8h.md#a7eaa1c386b730cfc6babf509f8c11986">com_networkEventData</a>
+- DataAlgo : <a href="namespacecom__verifone__seccmd.md#ab4b3e9d0a361850026f23f97ac8d4e4b">SecConfig</a>
+- DataContainerReadIds : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a94cdb96dc0c72d50b22bc9ee29c25b9f">EMV_CT_APPLIDATA_STRUCT</a>
+- DataContainerReadIds_DFAB58 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a75fc0e5e9f1b2ed47fac2428b52dd514">EMV_CTLS_APPLIDATA_DK_STRUCT</a>
+- DataContainerReadRanges : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a418acaa9bb3b4d2a70442c50205f69a3">EMV_CT_APPLIDATA_STRUCT</a>
+- DataContainerReadRanges_DFAB59 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a42894365d82316f9b26686c51b138665">EMV_CTLS_APPLIDATA_DK_STRUCT</a>
+- DataExchangeTagList_DFAB57 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ac6d4527d26ab23434a0f2b0d4241f2b6">EMV_CTLS_APPLIDATA_MR_STRUCT</a>
+- dataIn : <a href="classlibsdi_1_1_sdi_cmd.md#a2b7c2d6ae6cb8a37cd3cc6c2a053abbc">SdiCmd</a>
+- dataOptions : <a href="classlibsdi_1_1_sdi_crypt.md#a0d05699e6bff8f30283fd5c82650d3df">SdiCrypt::Placeholder</a>
+- dataOut : <a href="classlibsdi_1_1_sdi_cmd.md#a63c88c0318a60c296203e18195a8846a">SdiCmd</a>
+- Date : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a775d3e156bcce4f815658cbaca54de4f">EMV_CT_PAYMENT_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a775d3e156bcce4f815658cbaca54de4f">EMV_CTLS_PAYMENT_STRUCT</a>
+- day : <a href="struct_directory_1_1_entry.md#ab9ba6d415537c392fea1a330751865f9">Directory::Entry</a>
+- dbm : <a href="libcom_8h.md#ad2c3b8f9fd4bbc30208e66b69c290dc6">com_WirelessSignalQuality</a>
+- death_details : <a href="libsecins_8h.md#a14228d679925ff84357d2cc74867f048">child_death_cert</a>
+- Default_DDOL : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a27e03203f154c52be3abc2db49842a93">EMV_CT_APPLIDATA_STRUCT</a>
+- Default_TDOL : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a9741f7d86efbb9dc20f687b6cad55f4c">EMV_CT_APPLIDATA_STRUCT</a>
+- DefaultApplicationName_DFAB22 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aa022d006c533c7901b3f03d691a7f4b0">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- DefaultDDOL_DFAB51 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a9e117a7d71c637dad1fe6c0e7f0ff778">EMV_CTLS_APPLIDATA_GK_STRUCT</a>
+- description : <a href="classvficpl_1_1_donation.md#a2e1454f6988673f814408646edaeb320">Donation</a> , <a href="classvficpl_1_1_merchandise.md#a2e1454f6988673f814408646edaeb320">Merchandise</a> , <a href="classvficpl_1_1_offer.md#a2e1454f6988673f814408646edaeb320">Offer</a>
+- dest : <a href="namespacesdi_1_1filesystem.md#a3e78783b5ad55b1eef69e681742a51a8">UpdateFiles</a> , <a href="struct_update_context.md#a66d4da94e0e4f717ff3e7f23c53f7c2d">UpdateContext</a>
+- dest_prefix : <a href="namespacesdi_1_1filesystem.md#ad92d35d6fb7a433b923fea9e481abf60">UpdateFiles</a>
+- DETimeoutValue_DF8127 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ac5cc8d2ff01a1967ba0e0b5eba8e3487">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- DF62_ASF : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a43f76d681e0ea674bedebe4182b8d895">EMV_CT_CANDIDATE_DATA_STRUCT</a>
+- dhcp : <a href="libcom_8h.md#a55f1b57911e39481ff5e83cf36c53eb6">com_IPConfig</a>
+- DIALOG_CANCEL_PRESSED : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#ga754daf04821eeb5ba34d99aabc441ac1">Dialog</a>
+- DIALOG_CLIENT_ERROR : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#gaeb5d38cd30058e5f63b978b7b2b9d2d9">Dialog</a>
+- DIALOG_IN_PROGRESS : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#gafe6b72ba6b4f2047874c33ab4f207997">Dialog</a>
+- DIALOG_NO_ASYNC_DIALOG : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#gad2238911c1c10e0e5f72ba0d930c2601">Dialog</a>
+- DIALOG_SDI_SW12 : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#gae2484756f41700172f08fdbefc82a3f8">Dialog</a>
+- DIALOG_SUCCESS : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#ga5b6b3dbaac7db77ddf61aba3e56f96a8">Dialog</a>
+- DIALOG_SYS_ABORT : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#gab24d917fd8f0be51dc1d3c787443343b">Dialog</a>
+- DIALOG_TIMEOUT : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___r_e_t_u_r_n___v_a_l_u_e_s.md#ga278af37213f4919300755bf8538470a5">Dialog</a>
+- disc : <a href="group___f_u_n_c___f_l_o_w.md#aa7c2f39be705ad6e0c90dabbf26155a3">EMV_CTLS_CANDIDATE_DATA_STRUCT</a>
+- disc_data : <a href="msr__common_8h.md#a546a368c19b905bc9b1d59911e9a1c49">MSR_Decoded_Track_1</a> , <a href="msr__common_8h.md#a3632f62f24f26f621a62b233b0efe52e">MSR_Decoded_Track_2</a>
+- discData : <a href="group__sdiemvctls.md#a6ca4bd8cd8e0fbc0d5408e13f5905049">SDIClient::CTLSCandidateData</a>
+- display : <a href="structvficpl_1_1_invoke_request.md#af36a76a97c2cc0ea7b1c0c25933934a9">InvokeRequest</a>
+- dl_file_dl_type : <a href="_v_h_q_xml_dictionary_8c.md#abba2ea3002a450592b6582464d54ef33">_dl_file_dl_type_xml_conv_t</a>
+- dl_file_hash_algo : <a href="_v_h_q_xml_dictionary_8c.md#a837b84d61d66c9a2d70e0bb1741865e9">_dl_file_hash_algo_xml_conv_t</a>
+- dl_file_method : <a href="_v_h_q_xml_dictionary_8c.md#a6867e4e6b218bcb0ed93998f0a6e3b0a">_dl_file_method_xml_conv_t</a>
+- dl_file_param_type : <a href="_v_h_q_xml_dictionary_8c.md#ad5516ac7df052a78bb94a5ce8d1d730d">_dl_file_param_type_xml_conv_t</a>
+- dlfile : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s3_tree_info.md#ac2881de57842eff0a0fc5b310000fae5">VOS3TreeInfo</a> , <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#ac2881de57842eff0a0fc5b310000fae5">VOSTreeInfo</a>
+- dlfile_compressed : <a href="classpackmanlib_1_1platform_1_1_platform.md#aeda554c2e9d7cccbda12be097dacc58d">Platform</a>
+- DLG_AbortOnCardRemove : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga6b0437461e4d4a7d98969fafcb0362f8">Dialog</a>
+- DLG_Async : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga4d125bf05a3f9b71e9b259c0a842ac0d">Dialog</a>
+- DLG_CancelKey : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gac6cf7c066fb1c4f8003ed891f5dafd3c">Dialog</a>
+- DLG_ClearKey : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gaffdb5a653253d61976412989e5235139">Dialog</a>
+- DLG_ClearOnReturn : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gae9259189676071cbe886149be5b98d7c">Dialog</a>
+- DLG_CtlsLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gad4ee44410b71ff91ecb097efe3d82f60">Dialog</a>
+- DLG_DisplayOnly : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gabaab93c681d50fe37def0595836a72ec">Dialog</a>
+- DLG_EnterKey : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga1ea5fd8fc926cbdf923f8647142a9263">Dialog</a>
+- DLG_ErrorLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga284c51b689a86530ece463dfd5044b13">Dialog</a>
+- DLG_HideSoftKeys : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga63bb7a7162dd1dc62b29b8c0c6cc1abe">Dialog</a>
+- DLG_IgnoreExtAbort : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga01056bab2c3bf9e7b2d68d075e5e8889">Dialog</a>
+- DLG_NoHeader : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga2caa124d23e575e5fa2be38d872243cf">Dialog</a>
+- DLG_NoLEDs : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga0059c3f4c81a452fc98989c9226275a3">Dialog</a>
+- DLG_QuestionLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga862467cd7d4b602c9432188524c32cdb">Dialog</a>
+- DLG_StoreAsyncResult : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga7c8973d977d8476d239730e1533dbf7c">Dialog</a>
+- DLG_SuccessLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gaaa15b4b1ee808d81403aa567774b9572">Dialog</a>
+- DLG_TextAlignButton : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga7d044dc28eb369c17286fde22b797253">Dialog</a>
+- DLG_TextAlignLeft : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gabe236bce2323a19baaef2fb0690a398d">Dialog</a>
+- DLG_TextAlignRight : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga27701f8542a4574d865c0e6e0cbb71a7">Dialog</a>
+- DLG_TextAlignTop : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga1f6cec0bde3e98a24bd54aea4e871714">Dialog</a>
+- DLG_WaitLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#gae744e624816119045d015c23c3648f64">Dialog</a>
+- DLG_WarningLogo : <a href="group___d_e_f___l_i_b_s_d_i_c_l_i_e_n_t___d_i_a_l_o_g___o_p_t_i_o_n_s.md#ga2576f638a5b398aa5efaf6ce4e1dd88e">Dialog</a>
+- dlpaths : <a href="libsecins_8h.md#a211707f496035d5f61ac6b42b949f87d">INST_DATA</a>
+- dlpathslength : <a href="libsecins_8h.md#aa4f6a1f08339d3579021b0c3dd3ceeb0">INST_DATA</a>
+- dns1 : <a href="libcom_8h.md#aaeb150d4cce9fab8d09ae38b9ab51a46">com_IPConfig</a>
+- dns2 : <a href="libcom_8h.md#a30141dafa868189dbea519cc19c5d36c">com_IPConfig</a>
+- DOL : <a href="_e_m_v___c_t___interface_8h.md#a0e527e5f22df5c26037525f9ec886e96">EMV_CT_DOL_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#a0e527e5f22df5c26037525f9ec886e96">EMV_CTLS_DOL_STRUCT</a>
+- dollen : <a href="_e_m_v___c_t___interface_8h.md#a44df6c8c3bda6b5f532d7e963544ab45">EMV_CT_DOL_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#a44df6c8c3bda6b5f532d7e963544ab45">EMV_CTLS_DOL_STRUCT</a>
+- draw : <a href="namespacevfigui.md#a17f6c6aee2240d305ca5ad48e7bda51b">UIStatistics</a>
+- drawlist : <a href="classvfigui_1_1_u_i_drawing.md#a2fa9021ddb79df656b8f5d6199326e7f">UIDrawing</a>
+- DSRequestedOperatorID_9F5C : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a80e6584bda848e756f8c9d5a5b832812">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- dstAddr : <a href="libcom_8h.md#a152866fbf4a044141489d89cef1d8b56">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#ad4fe3ddbd316afb8972ba2f2e5a5d5c9">com_NetworkRouteInfo_IPv6</a>
+- dstNetmask : <a href="libcom_8h.md#ab1290c7bdd7d5f0c21d2dd208bef2989">com_NetworkRouteInfo_IPv4</a>
+- dstPrefixlen : <a href="libcom_8h.md#a5c6dd61c0918cead8ec430b0ae328111">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#a5c6dd61c0918cead8ec430b0ae328111">com_NetworkRouteInfo_IPv6</a>

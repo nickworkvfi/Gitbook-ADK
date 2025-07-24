@@ -1,0 +1,4 @@
+<map id="EMV_CT_DOM_CHIP_STRUCT" name="EMV_CT_DOM_CHIP_STRUCT">
+<area shape="rect" id="node1" title="Domestic non&#45;EMV chip applications supporting AID selection &#160;&#160;see EMV_CT_APPS_SELECT_STRUCT::xDomesti..." alt="" coords="5,95,216,121"/>
+<area shape="rect" id="node2" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="22,5,199,32"/>
+</map>
