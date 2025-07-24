@@ -1,0 +1,25 @@
+var group___t_e_c___r_e_t_u_r_n___c_o_d_e_s =
+[
+    [ "CTS_API_NOT_ALLOWED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga7dd3d4f95380f5b689a4e20aec5a33f7", null ],
+    [ "CTS_CHIP_WITH_WRONG_ATR", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gac43b71a6f5b22f202d8d9ae853d42cf1", null ],
+    [ "CTS_CTLS_EMV_NO_CARD", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga1279a0bd837c7c80b23c747bfe40310f", null ],
+    [ "CTS_CTLS_INIT", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga1827cb909b31c770a7af3c5521253ceb", null ],
+    [ "CTS_CTLS_NOT_ALLOWED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gaf0431ada300a75873e555d8ec68484c6", null ],
+    [ "CTS_ERR_LOAD", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga631b3ac8f6e41ecfa2aefc97296e0f75", null ],
+    [ "CTS_ERROR", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gac7ce1e8ae224edcd06cbd17046a9f9de", null ],
+    [ "CTS_IN_PROGRESS", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga7ee2b62641a168354503adbb06508deb", null ],
+    [ "CTS_MSR_ONLY_REQUEST_BUT_NO_DEVICE", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gaa49d5062e70c65550fb09392d8e955a7", null ],
+    [ "CTS_NFC_INIT", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga1527ff5876cd8d07fb7790fb9582ef8f", null ],
+    [ "CTS_NO_CHIP", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga058dc7a7d6d6562dac8171ca86f5b5c0", null ],
+    [ "CTS_NOT_STARTED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gad672622165e6bdf597675c829606bb62", null ],
+    [ "CTS_OK", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga1952f713ce2bbfa1d8b54142ca52ecc4", null ],
+    [ "CTS_PARAM", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga3e498393b2a0ebf740bb6f1e903270a0", null ],
+    [ "CTS_STOPPED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga7cc5cc3d019136c0a8942e62c558b69c", null ],
+    [ "CTS_TIMEOUT", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gae1d5a1303c3edd9aa78e9ed9b8c3207a", null ],
+    [ "CTS_UX_MSRDATA_NOT_AVAILABLE_TIMEOUT", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gadf0a2a2d0df56c222253a27bfeefdbb7", null ],
+    [ "CTS_UX_NO_MSR_DATA_AFTER_CARD_REMOVL", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gab88646562adf7c9201c7806c4ce3e962", null ],
+    [ "CTS_VAS_DATA_DECRYPTED_FAILED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gac051158cd3273d316aa38227c996503a", null ],
+    [ "CTS_VAS_DATA_DECRYPTED_OK", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga773aac25463871c28c91a217fca64caa", null ],
+    [ "CTS_VAS_DATA_ENCRYPTED_OK", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#gafb45d462dce92aeffd12f7867a2c3f6c", null ],
+    [ "CTS_VAS_DECRYPTION_NOT_REQUIRED", "group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html#ga11e77d01884f12702d0652efb875c9bd", null ]
+];

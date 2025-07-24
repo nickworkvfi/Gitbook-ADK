@@ -1,0 +1,116 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - u -
+
+- u32subu32() : <a href="_v_h_q_utils__shared_8c.md#a4c52b1745f4d3c8830a75fdf6c81a0a1">VHQUtils_shared.c</a>
+- uBTLVContentSize() : <a href="btlv_8h.md#afe9285fc51ca05d0cb7a308d89b0e79f">btlv.h</a>
+- UDP_HOST : <a href="syslogcmd_8h.md#aa5ce2add12b42175db5dbab55d3c384caf7578f5362abffff13fe66f4638fb7bc">syslogcmd.h</a>
+- UDP_PORT : <a href="syslogcmd_8h.md#aa5ce2add12b42175db5dbab55d3c384cadfc56233aff0b7514e9be0baa4571f35">syslogcmd.h</a>
+- UI_AR_FAILED : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a03b78cb3adea44b9d3f6e0191e0356ba">ui.h</a>
+- UI_AR_IN_PROGRESS : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a5572c1729b325117ab80bc8a6389a253">ui.h</a>
+- UI_AR_KEY_CANCEL : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a12ee4f536203f3b87f7fa51040bfe2ce">ui.h</a>
+- UI_AR_KEY_CLEAR : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a89739941510c2b12307dada5918c5aa8">ui.h</a>
+- UI_AR_KEY_ENTER : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965ae4d126ebdd7dc068df96a99f9fbbd251">ui.h</a>
+- UI_AR_NONE : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a6bf014695a4620f9377b7e43334ae710">ui.h</a>
+- UI_AR_TIMEOUT : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965a9bacc81bff5ef4db3f30109ecdf88ee9">ui.h</a>
+- ui_async_result : <a href="ui_8h.md#ac7e05259c409a7da9ce23ecc55fb7965">ui.h</a>
+- ui_clear() : <a href="ui_8cpp.md#a1acba8dd875b196c56fd81343bd7268c">ui.cpp</a> , <a href="ui_8h.md#a1acba8dd875b196c56fd81343bd7268c">ui.h</a>
+- ui_confirmTextKey() : <a href="ui_8h.md#ae691f65eca85109b97ccd8deac99d31b">ui.h</a> , <a href="ui_8cpp.md#ac9a69e7b36d13618ec73d405eb7edd66">ui.cpp</a>
+- ui_dialog() : <a href="ui_8cpp.md#af05890167f6e0fb9e2c1f996b68f5b15">ui.cpp</a> , <a href="ui_8h.md#a4b7319a86c184959120dce38a728d0b6">ui.h</a>
+- Ui_DialogOpts : <a href="ui_8h.md#ae940dc1b4b4dc186b37f3bba108b17c4">ui.h</a>
+- ui_displayTextKey() : <a href="ui_8cpp.md#a90fde1c78b5378ced38fc9ebdcd232dd">ui.cpp</a> , <a href="ui_8h.md#a16368be7b4e7be2510250e631e574d5f">ui.h</a>
+- ui_dispLEDs() : <a href="ui_8cpp.md#a00dd9f7eda4dffa9bfd85ee9640edd15">ui.cpp</a> , <a href="ui_8h.md#a00dd9f7eda4dffa9bfd85ee9640edd15">ui.h</a>
+- ui_enabled() : <a href="ui_8cpp.md#a1ad32d548b03e8a236234a14a403b542">ui.cpp</a> , <a href="ui_8h.md#a1ad32d548b03e8a236234a14a403b542">ui.h</a>
+- ui_enableLEDs() : <a href="ui_8cpp.md#a6ecaef1e13d1c6127adcc531dbcfcef4">ui.cpp</a> , <a href="ui_8h.md#a0d50a3becade3528b73e45167104edb2">ui.h</a>
+- ui_EnterPin() : <a href="ui_8cpp.md#af17f18bdf0615c0d25c17294b36c4c8f">ui.cpp</a> , <a href="ui_8h.md#a53aab43e03449d3bdacdde9bd16720a6">ui.h</a>
+- UI_ERR_ABORT : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea6dc64819a8719e862f267b4c31adaa2b">gui_error.h</a>
+- UI_ERR_ACTION : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea53bd48814f477e41d8ef8698e1416502">gui_error.h</a>
+- UI_ERR_BACK : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea15472ee6eda060f2cf3b851873c6d36d">gui_error.h</a>
+- UI_ERR_CANCELLED : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feae72b16ac91ed2f069ed4e315c0a66879">gui_error.h</a>
+- UI_ERR_CONNECTION_LOST : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea2ee7809161321af15ef84d5655faeb38">gui_error.h</a>
+- UI_ERR_DISPLAY : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea0f0b76a16470d668ca5249cce7984e28">gui_error.h</a>
+- UI_ERR_FAIL : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea0a03c8c4c8aeebc5f13764f769f42f4c">gui_error.h</a>
+- UI_ERR_FILE_READ : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feab1e3d97746123a542bab13edcfdc9b6a">gui_error.h</a>
+- UI_ERR_INVALID : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea2c2b0c364f6e000b6095f46251bce01d">gui_error.h</a>
+- UI_ERR_MODIFIED : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feab37b7cd2ae744a5e47a8ef15c1b0a738">gui_error.h</a>
+- UI_ERR_OK : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea0e9295b37bfaa07f3b8e2b2f666bcb08">gui_error.h</a>
+- UI_ERR_PARAMETER : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea4fb70ece1e94f28779bba6389188e2de">gui_error.h</a>
+- UI_ERR_PERMISSION : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feab947423fdbe03bf4ee7d4132a7470271">gui_error.h</a>
+- UI_ERR_PIN_ENTRY_DENIED : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea8f9428454f7865ce15b6fdc8e0ac46b3">gui_error.h</a>
+- UI_ERR_PROPERTY : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feadbe8a9e9b76ccd414fe3298b7c0fb547">gui_error.h</a>
+- UI_ERR_PROTOCOL : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea96cc0295432f6a49261ad54fe52480ee">gui_error.h</a>
+- UI_ERR_REGION : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4feadbd688cec162b05d77aab8797757c186">gui_error.h</a>
+- UI_ERR_RESTRICTED : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea8114356c722648f4ee88fd9478c790b7">gui_error.h</a>
+- UI_ERR_SCRIPT : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea3a64249431f7850af3d70beb6003e656">gui_error.h</a>
+- UI_ERR_TIMEOUT : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea25c0f4789a50189db529c844fbc5395b">gui_error.h</a>
+- UI_ERR_UNSUPPORTED : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea781613b007357a1ac3bb993fe3b3762e">gui_error.h</a>
+- UI_ERR_WAIT_TIMEOUT : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea4f30958efdaaa591b1c9a6fa002c8052">gui_error.h</a>
+- UI_ERR_WRONG_PIN : <a href="group__vfigui.md#gga83f7c4e297519549c9a54137e2eab4fea0feebab162cfb6cdcee4d17207ce129a">gui_error.h</a>
+- ui_externalDialog() : <a href="ui_8cpp.md#a8c8e9616c659c8437c056502abd215ef">ui.cpp</a> , <a href="ui_8h.md#a19379bd666609efb538105ce2ae7a807">ui.h</a>
+- ui_getAsyncResult() : <a href="ui_8cpp.md#a687a3615b892cce919e5e87b84e7d10c">ui.cpp</a> , <a href="ui_8h.md#a40088972f5ff382908110f7ca09c4562">ui.h</a>
+- ui_getInputMinLength() : <a href="ui_8cpp.md#aa7b91499b7f0047183fb60112272cef1">ui.cpp</a> , <a href="ui_8h.md#a73cf2c8bc44322fd8bc317d8209d33eb">ui.h</a>
+- ui_handleCardRequestDisplay() : <a href="ui_8cpp.md#ab30732de7d5a5c7664efde3ba8904adc">ui.cpp</a> , <a href="ui_8h.md#ab30732de7d5a5c7664efde3ba8904adc">ui.h</a>
+- ui_handleManualCardDataEntry() : <a href="ui_8cpp.md#a3361842d1c7077b38a36fb16038c2f27">ui.cpp</a> , <a href="ui_8h.md#a4ffbada8f7cd08d22a0ef5245a729f53">ui.h</a>
+- ui_handleMenu() : <a href="ui_8h.md#afd08dfc1f42b0f1bd659824a5306b445">ui.h</a> , <a href="ui_8cpp.md#ab36b3a8ffc4375efd4469d7c3ab90dec">ui.cpp</a>
+- ui_handleSecureInput() : <a href="ui_8cpp.md#ae1a3565bb963e8b3ee9d9ad8558c6552">ui.cpp</a> , <a href="ui_8h.md#a05673c488203ddc624574dbfc0bd68b6">ui.h</a>
+- ui_handleSignatureCapture() : <a href="ui_8cpp.md#ad51625e522622ff3a4d9b4248a332696">ui.cpp</a> , <a href="ui_8h.md#a0cd6b4fc4f709ac8ad90198cdb1f97d1">ui.h</a>
+- ui_htmlDialog() : <a href="ui_8cpp.md#ab5fb2651253033bd2a852aa5fe93d194">ui.cpp</a> , <a href="ui_8h.md#a6110a48d377884750953d5d64d08f3b4">ui.h</a>
+- ui_idlescreen() : <a href="ui_8h.md#aea3e6754899767db82e0d6f833217d86">ui.h</a> , <a href="ui_8cpp.md#ab0e1806a4c3d12c4b1a0cfe57dd953f8">ui.cpp</a>
+- Ui_IdleScreenOpts : <a href="ui_8h.md#abec9dedd169e58d1b41f008e16d3a8eb">ui.h</a>
+- ui_init() : <a href="ui_8cpp.md#a4d87ff365759c09fcaf72d5055afa034">ui.cpp</a> , <a href="ui_8h.md#a68956acd7367ab924e908aa21ff69977">ui.h</a>
+- Ui_MenuOpts : <a href="ui_8h.md#a03c36e7a7b2a4a8348a923d1bbea40cd">ui.h</a>
+- Ui_PinBypass : <a href="ui_8h.md#a35047e077ef95212c81b8fbba2fbb3e1">ui.h</a>
+- Ui_PinOpts : <a href="ui_8h.md#ae6494117b1b0c196ab1b9981ab683c49">ui.h</a>
+- UID : <a href="libevt_8h.md#a83aa1253e238763a389f784ff78d569e">libevt.h</a>
+- UIError : <a href="group__vfigui.md#ga83f7c4e297519549c9a54137e2eab4fe">gui_error.h</a>
+- UL_FILE_METHOD_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#ae103eac25bb6c706fad5331e5f9a6897">VHQXmlDictionary.c</a>
+- ul_file_method_xml_conv_t : <a href="_v_h_q_xml_dictionary_8c.md#ab7cb150d66032a81ece0abd1f0ee2534">VHQXmlDictionary.c</a>
+- UL_FILE_TYPE_CONV_TABLE_SIZE : <a href="_v_h_q_xml_dictionary_8c.md#aa4db176cff20fa6d25f294d3d662d6ba">VHQXmlDictionary.c</a>
+- ul_file_type_xml_conv_t : <a href="_v_h_q_xml_dictionary_8c.md#a36f6e8cac49ceacc9ceb2d1b1515801d">VHQXmlDictionary.c</a>
+- ulBTLVGetTagNumber() : <a href="btlv_8h.md#abb24425dcf4f8a780a014247b2dad8c7">btlv.h</a>
+- ulBTLVTagNum() : <a href="btlv_8h.md#ace353f55cd1d0a53a729184ed82ae418">btlv.h</a>
+- ULTAG2ASC : <a href="btlv_8h.md#a5ac8dbc13c1b366634608e665414cb0b">btlv.h</a>
+- ULTAG2ASCBUF : <a href="btlv_8h.md#ab33e2864700c667b7fab74ab32e1f661">btlv.h</a>
+- ULTRALIGHT : <a href="titusstubs_8cpp.md#ab0ee3b39e7b9a5230150a96670251567">titusstubs.cpp</a>
+- ULTRALIGHT_C : <a href="titusstubs_8cpp.md#a55a3805e87e8aed0644c5026399e4b57">titusstubs.cpp</a>
+- UnBase64() : <a href="_web_service_wrappers_8c.md#a43a36d429fa3d939ffc2ae91532541a6">WebServiceWrappers.c</a>
+- UNKNOWN : <a href="titusstubs_8cpp.md#ac1ae4add974b9cfc6b5aaf8a578f01ab">titusstubs.cpp</a>
+- UNKOWN_CAUSE_OF_DEATH : <a href="libsecins_8h.md#a31572f5d31caceab4e03a371a9647d67">libsecins.h</a>
+- unregisterPlugin() : <a href="loadplugin_8cpp.md#a9466acd3b9b72635116b8b57c1420fb1">loadplugin.cpp</a> , <a href="loadplugin_8h.md#ad6bac1f9779d250bb674c1c1e481fc50">loadplugin.h</a>
+- UnRegisterUserApp() : <a href="_v_h_q_utils___app_interface_8c.md#aecf36bf14f3edf020d6c789e38c91942">VHQUtils_AppInterface.c</a>
+- UnRegisterUserApps() : <a href="_v_h_q_utils___app_interface_8c.md#af373ecc5a615c0dcb7e8fabe7b5abda9">VHQUtils_AppInterface.c</a>
+- unused_files : <a href="_v_h_q_utils___m_x_8c.md#a3a6a1fe32f8055fa03de252913bbf404">VHQUtils_MX.c</a>
+- UPDATE_KEY_COM : <a href="sec2_8h.md#a453e6542f2cb31abde608e81d8ba6837a43547836bc7dabed9e4d388547ccff32">sec2.h</a>
+- UPDATE_REMOVE_FILE : <a href="filesystem_8h.md#a48533203b3ec3c60f01d6eb6db397f3c">filesystem.h</a>
+- UpdateCPInstalledApps() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a5eded2588b30fa2f80f56d8c0f77a228">VHQUtils_shared_cpp.cpp</a>
+- UPLOAD_TYPE_CONFIG_CARD_RANGES : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a81fd3b513fd362d89e3aa7694b8da5ba">sys.h</a>
+- UPLOAD_TYPE_CONFIG_SDIEMV : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a794564e38d5b307089756bf59d4cefa9">sys.h</a>
+- UPLOAD_TYPE_CONFIG_SENSITIVE_TAGS : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a2673e19024e6247e70a2af83476dde43">sys.h</a>
+- UPLOAD_TYPE_CONFIG_WHITELIST : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a34f5269aab5031c2734b5adc6680497e">sys.h</a>
+- UPLOAD_TYPE_CP_PACKAGE : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a87320aad5379f54e7385ba48e735b3e2">sys.h</a>
+- UPLOAD_TYPE_EMV_CONFIG_PACKAGE : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a538ea2e0f3f71bc276c0d87787edf922">sys.h</a>
+- UPLOAD_TYPE_FIRMWARE_UPDATE : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a7ea1f2e7950b794e9cb1937237ad67af">sys.h</a>
+- UPLOAD_TYPE_KEYS : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a45cf0bd2cd8c067e00540e4eeb5cf688">sys.h</a>
+- UPLOAD_TYPE_MAX : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a51246b9edc5cc59323c993619584e692">sys.h</a>
+- UPLOAD_TYPE_PLUGIN : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a0e250606f2be91f748221a82209ead8a">sys.h</a>
+- UPLOAD_TYPE_REMOVE_CONFIG_SDIEMV : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a41e05b1531d19de605151972bfd31bec">sys.h</a>
+- UPLOAD_TYPE_REMOVE_PLUGIN : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0affd345175d249f8c98f96e0ee0d19c17">sys.h</a>
+- UPLOAD_TYPE_REMOVE_SPONSOR : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0ac0b55fa237e2c9e6404a01ddaa64e114">sys.h</a>
+- UPLOAD_TYPE_SOFTWARE_UPDATE : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a7bf67041c45c44d425c383a7ebcdfe46">sys.h</a>
+- UPLOAD_TYPE_UVRK_PACKAGE : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0a90968c682bc475511600bccf72633511">sys.h</a>
+- UploadFile() : <a href="_file_upload_8c.md#aa5606dfa84fa414e17f2f5c95dfe1e6a">FileUpload.c</a>
+- UploadFileWebMethod() : <a href="_file_upload_8c.md#a0a2e99b4c44bcc1dea07eaa6c9b50832">FileUpload.c</a>
+- UploadType : <a href="sys_8h.md#a6cd49ae0288c8ad7e57768049b88e2c0">sys.h</a>
+- URLUnescape() : <a href="_v_h_q_downloader_8c.md#aac6734b36de8157853341542b24c2ba9">VHQDownloader.c</a>
+- USB : <a href="syslogcmd_8h.md#a3634f6fef0c62931e673162e0714d39ca65f6b55fdc64778bf10632a795b97761">syslogcmd.h</a>
+- USB_PERIPH_DEVICE_INFO_MAX_TAG_LEN : <a href="_v_h_q_utils___m_x_8c.md#a87010e53d3548e6054d6f6e2ecc72689">VHQUtils_MX.c</a>
+- USE_DEFAULT_CV_FLAG_SIZE : <a href="sec2_8h.md#ad99b42eb6c3ffec1b546dc2b2ec7cb51">sec2.h</a>
+- USE_RESPONSE_RECV_QUEUE : <a href="_v_h_q_manager_8c.md#af693a1d22d4d2bc9f5f68f9012bc5978">VHQManager.c</a>
+- USE_X509_V3_EXTENSIONS : <a href="_v_h_q_security_8c.md#a5366e6bcd1d6f0d68372274755b70d47">VHQSecurity.c</a>
+- user_cb_t : <a href="_v_h_q_utils___content_8c.md#a2e92c350b5106ce04fc71e25292acd86">VHQUtils_Content.c</a>
+- USR_LOG_FILE_OUT_NAME : <a href="_v_h_q_utils___m_x_8c.md#ae162cb1c325e323963b1c1695a94f187">VHQUtils_MX.c</a>
+- utility_PutenvFilename() : <a href="_v_h_q_utils__shared_8c.md#af42e0d043501e09aff2f156087ff15fd">VHQUtils_shared.c</a>

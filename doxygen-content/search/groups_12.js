@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['tags_20for_20transport_20layer_27751',['Tags for transport layer',['../group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.html',1,'']]],
+  ['transaction_20execution_27752',['Transaction execution',['../group___a_d_k___t_r_x___e_x_e_c.html',1,'']]],
+  ['tags_20for_20configuration_20storage_27753',['Tags for configuration storage',['../group___a_d_k___x_m_l___t_a_g_s.html',1,'']]],
+  ['types_20of_20external_20application_20selection_27754',['Types of external application selection',['../group___d_e_f___c_b_k___s_e_l.html',1,'']]],
+  ['terminal_20data_27755',['Terminal Data',['../group___d_e_f___c_o_n_f___t_e_r_m.html',1,'']]],
+  ['text_20data_27756',['Text data',['../group___d_e_f___c_o_n_f___t_e_x_t.html',1,'']]],
+  ['terminal_20data_3a_20which_20data_20is_20valid_27757',['Terminal data: Which data is valid',['../group___d_e_f___i_n_p_u_t___t_e_r_m.html',1,'']]],
+  ['transaction_20input_3a_20which_20data_20is_20included_27758',['Transaction input: Which data is included',['../group___d_e_f___i_n_p_u_t___t_r_x.html',1,'']]],
+  ['technologies_20used_20in_20tecsupport_5fdfab30_27759',['technologies used in TecSupport_DFAB30',['../group___d_e_f___t_e_c.html',1,'']]],
+  ['tags_20defined_20by_20emvco_27760',['Tags defined by EMVCo',['../group___e_m_v_c_o___t_a_g_s.html',1,'']]],
+  ['track_20type_20code_27761',['Track Type Code',['../group___m_s_r___t_r_a_c_k___t_y_p_e_s.html',1,'']]],
+  ['three_2dbyte_2dtags_27762',['Three-byte-tags',['../group___p_r_i_m___t_a_g_s__3_b_y_t_e.html',1,'']]],
+  ['tac_2fiac_20denial_20processing_20in_20case_20of_20offline_20only_20terminals_27763',['TAC/IAC DENIAL processing in case of Offline Only terminals',['../group___t_a_c___i_a_c___d_e_n_i_a_l.html',1,'']]],
+  ['tec_20result_20data_20tags_27764',['TEC result data tags',['../group___t_e_c___d_a_t_a___t_a_g_s.html',1,'']]],
+  ['tec_20option_20tags_27765',['TEC option tags',['../group___t_e_c___o_p_t_i_o_n___t_a_g_s.html',1,'']]],
+  ['tec_20return_20codes_27766',['TEC return codes',['../group___t_e_c___r_e_t_u_r_n___c_o_d_e_s.html',1,'']]],
+  ['tec_20start_20options_27767',['TEC start options',['../group___t_e_c___s_t_a_r_t___o_p_t_i_o_n_s.html',1,'']]],
+  ['tec_20technology_20code_27768',['TEC technology code',['../group___t_e_c___t_e_c_h_n_o_l_o_g_i_e_s.html',1,'']]],
+  ['terminal_20configuration_3a_20collection_20of_20flow_20options_27769',['Terminal configuration: Collection of flow options',['../group___t_e_r_m___f_l_o_w___o_p_t_i_o_n_s.html',1,'']]],
+  ['terminaltypes_20_28tag_209f35_29_27770',['Terminaltypes (Tag 9F35)',['../group___t_e_r_m___t_y_p_e_s.html',1,'']]],
+  ['tlv_20tags_20for_20callback_20functions_27771',['TLV tags for callback functions',['../group___t_l_v___c_b_c_k.html',1,'']]],
+  ['tags_20for_20callback_20functions_27772',['Tags for callback functions',['../group___t_l_v___c_b_c_k___t_l_v.html',1,'']]],
+  ['tlvlite_27773',['TLVLite',['../group___t_l_v_lite.html',1,'']]],
+  ['transaction_20type_20_28tag_209c_29_27774',['Transaction type (Tag 9C)',['../group___t_r_a_n_s___t_y_p_e_s.html',1,'']]],
+  ['tags_20for_20transaction_20log_20subfields_27775',['Tags for Transaction Log subfields',['../group___v_e_r_i___t_r_x___l_o_g___s_u_b_f_i_e_l_d_s.html',1,'']]]
+];

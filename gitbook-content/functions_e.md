@@ -1,0 +1,159 @@
+---
+title: "ADK-Programmers-Guides: Data Fields"
+---
+
+Here is a list of all struct and union fields with links to the structures/unions they belong to:
+
+### - e -
+
+- eCallback : <a href="_event_scheduler_8c.md#aef8b57765581753712bc37726ae5cfc5">_running_event_t</a>
+- EMV_Application : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a04624c8cc1358b3d029f8c77a930c0c6">EMV_CT_APPLIDATA_STRUCT</a>
+- emvCbApplicationSelectionMode() : <a href="class_config.md#a5a8c5335314e732e88c98d2991f92a8e">Config</a>
+- emvCbLedMode() : <a href="class_config.md#a740eac1df9ee3ab84f8da9200b470ed1">Config</a>
+- emvCtActivate() : <a href="group__sdiemvct.md#ga1b64520292eb100379a66506410e1498">SDIClient</a>
+- emvCtAddVirtualMapEntry() : <a href="group__sdiemvct.md#gaed1f434e83f7bad87bd10297db1f46e1">SDIClient</a>
+- emvCtApplyConfig() : <a href="group__sdiemvct.md#ga9fa6b39a32dac9e3dace2da24b13ef28">SDIClient</a>
+- emvCtCheckSupportedAID() : <a href="group__sdiemvct.md#gaefc0a540fb8dca7dc8963b38d12483dd">SDIClient</a>
+- emvCtClearAllAppData() : <a href="group__sdiemvct.md#ga15d5acbf680a16bb9fa58146232bd53d">SDIClient</a>
+- emvCtClearAllCAPKey() : <a href="group__sdiemvct.md#ga6acbc3afd9b3684c2408f33dc7adb511">SDIClient</a>
+- emvCtClearAppData() : <a href="group__sdiemvct.md#gabeb9eb402b2eb472d9669cb539d70c21">SDIClient</a>
+- emvCtClearCAPKey() : <a href="group__sdiemvct.md#ga3237b8c051cba8a9de6bb7b1deb2d9b4">SDIClient</a>
+- emvCtClearVirtualMap() : <a href="group__sdiemvct.md#ga941c47f8f9d3650dadcc9da8eac4790f">SDIClient</a>
+- emvCtContinueOffline() : <a href="group__sdiemvct.md#ga86ab37913621b426168287bd056b65e0">SDIClient</a>
+- emvCtContinueOnline() : <a href="group__sdiemvct.md#gaee89fc9dd333bb118002d81a31dd3dc0">SDIClient</a>
+- emvCtDeactivate() : <a href="group__sdiemvct.md#gad4b483aedd67eed8acba2de9401a4e5e">SDIClient</a>
+- emvCtEndTransaction() : <a href="group__sdiemvct.md#gab395504ca5ba10279b3d2558d8f2f445">SDIClient</a>
+- emvCtExit() : <a href="group__sdiemvct.md#gae22aec496c1680b13a01aa24479ef01a">SDIClient</a>
+- emvCtGetAppData() : <a href="group__sdiemvct.md#ga3dfc457cefe50113a11c938966acc7ca">SDIClient</a>
+- emvCtGetCandidateData() : <a href="group__sdiemvct.md#ga6c08e41791ce0350c0d60cc3bff270c3">SDIClient</a>
+- emvCtGetCAPKeys() : <a href="group__sdiemvct.md#ga6893b0ae2ebb1d3acdfd73f34257dedb">SDIClient</a>
+- emvCtGetTermData() : <a href="group__sdiemvct.md#gaf1c30d9a23a3e9efa1be3a980b9dbaf9">SDIClient</a>
+- emvCtInit() : <a href="group__sdiemvct.md#gad6711aee99833a043d48f3e8fee06bfe">SDIClient</a>
+- emvCtLED() : <a href="group__sdiemvct.md#gaec12efc7ee796e4568cacad0563a8e4c">SDIClient</a>
+- emvCtlsAddVirtualMapEntry() : <a href="group__sdiemvctls.md#ga9c9f0007a51a4e293e8f9111ad770eee">SDIClient</a>
+- emvCtlsApplyConfig() : <a href="group__sdiemvctls.md#gabe7c2da50e7c99edd0be362edc318f1f">SDIClient</a>
+- emvCtlsBreak() : <a href="group__sdiemvctls.md#ga78bc595e2e18a724bcd058293f20f42a">SDIClient</a>
+- emvCtlsCardRemoval() : <a href="group__sdiemvctls.md#ga2f3d0a09fde2adb4976b4de20b4960eb">SDIClient</a>
+- emvCtlsClearAllAppData() : <a href="group__sdiemvctls.md#gac5b5a74d96f17842be87224b05e44848">SDIClient</a>
+- emvCtlsClearAllCAPKey() : <a href="group__sdiemvctls.md#ga502ed08108d6332d81363fc91751c058">SDIClient</a>
+- emvCtlsClearAppData() : <a href="group__sdiemvctls.md#ga9b0b06aff8b4da1a78862aebf314bb19">SDIClient</a>
+- emvCtlsClearCAPKey() : <a href="group__sdiemvctls.md#ga40d2eb0dc5204e9cc36e1d3d01d9e60b">SDIClient</a>
+- emvCtlsClearVirtualMap() : <a href="group__sdiemvctls.md#ga272423d3c7d96317935bf6776ede13cc">SDIClient</a>
+- emvCtlsContinueOffline() : <a href="group__sdiemvctls.md#ga3d7af5b1abb9e82528090ea0b97af2a8">SDIClient</a>
+- emvCtlsContinueOnline() : <a href="group__sdiemvctls.md#gae66d22e73cdca107e0ee26f75001909d">SDIClient</a>
+- emvCtlsEndTransaction() : <a href="group__sdiemvctls.md#ga89c6ff048d7205fd370105d28c7aa281">SDIClient</a>
+- emvCtlsExit() : <a href="group__sdiemvctls.md#ga85aeca6437d27dca9eb0b6b6a1172d30">SDIClient</a>
+- emvCtlsGetAppData() : <a href="classvfisdi_1_1_s_d_i_client.md#a8cc8edc235bf6628f1afb8fb935ac3c0">SDIClient</a>
+- emvCtlsGetCandidateData() : <a href="group__sdiemvctls.md#ga7aefe56baf8b79b66daa8ca540c18be1">SDIClient</a>
+- emvCtlsGetCAPKeys() : <a href="group__sdiemvctls.md#ga8abad069d0a36ab402c44fa40a95e070">SDIClient</a>
+- emvCtlsGetTermData() : <a href="group__sdiemvctls.md#gaf98a186dddd05201e43fb0367a502970">SDIClient</a>
+- emvCtlsInit() : <a href="group__sdiemvctls.md#ga5d0d1ee0476110319706f7476480d31c">SDIClient</a>
+- emvCtlsLED() : <a href="group__sdiemvctls.md#gad24435024b28327d135c061151db741a">SDIClient</a>
+- emvCtlsLEDMode() : <a href="group__sdiemvctls.md#ga63fc14bc59b3426b8a6e4dcd7a100c96">SDIClient</a>
+- emvCtlsSendReceive() : <a href="group__sdiemvctls.md#gac36d7c68fabaf8225c6acade1f4bfb1f">SDIClient</a>
+- emvCtlsSetAppData() : <a href="classvfisdi_1_1_s_d_i_client.md#a429b96538cc47af616162b09593bde87">SDIClient</a>
+- emvCtlsSetCAPKey() : <a href="group__sdiemvctls.md#gaf12ec57b22c2213232f119406a195858">SDIClient</a>
+- emvCtlsSetTempAppData() : <a href="group__sdiemvctls.md#gacb9c40d93e7d5b69dfca505bfcfe5977">SDIClient</a>
+- emvCtlsSetTermData() : <a href="group__sdiemvctls.md#gab27565ffa61750c9ac8b8cca545c2a9b">SDIClient</a>
+- emvCtlsSetupTransaction() : <a href="group__sdiemvctls.md#ga4f0949a8e60a80d1fe89ebfdd0e6229c">SDIClient</a>
+- emvCtlsSmartPowerOff() : <a href="group__sdiemvctls.md#gaa7ec430ad86d4cf17bfcd83d65223e58">SDIClient</a>
+- emvCtlsSmartReset() : <a href="group__sdiemvctls.md#gab1319402726475d6fd9dfe3985d9f61b">SDIClient</a>
+- emvCtlsTransparentCommand() : <a href="group__sdiemvctls.md#ga9d60e92ebb64869001ae8775d3bba79f">SDIClient</a>
+- emvCtlsTransparentReceive() : <a href="group__sdiemvctls.md#ga1624472f128b5045a8d9d5f8483b4c50">SDIClient</a>
+- emvCtlsTransparentSend() : <a href="group__sdiemvctls.md#gad766e0414731ba8f65bb1893791ad088">SDIClient</a>
+- emvCtSendOfflinePIN() : <a href="group__sdiemvct.md#ga747fff73942aeb4dd3044e21b92fe2f6">SDIClient</a>
+- emvCtSendReceive() : <a href="group__sdiemvct.md#gae7159a6fea1148a5b5cd55d5b92ada80">SDIClient</a>
+- emvCtSetAppData() : <a href="group__sdiemvct.md#gad482a37b1082d447a9e161ade0227866">SDIClient</a>
+- emvCtSetCAPKey() : <a href="group__sdiemvct.md#ga25113df529675bc6620bd099ed4a0316">SDIClient</a>
+- emvCtSetTempAppData() : <a href="group__sdiemvct.md#ga008b2dddcc79d3243e8e78d508c51831">SDIClient</a>
+- emvCtSetTermData() : <a href="group__sdiemvct.md#gaff02863da38410b9eee8353969430986">SDIClient</a>
+- emvCtSmartDetect() : <a href="group__sdiemvct.md#ga76e3cfe87f8b9f377bb3f513fe8b85a8">SDIClient</a>
+- emvCtStartTransaction() : <a href="group__sdiemvct.md#ga7d82aeffa340e1da5b83f494b7814567">SDIClient</a>
+- emvCtUpdateTxnTags() : <a href="group__sdiemvct.md#ga6c8b8d13261c96bd437fe3d0d2276730">SDIClient</a>
+- EMVSpecialTransactions() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a526af424c8deb1dbe45d55c784a22cb0">EMVSpecialTransactions</a>
+- emvXAddVirtualMapEntry() : <a href="classvfisdi_1_1_s_d_i_client.md#a87eded575f8dfe992b2b4450d2975d39">SDIClient</a>
+- emvXApplyConfig() : <a href="classvfisdi_1_1_s_d_i_client.md#aaf5af7825495bd600e3295547e1c4c1b">SDIClient</a>
+- emvXClearAllCAPKey() : <a href="classvfisdi_1_1_s_d_i_client.md#aeb0d5db9f968c9ce1a25b80decaa4d38">SDIClient</a>
+- emvXClearCAPKey() : <a href="classvfisdi_1_1_s_d_i_client.md#a6e8be401d7fb3bda743d2ab7d1992093">SDIClient</a>
+- emvXClearVirtualMap() : <a href="classvfisdi_1_1_s_d_i_client.md#a68a201c826326e8f017b02166e31607b">SDIClient</a>
+- emvXContinueOnline() : <a href="classvfisdi_1_1_s_d_i_client.md#aed67d46a3c181ab6bc8e9228ee804739">SDIClient</a>
+- emvXEndTransaction() : <a href="classvfisdi_1_1_s_d_i_client.md#aa2dddfa77155612f0cdb7b3e8007571a">SDIClient</a>
+- emvXExit() : <a href="classvfisdi_1_1_s_d_i_client.md#af3fa6b2387f473f89c03a72190e57e47">SDIClient</a>
+- emvXGetCAPKeys() : <a href="classvfisdi_1_1_s_d_i_client.md#ade0f9d6359fb25c09a7b8aab6e54ef37">SDIClient</a>
+- emvXGetTermData() : <a href="classvfisdi_1_1_s_d_i_client.md#aa87ec169da1e1106453de322c46e2174">SDIClient</a>
+- emvXSetCAPKey() : <a href="classvfisdi_1_1_s_d_i_client.md#a317109398756fb4ffd4bddcc5b54c5c6">SDIClient</a>
+- emvXSetTermData() : <a href="classvfisdi_1_1_s_d_i_client.md#aeb798b31f221a67207179ac451e161b5">SDIClient</a>
+- enableEpp() : <a href="classlibsdi_1_1_s_d_i.md#ac278a950191d5e0d23d3b752ad9eaf04">SDI</a>
+- Enc_Arabic : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaa18b99fc8bb4bbf026ab9ae72bb133847">CodeConverter</a>
+- Enc_Cyrillic : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaa857ba98dd24383f0390224be7a3c9df0">CodeConverter</a>
+- Enc_Greek : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaae40e974acb89116fdc71488325ce7f9a">CodeConverter</a>
+- Enc_Hebrew : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaabb4c36a4b2b3f00af4d755383bc5ae3c">CodeConverter</a>
+- Enc_Last : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaaddacdc98cc86f1701b7b50ab62994153">CodeConverter</a>
+- Enc_Latin1 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaab344ef64ff97bde2a5be0a6060614c9c">CodeConverter</a>
+- Enc_Latin2 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaaf951452b08eae4d39b9395f76b8565db">CodeConverter</a>
+- Enc_Latin3 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaac6301e7a781fe47ba09bf7e05b32ad6b">CodeConverter</a>
+- Enc_Latin4 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaaf46eef9e3727c051112a527facf09fee">CodeConverter</a>
+- Enc_Latin5 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaa81d9e8b57d581b2d2c3f76e535591e7e">CodeConverter</a>
+- Enc_Latin6 : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaa4b1e26b2b2fd6cb1090c5fd11c3840bc">CodeConverter</a>
+- Enc_None : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faaa877d60443644fbd25a1a582fb4be1102">CodeConverter</a>
+- Encoding : <a href="class_code_converter.md#afb0564821f132bfe74508af8349a0faa">CodeConverter</a>
+- encoding : <a href="xmldoc_8h.md#ab6ecbfeecc6ed099337748958c2771bc">XMLDocument</a> , <a href="struct_x_m_l_tokenizer.md#ab6ecbfeecc6ed099337748958c2771bc">XMLTokenizer</a>
+- encrypt() : <a href="class_auth.md#aaea1d16d32c15533a4083c393e6cec2c">Auth</a> , <a href="class_auth_sec.md#a10480c2f42d70c4fc3a332d9d2bea3bf">AuthSec</a> , <a href="classlibsdi_1_1_sdi_crypt.md#ad2ac275f8a1634eb37ec84ebf004b3cb">SdiCrypt</a>
+- encryptCardData() : <a href="classvficpl_1_1_api.md#a984a04798db293477652887ef5e8e4c5">Api</a>
+- end() : <a href="classvfiipc_1_1_j_s_object.md#acad38d52497a975bfb6f2f6acd76631f">JSObject</a>
+- end_cb() : <a href="classpackmanlib_1_1treewalk_1_1_observer.md#a5feaf5a94cffa0c0d626f4ba4573c9b7">Observer</a>
+- endEncTrxData() : <a href="classlibsdi_1_1_sdi_crypt.md#a000632209707b04739d161ee4dda6600">SdiCrypt</a>
+- ending() : <a href="classpackmanlib_1_1node_1_1_u_pfile.md#a51690c9eb0fecfee24aa4d263c019eb7">UPfile</a>
+- enterData() : <a href="class_key_pad.md#ae75da121153940018e2e437cede0cc3d">KeyPad</a> , <a href="class_touch_pad.md#ae75da121153940018e2e437cede0cc3d">TouchPad</a>
+- Entry() : <a href="struct_directory_1_1_entry.md#a39deb917068018b4c69ffb32652454ab">Directory::Entry</a>
+- EnvironmentDataProvider() : <a href="classvficpl_1_1_environment_data_provider.md#a1ec2f9c2a19de504275fb35f0ae70602">EnvironmentDataProvider</a>
+- eof() : <a href="classvfiipc_1_1_i_p_c.md#a044713f1fcbdbec24aae467186a95481">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#a044713f1fcbdbec24aae467186a95481">TLS</a>
+- ePermissionFlags : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#ab3f9770819064256df1acad2b1f099e7">CTransactionValue</a>
+- erase() : <a href="classvfiipc_1_1_j_s_object.md#a552d9cee9942f9a9bfaa70fccfc0cd7f">JSObject</a>
+- erasepos() : <a href="classvfisdi_1_1_t_l_v.md#ad1030ac85b7ccb1fe5e190a2d1b40c79">TLV</a>
+- erasetag() : <a href="classvfisdi_1_1_t_l_v.md#a932be40e588c0287cb1fa38e4f3a152d">TLV</a>
+- ERR_AUTHENTICATION : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a7dd9a153fe10c7a21a2566e7ba44d73b">TLS</a>
+- ERR_CONNECT : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a1680e220936ae0a13c6b5064cca769c8">TLS</a>
+- ERR_FAIL : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a7c727caca2883143309d0d5a920e4da2">TLS</a>
+- ERR_HOST : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a49b4659ab34e5808bae4b43669ae5689">TLS</a>
+- ERR_PORT : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5ae2590a9116d0e64c0d011a7dddedb141">TLS</a>
+- ERR_SOCKET : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a8e593677a42340431dde3c8c6a80cd7d">TLS</a>
+- ERR_TIMEOUT : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5ac568baeb6407ef5e2630084ccbc34be8">TLS</a>
+- ERR_UNKNOWN_HOST : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5a95847da56fb6dea0be47b2b8126901ac">TLS</a>
+- error() : <a href="class_u_i_catalog.md#a088fd30b0c4d1f217fcf44728f789f36">UICatalog</a> , <a href="classvfigui_1_1_u_i_c_b_data.md#a2d1c7737e3a8c5dc2640eadcb7e1b94f">UICBData</a> , <a href="classvfiipc_1_1_i_p_c.md#a090dfa7806330da64843832e3985ebdf">IPC</a>
+- Error : <a href="classvfiipc_1_1_t_l_s.md#a2c3e4bb40f36b262a5214e2da2bca9c5">TLS</a>
+- error() : <a href="classvfiipc_1_1_t_l_s.md#a090dfa7806330da64843832e3985ebdf">TLS</a> , <a href="classvfisysinfo_1_1_ini_file.md#ac35c7adbd44f224202759428686131be">IniFile</a>
+- errorCode : <a href="group__inf__util__public.md#aa3ee3eda7281264af498587b1f244d28">ErrorInfo</a>
+- errorCorrectionLevel : <a href="classvficpl_1_1_barcode.md#a82e2e7af34a1d3abdab4260b36fc9d1e">Barcode</a>
+- errorDescription : <a href="namespacevficpl.md#a81f3431ae8b154ef3a7ec3dab5768842">TransactionData</a>
+- ErrorType : <a href="structvfigui_1_1_u_i_error_entry.md#ab0df38968e4f03a3f1f6d6df0f31f45a">UIErrorEntry</a> , <a href="structvfiprt_1_1_prt_error_entry.md#ab0df38968e4f03a3f1f6d6df0f31f45a">PrtErrorEntry</a>
+- ETX : <a href="classvfisdi_1_1_s_d_i_client.md#a05589fbab0657f08285ebdfe93f5ec9eae9728f665daeb16ebddd914aad281490">SDIClient</a>
+- event_id : <a href="_event_scheduler_8c.md#a20838f9f7e1ad964153f5d86d543a739">_running_event_t</a>
+- event_mask : <a href="_v_h_q_utils___app_interface_8c.md#a777ba8929c70dcd7d0533686776b20e1">appData_t</a>
+- event_set_id : <a href="_v_h_q_manager_8c.md#a0f0efa74898d4499fca63b42982eeb72">_heart_beat_event_id_t</a> , <a href="_event_scheduler_8c.md#a0f0efa74898d4499fca63b42982eeb72">_running_event_t</a> , <a href="_v_h_q_downloader_8c.md#a0f0efa74898d4499fca63b42982eeb72">suppressed_action_t</a>
+- eventMask : <a href="svc__tms_8h.md#a09921bc1a0ccbbcc47e3060dad4fe4f4">tmsEventData</a>
+- eventName : <a href="svc__tms_8h.md#ae6f2b2515d7ad5e8c0ba83343bc129bf">tmsCustomAppEventStruct</a>
+- EventPipe() : <a href="classvficom_1_1_event_pipe.md#a68974657c4a131a81db2e29ae416a24f">EventPipe</a>
+- evtType : <a href="svc__tms_8h.md#af779e05b97b617b213985a1eb1dad15c">tmsEventData</a>
+- exact_match : <a href="_v_h_q_utils___m_x_8c.md#a6bcfe0454938536d6d7fd55f0391472a">UNUSED_FILE_INFO</a>
+- Exception() : <a href="classvficom_1_1_exception.md#a6305a17f2ed7981afc9ab66ebfc0f2fd">Exception</a>
+- ExcludeCombos : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#ad87415ec2bcc2e988462d432a46f8065">EMV_CTLS_APPS_SELECT_STRUCT</a>
+- ExcludeEmvAIDs : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a58e0122d8211771ecfc3b84680d7992d">EMV_CT_APPS_SELECT_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a8c1843ea36091b75459472cb4077e61e">EMV_CTLS_APPS_SELECT_STRUCT</a>
+- exists() : <a href="classvfiipc_1_1_j_s_object.md#aa4ea356b09aecedf90ac050e63244569">JSObject</a> , <a href="structvfisdi_1_1_e_m_v_conf.md#afaab4aca1d134a05fb0990b5c78a9575">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#afaab4aca1d134a05fb0990b5c78a9575">EMVTxn</a>
+- exp_date : <a href="msr__common_8h.md#a10c25c3107dd3017b9cc33e97ebdafc6">MSR_Decoded_Track_1</a> , <a href="msr__common_8h.md#a10c25c3107dd3017b9cc33e97ebdafc6">MSR_Decoded_Track_2</a>
+- expectedResponseLen : <a href="titusstubs_8cpp.md#a771c823d365347b3957db4f1735ac614">apduTxData</a>
+- expectedResultMaxSize : <a href="titusstubs_8cpp.md#a3212b199b7898c5276cf6e78b36b716a">authenticationParams</a> , <a href="titusstubs_8cpp.md#a3212b199b7898c5276cf6e78b36b716a">getServicesParams</a>
+- expectResLen : <a href="titusstubs_8cpp.md#a693f8b7f9e3f48577af204c61c5e5d6f">apduCommand</a>
+- expirationCheck : <a href="group__sdidata.md#a09635980dcd3e947ee59c28d1e952280">SDIClient::Matching</a>
+- expire_time : <a href="_event_scheduler_8c.md#a2b3f06c696948934d135412e95503434">_running_event_t</a>
+- expirycheck_result : <a href="structlibsdi_1_1_matching_record.md#a4ab1b1ecf5d69786337865651153c757">MatchingRecord</a>
+- exponent : <a href="sdi_2src_2util_8h.md#a72c3769333f999f24e93d7cbe014ad6f">CurrMapTable</a>
+- Exponent : <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a65d7fb542cdae2f7104b266bbe3ac9b2">EMV_CT_CAPKEY_STRUCT</a> , <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a65d7fb542cdae2f7104b266bbe3ac9b2">EMV_CTLS_CAPKEY_STRUCT</a>
+- ExpTrans : <a href="group___a_d_k___t_r_x___e_x_e_c.md#aaa3e0774e163e148c88b989c3ada3b76">EMV_CT_PAYMENT_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#aaa3e0774e163e148c88b989c3ada3b76">EMV_CT_TERMDATA_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#aaa3e0774e163e148c88b989c3ada3b76">EMV_CTLS_PAYMENT_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#aaa3e0774e163e148c88b989c3ada3b76">EMV_CTLS_TERMDATA_STRUCT</a>
+- ext : <a href="libcom_8h.md#aec25a19ed65186b2c2cfbaab5de8feef">com_BLEAttribute</a>
+- extendedMessage : <a href="group__inf__util__public.md#aef6e9746044b5d9d1a8587aad88f51dd">ErrorInfo</a>
+- extendedPrice : <a href="classvficpl_1_1_merchandise.md#a14b3e5ecfc706155619b29e769d3cf62">Merchandise</a>
+- Extern : <a href="class_u_i_catalog.md#a315655b1bb5848c063491adffde62b15acc2095146c832d047006acd1fbad8d40">UICatalog</a>
+- externalButton() : <a href="classlibsdi_1_1_s_d_i.md#a722ba5f41a2b506f89e3bc446d6aeabd">SDI</a>
+- ExtInt : <a href="class_u_i_catalog.md#a315655b1bb5848c063491adffde62b15a0f50e7103bfa6183d89169bdd33f16af">UICatalog</a>
+- extract_to_dir() : <a href="classpackmanlib_1_1io_1_1_archive_extractor.md#af5ac9f1de30d905c2558a90d9b8deaf5">ArchiveExtractor</a>

@@ -1,0 +1,81 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:
+
+### - k -
+
+- kDL_ASCII_APOSTROPHE : <a href="dl__base_8h.md#aa97126d7b1a9dd7baba1b543a045a8a7">dl_base.h</a>
+- kDL_ASCII_BACKSLASH : <a href="dl__base_8h.md#a0bbdfedff83d9a128e3aae158508ec67">dl_base.h</a>
+- kDL_ASCII_CR : <a href="dl__base_8h.md#ae2cc5e0274ba8d38efd250f3b65e2a7a">dl_base.h</a>
+- kDL_ASCII_FORWARDSLASH : <a href="dl__base_8h.md#ae38b5cd4add86a43c1c8064deeececd6">dl_base.h</a>
+- kDL_ASCII_HT : <a href="dl__base_8h.md#a5917ab482a0952f286f1f8d8e23b3b95">dl_base.h</a>
+- kDL_ASCII_LF : <a href="dl__base_8h.md#aab45cc79ab6aa47185f9ea37464d0ad7">dl_base.h</a>
+- kDL_ASCII_NULL : <a href="dl__base_8h.md#a0adbd29d2ddb26d74f6db3af3593a0c8">dl_base.h</a>
+- kDL_ASCII_QUOTE : <a href="dl__base_8h.md#a22fd8cecae281bd142f237d68cfaa61c">dl_base.h</a>
+- kDL_ASCII_SP : <a href="dl__base_8h.md#af1e6cf69a2d7307727f9bbd5061e125e">dl_base.h</a>
+- kDL_ERR_INVALID : <a href="dl__err_8h.md#a16f81f946e609f94803ced1d6ed50d7b">dl_err.h</a>
+- kDL_ERR_MEM_ALLOC : <a href="dl__mem_8h.md#ae4cd069b11886e438e65b1831cc0fcec">dl_mem.h</a>
+- kDL_ERR_NONE : <a href="dl__err_8h.md#ac72c77f87bcc40738181f85c6b8f8cbc">dl_err.h</a>
+- kDL_ERR_NOT_IMPLEMENTED : <a href="dl__err_8h.md#a1d1e45c68d5a458ae86a7e348a3dd806">dl_err.h</a>
+- kDL_ERR_OTHER : <a href="dl__err_8h.md#aad9602d63656a15775a7feb0a5e67ef0">dl_err.h</a>
+- kDL_ISO8583_A : <a href="dl__iso8583__common_8h.md#af499c63ee33ae41e0d0e03a8a1450155">dl_iso8583_common.h</a>
+- kDL_ISO8583_AN : <a href="dl__iso8583__common_8h.md#af4b82e16f71bf7cfd21b16e60c4bc0b1">dl_iso8583_common.h</a>
+- kDL_ISO8583_ANP : <a href="dl__iso8583__common_8h.md#a072d79d339c110c0fa8679bd18ab9ae1">dl_iso8583_common.h</a>
+- kDL_ISO8583_ANS : <a href="dl__iso8583__common_8h.md#a8c9e0c3d00293239e40d48de841411a4">dl_iso8583_common.h</a>
+- kDL_ISO8583_ANSB : <a href="dl__iso8583__common_8h.md#a0d2816f934ad276aa21092a58b4c287d">dl_iso8583_common.h</a>
+- kDL_ISO8583_AZ : <a href="dl__iso8583__common_8h.md#a409af714a3912e2740f9911ada657fe5">dl_iso8583_common.h</a>
+- kDL_ISO8583_AZLP : <a href="dl__iso8583__common_8h.md#a3b07c3e71bb3b67e2e1c08ac4363afe9">dl_iso8583_common.h</a>
+- kDL_ISO8583_AZT0P : <a href="dl__iso8583__common_8h.md#a43cec1ce722f4e5c5466796457021707">dl_iso8583_common.h</a>
+- kDL_ISO8583_B : <a href="dl__iso8583__common_8h.md#a894e2bfc6a3d73688547d2347a69bad5">dl_iso8583_common.h</a>
+- kDL_ISO8583_BMP : <a href="dl__iso8583__common_8h.md#a07f5daa2faa6ddb7a16c95c940712dff">dl_iso8583_common.h</a>
+- kDL_ISO8583_CONTVAR : <a href="dl__iso8583__common_8h.md#a75f5a3eb4b5c6ea23116b425523ce3e3">dl_iso8583_common.h</a>
+- kDL_ISO8583_FIXED : <a href="dl__iso8583__common_8h.md#af3f872009b7b837ce2d566419adde4b2">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLLLLLLVAR : <a href="dl__iso8583__common_8h.md#aa6459b042e0e276e12bf08b171a40733">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLLLLLLVARA : <a href="dl__iso8583__common_8h.md#abd7cc3b87f8c2df0cf64a519e6d04daa">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLLVAR : <a href="dl__iso8583__common_8h.md#a96a487df73d683ce34b9305b5fee5c34">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLLVARA : <a href="dl__iso8583__common_8h.md#aee17fe43cb8a85fe7c3dc860e91e3552">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLVAR : <a href="dl__iso8583__common_8h.md#ac82e73e181ba77fa4e1fd6b004623d91">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLLVARA : <a href="dl__iso8583__common_8h.md#a596a2492672f4651c716f8a03e605526">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLVAR : <a href="dl__iso8583__common_8h.md#a54fb98b6f010a8d6d6f7106961c944bb">dl_iso8583_common.h</a>
+- kDL_ISO8583_LLVARA : <a href="dl__iso8583__common_8h.md#afc941d9dd70f38f19be099cef297dfef">dl_iso8583_common.h</a>
+- kDL_ISO8583_MAX_FIELD_IDX : <a href="dl__iso8583__common_8h.md#a9b803eb08fa69f9fba84745367f8a0b9">dl_iso8583_common.h</a>
+- kDL_ISO8583_N : <a href="dl__iso8583__common_8h.md#a8f51e51e8df26a015523ff6992e126ca">dl_iso8583_common.h</a>
+- kDL_ISO8583_NS : <a href="dl__iso8583__common_8h.md#a923bbc24bafcaf84b9c3cdce8e80f6a4">dl_iso8583_common.h</a>
+- kDL_ISO8583_XN : <a href="dl__iso8583__common_8h.md#aa8005bd784c4200d9171a07b18c1b12c">dl_iso8583_common.h</a>
+- kDL_ISO8583_Z : <a href="dl__iso8583__common_8h.md#aa9afd2968035d11fd66f74ed87aa6229">dl_iso8583_common.h</a>
+- kDL_STR_EmptyStr : <a href="dl__str_8h.md#a00324da510bd7bd49bc95ea4a06762c5">dl_str.h</a>
+- KEK_FLAG_SIZE : <a href="sec2_8h.md#ac83f6492e9bee3052c8041bb847837a3">sec2.h</a>
+- KERNEL_ID_TO_BYTE_ARRAY : <a href="_e_m_v___c_t_l_s___interface_8h.md#a276fe3f090c8e09414086937b11a03b6">EMV_CTLS_Interface.h</a>
+- KERNEL_ID_TO_INT : <a href="_e_m_v___c_t_l_s___interface_8h.md#ad50404003b20c7507e7650645dcc7a7d">EMV_CTLS_Interface.h</a>
+- KEY_DATA_TS : <a href="sec2_8h.md#abfb88ece471738fbd486f11f37b4b05f">sec2.h</a>
+- KEY_MANAGEMENT_SIZE : <a href="sec2_8h.md#af02a2605189bb69a09870f5daf092331">sec2.h</a>
+- KEY_MANAGEMENT_TS : <a href="sec2_8h.md#a85f8e3ff13a58df6c15d381f974a4cd1">sec2.h</a>
+- KEY_TYPE_SIZE : <a href="sec2_8h.md#a20c108503e7888506afb411b702f5b3c">sec2.h</a>
+- KEY_TYPE_TAK_FOR_GEN_MAC : <a href="sec2_8h.md#a6d4d7f005b2871c18569bba76836f233">sec2.h</a>
+- KEY_TYPE_TAK_FOR_VER_MAC : <a href="sec2_8h.md#a33a5318b63ee38fb8f6d4e25f2845a05">sec2.h</a>
+- KEY_TYPE_TPK_FOR_DEC_DATA : <a href="sec2_8h.md#a3ccd3024447221b65a98e72905edb613">sec2.h</a>
+- KEY_TYPE_TPK_FOR_ENC_DATA : <a href="sec2_8h.md#a2b768ebb9dbccc709cfb5fe0c24cac9d">sec2.h</a>
+- KEY_TYPE_TPK_FOR_KEK : <a href="sec2_8h.md#a20ec969182bfbb30970efa7a1f2a0bca">sec2.h</a>
+- KEY_TYPE_TPK_FOR_PIN : <a href="sec2_8h.md#a478411dacd6804a158809097d824f2df">sec2.h</a>
+- KEY_TYPE_TS : <a href="sec2_8h.md#a6d8ec5be108b104ec9e0aaaf69926864">sec2.h</a>
+- keyCancel : <a href="touch_8h.md#af73903edfc3728d3b9b4d7e50dfb15aea09e7239c57eb7493a40ba2a1dee691a8">touch.h</a>
+- keyCorrection : <a href="touch_8h.md#af73903edfc3728d3b9b4d7e50dfb15aeae7539767125a51c5e4ff9a0d2a3c065c">touch.h</a>
+- keyNoKey : <a href="touch_8h.md#af73903edfc3728d3b9b4d7e50dfb15aeaf9bc2f61a5620086019398d878f01720">touch.h</a>
+- keyOK : <a href="touch_8h.md#af73903edfc3728d3b9b4d7e50dfb15aea2c3493d163d595077a43a4fe97a0fb7b">touch.h</a>
+- keyservice_get_build_date() : <a href="sdikeyservice_8cpp.md#a5b89ea49a6fdb8f2f7f1821ea9636915">sdikeyservice.cpp</a> , <a href="sdikeyservice_8h.md#ab421e5234fb10c889cddac6b78d3c5ea">sdikeyservice.h</a>
+- keyservice_get_libname() : <a href="sdikeyservice_8cpp.md#ade45a421d3a30912d254dc9fbee2ba2a">sdikeyservice.cpp</a> , <a href="sdikeyservice_8h.md#a3fabfa707548aef85d0a275bf161437d">sdikeyservice.h</a>
+- keyservice_get_version() : <a href="sdikeyservice_8cpp.md#af9ab59e3a46544a91b38f6f458c3dd37">sdikeyservice.cpp</a> , <a href="sdikeyservice_8h.md#ad987589fe9eb5c2406524bf8ec4147df">sdikeyservice.h</a>
+- keyservice_read_certificate() : <a href="sdikeyservice_8cpp.md#a9a4d0843e4abfa130e3cac563376c8e1">sdikeyservice.cpp</a> , <a href="sdikeyservice_8h.md#ab974c4fe15eef3d7f1599b8a5d965cb5">sdikeyservice.h</a>
+- keyservice_start() : <a href="sdikeyservice_8h.md#aff15ff808005686075653f803fad5a00">sdikeyservice.h</a> , <a href="sdikeyservice_8cpp.md#aff15ff808005686075653f803fad5a00">sdikeyservice.cpp</a>
+- keyservice_stop() : <a href="sdikeyservice_8h.md#a9e49df21fedb4d23fc8c0ea2f8b6f4e0">sdikeyservice.h</a> , <a href="sdikeyservice_8cpp.md#a9e49df21fedb4d23fc8c0ea2f8b6f4e0">sdikeyservice.cpp</a>
+- KILLED_BY_SIGNAL : <a href="libsecins_8h.md#a546a506e25c557a955d7c8e63a85f6de">libsecins.h</a>
+- KMAILMAN_VERSION_STR : <a href="_v_h_q_xml_operation_processor_8c.md#a11ee4924e655431af75d0d132b0b0116">VHQXmlOperationProcessor.c</a>
+- KMAILMAN_VERSION_UNKNOWN_STR : <a href="_v_h_q_xml_operation_processor_8c.md#a33e7b88f98019ab20a15c0c79e09385d">VHQXmlOperationProcessor.c</a>
+- KS_CMD_READ_CERT : <a href="engine__keyservice_8h.md#a80a221065e023789a8866527b148810c">engine_keyservice.h</a>
+- KS_CMD_SET_DEBUG_CB : <a href="engine__keyservice_8h.md#a2968c2cff33a9788809e328fb5c6294c">engine_keyservice.h</a>
+- KS_CMD_SET_ERROR_CB : <a href="engine__keyservice_8h.md#aaaa9216415bce126aae64a64e1be6efa">engine_keyservice.h</a>
+- ks_trace_callback : <a href="engine__keyservice_8h.md#afcf7437404424f6e27c15778b5b2af10">engine_keyservice.h</a>
+- KSN_SIZE : <a href="sec2_8h.md#a39c92888160f6810dc7fed5fea7417f4">sec2.h</a>
+- KSN_TS : <a href="sec2_8h.md#a5a9de4a6250281f24a1cc30f780a979d">sec2.h</a>

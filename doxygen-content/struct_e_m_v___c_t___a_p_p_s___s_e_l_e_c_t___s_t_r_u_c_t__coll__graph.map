@@ -1,0 +1,6 @@
+<map id="EMV_CT_APPS_SELECT_STRUCT" name="EMV_CT_APPS_SELECT_STRUCT">
+<area shape="rect" id="node1" title="Application selection parameters of an EMV transaction used for EMV_CT_SELECT_STRUCT::SEL_Data." alt="" coords="231,199,402,240"/>
+<area shape="rect" id="node2" href="$group___a_d_k___t_r_x___e_x_e_c.html#struct_e_m_v___c_t___d_o_m___c_h_i_p___s_t_r_u_c_t" title="Domestic non&#45;EMV chip applications supporting AID selection &#160;&#160;see EMV_CT_APPS_SELECT_STRUCT::xDomesti..." alt="" coords="211,102,422,129"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node4" href="$group___a_d_k___t_r_x___e_x_e_c.html#struct_e_m_v___c_t___f_a_l_l_b_c_k___m_s_r___s_t_r_u_c_t" title="list of MID applications supported by terminal &#160;&#160;DF4C, see xFallback_MS in EMV_CT_SELECT_STRUCT and E..." alt="" coords="447,95,621,136"/>
+</map>

@@ -1,0 +1,80 @@
+---
+hidden: true
+title: tec_common.h
+---
+
+<a href="tec__common_8h.md">Go to the documentation of this file.</a>
+
+``` cpp
+ 1 
+ 8 #ifndef __TEC_COMMON_INTERFACE__
+ 9 #define __TEC_COMMON_INTERFACE__
+ 10 
+ 11 
+ 17 #define CTS_CHIP 1 
+ 18 #define CTS_MSR 2 
+ 19 #define CTS_CTLS 4 
+ 20 #define CTS_SYNC 8 
+ 23 #define CTS_DATA_TLV 0x80 
+ 29 #define CTS_OK 0 
+ 30 #define CTS_NO_CHIP 1 
+ 31 #define CTS_IN_PROGRESS 2 
+ 32 #define CTS_TIMEOUT 3 
+ 33 #define CTS_PARAM 4 
+ 34 #define CTS_NOT_STARTED 5 
+ 35 #define CTS_STOPPED 6 
+ 36 #define CTS_CTLS_INIT 7 
+ 37 #define CTS_ERROR 8 
+ 38 #define CTS_CTLS_NOT_ALLOWED 9 
+ 39 #define CTS_CTLS_EMV_NO_CARD 10 
+ 40 #define CTS_ERR_LOAD 11 
+ 41 #define CTS_VAS_DECRYPTION_NOT_REQUIRED 12 
+ 42 #define CTS_VAS_DATA_DECRYPTED_OK 13 
+ 43 #define CTS_VAS_DATA_DECRYPTED_FAILED 14 
+ 44 #define CTS_UX_MSRDATA_NOT_AVAILABLE_TIMEOUT 15 
+ 45 #define CTS_NFC_INIT 16 
+ 46 #define CTS_CHIP_WITH_WRONG_ATR 17 
+ 47 #define CTS_API_NOT_ALLOWED 18 
+ 48 #define CTS_VAS_DATA_ENCRYPTED_OK 19 
+ 49 #define CTS_UX_NO_MSR_DATA_AFTER_CARD_REMOVL 20 
+ 50 #define CTS_MSR_ONLY_REQUEST_BUT_NO_DEVICE 21 
+ 58 #define CTS_PURE_CARD_DETECTION 0x01 
+ 60 #define CTS_NO_POWERON 0x02 
+ 62 #define CTS_POWERON_AFTER_CTLS_MSR_DEACTIVATION 0x04 
+ 65 #define CTS_NFC_ENABLE 0x01 
+ 67 #define CTS_VAS_ENABLE 0x02 
+ 69 #define CTS_EMV_AFTER_NFC_ISO 0x04 
+ 71 #define CTS_VAS_HANDLE_LED_BUZZ 0x08 
+ 73 #define CTS_EMV_CTLS_TIMEOUT_AFTER_VAS 0x10 
+ 76 #define CTS_VAS_DONT_DECRYPT 0x20 
+ 78 #define CTS_MSR_AFTER_CTLS_FAIL 0x40 
+ 80 #define CTS_NFC_DUTY_CYCLE_OFF 0x80 
+ 88 #define CTS_DATA_TAG_NFC_RESULT 0xDFDB20 
+ 89 #define CTS_DATA_TAG_CARD 0xFFDB20 
+ 90 #define CTS_DATA_TAG_CARD_TYPE 0xDFDB21 
+ 91 #define CTS_DATA_TAG_CARD_INFO 0xDFDB22 
+ 92 #define CTS_DATA_TAG_VAS_RESULT 0xDFDB23 
+ 93 #define CTS_DATA_TAG_VAS_DATA 0xDFDB24 
+ 94 #define CTS_DATA_TAG_EMV_RESULT 0xDFDB25 
+ 95 #define CTS_DATA_TAG_VAS_DECRYPT_DATA_RESULT 0xDFDB26 
+ 96 #define CTS_DATA_TAG_CARD_TYPE_FULL 0xDFDB27 
+ 97 #define CTS_DATA_TAG_CARDS_TOTAL_COUNT 0xDFDB28 
+ 98 #define CTS_DATA_TAG_CARDS_A 0xDFDB29 
+ 99 #define CTS_DATA_TAG_CARDS_B 0xDFDB2A 
+ 100 #define CTS_DATA_TAG_CARDS_F 0xDFDB2B 
+ 101 #define CTS_DATA_TAG_CUSTOM_POLL_RESULT 0xDFDB2C 
+ 102 #define CTS_DATA_TAG_CARD_SAK 0xDFDB2D 
+ 103 #define CTS_DATA_TAG_CARD_ATQ 0xDFDB2E 
+ 104 #define CTS_DATA_TAG_CARD_RFU 0xDFDB2F 
+ 111 #define CTS_OPTION_TAG_APP_ID 0xDFDB40 
+ 112 #define CTS_OPTION_TAG_SYNC_CARD_TYPE 0xDFDB41 
+ 113 #define CTS_OPTION_TAG_UX_MSR_TIMEOUT 0xDFDB42 
+ 125 typedef void (* cts_TraceCallback) (const char *str, void *data);
+ 126 
+ 132  void cts_Version(char *version, unsigned char len);
+ 133 
+ 139  void cts_SetTraceCallback(cts_TraceCallback cbf, void *cb_data);
+ 140 
+ 141 
+ 142 #endif // avoid double include
+```

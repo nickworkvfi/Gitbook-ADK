@@ -1,0 +1,120 @@
+---
+title: "ADK-Programmers-Guides: Data Fields"
+---
+
+Here is a list of all struct and union fields with links to the structures/unions they belong to:
+
+### - a -
+
+- abort : <a href="struct_dlg_cb_data.md#aace6b524f16d7faedcceaf838cb1927d">DlgCbData</a> , <a href="classlibsdi_1_1_dialog.md#a224765e61f087ca95b7eded9a3bf0e0c">Dialog</a> , <a href="classm_a_d_k___p_p___prot.md#ae75017b64297bc5a74260a768fb86cf1">mADK_PP_Prot</a>
+- abort_ui : <a href="struct_bt_com1a_context.md#a597cfc0f48c3ec6fcc07d5005c4475c0">BtCom1aContext</a>
+- AbortState : <a href="classm_a_d_k___p_p___prot.md#a7515c365720349ec545c891978cc2256">mADK_PP_Prot</a>
+- ACBeforeAfter : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aac6e17c9e053521b910b1eeb6a75c74c">EMV_CT_APPLIDATA_STRUCT</a>
+- accept() : <a href="classvfiipc_1_1_i_p_c.md#ad05fb9ec7fd0b49be32e902bf5f485cd">IPC</a> , <a href="classvfiipc_1_1_pipe.md#a95b94113c8b49766182f98a1b5ed14fe">Pipe</a> , <a href="classvfiipc_1_1_t_c_p.md#a95b94113c8b49766182f98a1b5ed14fe">TCP</a> , <a href="classvfiipc_1_1_t_l_s.md#a95b94113c8b49766182f98a1b5ed14fe">TLS</a>
+- AcquirerIdentifier_9F01 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_MR_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a60d3aeba5739afbe3c429fd39d005b9e">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- action : <a href="libsecins_8h.md#a2f4ab7bf743142dae2e459aa18f9f1d4">SecinsDaemonAction</a> , <a href="_v_h_q_downloader_8c.md#ac3e1040249d65d38bc6d0f3e8fab9ba3">suppressed_action_t</a>
+- action_suppressed : <a href="_v_h_q_downloader_8c.md#acbfd8e7d69290a1f85b0382360ff33bf">suppressed_action_t</a>
+- action_type : <a href="_v_h_q_xml_dictionary_8c.md#ab1dfcf9ce62b8c92be9a57efdb76e5f6">_action_type_xml_conv_t</a>
+- activation : <a href="titusstubs_8cpp.md#a85342bfccc9c2c1797bd23233fbc7d10">discoveryParams</a>
+- activationCheck : <a href="group__sdidata.md#acf78f86175378c4577592d0b2ed0c40f">SDIClient::Matching</a>
+- activationcheck_result : <a href="structlibsdi_1_1_matching_record.md#a39ce69c0f056e5779e9c9f98ecf144b9">MatchingRecord</a>
+- add() : <a href="class_sec_handle_map.md#a8340e03ab1644213c6cc44edc1ff1df7">SecHandleMap</a> , <a href="classvfisdi_1_1_t_l_v.md#aea80d57ebb1a89005665d685ded70bda">TLV</a>
+- add_child() : <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#ac677e661c13c724e1fcc4f565cd7616d">NodeActionMixin</a>
+- add_info : <a href="msr__common_8h.md#a017c012199396b8f33090922d2d68809">MSR_TrackData3</a> , <a href="msr__common_8h.md#a017c012199396b8f33090922d2d68809">MSR_TrackData4</a>
+- add_info2 : <a href="msr__common_8h.md#af3f0f963dc129689e0ea1ed7ec3fcb32">MSR_TrackData4</a>
+- Add_TXN_Tags : <a href="group___a_d_k___t_r_x___e_x_e_c.md#af6e0b050099ef70aa87afd6e9d4173fd">EMV_CT_TRANSRES_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___o_u_t_p_u_t.md#af6e0b050099ef70aa87afd6e9d4173fd">EMV_CTLS_TRANSRES_STRUCT</a>
+- addAction() : <a href="classlibsdi_1_1_dialog.md#a2051188a152cb63c78382dc7f86cc59d">Dialog</a>
+- addCA() : <a href="classvfiipc_1_1_t_l_s.md#abb883a6a0b925027e194bb4cbf69ed65">TLS</a>
+- addData() : <a href="classlibsdi_1_1_dialog.md#ae7f5238392c611ff2aab5ec9c4133bb2">Dialog</a>
+- addDefaultCA() : <a href="classvfiipc_1_1_t_l_s.md#a1d5b277e0047de1e35b4bfcda136bb11">TLS</a>
+- additional_info : <a href="svc__tms_8h.md#aef281750301be2d44329a969690027d2">tmsCustomAppEventStruct</a>
+- Additional_Result_Tags : <a href="group___a_d_k___t_r_x___e_x_e_c.md#abd31d434ee96e0662b86d4ef82017e33">EMV_CT_PAYMENT_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#ac99d6e6b09a0e3fcbe4d2ec8336a30e2">EMV_CTLS_PAYMENT_STRUCT</a>
+- additional_signature_nodes : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a691c0b70ad22568ebe48b0b21b22ee2c">BaseNode</a>
+- Additional_Tags_CRD : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#acd89bdbc00f19a23befec2eed0ff7b00">EMV_CT_APPLIDATA_STRUCT</a>
+- Additional_Tags_TRM : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ad7a6039ab1aa91113c012eab4293d664">EMV_CT_APPLIDATA_STRUCT</a>
+- Additional_Versions_No : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a88b324674895d7548b40c7d597cdf84d">EMV_CT_APPLIDATA_STRUCT</a>
+- additionalResultValue : <a href="classlibsdi_1_1_sdi_base.md#aec8bd96d4ee40a80283213584fb4ef05">SdiBase</a>
+- AdditionalTagsCRD_DFAB21 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a04b972642e943c8509ed2d1802f2edc1">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- AdditionalTagsTRM_DFAB20 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#abb1d4cd4bf1913ad2a42cb0764fcc619">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- AdditionalTerminalCapabilities_9F40 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_CK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_DK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_RK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_SK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_VK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6d26c3945bec16db3c198f51a7b998aa">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- AdditionalTerminalCapabilitiesExt_DF3A : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aa067675fcb990973520ebd4bd342fa91">EMV_CTLS_APPLIDATA_RK_STRUCT</a>
+- addMenuItem() : <a href="classlibsdi_1_1_dialog.md#aed5555cc6d1b19d2b0a178f35d1a27d3">Dialog</a>
+- addTechnology() : <a href="classlibsdi_1_1_card_detection.md#a7ccceaf4350919543165633cbadf7ad2">CardDetection</a>
+- addThreadData : <a href="sys_8h.md#a9fc2990b90a17dad7d4cca55ea8ed935">thread_data</a>
+- adminMode() : <a href="class_config.md#af4901a4e702173b342dc77a8b3e061d8">Config</a>
+- AID : <a href="_e_m_v___c_t___interface_8h.md#a1af6aa5d2e82428d0fe225cfe2b3b501">EMV_CT_APPLI_STRUCT</a>
+- aid : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a44ef469b5cfa9f05e671e4791c38801b">EMV_CT_CandListType</a>
+- AID : <a href="_e_m_v___c_t_l_s___interface_8h.md#a1af6aa5d2e82428d0fe225cfe2b3b501">EMV_CTLS_APPLI_KERNEL_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#a1af6aa5d2e82428d0fe225cfe2b3b501">EMV_CTLS_APPLI_STRUCT</a>
+- aid : <a href="namespacevficpl.md#a54b9dd49d877b2bb84c6103df8aa3973">TechnologyData</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#af416eccab1b8141fb5b71862bb6c42fc">EMVTxn::Candidate</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#af416eccab1b8141fb5b71862bb6c42fc">EMVTxn::CandidateExt</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#af416eccab1b8141fb5b71862bb6c42fc">EMVTxn::DomesticApp</a> , <a href="group__sdiemvct.md#af416eccab1b8141fb5b71862bb6c42fc">SDIClient::CTCandidate</a>
+- aidlen : <a href="_e_m_v___c_t___interface_8h.md#a7b5c9691c54d8705d8b03081d71ab172">EMV_CT_APPLI_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#a7b5c9691c54d8705d8b03081d71ab172">EMV_CTLS_APPLI_KERNEL_STRUCT</a> , <a href="_e_m_v___c_t_l_s___interface_8h.md#a7b5c9691c54d8705d8b03081d71ab172">EMV_CTLS_APPLI_STRUCT</a>
+- aidLen : <a href="group__sdiemvct.md#a50103c6c116ef774bc29f07b0f68ee74">SDIClient::CTCandidateData</a> , <a href="group__sdiemvctls.md#a50103c6c116ef774bc29f07b0f68ee74">SDIClient::CTLSCandidateData</a>
+- AIP_CVM_not_supported : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a0cc466b7328ef1933036d1372ba99b00">EMV_CT_APPLIDATA_STRUCT</a>
+- ALL : <a href="classpackmanlib_1_1platform_1_1_platform.md#a0c20de7e6bc3597a492eb33efd308985">Platform</a>
+- AmexContactlessReaderCapabilities_9F6D : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aea125d099b77a199d403ce4f3e82b4cc">EMV_CTLS_APPLIDATA_AK_STRUCT</a>
+- AmexDRLParams_FFAB01 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#adb7925c29affa71ae450ef807bd07e85">EMV_CTLS_APPLIDATA_AK_STRUCT</a>
+- AmexTerminalTransactionCapabilities_9F6E : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a5b96a70efc27aea80f2807131bc3232f">EMV_CTLS_APPLIDATA_AK_STRUCT</a>
+- Amount : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a30d37bb81b40a6e53cb3081ee862ddef">EMV_CT_PAYMENT_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a30d37bb81b40a6e53cb3081ee862ddef">EMV_CTLS_PAYMENT_STRUCT</a>
+- amount : <a href="classvficpl_1_1_donation.md#a91bb1eca6a37952af42a8a0001f4dc9f">Donation</a>
+- amountDiscount : <a href="classvficpl_1_1_offer.md#a6e452768110873b84929491272eb17ec">Offer</a>
+- amountOthUpd : <a href="group___a_d_k___t_r_x___e_x_e_c.md#af4c05d872e15a85655bf94ea4b34a0f5">EMV_CT_HOST_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a950050a0a50c3a85bf52afa53b989ed8">EMV_CTLS_HOST_STRUCT</a>
+- amountUpd : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#ae96de7b8f91cb72f914fe3b226366f04">EMV_CTLS_HOST_STRUCT</a>
+- anztag : <a href="_e_m_v___c_t___interface_8h.md#a0ed231894dfa7e203187883b4012ff9f">EMV_CT_TAGLIST_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a0ed231894dfa7e203187883b4012ff9f">EMV_CTLS_TAGLIST_STRUCT</a>
+- API : <a href="group___a_d_k___t_r_x___e_x_e_c.md#ae6e6847f31d7ad74362c2de216df1372">EMV_CT_CANDIDATE_DATA_STRUCT</a> , <a href="group___a_d_k___t_r_x___e_x_e_c.md#ae6e6847f31d7ad74362c2de216df1372">EMV_CT_CandListType</a> , <a href="group___f_u_n_c___f_l_o_w.md#ae6e6847f31d7ad74362c2de216df1372">EMV_CTLS_CANDIDATE_DATA_STRUCT</a>
+- Api() : <a href="classvficpl_1_1_api.md#ad36d217704b3dce3e6280054664b1edf">Api</a>
+- api : <a href="group__sdiemvct.md#ab502c52c9b458a2764c0e8ff4ce5f6d7">SDIClient::CTCandidate</a> , <a href="group__sdiemvct.md#ab502c52c9b458a2764c0e8ff4ce5f6d7">SDIClient::CTCandidateData</a> , <a href="group__sdiemvctls.md#ab502c52c9b458a2764c0e8ff4ce5f6d7">SDIClient::CTLSCandidateData</a>
+- app_action_type : <a href="_v_h_q_xml_dictionary_8c.md#ac16a4a4220842f5dc9b13d9b4801a8f5">_app_action_type_xml_conv_t</a>
+- app_additionalInfo : <a href="_v_h_q_utils___app_interface_8c.md#a16e630fdb67ce37acc6b3d44d8063c2b">appData_t</a>
+- App_CountryCodeTerm : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a3cc1a7ad9805c9caf22a3164e3f1d326">EMV_CT_APPLIDATA_STRUCT</a>
+- app_customType : <a href="_v_h_q_utils___app_interface_8c.md#a31ce8948a1508ee2f0af2ce73ab43216">appData_t</a>
+- App_FlowCap : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a760a1211f0f7f2df285879a21e2fa9d8">EMV_CT_APPLIDATA_STRUCT</a>
+- app_pipe_name : <a href="_v_h_q_utils___app_interface_8c.md#a25351b9cad8ca3b1dbf6c9642cde98d2">appData_t</a>
+- app_state : <a href="_v_h_q_utils___app_interface_8c.md#a3d6733a7db1f1a71a4d4f27c280220f5">appData_t</a>
+- App_TermAddCap : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aa137395f6cc0b7618d9fec892c3c8b00">EMV_CT_APPLIDATA_STRUCT</a>
+- App_TermCap : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a7ac173f4a1d9a3845a18af806ee8bb31">EMV_CT_APPLIDATA_STRUCT</a>
+- App_TermTyp : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ae3ea58006297dfb1045a9ff86831112e">EMV_CT_APPLIDATA_STRUCT</a>
+- app_type : <a href="_v_h_q_utils___app_interface_8c.md#ad33ce10cfb040cdbc89a98d4fe7bbbf7">appData_t</a>
+- app_version : <a href="_v_h_q_utils___app_interface_8c.md#abaa5a75270d05b6337fb2fd6938d41a0">appData_t</a>
+- appdata : <a href="namespacevficpl.md#a89846c5d14b4b851ded0c6a3f073ffd8">TechnologyData</a> , <a href="group__sdidata.md#aeda713689de1a5e0043598c124602a6b">SDIClient::PlaceHolder</a>
+- append() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#aae5b1e498b6d5a528f595a22b92364c7">SafeBuffer</a>
+- appendReceipt() : <a href="classvficpl_1_1_api.md#ae25ae36bd209a46d9252e9540b94bb5d">Api</a>
+- AppFlowCap_DFAB03 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6b141ca640db3a0ea501018167b70531">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- AppFlowCap_DFAB31 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_AK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_BK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_CK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_DK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_DOM_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_EK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_GK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_MK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_MR_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_PB_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_PK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_RK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_SK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_VK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2ecdf1dde8e274003bee99e35551f0e8">EMV_CTLS_APPLIDATA_WK_STRUCT</a>
+- appLabel : <a href="structvfisdi_1_1_e_m_v_txn.md#a0cbb6321dbaa3f30090eb445a725f243">EMVTxn::DomesticApp</a>
+- AppliAuthTransType_DFAB5A : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aefd03a6ffe405efa9370adf010e8d5ec">EMV_CTLS_APPLIDATA_GK_STRUCT</a>
+- Application : <a href="svc__tms_8h.md#a8e5fe7cb90c226365aa720d835913e80">tmsParamUpdateItemNewStruct</a> , <a href="svc__tms_8h.md#a8e5fe7cb90c226365aa720d835913e80">tmsParamUpdateItemStruct</a>
+- applicationData : <a href="classlibsdi_1_1_sdi_crypt.md#aec68760c16233c31a056c038c37b54df">SdiCrypt::Placeholder</a>
+- AppName : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a1a933985680b099e926e54086a602c12">EMV_CT_APPLIDATA_STRUCT</a> , <a href="group___a_d_k___t_r_x___e_x_e_c.md#a1a933985680b099e926e54086a602c12">EMV_CT_SELECTRES_STRUCT</a> , <a href="group___a_d_k___t_r_x___e_x_e_c.md#a1a933985680b099e926e54086a602c12">EMV_CT_TRANSRES_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___o_u_t_p_u_t.md#a1a933985680b099e926e54086a602c12">EMV_CTLS_TRANSRES_STRUCT</a>
+- appName : <a href="svc__tms_8h.md#a6bf1b1d47d65904880242c3f977dafd3">tmsCustomAppEventStruct</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a7381861d302f0b6bc35b1f3c20d26669">EMVTxn::Candidate</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a7381861d302f0b6bc35b1f3c20d26669">EMVTxn::CandidateExt</a>
+- appProgramID : <a href="structvfisdi_1_1_e_m_v_conf.md#ac3b104df9d418c6fb21c7a68ebdc8974">EMVConf::DynamicReaderLimits</a>
+- AppProgramId_9F5A : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a8c51d5e8aa164e8c49dfb2eb67c5dd87">EMV_CTLS_VK_DRL_ENTRY_STRUCT</a>
+- AppProgramIdLen : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a4552d7425ec477ccd8982252afee6fc0">EMV_CTLS_VK_DRL_ENTRY_STRUCT</a>
+- approvedAmount : <a href="namespacevficpl.md#ad274b77d1aecf84eb6e6d6a33aea7806">AltPaymentData</a> , <a href="namespacevficpl.md#ad274b77d1aecf84eb6e6d6a33aea7806">TechAltPaymentData</a>
+- appStatus : <a href="svc__tms_8h.md#aacf529263ca57e7eecdc970596e43a83">tmsEventData</a>
+- arc : <a href="structvficpl_1_1_invoke_result.md#a30b5726116ac85ea64777e5d6e333894">InvokeResult</a>
+- arg_p : <a href="_event_scheduler_8c.md#a0f3e567744494e1bc7493878bf1efacf">_running_event_t</a>
+- Array() : <a href="structvfisdi_1_1_array.md#af9474cac29f3177edf5e8d72ea4a440c">Array< N ></a>
+- array() : <a href="structvfisdi_1_1_bit_mask.md#a4b719fa639a4c57b24e6cbc9b72b04a7">BitMask< NBITS, ITYPE ></a>
+- AS_AbortIdle : <a href="classm_a_d_k___p_p___prot.md#a7515c365720349ec545c891978cc2256a1f666b5421a566da41f5a5787408639d">mADK_PP_Prot</a>
+- AS_ConnectionLost : <a href="classm_a_d_k___p_p___prot.md#a7515c365720349ec545c891978cc2256ad8a64a57556eada48fb2e36eb447375c">mADK_PP_Prot</a>
+- AS_NotAborted : <a href="classm_a_d_k___p_p___prot.md#a7515c365720349ec545c891978cc2256a7a73ea105cd0404b571f649aa3f10724">mADK_PP_Prot</a>
+- asf : <a href="group__sdiemvct.md#ae29409a1bafceaf4fbb1f9f0a5cded7c">SDIClient::CTCandidateData</a>
+- ASI : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2000688e48cdadee86eb401946a71785">EMV_CT_APPLIDATA_STRUCT</a>
+- asi : <a href="structvfisdi_1_1_e_m_v_txn.md#a978b9cd6c2a2f728ae88dad8af4ee0e8">EMVTxn::DomesticApp</a>
+- ASI_DFAB02 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ad7b796959f437113eb08a0d5a055bfa9">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- assign() : <a href="classvficpl_1_1_cp_function.md#a0ed7c0d977ffb18abe8bb07863d13fd1">CpFunction< R, A1, A2, A3 ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_01_4.md#a0ed7c0d977ffb18abe8bb07863d13fd1">CpFunction< R ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_00_01_a1_01_4.md#a0ed7c0d977ffb18abe8bb07863d13fd1">CpFunction< R, A1 ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_00_01_a1_00_01_a2_01_4.md#a0ed7c0d977ffb18abe8bb07863d13fd1">CpFunction< R, A1, A2 ></a> , <a href="classvfisdi_1_1_t_l_v.md#ab7fd53770bccecd3bde53277b9b53a29">TLV</a>
+- associatedProductCode : <a href="classvficpl_1_1_offer.md#a53b0e916b8b1e8b387db308375892db2">Offer</a>
+- ATQ : <a href="titusstubs_8cpp.md#a958f445237c00f669f759d99663e9606">_cardInfoFull</a> , <a href="group__sdinfc.md#a8e953d6d6dcfc07f0d4d4686194f0c19">SDIClient::NFCCardExt</a>
+- ats : <a href="namespacevficpl.md#a69b6c30d7bb0fa3d9d0d8e05eb8fbe66">TechnologyData</a>
+- auth() : <a href="class_auth.md#a85e67481b08ac33c3000d56d64dd2922">Auth</a>
+- Auth : <a href="class_auth_sec.md#abfe5b7d9add6f85e1fcd0b604262ccd3">AuthSec</a>
+- authCode : <a href="namespacevficpl.md#adebb0a10d98c8ca7bc3f55a3b21f814d">AltPaymentData</a> , <a href="namespacevficpl.md#adebb0a10d98c8ca7bc3f55a3b21f814d">TechAltPaymentData</a>
+- AuthData : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a9c0d8eae37200d205013e0a17f2d2ff1">EMV_CT_HOST_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a3e5fe321afd3d5b2db35d2d2bcdc800e">EMV_CTLS_HOST_STRUCT</a>
+- AuthorizationCode : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a49703db8aea6f6b5cb2b40690d7c7f1a">EMV_CT_HOST_STRUCT</a>
+- AuthResp : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a50f253cd97f2612f2d5abe02959e130f">EMV_CT_HOST_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a50f253cd97f2612f2d5abe02959e130f">EMV_CTLS_HOST_STRUCT</a>
+- AuthResp_OnlinePIN : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a319a55d188b9bc5e6c1698638169f0d0">EMV_CTLS_HOST_STRUCT</a>
+- AuthResp_Positive : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a159e8303937fe013eee7c00aebc17483">EMV_CT_HOST_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a7732f5779810f1f81941cda574764137">EMV_CTLS_HOST_STRUCT</a>
+- AuthResp_Referral : <a href="group___a_d_k___t_r_x___e_x_e_c.md#adf1d52bf324a6262866da8d78e5619f0">EMV_CT_HOST_STRUCT</a>
+- AuthResp_SwitchInterface : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a37473dcadabfbafff56a7180afba0e30">EMV_CTLS_HOST_STRUCT</a>
+- AuthResp_Wrong_PIN : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a4a45b2dc93e569bfabd0a5ec3188a706">EMV_CT_HOST_STRUCT</a>
+- AuthSec : <a href="class_auth.md#a927c4ec4747518163a64b72d48c82a18">Auth</a>
+- aux_text : <a href="group___a_d_k___t_r_x___e_x_e_c.md#ac6f9aea0a9012e11b3fc265b5386f9bf">EMV_CT_CandListType</a>

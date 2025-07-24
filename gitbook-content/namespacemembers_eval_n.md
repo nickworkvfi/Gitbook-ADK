@@ -1,0 +1,82 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+ 
+
+### - n -
+
+- NAME : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a67bc2ced260a8e43805d2480a785d312">vfisdi</a>
+- NAVIGATOR_MODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a76bbbf43549d67a8c692fe8577130387">vfisdi</a>
+- NFC_ATQ : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3d9bfcd9ae1f491d3feac7f942892ada">vfisdi</a>
+- NFC_BLOCK_NUMBER : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4f14e2383726758328067a3ef8f3eed1">vfisdi</a>
+- NFC_CARD_DETECTED : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ac841a1a3afc9b5f3612b2c3ccf067849">vfisdi</a>
+- NFC_CARD_INFO : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a529789fb2001170992f5c9fa1f4c1e2a">vfisdi</a>
+- NFC_CARD_TYPE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a2b182c06f919b3185dbcd490a94e0bad">vfisdi</a>
+- NFC_CARD_TYPE_FULL : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1401a21bf67e46e0bf56502714a82e8a">vfisdi</a>
+- NFC_CUSTOM_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a7a9c5f9225a7493717fe0c4314876be2">vfisdi</a>
+- NFC_CUSTOM_POLL_RESULT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aaec330154b119e813261f05b0110ad79">vfisdi</a>
+- NFC_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4acf0288662649a705ae8c2265522dcdba">vfisdi</a>
+- NFC_FELICA_PAD : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4afb33f08068a78e5c3fcd3673f752a703">vfisdi</a>
+- NFC_FELICA_POLL_TIMEOUT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3f2a1c87120f8db85e4bccdaf3b9ff45">vfisdi</a>
+- NFC_FELICA_RECEIVE_TIMEOUT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a0249c114597e14e5adc31d9a3e5506d9">vfisdi</a>
+- NFC_FELICA_REQUEST_CODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a8e831ab30e10ee5e44818c380576af4c">vfisdi</a>
+- NFC_FELICA_SYSTEM_CODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a6b006b435d172a865c97fa0212747831">vfisdi</a>
+- NFC_FELICA_TIME_SLOT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4395804517ae9b4eaf422cafcb5186ae">vfisdi</a>
+- NFC_FELICA_TIMEOUT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ab24d47b680a5cfa0a8347ff632d95666">vfisdi</a>
+- NFC_FELICA_UID : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad13419612d1fb3671fe20629fd0bfa9b">vfisdi</a>
+- NFC_INPUT_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aa2de6240acee7568a0c2298df5268cf0">vfisdi</a>
+- NFC_KEY : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad4ee8529e557630d1fb4f94ad053971b">vfisdi</a>
+- NFC_KEY_TYPE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a2118e9ff597fd63cb3e03a0b166e32cb">vfisdi</a>
+- NFC_MIFARE_BLOCK_COUNT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a207e3114c8c0fa0db8bd397e86b41aea">vfisdi</a>
+- NFC_MIFARE_CARD_TYPE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a39ac8bec3848dca0e7462c1da4fd406e">vfisdi</a>
+- NFC_MIFARE_INPUT_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a638d318b03dff3c878ac3024f7b60cae">vfisdi</a>
+- NFC_MIFARE_OUTPUT_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a19187b36f62dfc0e59aafea1851d9313">vfisdi</a>
+- NFC_MIFARE_START_BLOCK : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aa818bc8d123872780f7dff6dc802fb4b">vfisdi</a>
+- NFC_MIFARE_VALUE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a5900f60e9932b1657d24350108fbd2da">vfisdi</a>
+- NFC_OUTPUT_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a2e1ee12ee7e10ba8f788181310500369">vfisdi</a>
+- NFC_PING_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1b7aef75c23d679702de644b94f530c3">vfisdi</a>
+- NFC_POLL_TECH_A : <a href="namespacevfisdi.md#a300a8f448845a18d7a0072977c0bb71cac0697def1850af6dfcfe0b9f0c2dcefe">vfisdi</a>
+- NFC_POLL_TECH_AB : <a href="namespacevfisdi.md#a300a8f448845a18d7a0072977c0bb71caa5f6d14660d04daff48b5eedf3d06fd2">vfisdi</a>
+- NFC_POLL_TECH_B : <a href="namespacevfisdi.md#a300a8f448845a18d7a0072977c0bb71ca5600c9bcd91eef963e0285e21ea28fe9">vfisdi</a>
+- NFC_POLL_TECH_F_DEP : <a href="namespacevfisdi.md#a300a8f448845a18d7a0072977c0bb71ca962ef1f4c1004b4d4a3e8596b94f8637">vfisdi</a>
+- NFC_POLL_TECH_FELICA : <a href="namespacevfisdi.md#a300a8f448845a18d7a0072977c0bb71ca13a765ac7a81fd27dc7901bfba31290f">vfisdi</a>
+- NFC_POLLING_TIMEOUT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1aabb4b2d8fcb766a7432742c7364feb">vfisdi</a>
+- NFC_RAW_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a722d66464fef03f4fee857d56c74db08">vfisdi</a>
+- NFC_RETURN_CODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4c10a0a6e854ce11218f92513c7dc99c">vfisdi</a>
+- NFC_RFU : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad2970e3d9f90e5ff4baf49965acc00cf">vfisdi</a>
+- NFC_SAK : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4abe9d80a314851772ee2bd77de03dfaa2">vfisdi</a>
+- NFC_SW1_SW2 : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ac9f38634597af797e6810193db0bf694">vfisdi</a>
+- NFC_TECHNOLOGY_BITMAP : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a3e934dbd569f50037d132a169c6dc15a">vfisdi</a>
+- NFC_TOTAL_CARD_A_COUNT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ae10cc4c16cf836686e8dd1608a0ffdbf">vfisdi</a>
+- NFC_TOTAL_CARD_B_COUNT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a9759f9e2d7320df9d7ee21f54eb14959">vfisdi</a>
+- NFC_TOTAL_CARD_COUNT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a034fa816c7f8a7870b1d30b7a3000425">vfisdi</a>
+- NFC_TOTAL_CARD_F_COUNT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad58c3ede90e522e42a9d2d98db4cefb8">vfisdi</a>
+- NFC_VAS_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad4c2a6161dacd0e778c6be9783aa97ea">vfisdi</a>
+- NONE : <a href="namespacevfimac.md#a3d1d0138ae66b9a9e03ae518de7ecf63ac157bdf0b85a40d2619cbc8bc1ae5fe2">vfimac</a>
+- NOSUPPORT : <a href="namespacevficom_1_1status.md#ae7ba2f563df916ce3ce6be92a19d2bbcad7e21613367ae574d29fb0f12b02be44">vficom::status</a>
+- NOTIF_AMOUNT_FINALIZED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a97b9f518144d0f9c9615d0216836bb35">vficpl</a>
+- NOTIF_AUTHORIZATION_COMPLETED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a171b25af4e1a59131598df4f16980904">vficpl</a>
+- NOTIF_BASKET_FINALIZED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a1e97f9f6cda1c23da7383410a2d28723">vficpl</a>
+- NOTIF_CARD_BIN_RECEIVED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a9c1699a9aa75d886d8527ffb3cbe956e">vficpl</a>
+- NOTIF_CARD_PRESENTED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a6e9539d276d28ca7108f149b840ae05e">vficpl</a>
+- NOTIF_IDLE : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a0c83cc2df29b61317293826c6ee3c3bb">vficpl</a>
+- NOTIF_MANUAL_LAUNCH : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a7d66bf00b2b1dca8764c98e307eeb515">vficpl</a>
+- NOTIF_PAYMENT_COMPLETED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12af3df6e700a5f0c02be1c01f54b341fb0">vficpl</a>
+- NOTIF_TRX_ENDED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12a4b08bcac62143f2549b4a99ba816cafb">vficpl</a>
+- NOTIF_TRX_STARTED : <a href="namespacevficpl.md#aba55b083790f62440bcff1c23bbe2f12ac1d840abc773652f6f3794a7623aef20">vficpl</a>
+- NOTIFICATION_ACTIVATION_CFG_UPDATE : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba923a1344f83663f39ac04c4ec3d745d9">vfimac</a>
+- NOTIFICATION_ALL : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba1930c35d6489778ddfeaca7fb2ca6f5e">vfimac</a>
+- NOTIFICATION_CP_START : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9badd8eec9dc45ce42675de6bda75ab3619">vfimac</a>
+- NOTIFICATION_CP_STOP : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9bac0ebe51801843ebdb451ae7a36d4f2cb">vfimac</a>
+- NOTIFICATION_LAST : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba29e9cf6282fd10a8fb52f46d21c482c2">vfimac</a>
+- NOTIFICATION_MANIFEST_RESCAN : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba6e467da2577048534d2368040c31d17e">vfimac</a>
+- NOTIFICATION_NONE : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba5cc432d77c6eb1abbe3f89d4f895f778">vfimac</a>
+- NOTIFICATION_PARAMETER_CFG_UPDATE : <a href="namespacevfimac.md#aabd24d8a0b08ebc6a6da2c43b0ae2d9ba95a27537b51afc0c265c453ada39d055">vfimac</a>
+- NOTIFY_ERR_APP_ID : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3a91002612e8cdf73185b9c15f283f4334">vfiipc</a>
+- NOTIFY_ERR_CONFIG_FILE : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3a9d00b7fe7320736555c91922fe04b8d3">vfiipc</a>
+- NOTIFY_ERR_CONFIG_SYNTAX : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3a04b9ff1a6a62d1ebbdf6322081a8a963">vfiipc</a>
+- NOTIFY_ERR_PERMISSION : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3acc5931c8ff064376a30c0bf608775174">vfiipc</a>
+- NOTIFY_ERR_SERVER : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3a3332b9f23fcc102341e551348f714940">vfiipc</a>
+- NOTIFY_OK : <a href="namespacevfiipc.md#a7eda24f6e23d0f36491cc949c16ac4c3ad787ef779aa8d69677c23222002f0bed">vfiipc</a>
+- NOTREADY : <a href="namespacevficom_1_1status.md#ae7ba2f563df916ce3ce6be92a19d2bbcaee9eff54c2e86e523f8be55c5ad62c58">vficom::status</a>

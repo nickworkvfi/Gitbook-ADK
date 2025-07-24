@@ -1,0 +1,28 @@
+var classvfiipc_1_1_i_p_c =
+[
+    [ "IPC", "classvfiipc_1_1_i_p_c.html#a8ad54b08db43652b4d971a7ae17e1634", null ],
+    [ "~IPC", "classvfiipc_1_1_i_p_c.html#a2de5cc01b541095acf2fa6d8f1efcefd", null ],
+    [ "accept", "classvfiipc_1_1_i_p_c.html#ad05fb9ec7fd0b49be32e902bf5f485cd", null ],
+    [ "close", "classvfiipc_1_1_i_p_c.html#a47feccb1873356363e4d0e302bc3822c", null ],
+    [ "eof", "classvfiipc_1_1_i_p_c.html#a044713f1fcbdbec24aae467186a95481", null ],
+    [ "error", "classvfiipc_1_1_i_p_c.html#a090dfa7806330da64843832e3985ebdf", null ],
+    [ "getFD", "classvfiipc_1_1_i_p_c.html#a2da953859d766be3eb7a8409fc9a6b02", null ],
+    [ "is_server", "classvfiipc_1_1_i_p_c.html#acdfdf57c1c76dcccb680e6dabdfdf59e", null ],
+    [ "local_addr", "classvfiipc_1_1_i_p_c.html#aa992c5725a59c6d865dc28415862eb1e", null ],
+    [ "peek", "classvfiipc_1_1_i_p_c.html#abe719544c505e175fe68e0c616f9742d", null ],
+    [ "poll_in", "classvfiipc_1_1_i_p_c.html#aae3d66ed5454894b1ace225e51de8674", null ],
+    [ "read", "classvfiipc_1_1_i_p_c.html#aa04744c17ae9eec2b37fb8c476a8c62d", null ],
+    [ "read", "classvfiipc_1_1_i_p_c.html#a69117eaa93a4a8bff9cb28df51abc50b", null ],
+    [ "read_msg", "classvfiipc_1_1_i_p_c.html#a566bc069efbaf8b7c6d7639cf6a0a7ea", null ],
+    [ "read_msg", "classvfiipc_1_1_i_p_c.html#a12475d631dd0313083d53b72d007a07a", null ],
+    [ "read_msg", "classvfiipc_1_1_i_p_c.html#af9b26f735493cab66dbb7bbffe6d2190", null ],
+    [ "read_msg", "classvfiipc_1_1_i_p_c.html#a5fc3e8a54237502339f9483465730704", null ],
+    [ "remote_addr", "classvfiipc_1_1_i_p_c.html#af5c43ffa916e2d7662a667b33646493a", null ],
+    [ "set_callback", "classvfiipc_1_1_i_p_c.html#aa73e8080bdf5412792220bbb47cd2f4d", null ],
+    [ "write", "classvfiipc_1_1_i_p_c.html#a04f753a2a5691e2d36266e2ff084a217", null ],
+    [ "write_msg", "classvfiipc_1_1_i_p_c.html#aa3ade24ef1ee0c1c277e735e10288bea", null ],
+    [ "write_msg", "classvfiipc_1_1_i_p_c.html#a0e36d031eb96fa532e70d99dd6454864", null ],
+    [ "write_msg", "classvfiipc_1_1_i_p_c.html#adf0117598edfaf3ed682337421457956", null ],
+    [ "write_msg", "classvfiipc_1_1_i_p_c.html#aa847963eee355eaa6d9054510fb66b65", null ],
+    [ "d", "classvfiipc_1_1_i_p_c.html#a40526579f289c2f9a91bde432367b54b", null ]
+];

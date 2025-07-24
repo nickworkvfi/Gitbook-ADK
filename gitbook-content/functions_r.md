@@ -1,0 +1,111 @@
+---
+title: "ADK-Programmers-Guides: Data Fields"
+---
+
+Here is a list of all struct and union fields with links to the structures/unions they belong to:
+
+### - r -
+
+- raised_data : <a href="libevt_8h.md#ad7ade96785e05476902392560244c3bb">Event</a>
+- raised_flag : <a href="libevt_8h.md#afeadc31c08472b8ac47b764334f44a50">Event</a>
+- raised_handle : <a href="libevt_8h.md#aef5372589861f8e8e03fb14fe9bc2454">Event</a>
+- raised_timestamp : <a href="libevt_8h.md#a015bae95273e811b516f0727c2e5c3b3">Event</a>
+- raised_version : <a href="libevt_8h.md#ae0b2cf0a010d20371af2271a84e90e1b">Event</a>
+- rdWalletAuthParams : <a href="titusstubs_8cpp.md#a58066d0e73f799fb8ea41298229fe3fe">authenticationParams</a>
+- rdWalletAuthResult : <a href="titusstubs_8cpp.md#ab771cc996cb0c4c21df2bb3cc1aec3f8">authenticationResult</a>
+- rdWalletGetServicesParams : <a href="titusstubs_8cpp.md#a5126fd7fd07d82914316079041407e72">getServicesParams</a>
+- rdWalletName : <a href="titusstubs_8cpp.md#ab9582040ee73c6692f04ebd933bda9bc">authenticationParams</a> , <a href="titusstubs_8cpp.md#ab9582040ee73c6692f04ebd933bda9bc">authenticationResult</a> , <a href="titusstubs_8cpp.md#ab9582040ee73c6692f04ebd933bda9bc">getServicesParams</a> , <a href="titusstubs_8cpp.md#ab9582040ee73c6692f04ebd933bda9bc">getServicesResult</a>
+- rdWalletServices : <a href="titusstubs_8cpp.md#a0c953151e4a198eb1cd87595fa249e64">getServicesResult</a>
+- read() : <a href="class_com_config.md#a95212aa577485c0f3f2d50f1e20544ec">ComConfig</a>
+- Read : <a href="class_directory.md#abed82baf7f470b522273a3e37c24c600a809abe96853e69894bbf8e5730b31348">Directory</a>
+- read() : <a href="classvfiipc_1_1_i_p_c.md#a69117eaa93a4a8bff9cb28df51abc50b">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#aa04744c17ae9eec2b37fb8c476a8c62d">TLS</a>
+- read_file() : <a href="classpackmanlib_1_1io_1_1_archive_reader.md#aee6c445359ec4572d7b5aceeeb1818df">ArchiveReader</a>
+- read_fileobj() : <a href="classpackmanlib_1_1io_1_1_archive_reader.md#aec6d086b6d253ccb7edf3035c7056d6f">ArchiveReader</a>
+- read_msg() : <a href="classvfiipc_1_1_i_p_c.md#a5fc3e8a54237502339f9483465730704">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#a5fc3e8a54237502339f9483465730704">TLS</a>
+- read_pickled_file() : <a href="classpackmanlib_1_1io_1_1_archive_reader.md#ac595ebf7d477bad0e3f526fe176875c0">ArchiveReader</a>
+- readCertificate() : <a href="classlibsdi_1_1_s_d_i.md#a9233675532dc75c48289bb0aa42241fe">SDI</a>
+- readEntry() : <a href="class_directory.md#a146efd6a8d54b8727b20c2164a9333d8">Directory</a>
+- reader_thread() : <a href="classvfisdi_1_1_s_d_i_client.md#ab8db052d9f8525a8e04179e4625f17ac">SDIClient</a>
+- READONLY : <a href="classvfisysinfo_1_1_ini_file.md#a46c8a310cf4c094f8c80e1cb8dc1f911a626af06d585fcb18d2cd6cdec0d235cf">IniFile</a>
+- READWRITE : <a href="classvfisysinfo_1_1_ini_file.md#a46c8a310cf4c094f8c80e1cb8dc1f911a35c9731eb1af206e4ebcfc0bc95cd6de">IniFile</a>
+- ReceiptRequiredLimit_9F5D : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ab8bfa6b648fce4c5fd7101c9204b609a">EMV_CTLS_APPLIDATA_IK_STRUCT</a>
+- receive() : <a href="classlibsdi_1_1_sdi_cmd.md#a22eddbbef80354a4641b55828346c7d7">SdiCmd</a> , <a href="classm_a_d_k___p_p___prot.md#ab2e55bafa77bcbdbeda4258ecadd5357">mADK_PP_Prot</a>
+- receiveGetPinResult() : <a href="classlibsdi_1_1_p_e_d.md#af80596e1dd022dce76a2420ef9b1c3da">PED</a>
+- receiveMessage() : <a href="group__sdilowlevel.md#ga6c1ca6f917bb545fa12b98bafddeb839">SDIClient</a>
+- receiver_name : <a href="_v_h_q_utils___app_interface_8c.md#a4fa027f4647cfb03a0f730d6bcfecfa4">appData_t</a>
+- receiveResult() : <a href="classlibsdi_1_1_manual_entry.md#ae382a529a8037b1583f7e2ae89521f2d">ManualEntry</a>
+- receiveSW12() : <a href="classlibsdi_1_1_sdi_base.md#a23032d620c1f454fc5f00ff4f2f4ceb7">SdiBase</a>
+- receiveTechnology() : <a href="classlibsdi_1_1_card_detection.md#ad6eef14b6e8830178bd8330ef2dbcb6e">CardDetection</a>
+- reciveTimeOUt : <a href="titusstubs_8cpp.md#a2d3b01364d10f41d551f86d8446b444d">felicaPolling</a>
+- record : <a href="group__sdidata.md#a783a337eca4cfaa10b20b552533a7c94">SDIClient::Matching</a>
+- rect() : <a href="classvfigui_1_1_u_i_drawing.md#a37f4a5cdb3538080c3756d0d6110ae73">UIDrawing</a>
+- rectf() : <a href="classvfigui_1_1_u_i_drawing.md#a5703a83e2a7903a788a8658e6dd19115">UIDrawing</a>
+- recur_unit_type : <a href="_v_h_q_xml_dictionary_8c.md#a43473d06907c6d605e94c97cce03d1ca">_recur_unit_type_xml_conv_t</a>
+- recv() : <a href="classvficom_1_1_event_pipe.md#af780052cc93b5836bc71741f5de5462e">EventPipe</a>
+- recv_response() : <a href="classm_a_d_k___p_p___prot.md#a0bb666307a7aa15fc7aae63d454e4394">mADK_PP_Prot</a>
+- redeemedUnits : <a href="namespacevficpl.md#ae6a2e0c6c04836ad5ebc9746b680a2ca">AltPaymentData</a> , <a href="namespacevficpl.md#ae6a2e0c6c04836ad5ebc9746b680a2ca">TechAltPaymentData</a>
+- references : <a href="_v_h_q_utils__shared_8c.md#a68c1fad38a66e33894c7abaa2443fdc0">_CommMsgIdPair_t</a>
+- regex : <a href="namespacesdi_1_1filesystem.md#a74a1b73c6773e3ff657617313f458742">UpdateFiles</a>
+- region_height : <a href="group___a_d_k___l_e_d.md#aa615ae1fc3a32f4f956bfb84dacb9915">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- region_width : <a href="group___a_d_k___l_e_d.md#acfbe1348b05b64a38e68b85de539592e">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- region_x : <a href="group___a_d_k___l_e_d.md#ab960028561a5bca54c2f4c515b8a4fee">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- region_y : <a href="group___a_d_k___l_e_d.md#afa2c0adfd723a90e1f5a3b960747d2ed">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- release_instance : <a href="_event_scheduler_8c.md#ac34f5f6c67664bfbecc711f8c222dc97">_running_event_t</a>
+- remote_addr() : <a href="classvfiipc_1_1_i_p_c.md#af5c43ffa916e2d7662a667b33646493a">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#af5c43ffa916e2d7662a667b33646493a">TLS</a>
+- RemovalTimeout_DFAB4C : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#af781e11637a7a71b447a2a282296b875">EMV_CTLS_APPLIDATA_JK_STRUCT</a>
+- remove() : <a href="class_sec_handle_map.md#a52823abb16c6f8aef9c312f0c0710a3d">SecHandleMap</a> , <a href="classvfisysinfo_1_1_ini_file.md#ac6f9c36f152f398f86c4b45347984b56">IniFile</a>
+- removeFile : <a href="svc__tms_8h.md#aa24c3edbb16ed46259794c7492376b9f">tmsEventData</a>
+- removeTechnology() : <a href="classlibsdi_1_1_card_detection.md#aa0e4580b1535e8cf36d697d6374847a0">CardDetection</a>
+- rename() : <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#a188c163d171ffd6fd7df2efd434a498d">NodeActionMixin</a> , <a href="classvfisdi_1_1_t_l_v.md#a4059a86d9d3afa2b94a53e8a7e428fd9">TLV</a>
+- report : <a href="classpackmanlib_1_1node_1_1_archive.md#a4b7febb5dfb963ed99f5e7870abce71b">Archive</a>
+- request() : <a href="classm_a_d_k___p_p___prot.md#a1630f914c3dbf9ebc62ad6a5c7f9ebd9">mADK_PP_Prot</a>
+- REQUEST_CARD_FALLBACK : <a href="classlibsdi_1_1_dialog.md#af0bf6879fc4a8f67f7e97c1a942fa5f9a0e964199351481bf3a31c450fedb56c2">Dialog</a>
+- REQUEST_CARD_MODE : <a href="classlibsdi_1_1_dialog.md#af0bf6879fc4a8f67f7e97c1a942fa5f9">Dialog</a>
+- REQUEST_CARD_RETRY : <a href="classlibsdi_1_1_dialog.md#af0bf6879fc4a8f67f7e97c1a942fa5f9ab35bdf9cd637aed737b708bf3bae3753">Dialog</a>
+- REQUEST_CARD_STANDARD : <a href="classlibsdi_1_1_dialog.md#af0bf6879fc4a8f67f7e97c1a942fa5f9a73742a81100dccb66edd3073474298a7">Dialog</a>
+- requestCard() : <a href="classlibsdi_1_1_dialog.md#a3f9167afa0b6593b06560072bf94be9e">Dialog</a>
+- requestCardData() : <a href="classvficpl_1_1_api.md#a17fb4a4f2eed2f88e1c6bb6a0b9d2c20">Api</a>
+- requestCode : <a href="titusstubs_8cpp.md#a9cb9cc4a8ff684bd44ded3688ac59087">felicaPolling</a>
+- requestMsg : <a href="_v_h_q_manager_8c.md#a84263d27c916e3e84e0f7ae6faf7b519">_lock_thread_info_t</a> , <a href="_v_h_q_manager_8c.md#a84263d27c916e3e84e0f7ae6faf7b519">_set_config_info_t</a>
+- requestStartTransaction() : <a href="classvficpl_1_1_api.md#ab4ec00a9c48eaedce0d7ad84e78150ca">Api</a>
+- requiresSignature() : <a href="classvficpl_1_1_i_transaction_data_provider.md#aea8d6c9f406360f33543b1fc944aa2f0">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a6449781b0f196e38ac3dcdb1d2d25e03">TransactionDataProvider</a>
+- reset() : <a href="classm_a_d_k___p_p___prot.md#ad20897c5c8bd47f5d4005989bead0e55">mADK_PP_Prot</a> , <a href="classvfigui_1_1_u_i_drawing.md#ad20897c5c8bd47f5d4005989bead0e55">UIDrawing</a> , <a href="structvfisdi_1_1_bit_mask.md#a605bc4d3e7d561c947d537e4c133b1cc">BitMask< NBITS, ITYPE ></a>
+- resize() : <a href="classvfiipc_1_1_j_s_object.md#acfb8c37cf59bd178bd65f8a0b79ddb23">JSObject</a>
+- responseCode : <a href="classlibsdi_1_1_sdi_base.md#abf9c293a07740b5134aae7a9c718bfd3">SdiBase::PluginResult</a> , <a href="group__sdicrd.md#ab8840bbb4083acef021e7d9177b23647">SDIClient::PluginResult</a>
+- responseData : <a href="classlibsdi_1_1_sdi_base.md#aa70eafc5ee6dc07aecf6cd8083b68590">SdiBase::PluginResult</a> , <a href="group__sdicrd.md#a63578637d4cb061082ee9f05aea024b4">SDIClient::PluginResult</a>
+- responseTimeout : <a href="titusstubs_8cpp.md#ac927f3777727f3e6531ce7ddbd12c405">TX_RX_PARAM</a>
+- restrictPermissions() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a38fbeccfeda816ba75d642e654899fee">CTransactionValue</a>
+- result : <a href="loadplugin_8h.md#abdd9b3d6afc4e8da7b00ce09e6f20429">bcTriggerResult</a> , <a href="namespacevficpl.md#a5734a27c6f335279bf9b0b57ae9b8f76">TechAltPaymentData</a> , <a href="namespacevficpl.md#a091e96177672531669b15d9b18121907">TransactionData</a> , <a href="classvfigui_1_1_u_i_c_b_data.md#ad2282158d90aea501e5d62d9eada1cd4">UICBData</a>
+- Result_referral : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a21f9d40183d72a1462d5152cf00f3b23">EMV_CT_HOST_STRUCT</a>
+- RetapFieldOff_DFAB08 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a21a7d1dd4fed708472fc123a0a03abfa">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- retval : <a href="loadplugin_8h.md#a7f345697df7eb20c9aba1ab6980cae8f">bcTriggerResult</a> , <a href="struct_dlg_cb_data.md#a7f345697df7eb20c9aba1ab6980cae8f">DlgCbData</a>
+- RevocEntries : <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#aad05155fcd539c313f48260d8ebd2f76">EMV_CT_CAPKEY_STRUCT</a> , <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#aad05155fcd539c313f48260d8ebd2f76">EMV_CTLS_CAPKEY_STRUCT</a>
+- RFU : <a href="group__sdinfc.md#a67bba1d740bce1ac44967e369ce929e0">SDIClient::NFCCardExt</a>
+- RID : <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a7d507a69b2eb69015b1ced0f4c4d47fd">EMV_CT_CAPKEY_STRUCT</a> , <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a94a6af453c7285c5cab3531311b959e1">EMV_CT_CAPREAD_STRUCT</a> , <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a7d507a69b2eb69015b1ced0f4c4d47fd">EMV_CTLS_CAPKEY_STRUCT</a> , <a href="group___d_e_f___c_a_r_d___c_o_n_f.md#a94a6af453c7285c5cab3531311b959e1">EMV_CTLS_CAPREAD_STRUCT</a>
+- rid : <a href="classvfisdi_1_1_s_d_i_client.md#aa02a07eb2259c3a44a419fefebf625c3">SDIClient::CAPKeyInfo</a>
+- right : <a href="namespacevfigui.md#a2f54f8b71f0d765e2b7dbd9a8b9774ff">UIRegion</a>
+- RiskManagementMaximumTargetPercentage_DFAB48 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6ec4f8eae672a49ef9f5538dc86e3075">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6ec4f8eae672a49ef9f5538dc86e3075">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6ec4f8eae672a49ef9f5538dc86e3075">EMV_CTLS_APPLIDATA_PB_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a6ec4f8eae672a49ef9f5538dc86e3075">EMV_CTLS_APPLIDATA_RK_STRUCT</a>
+- RiskManagementTargetPercentage_DFAB47 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aac09806019918cd2daedef5834c88740">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aac09806019918cd2daedef5834c88740">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aac09806019918cd2daedef5834c88740">EMV_CTLS_APPLIDATA_PB_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aac09806019918cd2daedef5834c88740">EMV_CTLS_APPLIDATA_RK_STRUCT</a>
+- RiskManagementThreshold_DFAB46 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a096278403e842d9b135643dcc67e834c">EMV_CTLS_APPLIDATA_IK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a096278403e842d9b135643dcc67e834c">EMV_CTLS_APPLIDATA_JK_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a096278403e842d9b135643dcc67e834c">EMV_CTLS_APPLIDATA_PB_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a096278403e842d9b135643dcc67e834c">EMV_CTLS_APPLIDATA_RK_STRUCT</a>
+- root : <a href="xmldoc_8h.md#a1596180fd5e981c917fc2b4c386566f8">XMLDocument</a>
+- root_path : <a href="classpackmanlib_1_1io_1_1_archive_extractor_1_1_extractor.md#ab33cf7205359ee0f91488c87df1577a0">ArchiveExtractor.Extractor</a>
+- rows : <a href="classvficpl_1_1_barcode.md#a58897720d39a73af3d7686c4e8303758">Barcode</a>
+- RR_AccuracyThreshold_DF8136 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#aa07f0821f57d18b5d1a8c0c02ee1c62a">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- RR_ExpectedTransTime_CAPDU_DF8134 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#af860b71c8466de6cfb4aaae655be44e4">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- RR_ExpectedTransTime_RAPDU_DF8135 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a99c98ba33d7b823984a9d3435666d65f">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- RR_MaxGracePeriod_DF8133 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a32193ead58f5038dbcb61f81eb5e28ae">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- RR_MinGracePeriod_DF8132 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a2bb03c9482e6fc62c5683eaef07c8e37">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- RR_MinTimeDifferenceLimit_DF8136 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a1227187c42ddbc19e0ace8fd4b6e9df0">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TimeToleranceMax_DF8133 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a38fbb20a05f4ae3a8efc4f3b375e7116">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TimeToleranceMin_DF8132 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a0d566b17e509f4da83879ad160d891f5">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TransmissionTime_CAPDU_DF8134 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a303b56140e9fb39847673561a5b0c4b0">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TransmissionTime_RAPDU_DF8135 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a30ab2daf428c19325095ac4a6e1cad56">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TransTimeMismatchLimit_DF8137 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ad860c5c0eb156cc4f81806f9363e0578">EMV_CTLS_APPLIDATA_BK_STRUCT</a>
+- RR_TransTimeMismatchThreshold_DF8137 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#ae4e57b81456960fa9bf5ba1eef3bc0ff">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- rssi : <a href="libcom_8h.md#ab6f4522a5a5c4577c16d0e23339a1414">com_WirelessSignalQuality</a>
+- run() : <a href="class_ipc_server.md#a531e20ac2de740026b25f32dd70b16e4">IpcServer< Service ></a>
+- Running : <a href="class_thread_control.md#ab3804a8a4369184ad46dadf8e54957b6a2f5f2c4a8c4f4f0519d503dcdfbf55cb">ThreadControl</a>
+- RX_Bytes : <a href="libcom_8h.md#aede6b17a3932173738f7c5c0abfb138a">com_NetworkInterfaceInfo</a>
+- RX_Errors : <a href="libcom_8h.md#ab3efbbdefd73b05f6028b54236b243a5">com_NetworkInterfaceInfo</a>
+- RX_Packets : <a href="libcom_8h.md#a87f752a4097af5bd9510703bcbb9ab48">com_NetworkInterfaceInfo</a>
+- rxData : <a href="titusstubs_8cpp.md#a6336279f8d22c59ab3472ec69e192642">apduRxData</a> , <a href="titusstubs_8cpp.md#a6336279f8d22c59ab3472ec69e192642">felicaRxData</a>

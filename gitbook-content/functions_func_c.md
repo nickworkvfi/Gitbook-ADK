@@ -1,0 +1,69 @@
+---
+title: "ADK-Programmers-Guides: Data Fields - Functions"
+---
+
+ 
+
+### - c -
+
+- calculate_CMAC() : <a href="class_auth.md#a72515d1cf7bf20870d6979365f3033a9">Auth</a> , <a href="class_auth_sec.md#a72ff4516c6078c2f4ceda1515242a19d">AuthSec</a>
+- can_remove() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a2e1c063382f6eabfdc0f46c8d76161d8">Platform</a>
+- cancel() : <a href="structvficpl_1_1_invoke_request.md#afe0e8c2e79f97bf48ad1bb267a810eaf">InvokeRequest</a>
+- captureSignature() : <a href="classlibsdi_1_1_dialog.md#a41c8e442425f8a584b0c85e2837807f3">Dialog</a>
+- cardDetectedCallback() : <a href="classlibsdi_1_1_card_detection.md#acc0efc73ca1e0b855ccbe2650fa559c4">CardDetection</a>
+- CardDetection() : <a href="classlibsdi_1_1_card_detection.md#a4272e3875f1ff737670b4470e4032404">CardDetection</a>
+- cardReadAtEpp() : <a href="classlibsdi_1_1_card_detection.md#ae7e1b4abf492809715029b687568c85d">CardDetection</a>
+- changeset_node() : <a href="classpackmanlib_1_1node_1_1_bundle_info.md#ab89e16edb2fb4efbdbf224e7a220b430">BundleInfo</a>
+- check_abort() : <a href="classm_a_d_k___p_p___prot.md#aa678c3364670ab6f479de87652ada0b4">mADK_PP_Prot</a>
+- check_script() : <a href="class_auth.md#a8cbbb48867a5f9cb2469169b1d494c07">Auth</a> , <a href="class_auth_sec.md#a6c0da48bde8b51d19ecb7fb4c723624a">AuthSec</a>
+- checkForUpdate() : <a href="classlibsdi_1_1_s_d_i.md#a6ab3e8fc45d07275607654fb738dd8c3">SDI</a>
+- cleanBuffer() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a750be53afe22b006b8b36b42f3c12323">CTransactionValue</a>
+- clear() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#ac8bb3912a3ce86b15842e79d0b421204">SafeBuffer</a> , <a href="class_com_config.md#ac8bb3912a3ce86b15842e79d0b421204">ComConfig</a> , <a href="classlibsdi_1_1_card_detection.md#aae048282c7011eedc2e0492f6421ea73">CardDetection</a> , <a href="classlibsdi_1_1_sdi_base.md#ac8bb3912a3ce86b15842e79d0b421204">SdiBase</a> , <a href="classlibsdi_1_1_sdi_cmd.md#aae048282c7011eedc2e0492f6421ea73">SdiCmd</a> , <a href="classsdi_1_1_time_stamp.md#ac8bb3912a3ce86b15842e79d0b421204">TimeStamp</a> , <a href="classvfigui_1_1_u_i_drawing.md#a0f765130b63c7d600afc2d63b7660ff6">UIDrawing</a> , <a href="classvfihtml_1_1_time_stamp.md#ac8bb3912a3ce86b15842e79d0b421204">TimeStamp</a> , <a href="classvfiipc_1_1_j_s_object.md#ac8bb3912a3ce86b15842e79d0b421204">JSObject</a> , <a href="structvfisdi_1_1_array.md#ac8bb3912a3ce86b15842e79d0b421204">Array< N ></a> , <a href="classvfisdi_1_1_t_l_v.md#ac8bb3912a3ce86b15842e79d0b421204">TLV</a> , <a href="classvfisysinfo_1_1_ini_file.md#aa90907e853a7b3776a474e658d0d986e">IniFile</a>
+- clearDataStore() : <a href="classlibsdi_1_1_s_d_i.md#a74ac1725f8aa985ddea24cc6755b5f85">SDI</a>
+- clearResults() : <a href="classlibsdi_1_1_sdi_cmd.md#a80eff6d974183e99f91c034c49d2ecde">SdiCmd</a>
+- clearScreen() : <a href="classlibsdi_1_1_dialog.md#af2cfde46daedef459919ba6aa8a02b13">Dialog</a>
+- Clock() : <a href="classsdi_1_1_time_stamp.md#af6793cbedf60ccb7568f45922dcc37df">TimeStamp</a>
+- close() : <a href="class_directory.md#a5ae591df94fc66ccb85cbb6565368bca">Directory</a> , <a href="classlibsdi_1_1_sdi_crypt.md#a46143fd6de3be9ab9951f140d3ae8c2f">SdiCrypt</a> , <a href="classvfiipc_1_1_i_p_c.md#a47feccb1873356363e4d0e302bc3822c">IPC</a> , <a href="classvfiipc_1_1_pipe.md#a5ae591df94fc66ccb85cbb6565368bca">Pipe</a> , <a href="classvfiipc_1_1_t_c_p.md#a5ae591df94fc66ccb85cbb6565368bca">TCP</a> , <a href="classvfiipc_1_1_t_l_s.md#a5ae591df94fc66ccb85cbb6565368bca">TLS</a> , <a href="group__sdisetup.md#ga5ae591df94fc66ccb85cbb6565368bca">SDIClient</a>
+- close_nolock() : <a href="classvfisdi_1_1_s_d_i_client.md#a573e9732525e323de31854efd2c71009">SDIClient</a>
+- closeExtension() : <a href="class_s_d_i_plugin.md#a07bbd9c2e7fc03a0f408560bf09d7091">SDIPlugin</a>
+- CodeConverter() : <a href="class_code_converter.md#ae8e933c33bffd2eb397bee86901bf745">CodeConverter</a>
+- color() : <a href="classvfigui_1_1_u_i_drawing.md#ac174a9927d723cebaa5a4f07d067b952">UIDrawing</a>
+- com1a_address() : <a href="class_com_config.md#a60e1fbb37f36e32dcebe88ef7ca2b890">ComConfig</a>
+- com1a_btclient_reconnect_idle() : <a href="class_com_config.md#acf979aafcdf34b7cde58dd58e4da42b6">ComConfig</a>
+- com1a_btserver_pairing_idle() : <a href="class_com_config.md#a9373e79b97e460557e023229937c2f1e">ComConfig</a>
+- com1a_device() : <a href="class_com_config.md#a6138436a34e24a76fe64a00a63fa23ce">ComConfig</a>
+- com1a_mode() : <a href="class_com_config.md#a9bed2c8bcb1ac3c1e1c9acdb843ef06a">ComConfig</a>
+- command() : <a href="classm_a_d_k___p_p___prot.md#a345e47376ab38e76aa77b2bd774b104d">mADK_PP_Prot</a>
+- command_active() : <a href="classm_a_d_k___p_p___prot.md#af28b6669bc9832ba7a9ad10765341494">mADK_PP_Prot</a>
+- CommandPipe() : <a href="classvficom_1_1_command_pipe.md#a34dde696be1c0b7b4eb6e5c79e5d7817">CommandPipe</a>
+- connect() : <a href="classvfiipc_1_1_pipe.md#a120d2f1c13062e416c1d19b82da84a29">Pipe</a> , <a href="classvfiipc_1_1_t_c_p.md#aad0f8976771a46b2b8e617b3cd152a5c">TCP</a> , <a href="classvfiipc_1_1_t_l_s.md#aad0f8976771a46b2b8e617b3cd152a5c">TLS</a> , <a href="group__sdisetup.md#gaadabac17c905f50d1379d3ba5fbdd0e6">SDIClient</a>
+- connected() : <a href="classm_a_d_k___p_p___prot.md#aa0fd96bc25e3d509fb54028c2e4b91f6">mADK_PP_Prot</a> , <a href="group__sdisetup.md#gaa0fd96bc25e3d509fb54028c2e4b91f6">SDIClient</a>
+- constructed() : <a href="classvfisdi_1_1_t_l_v.md#a27abda24ad246b03c2244f695d7ba639">TLV</a> , <a href="classvfisdi_1_1_t_l_v_1_1_tag.md#a27abda24ad246b03c2244f695d7ba639">TLV::Tag</a>
+- control() : <a href="classpackmanlib_1_1node_1_1_archive.md#a727991055fddd86898908f93796d2224">Archive</a>
+- control_node() : <a href="classpackmanlib_1_1node_1_1_archive.md#a5da205bce20bfb9621d50c96891b0fd4">Archive</a>
+- copy() : <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#aebf6261b742ae694c16790726a8c77c5">NodeActionMixin</a>
+- count() : <a href="classvfisdi_1_1_t_l_v.md#a5b0bf194cbc6562759f877a82aa5ad28">TLV</a>
+- counterTopMode() : <a href="class_config.md#ac8ce05a0e03786cdfd6e0183c416adbb">Config</a>
+- CpFreeFnImp() : <a href="structvficpl_1_1_cp_free_fn_imp.md#af88487a1026c040931f481bd4b3d3f48">CpFreeFnImp< F, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_01_4.md#af88487a1026c040931f481bd4b3d3f48">CpFreeFnImp< F, R ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_01_4.md#af88487a1026c040931f481bd4b3d3f48">CpFreeFnImp< F, R, A1 ></a> , <a href="structvficpl_1_1_cp_free_fn_imp_3_01_f_00_01_r_00_01_a1_00_01_a2_01_4.md#af88487a1026c040931f481bd4b3d3f48">CpFreeFnImp< F, R, A1, A2 ></a>
+- CpFunction() : <a href="classvficpl_1_1_cp_function.md#a427dc7a73e9de10c25152842349a2e4b">CpFunction< R, A1, A2, A3 ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_01_4.md#a427dc7a73e9de10c25152842349a2e4b">CpFunction< R ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_00_01_a1_01_4.md#a427dc7a73e9de10c25152842349a2e4b">CpFunction< R, A1 ></a> , <a href="classvficpl_1_1_cp_function_3_01_r_00_01_a1_00_01_a2_01_4.md#a427dc7a73e9de10c25152842349a2e4b">CpFunction< R, A1, A2 ></a>
+- CPL_EXPLICIT_OPERATOR_BOOL() : <a href="structvficpl_1_1_invoke_result.md#af1c66f4589feadd578412229be9404b9">InvokeResult</a>
+- CpMemberFnImp() : <a href="structvficpl_1_1_cp_member_fn_imp.md#a562525baf7ade1fd18794f99feeb0d36">CpMemberFnImp< M, T, R, A1, A2, A3 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_01_4.md#a562525baf7ade1fd18794f99feeb0d36">CpMemberFnImp< M, T, R ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_01_4.md#a562525baf7ade1fd18794f99feeb0d36">CpMemberFnImp< M, T, R, A1 ></a> , <a href="structvficpl_1_1_cp_member_fn_imp_3_01_m_00_01_t_00_01_r_00_01_a1_00_01_a2_01_4.md#a5fe9552fa368b95817608947f10018b1">CpMemberFnImp< M, T, R, A1, A2 ></a>
+- crdAddTechnology() : <a href="group__sdicrd.md#gadd5984f4ff1e0ed900d076c9cf2f3583">SDIClient</a>
+- crdDetect() : <a href="group__sdicrd.md#ga8bec880c02a24ab758781862e535f6e6">SDIClient</a>
+- crdPollDetect() : <a href="group__sdicrd.md#ga832f6042c3fff724257309aa8f5b4cf2">SDIClient</a>
+- crdProvideCallbackResponse() : <a href="group__sdicrd.md#ga3cc73177ae72e9d3e4b05b2195ab7325">SDIClient</a>
+- crdRemoveTechnology() : <a href="group__sdicrd.md#ga3b6f80ede08e6b3496d31e17a661f714">SDIClient</a>
+- crdStartDetect() : <a href="group__sdicrd.md#ga20b2d4e611c8174a7c1caf9495236694">SDIClient</a>
+- crdStopDetect() : <a href="group__sdicrd.md#ga0fde18f23d79784cd57999cebd88a47e">SDIClient</a>
+- crdWaitForRemoval() : <a href="group__sdicrd.md#gaaa397799fb53215c5b5febbf78d4be54">SDIClient</a>
+- create() : <a href="class_connection_context.md#a843066af3900a371ffc9f353dd13efa9">ConnectionContext</a> , <a href="classpackmanlib_1_1node_1_1_bundle_info.md#a0c739af4297e818893bd4bee1d6e855e">BundleInfo</a> , <a href="classpackmanlib_1_1node_1_1_changeset.md#a55c611f70165c4d5e20cea8205c1f962">Changeset</a> , <a href="classpackmanlib_1_1node_1_1_changeset_data.md#a0c739af4297e818893bd4bee1d6e855e">ChangesetData</a> , <a href="classpackmanlib_1_1node_1_1_dlfile_meta.md#aa50c41a489f25a78f9bbd98b48467451">DlfileMeta</a> , <a href="classpackmanlib_1_1node_1_1_manifest.md#a55c611f70165c4d5e20cea8205c1f962">Manifest</a>
+- create_bundle() : <a href="classpackmanlib_1_1node_1_1_bundle.md#abe193e746b210a06820bc3679ab1d0ec">Bundle</a>
+- create_dir() : <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#a4437d79802d682f8b1e0f396cd1cff5a">NodeActionMixin</a>
+- create_dlfile() : <a href="classpackmanlib_1_1node_1_1_dlfile.md#a693f92810f9dc27927825c8e48e21e1e">Dlfile</a>
+- create_file() : <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#a51ad047a52fc93584d61631c49d6b34f">NodeActionMixin</a>
+- create_node() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a343e89c35fe71dea3b002b3eb444efa6">BaseNode</a> , <a href="classpackmanlib_1_1node_1_1_node.md#a57ab1e1ab24335aeaf07ac3ae39c59ee">Node</a>
+- create_package() : <a href="classpackmanlib_1_1node_1_1_package.md#a70cab0a58d8f64759aa5bf929feec286">Package</a>
+- create_tarinfo() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a858aac03715077f836c526caa69896c7">BaseNode</a>
+- create_upfile() : <a href="classpackmanlib_1_1node_1_1_u_pfile.md#a04a0087224fdd6df631202076297a32b">UPfile</a>
+- CTransactionData() : <a href="classcom__adksec__cmd_1_1_c_transaction_data.md#a11419fb46b809a3ad9744800aa1e4ad2">CTransactionData</a>
+- CTransactionValue() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a0630fb4abee77fdd49ca731eabfa32a6">CTransactionValue</a>

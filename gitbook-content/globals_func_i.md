@@ -1,0 +1,94 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - i -
+
+- iBTLVAppendFile() : <a href="btlv_8h.md#a6bcdff952c962b9ea166f7fbc474072c">btlv.h</a>
+- iBTLVExport() : <a href="btlv_8h.md#ae2fe6355ed919824ce036153083febcb">btlv.h</a>
+- iBTLVExportFile() : <a href="btlv_8h.md#ad8678f771c3915f4f49e938e528c72bf">btlv.h</a>
+- iBTLVExtractTag() : <a href="btlv_8h.md#a9cc36410c15461fea9d73c7773bedda3">btlv.h</a>
+- iBTLVGetChildCount() : <a href="btlv_8h.md#add6f494e76f568567d9a9d346e8d7ba1">btlv.h</a>
+- iBTLVGetChildOffset() : <a href="btlv_8h.md#a9e8c58882510a966fa32b91a2ec8accb">btlv.h</a>
+- iBTLVGetPath() : <a href="btlv_8h.md#a308f326bb12d98ba27901c8c7b337c3e">btlv.h</a>
+- iBTLVImport() : <a href="btlv_8h.md#a1186828a015bfce0db9bf478349a7480">btlv.h</a>
+- iBTLVImportFile() : <a href="btlv_8h.md#a75c2c0f386df0d159be41f49146c78ff">btlv.h</a>
+- iBTLVWriteData() : <a href="btlv_8h.md#a4aa4b3d47babeb7783fecc723e404e21">btlv.h</a>
+- if() : <a href="_v_h_q__vfisyspm__wrapper_8cpp.md#a70aa738d3c50b0bbed156ee52c84679d">VHQ_vfisyspm_wrapper.cpp</a>
+- info_autocommit() : <a href="group__propdb.md#ga0801c688741d290aea51941ece9da78c">infodb.h</a>
+- info_closedb() : <a href="group__propdb.md#ga9636f5a41459a3366255bd2fc8ad2b3f">infodb.h</a>
+- info_delete() : <a href="group__propdb.md#gab0cab9361709296139598c7edda1f1ed">infodb.h</a>
+- info_export() : <a href="group__inf__util__public.md#gacc8c27e963a0deb2af270918ec233f7c">inf_util.h</a>
+- info_export_property_db() : <a href="group__inf__util__public.md#gad68545aeaee0777b75d402be3c239d06">inf_util.h</a>
+- info_find() : <a href="group__propdb.md#gaa167931ed0a92796ee478b9ac93347a2">infodb.h</a>
+- info_getOptions() : <a href="group__propdb.md#ga5a7085e70df8abd29bcaea9e4e3d2c77">infodb.h</a>
+- info_getPath() : <a href="group__propdb.md#ga5147f1308f849af0f18ee2f9dfdadbce">infodb.h</a>
+- info_getType() : <a href="group__propdb.md#ga507d337f52d3d7acf3691a287d565515">infodb.h</a>
+- info_getVersion() : <a href="group__propdb.md#ga45afbfe3853490244c17383a667fe0e7">infodb.h</a>
+- info_import() : <a href="group__inf__util__public.md#gab028dff98150e41fc21c1b3a3f5d336d">inf_util.h</a>
+- info_import_property_db() : <a href="group__inf__util__public.md#ga188443d652530e5cd3b6c2eac7d3870d">inf_util.h</a>
+- info_incrementInt() : <a href="group__propdb.md#ga0b9ac4c2f9a7b257d0610d3d7248a722">infodb.h</a>
+- info_list() : <a href="group__propdb.md#ga54f4b018748882e6c5cdc509177fcee7">infodb.h</a>
+- info_merge_import_property_db() : <a href="group__inf__util__public.md#gad27f3e972a4ef344ffdc18a32b1c6e70">inf_util.h</a>
+- info_nodeGetType() : <a href="group__propdb.md#gaf943103c0cb3018c835ee081a35c2629">infodb.h</a>
+- info_nodeReadBinary() : <a href="group__propdb.md#ga08fcfd8fe23a1a5457b523a9cf967a10">infodb.h</a>
+- info_nodeReadDouble() : <a href="group__propdb.md#ga24f0af1a2b3ad3989365661e02a4682f">infodb.h</a>
+- info_nodeReadInt() : <a href="group__propdb.md#ga6d85fe7b4326970a1b00000d029fec78">infodb.h</a>
+- info_nodeReadString() : <a href="group__propdb.md#ga9447dc74d3c0b289936bc262ef15f49b">infodb.h</a>
+- info_opendb() : <a href="group__propdb.md#ga4cf176ac250d5f4ac40a717bdf49bad9">infodb.h</a>
+- info_partial_import() : <a href="group__inf__util__public.md#gaa9ed5d1644c56b30f1dcbad90537deb7">inf_util.h</a>
+- info_partial_import_property_db() : <a href="group__inf__util__public.md#ga51782a9663512eea89a58503d1b0f8b7">inf_util.h</a>
+- info_readBinary() : <a href="group__propdb.md#ga0924a766bf84c449058a7b4f78bd1a96">infodb.h</a>
+- info_readDouble() : <a href="group__propdb.md#ga8e36e70267096d0de8b8d8e50d1542a6">infodb.h</a>
+- info_readInt() : <a href="group__propdb.md#ga3b1d6872aab17d7043fc6258caaf4f36">infodb.h</a>
+- info_readString() : <a href="group__propdb.md#ga045b2122ffcea050015ce6de52c106f6">infodb.h</a>
+- info_readUnsignedInt() : <a href="group__propdb.md#gac59bbe74aae83c5888f510c3bc169063">infodb.h</a>
+- info_setOptions() : <a href="group__propdb.md#ga34be6def57c4f44b170128532f78fe2d">infodb.h</a>
+- info_transactionBegin() : <a href="group__propdb.md#ga816c14a5630ad3e2e0734a52fe285e54">infodb.h</a>
+- info_transactionCommit() : <a href="group__propdb.md#ga3c2f5b212c59c57adbe313812e63b350">infodb.h</a>
+- info_transactionRollback() : <a href="group__propdb.md#ga61db7da4ef43b0e4994dd46d26bd0ebe">infodb.h</a>
+- info_updateNodeName() : <a href="group__propdb.md#ga4bd971d1088aed8566212896522ec147">infodb.h</a>
+- info_walkTree() : <a href="group__propdb.md#ga672f3d4caf24ff01c3b6801b13bf4463">infodb.h</a>
+- info_writeBinary() : <a href="group__propdb.md#ga31c4f4a46c0818f7e64a269b43d5c272">infodb.h</a>
+- info_writeDouble() : <a href="group__propdb.md#gadd1c03a124342cb7d889360e2a866c51">infodb.h</a>
+- info_writeInt() : <a href="group__propdb.md#gaa569328ef9e8c2da03429b5c270101c5">infodb.h</a>
+- info_writeString() : <a href="group__propdb.md#gaa820eb834650ba97b27d9cc4d558fb8d">infodb.h</a>
+- info_writeUnsignedInt() : <a href="group__propdb.md#ga4347be8fa85445d67ef163ef3bdc6acd">infodb.h</a>
+- infoutil_getVersion() : <a href="inf__util_8h.md#a9107d35320cbbe8358a375c571de886d">inf_util.h</a>
+- iniparser_setstr() : <a href="_v_h_q_config_8cpp.md#a605a88057bac4c3249513fc588421c32">VHQConfig.cpp</a>
+- init_ui_mode() : <a href="ui__mode_8cpp.md#a66a4622071497e674b301c3c01f0041d">ui_mode.cpp</a> , <a href="ui__mode_8h.md#a66a4622071497e674b301c3c01f0041d">ui_mode.h</a>
+- InitHeartBeatEventID() : <a href="_v_h_q_manager_8c.md#afe90e436cf6c4dd89e344b32de6ac761">VHQManager.c</a>
+- InitMainBatteryStatus() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a5b4c9dc2be0419a394ed9dba7c2bcb27">VHQUtils_shared_cpp.cpp</a>
+- InitVXComms() : <a href="ci_a_d_k_raw_dial_8c.md#a63a54b0dd95a1b95c327144de73f8e0b">ciADKRawDial.c</a> , <a href="ci_direct_8c.md#a63a54b0dd95a1b95c327144de73f8e0b">ciDirect.c</a> , <a href="ci_a_d_k_8c.md#a63a54b0dd95a1b95c327144de73f8e0b">ciADK.c</a>
+- input_end() : <a href="input__plugin_8h.md#a9fb84f242dcf5f00bfde9e01f7da1849">input_plugin.h</a>
+- input_poll() : <a href="input__plugin_8h.md#a7cce0f5ade7700f0ab3ed38bd911e36d">input_plugin.h</a>
+- input_start() : <a href="input__plugin_8h.md#a8036e2b4b69426df4c7ed0ef02618671">input_plugin.h</a>
+- InstanceRebootEventRequired() : <a href="_v_h_q_config_8cpp.md#a5c62f926d2fa258c0d36a20bd943e478">VHQConfig.cpp</a>
+- internal_GetIPAddress() : <a href="ci_a_d_k_8c.md#afb24d619e9278eec2d27a3c03376d1c3">ciADK.c</a> , <a href="_v_h_q_utils___m_x_8c.md#afb24d619e9278eec2d27a3c03376d1c3">VHQUtils_MX.c</a> , <a href="ci_direct_8c.md#afb24d619e9278eec2d27a3c03376d1c3">ciDirect.c</a> , <a href="ci_a_d_k_raw_dial_8c.md#afb24d619e9278eec2d27a3c03376d1c3">ciADKRawDial.c</a>
+- internal_GetMACAddress() : <a href="ci_direct_8c.md#a07cc05691d9ade5eac44bf6759c347fb">ciDirect.c</a> , <a href="ci_a_d_k_8c.md#a07cc05691d9ade5eac44bf6759c347fb">ciADK.c</a> , <a href="ci_a_d_k_raw_dial_8c.md#a07cc05691d9ade5eac44bf6759c347fb">ciADKRawDial.c</a> , <a href="_v_h_q_utils___m_x_8c.md#a07cc05691d9ade5eac44bf6759c347fb">VHQUtils_MX.c</a>
+- io_menu_invoker() : <a href="ui__mode_8cpp.md#a6affc64ea4b98abc54d73fd71aadade0">ui_mode.cpp</a>
+- ipcSetAppIDwrapper() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#aced4ea0cbea11d5441974db61fe3da33">VHQUtils_shared_cpp.cpp</a>
+- is_absolute_path() : <a href="pathutil_8cpp.md#a5f02ed450e4d048f1779afacae02eb47">pathutil.cpp</a> , <a href="pathutil_8h.md#a5f02ed450e4d048f1779afacae02eb47">pathutil.h</a>
+- is_temp_dl_file() : <a href="_v_h_q_utils___m_x_8c.md#a3362cf45c084229cdabe369e72251f34">VHQUtils_MX.c</a>
+- isAdeEnabled() : <a href="sec_8h.md#acfedfb1b909acd490a61944fb6d79def">sec.h</a> , <a href="sec_8cpp.md#acfedfb1b909acd490a61944fb6d79def">sec.cpp</a>
+- isbase64() : <a href="_web_service_wrappers_8c.md#a5887f31e1cbe65c00807a2605075acdd">WebServiceWrappers.c</a>
+- isCardRemoved() : <a href="sys_8cpp.md#a43801947261b861981e5f2c52e878fa0">sys.cpp</a> , <a href="sys_8h.md#a43801947261b861981e5f2c52e878fa0">sys.h</a>
+- IsComTypeSet() : <a href="_v_h_q_utils__shared_8c.md#a4e625a325759c4beb5e4381f0e4c63e2">VHQUtils_shared.c</a>
+- IScURLversionCompatible() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a130a5832888a45992fe86663874bc156">VHQUtils_shared_cpp.cpp</a>
+- isDocked() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a415450d266de124d51ea6d7ed83b21b3">VHQUtils_shared_cpp.cpp</a>
+- IsHeartBeatEventID() : <a href="_v_h_q_manager_8c.md#a14469a098850bee1339c249f81c5af4d">VHQManager.c</a>
+- isHwModelName() : <a href="sys_8cpp.md#aadbe3a6553fce242b52a2655173897fe">sys.cpp</a> , <a href="sys_8h.md#aadbe3a6553fce242b52a2655173897fe">sys.h</a>
+- IsInMaintenanceWindow() : <a href="_v_h_q_config_8cpp.md#a7d60a5c4fca71665eb6a45c5a9dd62b7">VHQConfig.cpp</a>
+- isMobileDevice() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#a4baedd005b310e8f45d524c8835dd30f">VHQUtils_shared_cpp.cpp</a>
+- IsNumeric() : <a href="_v_h_q_utils___m_x_8c.md#a288fa31f4a817d82e9758d7f3a594a23">VHQUtils_MX.c</a>
+- IsOnDemandProtocol() : <a href="_com_intf_8c.md#ae929d73cf66fe1b964668c075385ac1a">ComIntf.c</a>
+- isPCIreboot() : <a href="_v_h_q_utils__shared_8c.md#a00e2a8b25b242ca5049397910e19f971">VHQUtils_shared.c</a>
+- IsSSLOption() : <a href="ftp__curl_8c.md#a57e6bb8ca1c78a40939b7a58863feefa">ftp_curl.c</a>
+- ISvalidIP() : <a href="_v_h_q_utils__shared_8c.md#ae008583a3df14025105a16f901b79b14">VHQUtils_shared.c</a>
+- ISvalidMAC() : <a href="_v_h_q_utils__shared_8c.md#a826a3b2eba20028aa0d7ffe7f4c77e42">VHQUtils_shared.c</a>
+- isValidXMLData() : <a href="_v_h_q_utils__shared_8c.md#ac33d58eac0dcb5d0220a618e8359910e">VHQUtils_shared.c</a>
+- isVclEnabled() : <a href="titusstubs_8cpp.md#a78fee93cfc06d514ca06597ec76f4344">titusstubs.cpp</a>
+- isVclTag() : <a href="titusstubs_8cpp.md#ae39fd7875d2587fff66e7ea5ac6eebf5">titusstubs.cpp</a>
+- isVRKv2() : <a href="_v_h_q_utils__shared__cpp_8cpp.md#ad2c8b5b0f6ac416915cdef3c8754c1fd">VHQUtils_shared_cpp.cpp</a>

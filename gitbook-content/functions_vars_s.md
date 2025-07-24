@@ -1,0 +1,87 @@
+---
+title: "ADK-Programmers-Guides: Data Fields - Variables"
+---
+
+ 
+
+### - s -
+
+- S : <a href="classsdi_1_1_time_stamp.md#afbc12be2aec255bec764c345ba4154bc">TimeStamp</a>
+- sak : <a href="titusstubs_8cpp.md#a64881b77ce667e83953d44a1bc552c2b">discoveryResult</a>
+- SAK : <a href="group__sdinfc.md#a040c863a22b30aab7bd53f17977783cd">SDIClient::NFCCardExt</a>
+- Scheme : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#a85e80490e4f5516c7cb1966011d0c359">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- scope : <a href="libcom_8h.md#ae71f8c85f41ae0866a3673565c343de4">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#ae71f8c85f41ae0866a3673565c343de4">com_NetworkRouteInfo_IPv6</a>
+- ScriptCritData : <a href="group___a_d_k___t_r_x___e_x_e_c.md#aebdbfdfe3e9b08ddae10d62d723c25f5">EMV_CT_HOST_STRUCT</a>
+- ScriptCritResult : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a3d3f1827bcce20060ccc4413b3a12f40">EMV_CT_SRCRIPTRES_STRUCT</a>
+- ScriptData : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#afd420a16596fd515042c455eaf81dbc5">EMV_CTLS_HOST_STRUCT</a>
+- ScriptIdent : <a href="namespacecom__verifone__seccmd.md#a94a115e48e59a03121a2daedf287e7c4">SecConfig</a>
+- scriptresults : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a6257b8c91140f05c572607aff48a301e">EMV_CT_TRANSRES_STRUCT</a>
+- ScriptResults : <a href="group___d_e_f___f_l_o_w___o_u_t_p_u_t.md#a68c7b5761f3919b25c16e80b0b89551e">EMV_CTLS_TRANSRES_STRUCT</a>
+- ScriptResultsLen : <a href="group___d_e_f___f_l_o_w___o_u_t_p_u_t.md#aad265f6778b383ef87a93f23f08af392">EMV_CTLS_TRANSRES_STRUCT</a>
+- ScriptUnCritData : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a3ef982ce26d673b8463978645a76962e">EMV_CT_HOST_STRUCT</a>
+- ScriptUnCritResult : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a417f9968c3b4dc520fcb789d4b9d66d0">EMV_CT_SRCRIPTRES_STRUCT</a>
+- SDI_TEC_CHIP : <a href="classlibsdi_1_1_card_detection.md#a4f66647684e3e158b193b52f566c3de8">CardDetection</a>
+- SDI_TEC_CTLS : <a href="classlibsdi_1_1_card_detection.md#aa238e0ad33ea783afe0cbac0e150bc58">CardDetection</a>
+- SDI_TEC_MAGN : <a href="classlibsdi_1_1_card_detection.md#a2c7e8e561f16161b518a8c4d9717a892">CardDetection</a>
+- SDI_TEC_MANU : <a href="classlibsdi_1_1_card_detection.md#a4376c0baf8289ad0f7c087d717d31a2c">CardDetection</a>
+- sec : <a href="struct_directory_1_1_entry.md#a82015813ad639914dc140eb7eb2dd475">Directory::Entry</a>
+- sec_timeout : <a href="_v_h_q_manager_8c.md#abe85629983b7359cdc40f6c7cced416f">_set_config_info_t</a>
+- SecondTapDelay : <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#a7c7bd56336bc0c080bab48db9a1aa2a3">EMV_CTLS_TERMDATA_STRUCT</a>
+- section_names : <a href="classvfisysinfo_1_1_ini_file.md#a5cb23ad9cddfc52bd33549e776de579c">IniFile</a>
+- Security_Limit : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#afa6752c96d0046c68e76710aee5a070f">EMV_CT_APPLIDATA_STRUCT</a>
+- SecurityCapability_DF811F : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#afb9be05d474bc208569ed6f61ea55a9f">EMV_CTLS_APPLIDATA_MK_STRUCT</a>
+- SEL_Data : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a8753a5e6226c6aae1dbd68db619d9cc0">EMV_CT_SELECT_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#abca5debb253d69ecdaed708eadd712c9">EMV_CTLS_START_STRUCT</a>
+- selData : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a3e3bb2514827c49deb0057e9235980cc">EMV_CT_CANDIDATE_DATA_STRUCT</a> , <a href="group___f_u_n_c___f_l_o_w.md#a8b6d40f5395eba525fd4e592ee3ce923">EMV_CTLS_CANDIDATE_DATA_STRUCT</a> , <a href="group__sdiemvct.md#a808ac7525e246ac42f2025531af0cdc6">SDIClient::CTCandidateData</a> , <a href="group__sdiemvctls.md#a808ac7525e246ac42f2025531af0cdc6">SDIClient::CTLSCandidateData</a>
+- serial : <a href="libcom_8h.md#a78d128fd897c99443edf806f83db6d34">com_USBInfo</a>
+- serverInstance : <a href="_v_h_q_manager_8c.md#a741e4805c8859501df3101579f9d1dc5">_heart_beat_event_id_t</a>
+- ServerPollTimeout : <a href="group___d_e_f___f_l_o_w___i_n_p_u_t.md#a55288d912bcb810932a421b632af84aa">EMV_CTLS_START_STRUCT</a>
+- service_code : <a href="msr__common_8h.md#a6c43a996e31dedf62462fea96a8074d0">MSR_Decoded_Track_1</a> , <a href="msr__common_8h.md#a6c43a996e31dedf62462fea96a8074d0">MSR_Decoded_Track_2</a>
+- set_config_ret_val : <a href="_v_h_q_manager_8c.md#a2839d11fd58d4872b809088328e6c87c">_set_config_info_t</a>
+- set_config_thread_id : <a href="_v_h_q_manager_8c.md#a8678286889a23bf5ce301dbba68a24b3">_set_config_info_t</a>
+- set_data_type : <a href="_v_h_q_xml_dictionary_8c.md#a6bbfe68ce96be7f1a21341236f2dac25">_set_data_indent_xml_conv_t</a>
+- setDUKPTmasks : <a href="classcom__adksec__cmd_1_1_c_transaction_data.md#af99ef157338b014adb407416d0745b8f">CTransactionData</a>
+- shape : <a href="group___a_d_k___l_e_d.md#a9d7f77334f11d266e824cb9b0ec6871e">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- shape_params : <a href="group___a_d_k___l_e_d.md#a7cd7594e57a6ed9bfdc1ba0cb33064ab">EMV_CTLS_LED_CONFIG_STRUCT</a>
+- shortMessage : <a href="group__inf__util__public.md#ac41a84e83b81958ec6e9df60dd08e52c">ErrorInfo</a>
+- sig_ext : <a href="classpackmanlib_1_1platform_1_1_platform.md#a212cfcd526b5a3eae43d49ce92e76e0f">Platform</a>
+- signature : <a href="_demo_app_8cpp.md#a80a491f2219e36e9e9646b5c63ee6756">ResponseFromHost</a>
+- signature_count : <a href="classpackmanlib_1_1platform_1_1_platform.md#a9edee768e042c770efd8cf79e0ba5895">Platform</a>
+- signature_nodes : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a71101782c2fbd10a9832594113078cd2">BaseNode</a> , <a href="classpackmanlib_1_1nodeaction_1_1_node_action_mixin.md#a71101782c2fbd10a9832594113078cd2">NodeActionMixin</a>
+- signed_node : <a href="classpackmanlib_1_1node_1_1_signature.md#aa28f7bafd1dc8fdba2f88a3531325e0d">Signature</a>
+- signer : <a href="classpackmanlib_1_1node_1_1_archive.md#a190b6c8ded058ff6d61077c95679c16b">Archive</a>
+- size : <a href="libcom_8h.md#a854352f53b148adc24983a58a1866d66">com_BLEAttribute</a> , <a href="group___t_l_v_lite.md#a854352f53b148adc24983a58a1866d66">ConstData_s</a> , <a href="struct_directory_1_1_entry.md#a245260f6f74972558f61b85227df5aae">Directory::Entry</a> , <a href="engine__keyservice_8h.md#a245260f6f74972558f61b85227df5aae">KS_IOBuffer</a> , <a href="http__get__curl_8c.md#a854352f53b148adc24983a58a1866d66">MemoryStruct</a>
+- sizeE : <a href="namespacecom__verifone__seccmd.md#a0c906d3a984f63ab8a0be7099f22d5b2">DUKPTmask</a>
+- sizeM : <a href="namespacecom__verifone__seccmd.md#aed933699bfc4fb27244e4e34bc14586c">DUKPTmask</a>
+- sizeP : <a href="namespacecom__verifone__seccmd.md#a1e1696d64d5c76cdd3c37826c5fd292c">DUKPTmask</a>
+- sku : <a href="classvficpl_1_1_merchandise.md#a702f11015d20cc7e0af6788111e396d4">Merchandise</a>
+- slotFilled : <a href="_v_h_q_manager_8c.md#a5caf55c1d80f5175f49ef491a5ca2269">_heart_beat_event_id_t</a>
+- so_handle : <a href="structm_a_d_k___p_p___prot___loader.md#abde8636f56884da3899be060f172da00">mADK_PP_Prot_Loader</a>
+- specialProductCode : <a href="classvficpl_1_1_offer.md#aa6ad9e0193f578ff3e098cc5e435e3ce">Offer</a>
+- SpecialTRXConfig_DFAB05 : <a href="group___d_e_f___c_o_n_f___a_p_p_l_i.md#af70ff3e0b1158f7b868655b1ef77f377">EMV_CTLS_APPLIDATA_SCHEME_SPECIFIC_STRUCT</a>
+- specialTX : <a href="structvfisdi_1_1_e_m_v_txn.md#a89cf09fdeaef86277858cc1a5ae615ca">EMVTxn::DomesticApp</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a89cf09fdeaef86277858cc1a5ae615ca">EMVTxn::FallbackMSR</a>
+- sPtrEnd : <a href="dl__iso8583__common_8h.md#a1245d6c07430e3385d4bddd7f183d7d5">DL_ISO8583_MSG_S</a>
+- sPtrNext : <a href="dl__iso8583__common_8h.md#a8cc03f368be776e3501cef83b5516daa">DL_ISO8583_MSG_S</a>
+- srcAddr : <a href="libcom_8h.md#ae896b978ab432c98266983f332a92a59">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#a349d5a976cc39e5a11c8c6fa43b2f3f4">com_NetworkRouteInfo_IPv6</a>
+- srv_msg_ident : <a href="_v_h_q_xml_dictionary_8c.md#a63a78b27e42cef05508aa379cfd0467e">_srv_msg_ident_xml_conv_t</a>
+- srv_msg_type : <a href="_v_h_q_xml_dictionary_8c.md#a0cecbe899fb91ed15b80b10d87164acc">_srv_msg_type_xml_conv_t</a>
+- srv_op_type : <a href="_v_h_q_xml_dictionary_8c.md#a7b3c027c41155a9cbeb35cb3a2c8b199">_srv_op_type_xml_conv_t</a>
+- stan : <a href="namespacecom__verifone__seccmd.md#af5cd04c464b0f7ea8e296db560463e8b">EncDecData</a>
+- start : <a href="namespacevfigui.md#aa41dcba2ad19e29765ed965fe8dab899">UIStatistics</a>
+- start_gid : <a href="libsecins_8h.md#a3027d4ab786fdcca782e7e8abf5a89ed">UID_GID_RANGE</a>
+- start_time : <a href="_event_scheduler_8c.md#ad20e89e0c86aa812dc3a8e2fb7b5777b">_running_event_t</a>
+- start_uid : <a href="libsecins_8h.md#aa8ab42b0ce0ac366d58b94e4b5fa20df">UID_GID_RANGE</a>
+- state : <a href="namespacesdi.md#ae264d3c4c008aac023d15c9ff5a48d75">MD5_CTX</a>
+- static_result : <a href="_event_scheduler_8c.md#a42ff364daf7467b47781343a9cd4617f">_running_event_t</a>
+- status : <a href="_event_scheduler_8c.md#aeeecc225e7d31aa8e9ba282d715ba179">_running_event_t</a> , <a href="titusstubs_8cpp.md#a54849a1c58ce64ba16a055ad9555a027">authenticationResult</a> , <a href="libcom_8h.md#aacde29b5fc4cac0c97745a39668d725d">com_NetworkInterfaceInfo</a> , <a href="titusstubs_8cpp.md#a54849a1c58ce64ba16a055ad9555a027">discoveryResult</a> , <a href="titusstubs_8cpp.md#a54849a1c58ce64ba16a055ad9555a027">getServicesResult</a> , <a href="msr__common_8h.md#a54849a1c58ce64ba16a055ad9555a027">MSR_Track_1</a> , <a href="msr__common_8h.md#a54849a1c58ce64ba16a055ad9555a027">MSR_Track_2</a> , <a href="msr__common_8h.md#a54849a1c58ce64ba16a055ad9555a027">MSR_Track_3</a> , <a href="svc__tms_8h.md#a6e27f49150e9a14580fb313cc2777e00">tmsEventData</a> , <a href="svc__tms_8h.md#a6e27f49150e9a14580fb313cc2777e00">tmsReturn</a>
+- StatusInfo : <a href="group___a_d_k___t_r_x___e_x_e_c.md#a89b6ee4a99c6f75514d803b0098aa2ed">EMV_CT_TRANSRES_STRUCT</a> , <a href="group___d_e_f___f_l_o_w___o_u_t_p_u_t.md#a89b6ee4a99c6f75514d803b0098aa2ed">EMV_CTLS_TRANSRES_STRUCT</a>
+- stime1 : <a href="_v_h_q_utils___m_x_8c.md#a53e4a007c78a4c378b6ee48bc2987d35">_proc_data_t</a>
+- stime2 : <a href="_v_h_q_utils___m_x_8c.md#ae6ebd5e94e1efdc3ee2c4d6087e8a097">_proc_data_t</a>
+- subop : <a href="group__inf__util__public.md#a2474806f227807a92949440f1582e3e7">ImExPar</a>
+- subtype : <a href="struct_com_if_table.md#a0f3cfa434dd1fdb004eaea6f17a1b873">ComIfTable</a>
+- SuppLang : <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#a9d2672ac7a65bb39a13e450b4cb4737b">EMV_CT_TERMDATA_STRUCT</a> , <a href="group___d_e_f___c_o_n_f___t_e_r_m.md#a9d2672ac7a65bb39a13e450b4cb4737b">EMV_CTLS_TERMDATA_STRUCT</a>
+- sw1 : <a href="titusstubs_8cpp.md#a8ccd71b42848d3524c9f8186c0f5c130">apduRxData</a>
+- sw12 : <a href="classlibsdi_1_1_sdi_base.md#abc00684400484823da87a8e9d3f06267">SdiBase</a>
+- sw2 : <a href="titusstubs_8cpp.md#a2ec8d867fd35ba8a4491b1d70e14edfe">apduRxData</a>
+- sysCode : <a href="titusstubs_8cpp.md#a0847e68f7966944d675dd360fce2f1a6">felicaPollingOutput</a>
+- systemCode : <a href="titusstubs_8cpp.md#af767e756536b86693eed59b0d6527b9b">felicaPolling</a>
+- sz : <a href="libcom_8h.md#aad50db3bff52eed270f16ef9e6acd8b1">com_EddystoneURLExt</a>

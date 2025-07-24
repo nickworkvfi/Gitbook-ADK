@@ -1,0 +1,124 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+ 
+
+### - p -
+
+- PARTIAL : <a href="namespacevfizontalk.md#a56f38ce1d91b5263d2ca5af8d537d696a34d1361202d8c9652ed81b53cda15159">vfizontalk</a>
+- PASSWD_CHAR : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ab99e60bf2155a3fa4aff94985bc7a6cf">vfisdi</a>
+- PCI_REBOOT_WARNING : <a href="namespacevfisyspm.md#a40ea12a9b19b561cd7403fc1362c49d0a1a4d75cb3d28ed562ea1860f99b74656">vfisyspm</a>
+- PIN_AUTO_ENTER : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a7f04cb928a82a8579c2dd9fa0eaf86ae">vfisdi</a>
+- PIN_BLOCK : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ac8a556bbb029dfe8ee2417857d31a8d0">vfisdi</a>
+- PIN_BLOCK_FORMAT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aa7d4b1ee681f6d8b132140213606e717">vfisdi</a>
+- PIN_BLOCK_FORMAT\_\_INVALID_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693a41c2fe8ecd7de50f286582a2ae6b6fd1">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_INC_KSN : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693a8ef7b1bf8a286ab7cea7649a1d017761">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_ISO0_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693aca37b0bbb503fcbbc83126484c7c53dc">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_ISO1_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693ab26b2fa22fd9c7ccff77d51adf9fefea">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_ISO2_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693aba22b80e572de9064a7811fb10ddb1e2">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_ISO3_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693ac81a724b79ab82756da6d67b14788514">com_verifone_host</a>
+- PIN_BLOCK_FORMAT_ISO4_E : <a href="namespacecom__verifone__host.md#a9187fdfc7bd10fdf9a04181929e41693a70c003f1b46a252064fcfe374ab67869">com_verifone_host</a>
+- PIN_BYPASS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4af9c26acd61c163a95c535415ecdd4efc">vfisdi</a>
+- PIN_BYPASS_KEY : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aaaac70b8e588506b61e017dd7efac255">vfisdi</a>
+- PIN_CLEAR_ALL : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aee73aa0b7b34447a0981c6713f12b282">vfisdi</a>
+- PIN_ENTRY_TYPE\_\_INVALID_E : <a href="namespacecom__verifone__host.md#a112cf2dddd5a504da9cb646fe6df856aa0fd0290ee4f049554b606088884a5d9c">com_verifone_host</a>
+- PIN_ENTRY_TYPE_MANDATORY_E : <a href="namespacecom__verifone__host.md#a112cf2dddd5a504da9cb646fe6df856aa218934142930b6e0876c1a83decae7dc">com_verifone_host</a>
+- PIN_ENTRY_TYPE_OPTIONAL_0LN_PIN_E : <a href="namespacecom__verifone__host.md#a112cf2dddd5a504da9cb646fe6df856aa84e4eca8cdc0cd40e317c9f8922511a7">com_verifone_host</a>
+- PIN_ENTRY_TYPE_OPTIONAL_0LN_PIN_ENC_E : <a href="namespacecom__verifone__host.md#a112cf2dddd5a504da9cb646fe6df856aa1c92c3e6fa01b594ae2b086c3eb4a63f">com_verifone_host</a>
+- PIN_ENTRY_TYPE_OPTIONAL_E : <a href="namespacecom__verifone__host.md#a112cf2dddd5a504da9cb646fe6df856aa81532cd64d5490e643b13b8b4cd46714">com_verifone_host</a>
+- PIN_MAX_LENGTH : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a9d34ca5c59ce6b2617c326c493d52c24">vfisdi</a>
+- PIN_MIN_LENGTH : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad38c61cab51be5898b912fb98b69328f">vfisdi</a>
+- PINOPT_AUTO_ENTER : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911af7a58a0c216444c3d8a0c0ccc7a49279">vfisdi</a>
+- PINOPT_CLEAR_ALL : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a1636e2e06ce7e825e9a6636cd7cb3571">vfisdi</a>
+- PINOPT_NAVIGATOR_MODE_1 : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a967011a38771cc1ea0c5e922f8ae3bcf">vfisdi</a>
+- PINOPT_NAVIGATOR_MODE_2 : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a6306eb4cd65e88f66f8411f8767ffd0d">vfisdi</a>
+- PINOPT_NO_AMOUNT : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a7a5161c5e0e991fb6d9cfd817743ed5f">vfisdi</a>
+- PINOPT_NO_CARD_APP_LABEL : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911abe60f435df69aae845b37dd1ccb54d2d">vfisdi</a>
+- PINOPT_NO_HEADER : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911ad8584ac5e27a4e91ac9b24d3ded75a0d">vfisdi</a>
+- PINOPT_NO_LEDS : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a9aba3b36b306704ce36fd28ea4da2b8e">vfisdi</a>
+- PINOPT_NO_OPTS : <a href="namespacevfisdi.md#a453c6f44da2d1cbb38f75bfca71f8911a948a158ed4d37ae06367f44b838006bc">vfisdi</a>
+- PINSTATUS_BYPASS : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08a7757cb97e5459fcd85099b616a94f326">vfisdi</a>
+- PINSTATUS_CANCELLED : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08a92531037fbe3e508eca2de2671b1ed7a">vfisdi</a>
+- PINSTATUS_COLLECTING : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08af3771c7ce40c34192974f2bf9acb4b00">vfisdi</a>
+- PINSTATUS_ERROR : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08a82a1d666e034a13e13eeb61bf1fc04f1">vfisdi</a>
+- PINSTATUS_OK : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08a9aae52642b88a3bee5a93e190a726a00">vfisdi</a>
+- PINSTATUS_TIMEOUT : <a href="namespacevfisdi.md#a7cb4a518b7083f951a212048cbf2db08ab3448882213b99b85f1c0d4d58165d47">vfisdi</a>
+- PLACEHOLDER_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a072c79533a992196808e63f0a0a17b61">vfisdi</a>
+- PLAINTEXT_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a0bcaff7761a8ab65bf532b602ddaecc9">vfisdi</a>
+- PLUGIN_CARD_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4458dd15687446dfe971ea395fdf1ecb">vfisdi</a>
+- PLUGIN_ID : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a412412e44047dfd506df30a707db5e5c">vfisdi</a>
+- PLUGIN_RESPONSE_CODE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1e7d7136f266a3930c620ad00efb270c">vfisdi</a>
+- PLUGIN_RESPONSE_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1926e9a51b107b621d1fae8e76d7bad3">vfisdi</a>
+- PLUGIN_RESPONSE_DATA_ENTRY : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ab1f4208801c92fc972f3ce9371ac431b">vfisdi</a>
+- PM_CHARGING_MODE_CAR_CHARGER : <a href="namespacevfisyspm.md#a52110948b0aa4715d6ff642d1cb32889a3a5b3f8570d5f3ecc68f9d1e8e5b60c2">vfisyspm</a>
+- PM_CHARGING_MODE_UNRESTRICTED : <a href="namespacevfisyspm.md#a52110948b0aa4715d6ff642d1cb32889a7a56935fb216076f3a7351bb9499e28a">vfisyspm</a>
+- PM_CRIT_NONE : <a href="namespacevfisyspm.md#ad9757c6641d1ed2c0a5d438d08ce9cc0aef329a468a5a095f29d727afe39c6688">vfisyspm</a>
+- PM_CRIT_SUPRESS_STANDBY : <a href="namespacevfisyspm.md#ad9757c6641d1ed2c0a5d438d08ce9cc0a8d83189d664475c36ee3d24ad77d42c2">vfisyspm</a>
+- PM_NOTIFY_TYPE_ALL : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2a8272e895ac429bfa5b91c9072dadd3be">vfisyspm</a>
+- PM_NOTIFY_TYPE_CRITICAL_SECTION : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2aa9f7173f2dde2bb8143be3ea6bd81c48">vfisyspm</a>
+- PM_NOTIFY_TYPE_DOCK_STATE : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2ae25a95a629bf2261792e8f60443dffc4">vfisyspm</a>
+- PM_NOTIFY_TYPE_LAST : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2ad6dbc231cf759ee58601f51109a3884f">vfisyspm</a>
+- PM_NOTIFY_TYPE_NONE : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2adda9d4b8e95861b3e009c221bc97754f">vfisyspm</a>
+- PM_NOTIFY_TYPE_PCI_REBOOT : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2ac5632f655bdad9187cb90e2dc913631b">vfisyspm</a>
+- PM_NOTIFY_TYPE_POWER_BUTTON : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2a332097eb37859446377282c0db9f7498">vfisyspm</a>
+- PM_NOTIFY_TYPE_POWER_MODE : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2a876d631d9f439725cdd318d9617a2be1">vfisyspm</a>
+- PM_NOTIFY_TYPE_POWER_SOURCE : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2aa6e6275051c9866a3b16ff4ad5501527">vfisyspm</a>
+- PM_NOTIFY_TYPE_WAKEUP_SOURCE : <a href="namespacevfisyspm.md#a12f0755f1d6c6a1c2116fd1d626a36b2afdedc13a10a78a4325571e6824660dbb">vfisyspm</a>
+- PM_SUPPRESS_ALL : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2a1fe1ad21e4f33534364cdd0e734c8b8c">vfisyspm</a>
+- PM_SUPPRESS_BOOT_STATE : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2aef52bc9676bca049c63d78e740e2af1a">vfisyspm</a>
+- PM_SUPPRESS_CHARGE_CHECK : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2a8246a65429e400d532e58b754c3bf3f5">vfisyspm</a>
+- PM_SUPPRESS_CRITICAL_SECTION : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2ae5fa433f19e5c699e0a72e6ff3dae351">vfisyspm</a>
+- PM_SUPPRESS_NONE : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2a2fcfcf79a2dbb05ff302c1d3a50ffce5">vfisyspm</a>
+- PM_SYNC : <a href="namespacevfisyspm.md#adffb93f77c4d1190fd7dc0397335b9a2ad00ca996a01fdcdb456857eba2a8a054">vfisyspm</a>
+- PM_TIMER_NO_WAKE_UP : <a href="namespacevfisyspm.md#a8bf72e0a67065ff830248d4f950bccf8abab523c0bf88d83b778c7a55bd7adfcf">vfisyspm</a>
+- PM_TIMER_NONE : <a href="namespacevfisyspm.md#a8bf72e0a67065ff830248d4f950bccf8a579aa4923fc0124b6528dc730181626b">vfisyspm</a>
+- POWER_BUTTON_PRESSED : <a href="namespacevfisyspm.md#a40ea12a9b19b561cd7403fc1362c49d0a133bafcf1854e4513b813726d6cf5bff">vfisyspm</a>
+- POWER_BUTTON_RELEASED : <a href="namespacevfisyspm.md#a40ea12a9b19b561cd7403fc1362c49d0a6cfca8e555b914a5b68498fb9d52a589">vfisyspm</a>
+- POWER_LED : <a href="namespacevfisysinfo.md#ab6831a7d06c0a2bc69f9b024f6445a80a4354634783e550e45e8c1c3de0fe7799">vfisysinfo</a>
+- PROPERTY_ID : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4acff7a0c9fdd507d6df1beaad3ecf4250">vfisdi</a>
+- PROPERTY_VALUE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a0e42a5d423fe247d531aebae07ad828a">vfisdi</a>
+- PRT_BATTERY : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a51b6df7a298542d249f367a54894cd9d">vfiprt</a>
+- PRT_BMP_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4af9c3e85a1cd0cae0037818165c7e0a1a">vfisdi</a>
+- PRT_BMP_HEIGHT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4abfd4fde02bf14958277d344aef0dfae9">vfisdi</a>
+- PRT_BMP_WIDTH : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a013f3021efb4fe384a78c20e562d1dc6">vfisdi</a>
+- PRT_BUSY : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a8de6b77dc9ed09b215c1999c7e2ba06b">vfiprt</a>
+- PRT_FAIL : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361ae4bf0cf9fc2178e4bab2ee0ddfbb1cbc">vfiprt</a>
+- PRT_FILE_NOT_FOUND : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361ae7f67c7703e39bd2a4a798ef85e27486">vfiprt</a>
+- PRT_FINAL_RESULT : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a4c222cd1b09ce981bbaffbf59ebe4448">vfiprt</a>
+- PRT_HEADOPEN : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361ad9c03d6e1ea575ed6f996d945d83a945">vfiprt</a>
+- PRT_HTML : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aee5ce514f7cf783dfe90de55833d650b">vfisdi</a>
+- PRT_INVALID_PARAM : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a2f640a533852c2707eea294cb3933f9f">vfiprt</a>
+- PRT_LANDSCAPE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4afc836f791bcc419be4780c597827ec61">vfisdi</a>
+- PRT_NO_PRINTER : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a7e51c5aeff1f987d71f6fe16119f026a">vfiprt</a>
+- PRT_NO_RESOURCE : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a85a47068700f032f8d72becd0aa2eb74">vfiprt</a>
+- PRT_OK : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361af2ad9f75739b523e78df0375ad38a546">vfiprt</a>
+- PRT_OVERHEAT : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a429988d9a2c4de64c091c963c53de39f">vfiprt</a>
+- PRT_OVERVOLTAGE : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a41e79c4dbe0869fdf53de2ac223a6c55">vfiprt</a>
+- PRT_PAPEREND : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a800ccbd12989598a0bfd6aa12141776c">vfiprt</a>
+- PRT_PAPERJAM : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a97c7d651a078ac337e76812e2c065ee8">vfiprt</a>
+- PRT_PREFER_GRAPHICS : <a href="namespacevfiprt.md#aee9be45580d5cde27d2a82b09fe3c601a2f0f079bd5a47252c0a92a2815571c9e">vfiprt</a>
+- PRT_PREFER_TEXT : <a href="namespacevfiprt.md#aee9be45580d5cde27d2a82b09fe3c601aac04ca493dd2c33ce7f7f002512f6adf">vfiprt</a>
+- PRT_PROP_CONTRAST : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137eae1a48bed741d94116f0de8ac98ee1467">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137eae1a48bed741d94116f0de8ac98ee1467">vfisdi</a>
+- PRT_PROP_CP_APP_DIR : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489aa245985ba6ce25fee7880af2238928af">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489aa245985ba6ce25fee7880af2238928af">vfisdi</a>
+- PRT_PROP_CSS : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489ab737a13ee98ce5fd500b427ba5d8cf67">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489ab737a13ee98ce5fd500b427ba5d8cf67">vfisdi</a>
+- PRT_PROP_DEFAULT_FONT : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a2e165b58fb4bf74d7629a586dc5f5ae7">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a2e165b58fb4bf74d7629a586dc5f5ae7">vfisdi</a>
+- PRT_PROP_DEFAULT_FONT_SIZE : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ea84903dc1a82acf8fa15799764fd4fec9">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ea84903dc1a82acf8fa15799764fd4fec9">vfisdi</a>
+- PRT_PROP_DEVICE : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a05cea7e1ceff37cacb88af05a96c7fad">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a05cea7e1ceff37cacb88af05a96c7fad">vfisdi</a>
+- PRT_PROP_FILE_PREFIX : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a3d1b36a7accd9f3c505b5754387e9106">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a3d1b36a7accd9f3c505b5754387e9106">vfisdi</a>
+- PRT_PROP_HEAD_TEMP : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ea2ec3622f20fade62b56f6a4e70700f67">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ea2ec3622f20fade62b56f6a4e70700f67">vfisdi</a>
+- PRT_PROP_HEAD_VOLTAGE : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ea831996db2dee9c1379d132faebfc5265">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ea831996db2dee9c1379d132faebfc5265">vfisdi</a>
+- PRT_PROP_INIFILE : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a2ed0ec6d59747c0dc048457a4a34e1c8">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a2ed0ec6d59747c0dc048457a4a34e1c8">vfisdi</a>
+- PRT_PROP_JS_QUOTA_ROOT : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a2a431689e041726a97f3fe918ca741f8">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a2a431689e041726a97f3fe918ca741f8">vfisdi</a>
+- PRT_PROP_JS_QUOTA_SIZE : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ead9e51751423f88f62d12e2ca667952cf">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ead9e51751423f88f62d12e2ca667952cf">vfisdi</a>
+- PRT_PROP_JS_ROOT : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a5f0e296615e2361384076a4ade07019a">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a5f0e296615e2361384076a4ade07019a">vfisdi</a>
+- PRT_PROP_PIXEL_WIDTH : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ea9f148531a2103e693f187c9ef9e4900a">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ea9f148531a2103e693f187c9ef9e4900a">vfisdi</a>
+- PRT_PROP_PRINT_MODE : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137ea892e6822d26fbab553e7bc00c16c45f6">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137ea892e6822d26fbab553e7bc00c16c45f6">vfisdi</a>
+- PRT_PROP_RESOURCE_PATH : <a href="namespacevfiprt.md#a063ad187f3b6a77eca82feb4065ed489a9e3541d8c5a98671d1e726b0a1d8c761">vfiprt</a> , <a href="namespacevfisdi.md#a063ad187f3b6a77eca82feb4065ed489a9e3541d8c5a98671d1e726b0a1d8c761">vfisdi</a>
+- PRT_PROP_STATE : <a href="namespacevfiprt.md#a5616550e7b7e340d3e599ba1aece137eaba9ed34792864ba187e6f566646c332c">vfiprt</a> , <a href="namespacevfisdi.md#a5616550e7b7e340d3e599ba1aece137eaba9ed34792864ba187e6f566646c332c">vfisdi</a>
+- PRT_PROTOCOL : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361ae4cc3e5e3cf9534c40aa61aeeb782c36">vfiprt</a>
+- PRT_SCRIPT_ERROR : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361aac2c7fd5e450078cf3bb9758edc78814">vfiprt</a>
+- PRT_TIMEOUT : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a39eb412b95f0ff2a5a14b6eaadd8d4d3">vfiprt</a>
+- PRT_UNDERVOLTAGE : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a4b5ae5a3826908d62ba457037a20f78d">vfiprt</a>
+- PRT_UNSUPPORTED : <a href="namespacevfiprt.md#aabb64aaac27500bf4b3b419feff87361a297f389a033f12741f24a0f347095d24">vfiprt</a>
+- PRT_URL : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a9545d5313f902c78ef7ad33f5bc57df4">vfisdi</a>

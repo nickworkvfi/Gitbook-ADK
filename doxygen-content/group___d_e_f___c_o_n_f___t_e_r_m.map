@@ -1,0 +1,8 @@
+<map id="Terminal Data" name="Terminal Data">
+<area shape="rect" id="node1" href="$group___t_e_r_m___t_y_p_e_s.html" title="see also [EMV B4], page 113" alt="" coords="349,5,494,45"/>
+<area shape="rect" id="node2" href="$group___c_l___m_o_d_e_s.html" title="Defines for EMV_CTLS_TRANSRES_STRUCT::CL_Mode." alt="" coords="337,69,505,109"/>
+<area shape="rect" id="node3" title="Definitions used for functions EMV_CT_SetTermData(), EMV_CT_GetTermData()" alt="" coords="163,109,276,134"/>
+<area shape="rect" id="node4" href="$group___t_e_r_m___f_l_o_w___o_p_t_i_o_n_s.html" title="Contents of the EMV_CTLS_TERMDATA_STRUCT::FlowOptions." alt="" coords="324,133,519,173"/>
+<area shape="rect" id="node5" href="$group___d_e_f___i_n_p_u_t___t_e_r_m.html" title="Contents of the EMV_CTLS_TERMDATA_STRUCT::Info_Included_Data." alt="" coords="342,197,501,237"/>
+<area shape="rect" id="node6" href="$group___a_d_k___c_o_n_f_i_g_u_r_a_t_i_o_n.html" title=" " alt="" coords="5,109,115,134"/>
+</map>

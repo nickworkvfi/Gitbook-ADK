@@ -1,0 +1,21 @@
+<map id="Input data" name="Input data">
+<area shape="rect" id="node1" href="$group___d_e_f___c_a_r_d___c_o_n_f.html" title="DF4D, see ucCardholderConfirmation in EMV_CT_SELECT_TYPE." alt="" coords="396,5,559,45"/>
+<area shape="rect" id="node2" href="$group___c_l_t_r_x___o_p_t_i_o_n_s.html" title="Defines for EMV_CTLS_START_TYPE::TxnOptions." alt="" coords="391,69,564,109"/>
+<area shape="rect" id="node3" href="$group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html" title="Contents of the input in EMV_CTLS_HOST_STRUCT::Info_Included_Data, EMV_CTLS_ContinueOnline()" alt="" coords="379,133,576,173"/>
+<area shape="rect" id="node4" href="$group___f_b___m_s_r___o_p_t_i_o_n_s.html" title="for use in fallbackMsrOptions of EMV_CT_SELECT_TYPE" alt="" coords="366,197,589,267"/>
+<area shape="rect" id="node5" href="$group___c_l_t_r_x___s_c_h_e_m_e___t_r_x___t_y_p_e_s.html" title="Defines for EMV_CTLS_START_TYPE::TransType." alt="" coords="375,291,579,331"/>
+<area shape="rect" id="node6" href="$group___c_o_n_f_i_r_m___a_m_o_u_n_t___w_h_e_n.html" title="Byte defines for EMV_CT_PAYMENT_STRUCT::uc_AmountConfirmation &#160;&#160;only valid in case no combined amount..." alt="" coords="398,355,557,410"/>
+<area shape="rect" id="node7" href="$group___t_x_n___o_p_t_i_o_n_s.html" title="Defines for EMV_CT_SELECT_STRUCT::TxnOptions, EMV_CT_TRANSAC_STRUCT::TxnOptions, EMV_CT_HOST_STRUCT::..." alt="" coords="392,435,563,475"/>
+<area shape="rect" id="node8" href="$group___f_b___o_p_t_i_o_n_s.html" title="for use in ucFallback of EMV_CT_FALLBCK_MSR_TYPE" alt="" coords="390,499,565,539"/>
+<area shape="rect" id="node9" href="$group___t_x_n___s_t_e_p_s.html" title="Defines for EMV_CT_SELECT_TYPE::TxnSteps resp. EMV_CT_TRANSAC_TYPE::TxnSteps." alt="" coords="401,563,554,589"/>
+<area shape="rect" id="node10" href="$group___d_e_f___f_l_o_w___c_o_n_t_i_n_u_e___o_f_f_l_i_n_e___i_n_p_u_t.html" title=" " alt="" coords="373,613,581,653"/>
+<area shape="rect" id="node11" href="$group___t_r_a_n_s___t_y_p_e_s.html" title="According to ISO 8583 &#45; Annex A: Processing Code, Position 1 + 2." alt="" coords="384,678,571,703"/>
+<area shape="rect" id="node12" href="$group___c_l___c_o_n_t___o_f_f_l___o_p_t_i_o_n_s.html" title="Defines for EMV_CTLS_CONT_OFFL_STRUCT::options." alt="" coords="352,727,603,782"/>
+<area shape="rect" id="node13" href="$group___u_p_d_a_t_e___t_a_g_s___o_p_t_i_o_n_s.html" title="options for EMV_CT_updateTxnTags()" alt="" coords="400,807,555,847"/>
+<area shape="rect" id="node14" title=" " alt="" coords="216,563,304,589"/>
+<area shape="rect" id="node15" href="$group___d_e_f___i_n_p_u_t___s_e_l_e_c_t.html" title="Contents of the input in EMV_CTLS_START_STRUCT::Info_Included_Data, EMV_CTLS_SetupTransaction()" alt="" coords="373,871,581,926"/>
+<area shape="rect" id="node17" href="$group___b_u_i_l_d___l_i_s_t___o_p_t_i_o_n_s.html" title="see EMV_CT_SELECT_TYPE::InitTXN_Buildlist" alt="" coords="377,951,578,991"/>
+<area shape="rect" id="node18" href="$group___c_l_t_r_x___p_a_s_s_t_r_o_u_g_h.html" title="Defines for EMV_CTLS_START_TYPE::passthroughCardTypes." alt="" coords="387,1015,568,1070"/>
+<area shape="rect" id="node19" href="$group___d_e_f___i_n_p_u_t___t_r_x.html" title="Contents of EMV_CT_TRANSAC_TYPE::Info_Included_Data." alt="" coords="391,1095,564,1135"/>
+<area shape="rect" id="node16" href="$group___a_d_k___t_r_x___e_x_e_c.html" title="Definitions used for functions EMV_CT_StartTransaction(), EMV_CT_ContinueOffline(),..." alt="" coords="5,563,168,589"/>
+</map>

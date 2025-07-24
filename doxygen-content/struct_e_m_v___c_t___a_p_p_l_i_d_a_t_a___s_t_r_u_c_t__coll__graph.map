@@ -1,0 +1,6 @@
+<map id="EMV_CT_APPLIDATA_STRUCT" name="EMV_CT_APPLIDATA_STRUCT">
+<area shape="rect" id="node1" title="Structure for configuration of one single application &#160;&#160;see EMV_CT_SetAppliData()" alt="" coords="203,124,413,151"/>
+<area shape="rect" id="node2" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___t_a_g_l_i_s_t___s_t_r_u_c_t" title="structure for EMV_CT_APPLIDATA_STRUCT::Mandatory_Tags_CRD and EMV_CT_PAYMENT_STRUCT::Additional_Resul..." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___d_o_l___s_t_r_u_c_t" title="data object list" alt="" coords="224,5,392,32"/>
+<area shape="rect" id="node4" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___a_p_p_l_i___s_t_r_u_c_t" title="9F06, AID (5 bytes RID + n bytes PIX)" alt="" coords="417,5,594,32"/>
+</map>

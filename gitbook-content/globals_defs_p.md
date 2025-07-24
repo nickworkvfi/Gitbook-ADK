@@ -1,0 +1,76 @@
+---
+title: "ADK-Programmers-Guides: Globals"
+---
+
+ 
+
+### - p -
+
+- P1 : <a href="nfc_8cpp.md#a6c2a9f7efd46f0160f3037869924d6ce">nfc.cpp</a>
+- P2 : <a href="nfc_8cpp.md#ae00a52dba55d31948c377fa85d385b87">nfc.cpp</a>
+- P2_CLONE : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga3171d7e1bf6ef77813a8fd2ac595961b">E2E_EMV_CT_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga3171d7e1bf6ef77813a8fd2ac595961b">E2E_EMV_CTLS_Serialize.h</a>
+- P2_GET : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga2a2911f7e67d626c4c5f4ec1bd69dff6">E2E_EMV_CTLS_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#ga2a2911f7e67d626c4c5f4ec1bd69dff6">E2E_EMV_CT_Serialize.h</a>
+- P2_SET : <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#gaf0ba91f2a3df6af70463601679417fd4">E2E_EMV_CT_Serialize.h</a> , <a href="group___a_d_k___t_r_a_n_s_p_o_r_t___t_a_g_s.md#gaf0ba91f2a3df6af70463601679417fd4">E2E_EMV_CTLS_Serialize.h</a>
+- PACKAGE_FILE : <a href="_v_h_q_utils___m_x_8c.md#a08a0761418d5be66e58333e88603de36">VHQUtils_MX.c</a>
+- PACKAGE_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#ab53f9d7066359a8c9bbdab7cd2443196">VHQUtils_MX.c</a>
+- PACKAGE_SECTION_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#a3b9b0bcd6c80165d5aaa9b740c1d51e3">VHQUtils_MX.c</a>
+- PACKAGE_SIZE_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#adbaa254b8457e8d6c3393f32872aec28">VHQUtils_MX.c</a>
+- PACKAGE_VERSION_SEARCH_STRING : <a href="_v_h_q_utils___m_x_8c.md#ac59b0fc334be57b39b8ef0f4f3b460a5">VHQUtils_MX.c</a>
+- PAGES_TO_KB : <a href="_v_h_q_utils___m_x_8c.md#a5cf1e2356a2064e2bf44937d94644eff">VHQUtils_MX.c</a>
+- PAN_ENTERED_CHECK_AND_CONFIRM : <a href="ui_8h.md#ac58a59fe7cf09a094b60c02f551622c8">ui.h</a>
+- PAN_SIZE : <a href="sec2_8h.md#aceeb2a7f2c289494dc2338db7f3ff895">sec2.h</a>
+- PAN_TS : <a href="sec2_8h.md#a66e07a91c4208e036cf8f46d734646b8">sec2.h</a>
+- PATH_SEPARATOR : <a href="pathutil_8cpp.md#a256a5721249aa3309437212cc21a9fe4">pathutil.cpp</a>
+- PCI_REBOOT_GAP : <a href="_v_h_q_utils__shared_8c.md#a807cde75ba7dae30ab6d0ebe83b1519e">VHQUtils_shared.c</a>
+- PED_CERT_ERR : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#gadc787271097273d39c4fb060749b1fab">ped.h</a>
+- PED_ERR_LOAD : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga32914a81dec6b55185b81e4bf63d97be">ped.h</a>
+- PED_ERROR : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga07ea4d4fee5bde6444f6b3d28bbc59b5">ped.h</a>
+- PED_LINK_OK : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#ga17d00e6cf6e771b1e428c332fe87a23f">ped.h</a>
+- PED_NS_DONE : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#ga8fc33540b096a9d3fe25a78f13b3968c">ped.h</a>
+- PED_NS_ERR : <a href="group___p_e_d___s_t_a_t_u_s___c_o_d_e_s.md#gad80ab1587eb3f1a4dc204cd277098cd9">ped.h</a>
+- PED_OK : <a href="group___p_e_d___r_e_t_u_r_n___c_o_d_e_s.md#ga554b92063910b0a4149bb5d59fb62af3">ped.h</a>
+- PIN_ALGORITHM_SIZE : <a href="sec2_8h.md#a745e010c088efb6cfa5ddd7b1ee6dffc">sec2.h</a>
+- PIN_ALGORITHM_TS : <a href="sec2_8h.md#a0d7831e0be76fc3ffad810657b5fdc74">sec2.h</a>
+- PIN_BLOCK_FORMAT_MAX : <a href="sec2_8h.md#a44aad3991d8950186aaefff8ba4ae3ae">sec2.h</a>
+- PIN_BLOCK_FORMAT_MIN : <a href="sec2_8h.md#a5424ce382a93195958480d9224e7ad7a">sec2.h</a>
+- PIN_BLOCK_FORMAT_SIZE : <a href="sec2_8h.md#a805f5a5f931127b4eb0d4c6f6827a157">sec2.h</a>
+- PIN_BLOCK_FORMAT_TS : <a href="sec2_8h.md#a46e0424c5acb6872e46b9f48ac95fb5c">sec2.h</a>
+- PIN_BYPASS : <a href="group___a_p_p___f_l_o_w___c_a_p_s.md#ga1b11ddaf81867095dd71695d2c8223c7">EMV_CT_Interface.h</a>
+- PIN_CANCEL : <a href="group__vss.md#ga5cf897892e478bad3ca024677db9651d">moduleDescription.h</a>
+- PIN_CANCEL_SIZE : <a href="sec2_8h.md#adc6f40c85a55b22928e0857d43bfbda8">sec2.h</a>
+- PIN_CANCEL_TS : <a href="sec2_8h.md#a736081c397b95df10d74a88592bfad3c">sec2.h</a>
+- PIN_ENTRY_TIMEOUT_SIZE : <a href="sec2_8h.md#a8f9e6818c67cfa82c8c673ac8187b854">sec2.h</a>
+- PIN_ENTRY_TIMEOUT_TS : <a href="sec2_8h.md#a755ac27b722ed1079239b8b30a5c66f1">sec2.h</a>
+- PIN_ENTRY_TYPE_SIZE : <a href="sec2_8h.md#a2c25db0c6072d5d610d8788730257591">sec2.h</a>
+- PIN_ENTRY_TYPE_TS : <a href="sec2_8h.md#a65de59f47e83e0364303941b9795e784">sec2.h</a>
+- PIN_FINISH : <a href="group__vss.md#gab26fba5550fe958a8d95fa51a700cc38">moduleDescription.h</a>
+- PIN_INIT : <a href="group__vss.md#ga66a8f8bb1534842a3e7cab64637fef1f">moduleDescription.h</a>
+- PIN_ITERATION : <a href="group__vss.md#ga78fe99462d905bd0aa6f43e50052c1ed">moduleDescription.h</a>
+- PIN_TRY_FLAG_SIZE : <a href="sec2_8h.md#ae49ebf33110079cb8f1c3e632316ddf0">sec2.h</a>
+- PIN_TRY_FLAG_TS : <a href="sec2_8h.md#a75e2df4bd5aadab3b56a2e4f2fca9c8a">sec2.h</a>
+- PING_REQ_STR : <a href="_v_h_q_utils___m_x_8c.md#a15d21cc50cd6ddff52b07dbf83eaa5f1">VHQUtils_MX.c</a>
+- PLAIN_TXT_PIN_BLOCK_TS : <a href="sec2_8h.md#a35922f0772e5c410b4037ecdf088eaf5">sec2.h</a>
+- PLUGIN_CONFIG_PATTERN : <a href="filesystem_8h.md#aa607fc35ca1d341e94853b44c73380c8">filesystem.h</a>
+- PLUGIN_EXT : <a href="filesystem_8h.md#a35a8a8490296aaab573191e17924ae82">filesystem.h</a>
+- PLUGIN_PATTERN : <a href="filesystem_8h.md#ae3f54c6ea2eb0c81566552ae0dcc6bc9">filesystem.h</a>
+- PLUGIN_PREFIX : <a href="filesystem_8h.md#ade68c478230cc910fd42088b23a50469">filesystem.h</a>
+- PLUS_2K_SL_1 : <a href="titusstubs_8cpp.md#a7405413ab8b172c9539cdd1f851e9420">titusstubs.cpp</a>
+- PLUS_2K_SL_2 : <a href="titusstubs_8cpp.md#ad3a0b75332626545a7b430f16212c818">titusstubs.cpp</a>
+- PLUS_2K_SL_3 : <a href="titusstubs_8cpp.md#afab8839c55c2dad35b4a8a579be6c1c8">titusstubs.cpp</a>
+- PLUS_4K_SL_1 : <a href="titusstubs_8cpp.md#ad2f459f5a2cd67baf02442e3be3fcb3f">titusstubs.cpp</a>
+- PLUS_4K_SL_2 : <a href="titusstubs_8cpp.md#a67ee9df73f586e3f6a9971b27bad369d">titusstubs.cpp</a>
+- PLUS_4K_SL_3 : <a href="titusstubs_8cpp.md#afe1ac3006d24252fb43bcf34248b3604">titusstubs.cpp</a>
+- PM_SUPRESS_ALL : <a href="group___power.md#gabd5fc58abfa592ed34817dd83600211f">vfisyspm.h</a>
+- PM_SUPRESS_CHARGE_CHECK : <a href="group___power.md#ga1968c44922fe78c262f75b40e1583774">vfisyspm.h</a>
+- PM_SUPRESS_CRITICAL_SECTION : <a href="group___power.md#ga0d02a37c110367e53d3a69d985429b31">vfisyspm.h</a>
+- PM_SUPRESS_NONE : <a href="group___power.md#gad8cd9341efa39f085693d8da543bbbe4">vfisyspm.h</a>
+- POS_TIMEOUT_SIZE : <a href="sec2_8h.md#aefea51eda08782eae4697732a978cd58">sec2.h</a>
+- POS_TIMEOUT_TS : <a href="sec2_8h.md#a6f89a54f9ea56e6c1706c8af6c1d4886">sec2.h</a>
+- PRIMARY_SERVER_INSTANCE_NAME : <a href="svc__tms_8h.md#af9ce0cfbf24db75b72dc5696f6e0ed68">svc_tms.h</a>
+- PRINT_EVENT_SET_TABLE : <a href="_event_scheduler_8c.md#a42e50623ecd2ee20af7f9286e4bcb05c">EventScheduler.c</a>
+- PROC_CMD_LINE : <a href="_v_h_q_utils___m_x_8c.md#ad1e08b3a5cfd7bb75497969e8d5e0e5f">VHQUtils_MX.c</a>
+- PROC_DIRECTORY : <a href="_v_h_q_utils___m_x_8c.md#a3377a5f6fe537f0473ab27e5e5d592f4">VHQUtils_MX.c</a>
+- PROMPT_FILL_TS : <a href="sec2_8h.md#a389f91039b11ba2ee52b15eccd0846c1">sec2.h</a>
+- PROP_NAME : <a href="group__propdb.md#ga2062ba7b5292b2cb9456209022cbdac7">infodb.h</a>
+- PROT_TYPE_VALID : <a href="madk__pp__protocol_8cpp.md#ab9bafea5a62aef8469d807060b6c26c2">madk_pp_protocol.cpp</a>
+- PTP_host : <a href="_v_h_q_utils___m_x_8c.md#ac66b6ca5b7157a92bc80987167d0a7db">VHQUtils_MX.c</a>

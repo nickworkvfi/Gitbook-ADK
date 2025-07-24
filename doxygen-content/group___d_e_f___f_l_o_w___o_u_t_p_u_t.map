@@ -1,0 +1,14 @@
+<map id="Output data" name="Output data">
+<area shape="rect" id="node1" href="$group___d_e_f___d_f61___s_e_l_e_c_t.html" title="Contents of EMV_CT_SELECTRES_STRUCT::T_DF61_Info_Received_Data." alt="" coords="381,5,561,60"/>
+<area shape="rect" id="node2" href="$group___d_e_f___o_u_t_p_u_t___s_e_l_e_c_t.html" title="Contents of the output in EMV_CTLS_STARTRES_STRUCT::T_DF61_Info_Received_Data, EMV_CTLS_SetupTransact..." alt="" coords="367,84,575,139"/>
+<area shape="rect" id="node3" href="$group___f_e_t_c_h___t_a_g_s___o_p_t_i_o_n_s.html" title="options for EMV_CT_fetchTxnTags()" alt="" coords="396,163,547,203"/>
+<area shape="rect" id="node4" href="$group___d_e_f___d_f61.html" title="Contents of EMV_CTLS_TRANSRES_STRUCT::T_DF61_Info_Received_Data." alt="" coords="379,227,563,267"/>
+<area shape="rect" id="node5" href="$group___d_e_f___d_f62.html" title="DF62, 15 bytes, error reference." alt="" coords="393,292,549,317"/>
+<area shape="rect" id="node6" href="$group___c_l_t_r_x___c_a_r_d_t_y_p_e.html" title="Defines for EMV_CTLS_TRANSRES_TYPE::ctlsCardType." alt="" coords="408,341,535,367"/>
+<area shape="rect" id="node7" href="$group___d_e_f___s_e_l_e_c_t_r_e_s___t_r_x_i_n_f_o.html" title="Contents of EMV_CTLS_STARTRES_STRUCT::TxnInformation, EMV_CTLS_SetupTransaction()" alt="" coords="372,391,571,445"/>
+<area shape="rect" id="node8" href="$group___s_t_a_t_u_s___i_n_f_o.html" title="defines for EMV_CT_TRANSRES_STRUCT::StatusInfo" alt="" coords="400,469,543,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="216,317,315,343"/>
+<area shape="rect" id="node11" href="$group___c_r_y_p___e_m_v___a_d_k___i_n_f___a_d_d.html" title="9F27 (cryptogram information) can carry more information than just AAC, TC, and ARQC...." alt="" coords="373,519,570,573"/>
+<area shape="rect" id="node12" href="$group___d_e_f___d_f61___t_r_a_n_s_r_e_s.html" title="Contents of EMV_CT_TRANSRES_TYPE::T_DF61_Info_Received_Data." alt="" coords="363,597,580,652"/>
+<area shape="rect" id="node10" href="$group___a_d_k___t_r_x___e_x_e_c.html" title="Definitions used for functions EMV_CT_StartTransaction(), EMV_CT_ContinueOffline(),..." alt="" coords="5,317,168,343"/>
+</map>

@@ -1,0 +1,56 @@
+---
+hidden: true
+title: CpTrigger.h
+---
+
+<a href="_cp_trigger_8h.md">Go to the documentation of this file.</a>
+
+``` cpp
+ 1 #ifndef CPTRIGGER_H_
+ 2 #define CPTRIGGER_H_
+ 3 
+ 4 namespace vficpl
+ 5 {
+ 7  typedef enum
+ 8  {
+ 16  NOTIF_IDLE = 0,
+ 17 
+ 21  NOTIF_MANUAL_LAUNCH = 1,
+ 22 
+ 29  REQUEST_CUSTOMER_IDENTIFICATION = 16,
+ 30 
+ 35  NOTIF_TRX_STARTED = 2,
+ 36 
+ 43  REQUEST_BASKET_ADJUSTMENT = 3,
+ 44 
+ 54  NOTIF_BASKET_FINALIZED = 4,
+ 55 
+ 60  REQUEST_LOYALTY = 5,
+ 61 
+ 70  REQUEST_AMOUNT_ADJUSTMENT = 6,
+ 71 
+ 77  NOTIF_AMOUNT_FINALIZED = 7,
+ 78 
+ 82  REQUEST_ALT_PAYMENT = 8,
+ 83 
+ 88  REQUEST_TECH_ALT_PAYMENT = 17,
+ 89 
+ 97  NOTIF_CARD_PRESENTED = 9,
+ 98 
+ 108  NOTIF_CARD_BIN_RECEIVED = 10,
+ 109 
+ 118  REQUEST_PAYMENT_AMOUNT_ADJUSTMENT = 11,
+ 119 
+ 123  NOTIF_AUTHORIZATION_COMPLETED = 12,
+ 124 
+ 129  NOTIF_PAYMENT_COMPLETED = 13,
+ 130 
+ 147  REQUEST_RECEIPT_MANAGEMENT = 14,
+ 148 
+ 152  NOTIF_TRX_ENDED = 15
+ 153 
+ 154  } CpTrigger;
+ 155 } // namespace vficpl
+ 156 
+ 157 #endif // CPTRIGGER_H_
+```

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['obfuscated_5ftrack1_5fdata_24950',['OBFUSCATED_TRACK1_DATA',['../namespacevfisdi.html#ac9842112c341daedac40f79bbfdd65a4a2b4a0745a04ed157e01c4db5af436f1a',1,'vfisdi']]],
+  ['off_24951',['OFF',['../namespacevfisyspm.html#ad6865f9a76c1985e26c2e86719fc674aaac132f2982b98bcaa3445e535a03ff75',1,'vfisyspm']]],
+  ['offer_5floyalty_5fcard_24952',['OFFER_LOYALTY_CARD',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88a128bff6b7fa2474e01ba2fb6b3f957f3',1,'vficpl']]],
+  ['offer_5fmanufacturer_5fcoupon_24953',['OFFER_MANUFACTURER_COUPON',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88a782450e10ad6812a794228dae173b2ea',1,'vficpl']]],
+  ['offer_5fmerchant_5fcoupon_24954',['OFFER_MERCHANT_COUPON',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88a055d7389ec059ad865fde1dd02504117',1,'vficpl']]],
+  ['offer_5fother_5fcoupon_24955',['OFFER_OTHER_COUPON',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88a16427e84542c1fe797b399a9a82ecd41',1,'vficpl']]],
+  ['offer_5fproduct_5fdiscount_24956',['OFFER_PRODUCT_DISCOUNT',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88a16ee5740ffd2e9a2064a43f36c1d8cfa',1,'vficpl']]],
+  ['offer_5ftransaction_5fdiscount_24957',['OFFER_TRANSACTION_DISCOUNT',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88abd542afe07b9f273f121ac6041511eab',1,'vficpl']]],
+  ['offer_5fundefined_24958',['OFFER_UNDEFINED',['../namespacevficpl.html#ad7c9d0eab3af08a96ce9fd9ce293de88ae836b3548e12b2e722918c0ba5db3bb0',1,'vficpl']]],
+  ['ok_24959',['OK',['../classvfiipc_1_1_t_l_s.html#a2c3e4bb40f36b262a5214e2da2bca9c5a2bc49ec37d6a5715dd23e85f1ff5bb59',1,'vfiipc::TLS::OK()'],['../namespacevficom_1_1status.html#ae7ba2f563df916ce3ce6be92a19d2bbca2bc49ec37d6a5715dd23e85f1ff5bb59',1,'vficom::status::OK()'],['../namespacevfisdi.html#a28287671eaf7406afd604bd055ba4066a2bc49ec37d6a5715dd23e85f1ff5bb59',1,'vfisdi::OK()']]],
+  ['open_5fschema_5fcom_24960',['OPEN_SCHEMA_COM',['../sec2_8h.html#a453e6542f2cb31abde608e81d8ba6837a24dcfcb843f3986df1d863c45e09bcdb',1,'sec2.h']]],
+  ['optional_5fapp_5fdata_24961',['OPTIONAL_APP_DATA',['../namespacevfisdi.html#ac9842112c341daedac40f79bbfdd65a4abeffe5c2901763db96f2bc6928becc42',1,'vfisdi']]],
+  ['originator_5fcp_5fapplication_24962',['ORIGINATOR_CP_APPLICATION',['../namespacevficpl.html#a6c410aee3c873fc45fe7bccf53c6b8d5a2ea03fb9cd1b9c5bcb98e37dda60eb5c',1,'vficpl']]],
+  ['originator_5fmin_5fvalue_24963',['ORIGINATOR_MIN_VALUE',['../namespacevficpl.html#a6c410aee3c873fc45fe7bccf53c6b8d5a57d1b749897c258ca15d4aaa47f0ddda',1,'vficpl']]],
+  ['originator_5fpayment_5fapplication_24964',['ORIGINATOR_PAYMENT_APPLICATION',['../namespacevficpl.html#a6c410aee3c873fc45fe7bccf53c6b8d5af005728e8702c6d948f1ad9dbea2c10a',1,'vficpl']]],
+  ['originator_5fundefined_24965',['ORIGINATOR_UNDEFINED',['../namespacevficpl.html#a6c410aee3c873fc45fe7bccf53c6b8d5a36bb1c296647604d38b010a4ddf2c908',1,'vficpl']]],
+  ['os_5fevt_5fdock_24966',['OS_EVT_DOCK',['../libevt_8h.html#a47782499daa82ca02ceec0dde367c162aec9658ee40107e166a1dac5d8efc29a1',1,'libevt.h']]],
+  ['os_5fevt_5fshutdown_24967',['OS_EVT_SHUTDOWN',['../libevt_8h.html#a47782499daa82ca02ceec0dde367c162ae25c516903050b08d5cd015e625bf3af',1,'libevt.h']]],
+  ['os_5fevt_5ftimer_24968',['OS_EVT_TIMER',['../libevt_8h.html#a47782499daa82ca02ceec0dde367c162a55c5d33fac553b62a4a2988c2b53af96',1,'libevt.h']]],
+  ['os_5fevt_5fundock_24969',['OS_EVT_UNDOCK',['../libevt_8h.html#a47782499daa82ca02ceec0dde367c162a37f3b245fe203131c78859388aa7d6ec',1,'libevt.h']]],
+  ['os_5fnop_24970',['OS_NOP',['../libevt_8h.html#a47782499daa82ca02ceec0dde367c162a46e70b83f1a2498c9325b00cb2cf4e3e',1,'libevt.h']]]
+];

@@ -1,0 +1,482 @@
+---
+title: "ADK-Programmers-Guides: Data Fields"
+---
+
+Here is a list of all struct and union fields with links to the structures/unions they belong to:
+
+### - g -
+
+- gateway : <a href="libcom_8h.md#a89bdbd0898f665b41c19ffe73d55261b">com_IPConfig</a>
+- gateWay : <a href="libcom_8h.md#a4663f02589b264947722ef26848e3e19">com_NetworkRouteInfo_IPv4</a> , <a href="libcom_8h.md#a08fce84cac2667183743020a258fe5d0">com_NetworkRouteInfo_IPv6</a>
+- get() : <a href="class_connection_context.md#a15d8a2f8061d00cb81a5cfd76230f3fd">ConnectionContext</a> , <a href="classlibsdi_1_1_dialog.md#ac964dbd8165ee6a2f065636135a95bda">Dialog</a> , <a href="classlibsdi_1_1_sdi_cmd.md#a733bf780a710be27b4b3d95bd148e45c">SdiCmd</a> , <a href="classpackmanlib_1_1platform_1_1_platform.md#aebcffe7fdc65e22e0aa82c019bbf8eb9">Platform</a> , <a href="classsdi_1_1_time_stamp.md#af53ec2e557ea14cce1373e0f77954c82">TimeStamp</a> , <a href="class_sec_handle_map.md#a0ac2fe133aea04a39e0c03ac55a6a700">SecHandleMap</a> , <a href="classvfihtml_1_1_time_stamp.md#af53ec2e557ea14cce1373e0f77954c82">TimeStamp</a> , <a href="classvfisdi_1_1_b_c_d.md#a38313af2599e5d5f63083024ed576eab">BCD< N ></a>
+- get_adk_version() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s3_tree_info.md#af7e8e8d7c65613ff8f629caa2e98e200">VOS3TreeInfo</a> , <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#af7e8e8d7c65613ff8f629caa2e98e200">VOSTreeInfo</a>
+- get_base_name() : <a href="classpackmanlib_1_1node_1_1_bundle_info.md#aa185b21fc1ecb1d1d61259f392e29586">BundleInfo</a> , <a href="classpackmanlib_1_1node_1_1_changeset_data.md#aa185b21fc1ecb1d1d61259f392e29586">ChangesetData</a>
+- get_blacklists() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#a582a87139a98071d4f70c3e466f22a9f">VOSTreeInfo</a>
+- get_bundle_device_list() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#ae7bf46fcdd4e445628357dc30bb0b835">VOSTreeInfo</a>
+- get_connection_info() : <a href="classm_a_d_k___p_p___prot.md#a5e27866e15dfcacd243894c3271e07e7">mADK_PP_Prot</a>
+- get_csd_node() : <a href="classpackmanlib_1_1node_1_1_bundle_info.md#a3cdb01987792486365849fccedaec538">BundleInfo</a>
+- get_data_mask : <a href="_v_h_q_xml_dictionary_8c.md#a5eea5bb3f3b2d9c8810df63390ec6e22">_get_data_mask_xml_conv_t</a>
+- get_depth() : <a href="classpackmanlib_1_1nodepath_1_1_node_path_mixin.md#ac26736fbf81b8e69cdf63c98c8a47c67">NodePathMixin</a>
+- get_full_device_list() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#af5306da4f486b490938e2dadcd66de61">VOSTreeInfo</a>
+- get_handle() : <a href="classm_a_d_k___p_p___prot.md#ac4ab6dfcd39150866277c10883e3cc1a">mADK_PP_Prot</a>
+- get_index() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a8805808f42b6763bd9c2696d2854c7db">BaseNode</a>
+- get_inf_node() : <a href="classpackmanlib_1_1node_1_1_changeset_data.md#a963d7a03569a4043bbefec0dc1137d85">ChangesetData</a>
+- get_mode() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a604c74b4565be8a42ee33de761c28f51">BaseNode</a> , <a href="classpackmanlib_1_1platform_1_1_platform.md#a1360437086e20b7e8d476c11718ee7c7">Platform</a>
+- get_nb_bundles() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s3_tree_info_1_1_bundle_counter.md#ad1723cf656f9f4c2019b043e43876110">VOS3TreeInfo.BundleCounter</a>
+- get_nb_upfiles() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s3_tree_info_1_1_u_p_file_counter.md#a97c114943cadd582ba107226be4ea5de">VOS3TreeInfo.UPFileCounter</a>
+- get_os_version() : <a href="classpackmanlib_1_1treeinfo_1_1_v_o_s_tree_info.md#a6450c87767d20c192984f618b5c87807">VOSTreeInfo</a>
+- get_parent_archive() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a2f67b333aa5e0d678c748c2ebbdeee7f">BaseNode</a>
+- get_path() : <a href="classpackmanlib_1_1nodepath_1_1_node_path_mixin.md#ab2255afca64a863f2ec99ec620989e40">NodePathMixin</a>
+- get_path_nodes() : <a href="classpackmanlib_1_1nodepath_1_1_node_path_mixin.md#a90b48062a797319956c8709266a69bac">NodePathMixin</a>
+- get_platform() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a6199c59cb64af881cd70a380d639f62e">BaseNode</a>
+- get_protocol_state() : <a href="classm_a_d_k___p_p___prot.md#a6d4649d555fb71b605cda7b61162d030">mADK_PP_Prot</a>
+- get_protocol_type() : <a href="classm_a_d_k___p_p___prot.md#ae0bc09fd8222a3c92e69a59e0ef6b41f">mADK_PP_Prot</a>
+- get_result() : <a href="classpackmanlib_1_1io_1_1_archive_writer_1_1_modified_archive_lister.md#ad58623e6201bdcbab5abb2dd0536c5a5">ArchiveWriter.ModifiedArchiveLister</a>
+- get_root_archive() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#acb1a58b36d03f8b533010786b27456c4">BaseNode</a>
+- get_section() : <a href="classvfisysinfo_1_1_ini_file.md#a6c34b8d6f79328485c2580a82cca5e16">IniFile</a>
+- get_signature_names() : <a href="classpackmanlib_1_1platform_1_1_platform.md#a681125d92d29ddb11f3fedc182f08335">Platform</a>
+- get_signature_strindex() : <a href="classpackmanlib_1_1platform_1_1_platform.md#ab32a0af3073777233f04cd8f9fea2556">Platform</a>
+- get_signed_node_name() : <a href="classpackmanlib_1_1platform_1_1_platform.md#ad03cf3ff63ba77e967266b0f7c8430d5">Platform</a>
+- get_signer() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#adc09e25e108582cfddcbfd41fb8298a4">BaseNode</a>
+- get_status() : <a href="classm_a_d_k___p_p___prot.md#ab830518e59100970fe386745510590f5">mADK_PP_Prot</a>
+- get_tcp_info() : <a href="classm_a_d_k___p_p___prot.md#a67beb232925c781e9e84d7f403c2fbcb">mADK_PP_Prot</a>
+- get_treeinfo() : <a href="classpackmanlib_1_1treeinfo_1_1_tree_info.md#a4d46e8a4787743520509c97f38456daf">TreeInfo</a>
+- get_type_str() : <a href="classpackmanlib_1_1basenode_1_1_base_node.md#a97064a535f192320c134e450ac478e60">BaseNode</a>
+- get_uds_info() : <a href="classm_a_d_k___p_p___prot.md#a6e7b3567bd0e3561d3f969e6df82233d">mADK_PP_Prot</a>
+- getAccountType() : <a href="structvfisdi_1_1_e_m_v_txn.md#a3999a26395349ca33d1fed1027edd1b7">EMVTxn</a>
+- getAcquirerId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a38778e30c35fc0021958fc219c6319ce">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a2758bb227e3ef123dec1d4d0256b2dd4">TransactionDataProvider</a>
+- getAcquirerID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a712afef36599bab136a396b145acbb2a">EMVConf</a>
+- getAcquirerMerchantId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a236aa2189974ed0802bb8d8a1f91fd6e">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ab5cced8a60a09230906e016e05bdaeaf">TransactionDataProvider</a>
+- getAcquirerTerminalId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#ab0c3917b10195f0c1a08733f5390a5d4">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ac30d55c3693a93d2b49530e7c3e7f8e6">TransactionDataProvider</a>
+- getAdditionalCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2742ef7d2429c0fe340bc29c046cae3c">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a2742ef7d2429c0fe340bc29c046cae3c">EMVTxn</a>
+- getAdditionalResponseOK() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5ac63ddb2ab3cd5578212be03df2be77">EMVTxn</a>
+- getAdditionalResultValue() : <a href="classlibsdi_1_1_sdi_base.md#a03cfc4186ba19fa866f27a0c12dbb4ad">SdiBase</a>
+- getAdditionalTags() : <a href="structvfisdi_1_1_e_m_v_conf.md#af8ce026db647dfe900e8a8c382b26a8f">EMVConf</a>
+- getAdditionalTagsCRD() : <a href="structvfisdi_1_1_e_m_v_conf.md#a76609122aa6fc3e32f353de64e1210fd">EMVConf</a>
+- getAdditionalTerminalCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#ae3e1fb510d3f1d32a5fe523286c21849">EMVConf</a>
+- getAdditionalVersionNumbers() : <a href="structvfisdi_1_1_e_m_v_conf.md#a667bfa5d067c0841fb87c19b92b12060">EMVConf</a>
+- getAddr() : <a href="classvfiipc_1_1_t_l_s.md#a2e77e5ae7c5f124195cf778ad6f6821c">TLS</a>
+- getAdjustedAmount() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a6014f6caf9eeb38098cf4c98d779ad95">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a862d336a1fb28173350bda0b286398a5">TransactionDataProvider</a>
+- getAdjustmentDescription() : <a href="classvficpl_1_1_transaction_data_provider.md#a88557d404b1bd42be501f2539d608084">TransactionDataProvider</a>
+- getAdjustmentPercentage() : <a href="classvficpl_1_1_transaction_data_provider.md#aa16514d1e66c938e1527da0fe41eac1a">TransactionDataProvider</a>
+- getAgreedAppName() : <a href="structvfisdi_1_1_e_m_v_txn.md#a3e2e667cc1620a9e590dc9317a57bfc0">EMVTxn</a>
+- getAID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a23c0f9cbcb8eac7af6d7ef6a9701f2de">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a23c0f9cbcb8eac7af6d7ef6a9701f2de">EMVTxn</a>
+- getAIP() : <a href="structvfisdi_1_1_e_m_v_txn.md#a22fb2842fa8fb5125f27e0ab61a4916f">EMVTxn</a>
+- getAIPNoCVM() : <a href="structvfisdi_1_1_e_m_v_conf.md#ab081c8e6f28d879622720eccbb462390">EMVConf</a>
+- getAltitude() : <a href="classvficpl_1_1_environment_data_provider.md#aaf91fe7efb0743f3fd0c537fdd87b3b8">EnvironmentDataProvider</a>
+- getAmount() : <a href="structvfisdi_1_1_e_m_v_txn.md#a22c01e4c5ed7df6d063634951268e4e8">EMVTxn</a>
+- getAmountConfirmation() : <a href="structvfisdi_1_1_e_m_v_txn.md#a132e52525a1aa036d991705bacc45349">EMVTxn</a>
+- getAppFlowCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a897156b68ac2ade58642c6f40ee63480">EMVConf</a>
+- getApplicationAuthTransactionType() : <a href="structvfisdi_1_1_e_m_v_conf.md#a5b933fb301ce16c507e994113cbbd6e6">EMVConf</a>
+- getApplicationCurrency() : <a href="structvfisdi_1_1_e_m_v_txn.md#abb508a1ad820ae3ab9c3dab443a395c0">EMVTxn</a>
+- getApplicationKernelId() : <a href="structvfisdi_1_1_e_m_v_txn.md#a28b1f9363cd396cbf97d6973b9ccea39">EMVTxn</a>
+- getApplicationLabel() : <a href="structvfisdi_1_1_e_m_v_txn.md#aef3494c3a118d2b57bdc4a7315230d01">EMVTxn</a>
+- getApplicationPriorityID() : <a href="structvfisdi_1_1_e_m_v_txn.md#aa3822824c808b30140c9f88394839427">EMVTxn</a>
+- getAppName() : <a href="structvfisdi_1_1_e_m_v_txn.md#a182e23eeefddc5125d3ce3b63a825815">EMVTxn</a>
+- getAppNameChosen() : <a href="structvfisdi_1_1_e_m_v_txn.md#a318353908444effcc80b3e04b7174021">EMVTxn</a>
+- getAppNameUtf8() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5124bb4a5a3b2edbbd74a96dc31a99e4">EMVTxn</a>
+- getAppProgramID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2c29b4c7f3b64ccc8faddc8fd2c8dba1">EMVConf</a>
+- getApprovedAmount() : <a href="classvficpl_1_1_i_transaction_data_provider.md#ab7561de3c6df6cf01c0fe09b39face8a">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#adb3c398a40cb9fc5662780c747a166ad">TransactionDataProvider</a>
+- getASI() : <a href="structvfisdi_1_1_e_m_v_conf.md#aea3bf97f454a70ebbafeefaa7c1912a0">EMVConf</a>
+- getASRPD() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5e26345283b02364b4f2ad5b55500e3d">EMVTxn</a>
+- getAsyncResult() : <a href="classlibsdi_1_1_dialog.md#a5dc7bec3fd34264255ba456fb5522839">Dialog</a>
+- getATC() : <a href="structvfisdi_1_1_e_m_v_txn.md#af5a86e852a3fc9ebf21c5b6354643b24">EMVTxn</a>
+- getAuthCode() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a4e3037a0d1c3afb5ed1c7deae0632f14">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a4189ce6a86f0314f4392f97d5044224b">TransactionDataProvider</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ab5e9d49d4a61b323c0718808dab185d3">EMVTxn</a>
+- getAuthData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a436cd8b24a0185a8132b08dfa820ca53">EMVTxn</a>
+- getAuthEntity() : <a href="classvficpl_1_1_i_transaction_data_provider.md#af8113c145d72f819224b2a13d5882998">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ab4650cc48568749b69dd847477d424e3">TransactionDataProvider</a>
+- getAuthResponseCode() : <a href="structvfisdi_1_1_e_m_v_txn.md#acb7af559de0f1913e64b619b7b8bf0a9">EMVTxn</a>
+- getAuthResponseOnlinePIN() : <a href="structvfisdi_1_1_e_m_v_txn.md#a22fbd08d67c102a8cf8d40d9d91724c3">EMVTxn</a>
+- getAuthResponseReferral() : <a href="structvfisdi_1_1_e_m_v_txn.md#a3efe3a14d848339e0b0d45f130d20eef">EMVTxn</a>
+- getAuthResponseSwitch() : <a href="structvfisdi_1_1_e_m_v_txn.md#adb1133473b905ea63ebac64001f21507">EMVTxn</a>
+- getAuthResponseWrongPIN() : <a href="structvfisdi_1_1_e_m_v_txn.md#ab5bf99b7d794044cf2c7a26c4780b6c8">EMVTxn</a>
+- getAuthRespTxt() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a62edb47209c4af6afd888d3f633a2130">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a09539bf0542dcdbaf69eda380c0b6ce7">TransactionDataProvider</a>
+- getAuthResult() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a0b5ac9a02d3f31455d641729544cf1fb">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a78814b700dfd60ee5363cb0975d6941a">TransactionDataProvider</a>
+- getAvailableLen() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#ae5558c736bfd8a2b077e98d2f87bf426">SafeBuffer</a>
+- getAvailableOfflineAmount() : <a href="structvfisdi_1_1_e_m_v_txn.md#a12edb21c2efea9b114daecba99dfd37d">EMVTxn</a>
+- getBalanceAfter() : <a href="structvfisdi_1_1_e_m_v_txn.md#a3c63786f906e758de9a94a0ed53865d3">EMVTxn</a>
+- getBalanceBefore() : <a href="structvfisdi_1_1_e_m_v_txn.md#a06f9976eaa34a0387333a64f9b095a94">EMVTxn</a>
+- getBeaconType() : <a href="classvficpl_1_1_environment_data_provider.md#ada3e668c262f6edd5287693b7be448fd">EnvironmentDataProvider</a>
+- getBeepFreqAlert() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2109829fedb315e7d4f51c0b8979d31f">EMVConf</a>
+- getBeepFreqSuccess() : <a href="structvfisdi_1_1_e_m_v_conf.md#a35bc95e10ed39f880c021612eeba6c65">EMVConf</a>
+- getBeepScenario() : <a href="structvfisdi_1_1_e_m_v_txn.md#a8f463c85de1a0ca552942ed68167f508">EMVTxn</a>
+- getBeepVolume() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6af7f563c166d0d486fa6f2d1b695059">EMVConf</a>
+- getBool() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a56e70a2d753746f23f8bfb677a030086">CTransactionValue</a> , <a href="classvfiipc_1_1_j_s_object.md#a56e70a2d753746f23f8bfb677a030086">JSObject</a> , <a href="classvfisdi_1_1_t_l_v.md#a56e70a2d753746f23f8bfb677a030086">TLV</a>
+- getBuffer() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a2a569652fed85f4bd06ee9844e164598">CTransactionValue</a> , <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#a18d5f4a268d2ff9f0bbcb2dc536f2dfa">SafeBuffer</a>
+- getBuildAppList() : <a href="structvfisdi_1_1_e_m_v_txn.md#a4e9557a4bf135beea3f0b9d2271bc3e6">EMVTxn</a>
+- getByte() : <a href="classvfisdi_1_1_t_l_v.md#ad1a7498668250d5596044bf990ad35f5">TLV</a>
+- getBytes() : <a href="classvfisdi_1_1_t_l_v_1_1_tag.md#adef62653631891e48d06b31c57b4658a">TLV::Tag</a>
+- getCallbackTimeout() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2612baf913935e5f93c78619b2137099">EMVConf</a>
+- getCandidateList() : <a href="structvfisdi_1_1_e_m_v_txn.md#a6eace38d95dda9bfde71c99572783f0f">EMVTxn</a>
+- getCapabilitiesBelowLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a002d2ca3fd83a477a7eebcf15862c423">EMVConf</a>
+- getCapacity() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#aa37b5b2909d4a84a1f5ac00b5b4d0c41">SafeBuffer</a>
+- getCardCountry() : <a href="classvficpl_1_1_i_transaction_data_provider.md#ab91e475434e075380c254c91c14199dc">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a6a05698c0e52eee47a56f900a85537e4">TransactionDataProvider</a>
+- getCardCurrency() : <a href="classvficpl_1_1_i_transaction_data_provider.md#ad6670db23758bfef61cb0e8fa6efd672">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a0314d7e4c5e8d89ae2497be9e60c6280">TransactionDataProvider</a>
+- getCardDataEntryDeactivation() : <a href="classlibsdi_1_1_s_d_i.md#afe1b485e3a9eb6bed1a69ad4b248e0c2">SDI</a>
+- getCardDataEntryMode() : <a href="classlibsdi_1_1_s_d_i.md#a691380011de69e7e593620d99a34a2b2">SDI</a>
+- getCardDataInputCapability() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa143de12e44d67730d1c27f756772681">EMVConf</a>
+- getCardholderInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a9b97f6a2b9fe084931177cf7f03f3774">EMVTxn</a>
+- getCardholderName() : <a href="classlibsdi_1_1_card_detection.md#a126687537a33e25f76cefb8d97217447">CardDetection</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a7e2e8088a66943208867d9bb95f22114">EMVTxn</a>
+- getCardholderNameExt() : <a href="structvfisdi_1_1_e_m_v_txn.md#a1bc527fc41230f941d0b5d864622fa0a">EMVTxn</a>
+- getCardID() : <a href="structvfisdi_1_1_e_m_v_txn.md#a6b2eaa0e9a96552d35260f396be28d30">EMVTxn</a>
+- getCardType() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a883efd507bb23e4242bf13d91767c7b7">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a62efaca5c6e0f1c0ead7afa60ea99a10">TransactionDataProvider</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a44cb3616647b6bc5f62353bf4eb0abb9">EMVTxn</a>
+- getCashBackAmount() : <a href="classvficpl_1_1_transaction_data_provider.md#adbaed1af63ddbabc112e77be6ad5d4c4">TransactionDataProvider</a>
+- getCashbackAmount() : <a href="structvfisdi_1_1_e_m_v_txn.md#adce2b48499554625d4a5d0d312ea4dd0">EMVTxn</a>
+- getCashierId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#af3a74a8e1b4a95d5483d86e4d3f1d21d">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a04fe7a1a9e867b13dd4a31343344ebc4">TransactionDataProvider</a>
+- getCashPayment() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a185468b7a3ee0f88465e65e561c3b878">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#abb35866c54f3f490998a5916f2788a38">TransactionDataProvider</a>
+- getCBCandidateList() : <a href="structvfisdi_1_1_e_m_v_txn.md#a12b95942075f032a218819d7aca72719">EMVTxn</a>
+- getCBDisplayTextIndex() : <a href="structvfisdi_1_1_e_m_v_txn.md#adb3c3e0069fa51478554d67600434954">EMVTxn</a>
+- getCDAProcessing() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac1e1de16afeb1d9ed392177d443f066d">EMVConf</a>
+- getChipAppVersionNumber() : <a href="structvfisdi_1_1_e_m_v_conf.md#a04be57661f988e4740eb798c3b9fb9f5">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a2bb11f40972b297942652292237ca595">EMVTxn</a>
+- getChipCVMAboveLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#aad322fe28d97e243328c9ac0286d4157">EMVConf</a>
+- getChipCVMBelowLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#af551ebe20456eb2038986c764be39bff">EMVConf</a>
+- getClientError() : <a href="classlibsdi_1_1_sdi_base.md#a167a672bfb8c6f222c4b2a255b053aec">SdiBase</a>
+- getCom1aModeName() : <a href="class_com_config.md#a37d50030103171103d6f08f40c05f1ce">ComConfig</a>
+- getCombinationOptions() : <a href="structvfisdi_1_1_e_m_v_conf.md#a1bbc4bb2bdf72b1da0ee9341d033bfeb">EMVConf</a>
+- getCommunicationError() : <a href="structvfisdi_1_1_e_m_v_txn.md#ada86b988154ec921f2c490d3f27bdf74">EMVTxn</a>
+- getConfigCommand() : <a href="structvfisdi_1_1_e_m_v_conf.md#a873b6e79b31594814b223abedc58d4f6">EMVConf</a>
+- getConfirmAmount() : <a href="structvfisdi_1_1_e_m_v_txn.md#a98560d083a184e5b1900ae3c73a79f05">EMVTxn</a>
+- getCountry() : <a href="classvficpl_1_1_environment_data_provider.md#a14559cac1d0c6d93eb3de5ca849ad316">EnvironmentDataProvider</a>
+- getCriticalScript() : <a href="structvfisdi_1_1_e_m_v_txn.md#a7ec119f656ae474e27640949fa83c2e6">EMVTxn</a>
+- getCriticalScriptResults() : <a href="structvfisdi_1_1_e_m_v_txn.md#a500861c36527d46c22afd197ec0ab4c5">EMVTxn</a>
+- getCryptogram() : <a href="structvfisdi_1_1_e_m_v_txn.md#a20aa9f38f4f2ab80a2d3c699435722d3">EMVTxn</a>
+- getCryptogramInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a52d2d97a72ddcddc9f6ff252dbe15da0">EMVTxn</a>
+- getCryptoHandle() : <a href="classlibsdi_1_1_sdi_crypt.md#a6970d6acf8107304fe72f56716c822fc">SdiCrypt</a>
+- getCtL1DriverVersion() : <a href="structvfisdi_1_1_e_m_v_conf.md#a8080d923d89910e12ed2aba336cd4dd2">EMVConf</a>
+- getCtlsKernelCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a9e8a3f500c79d72504a1d2fb402c58ae">EMVConf</a>
+- getCtlsL1DriverVersion() : <a href="structvfisdi_1_1_e_m_v_conf.md#a9ac2186b16f51260ed5f13136e74d203">EMVConf</a>
+- getCtlsLEDState() : <a href="structvfisdi_1_1_e_m_v_txn.md#af3a8a6ee3b1c667e4ab5b7be3749699f">EMVTxn</a>
+- getCtlsTerminalLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a18a7b88b9a555062966a8eb3409b097f">EMVConf</a>
+- getCtlsTransactionLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa10d59cf5abbec878929ac7e1ca44856">EMVConf</a>
+- getCurrentBytePtr() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#a99add9e3a9eea03ceb64e1b6f07c8f4c">SafeBuffer</a>
+- getCurrentCharPtr() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#a51c2a5f2c6bca5e147f4fc4b66a4a7be">SafeBuffer</a>
+- getCustomCVM() : <a href="structvfisdi_1_1_e_m_v_conf.md#a29a07daabb195194b7ada9f841b28976">EMVConf</a>
+- getCVMList() : <a href="structvfisdi_1_1_e_m_v_txn.md#a54d72993a2cac07bdb1b05cc10abb4fc">EMVTxn</a>
+- getCVMRequiredLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#add1c93ea4d1f03e001f368f04e2215e6">EMVConf</a>
+- getCVMRequiredLimitMK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a02056703b928b836f359c1ca1cea84dd">EMVConf</a>
+- getCVMRequiredLimitPK() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa52219dee82d19e11a5ef4f1d68763c7">EMVConf</a>
+- getCVMResults() : <a href="structvfisdi_1_1_e_m_v_txn.md#ac3a6ba6bc1ae0675ed42e05ed60bc8a5">EMVTxn</a>
+- getData() : <a href="classlibsdi_1_1_card_detection.md#a11651701a8cc61638dfa1b3ae575c539">CardDetection</a>
+- getDataAuthCode() : <a href="structvfisdi_1_1_e_m_v_txn.md#a470a51213e4f7d39f5083c8c1b45242d">EMVTxn</a>
+- getDataDesc() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#a9aa2540b3d951c79c977dade2b237324">SafeBuffer</a>
+- getDataExchangeDataNeeded() : <a href="structvfisdi_1_1_e_m_v_txn.md#ab3905706a0e0838442335571a8aab794">EMVTxn</a>
+- getDataExchangeMode() : <a href="structvfisdi_1_1_e_m_v_txn.md#a62681ec8b6d35b0d4d0bd534c05a99b2">EMVTxn</a>
+- getDataExchangeReceivedData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a83bc16793e4c1c9a5f1461eada6dd425">EMVTxn</a>
+- getDataExchangeRequest() : <a href="structvfisdi_1_1_e_m_v_txn.md#afc52e2d634005fe7a73a279b01132e13">EMVTxn</a>
+- getDataExchangeSendData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a8d4ff066ff42dd8f1dfec2ad324e878e">EMVTxn</a>
+- getDataExchangeState() : <a href="structvfisdi_1_1_e_m_v_txn.md#a97008084cf99268fc203c8559debe86f">EMVTxn</a>
+- getDataExchangeTags() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4cdaf894c3b7e16d8c680792eef86849">EMVConf</a>
+- getDataExchangeTimeout() : <a href="structvfisdi_1_1_e_m_v_conf.md#a604188eff08782539adb084ababa53a9">EMVConf</a>
+- getDataStoreRequestedOperatorID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a07f7cf7609d9babc5ee6e7a0ad34767f">EMVConf</a>
+- getDateTime() : <a href="classlibsdi_1_1_s_d_i.md#a15781f01b66e81a07c61124067d278d0">SDI</a>
+- getDCCForbidden() : <a href="structvfisdi_1_1_e_m_v_txn.md#a144090e0b69e080ede7c81f0daea9db6">EMVTxn</a>
+- getDCCInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a205a0948d9094865e35128eeda5b54e1">EMVTxn</a>
+- getDCCMode() : <a href="structvfisdi_1_1_e_m_v_txn.md#aa1cfb658afb96b40857d4a2c7c09fb51">EMVTxn</a>
+- getDCRListIDs() : <a href="structvfisdi_1_1_e_m_v_conf.md#a1b0d0c1cb7fb883fa60aa2326b34f8e9">EMVConf</a>
+- getDCRListRanges() : <a href="structvfisdi_1_1_e_m_v_conf.md#a790ff49d327b3c9200df2cc0270e5d2e">EMVConf</a>
+- getDefaultAppName() : <a href="structvfisdi_1_1_e_m_v_conf.md#a27002271f09298ae87fa9b98ae710198">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a27002271f09298ae87fa9b98ae710198">EMVTxn</a>
+- getDefaultDDOL() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4fc154389934bdebc2471b330c0a0001">EMVConf</a>
+- getDefaultTDOL() : <a href="structvfisdi_1_1_e_m_v_conf.md#a46f1d33ce412f8fd6da330b7bf0d68f8">EMVConf</a>
+- getDestination() : <a href="structvfisdi_1_1_e_m_v_txn.md#a169b4e5d8a9f7d5bf5d949a89eba16b9">EMVTxn</a>
+- getDFName() : <a href="structvfisdi_1_1_e_m_v_txn.md#a0c3eb9c659b94c3c83d6fa52ee045f38">EMVTxn</a>
+- getDisplayTextIndex() : <a href="structvfisdi_1_1_e_m_v_txn.md#ab0ec6694cb4d96a12749a7b5fbb3c21e">EMVTxn</a>
+- getDomesticAppResult() : <a href="structvfisdi_1_1_e_m_v_txn.md#ae28be2bd10580f80921c7e043224eeb8">EMVTxn</a>
+- getDomesticApps() : <a href="structvfisdi_1_1_e_m_v_txn.md#a620bb0cdf403312e6d720f3ac1f9e44f">EMVTxn</a>
+- getDomesticInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5e60496d442d9d7033705ae88135adfc">EMVTxn</a>
+- getDomesticOptions() : <a href="structvfisdi_1_1_e_m_v_txn.md#ab0c5b96907eb40cde7b21dd2ea3e4a0b">EMVTxn</a>
+- getDynamicReaderLimits() : <a href="structvfisdi_1_1_e_m_v_conf.md#a9bd7441dfc2ba41a42013e809b7ecaa0">EMVConf</a>
+- getDynamicReaderLimitsOptions() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac2629b8ced460ce3cc5874c083ecb5fb">EMVConf</a>
+- getEffectiveDate() : <a href="structvfisdi_1_1_e_m_v_txn.md#aab6007b9544521c765ee365f4e3e4297">EMVTxn</a>
+- getEMVApplication() : <a href="structvfisdi_1_1_e_m_v_conf.md#a07e90fc4f30a97fe9ae9ff617f84e192">EMVConf</a>
+- getEMVCOChecksum() : <a href="structvfisdi_1_1_e_m_v_conf.md#afd59b122daf5cfeeed9944f60f4fe25f">EMVConf</a>
+- getEMVCOChecksumParameter() : <a href="structvfisdi_1_1_e_m_v_conf.md#accc66b1697dda007238d7cf027c0baeb">EMVConf</a>
+- getEMVFallback() : <a href="structvfisdi_1_1_e_m_v_conf.md#ae9a523919303b0a5213bbea4f8035e5c">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ae9a523919303b0a5213bbea4f8035e5c">EMVTxn</a>
+- getEMVPassthrough() : <a href="structvfisdi_1_1_e_m_v_txn.md#a1121f832e91848d76d6055ea16af5252">EMVTxn</a>
+- getEMVStatus() : <a href="structvfisdi_1_1_e_m_v_txn.md#af478ef9501e0eb25ef20935166934fe2">EMVTxn</a>
+- getEncData() : <a href="classlibsdi_1_1_sdi_crypt.md#a04dbff235d0bc2ee3965deb24c067bcb">SdiCrypt</a>
+- getEncMsgData() : <a href="classlibsdi_1_1_sdi_crypt.md#aa3cbfa1f404ec3a00bf639440ca7d5ce">SdiCrypt</a>
+- getEncryptedPin() : <a href="classlibsdi_1_1_sdi_crypt.md#a29bc02bfa0379a16f6bd38be417b0327">SdiCrypt</a>
+- getEncTrxData() : <a href="classlibsdi_1_1_sdi_crypt.md#a108c80d36b5996a03c8034d04ecf9a87">SdiCrypt</a>
+- getEntryPointChecksum() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac6ba4a64844643d0b9e959ad98fe9d41">EMVConf</a>
+- getError() : <a href="classvficom_1_1_exception.md#a525b39dd291368956cb3b122d6009de5">Exception</a>
+- getErrorData() : <a href="structvfisdi_1_1_e_m_v_txn.md#ad6e06a14b08a30d6f666af7c7c4e9685">EMVTxn</a>
+- getExcludeAID() : <a href="structvfisdi_1_1_e_m_v_txn.md#a47d09026694a2553f0eccafe64a94aff">EMVTxn</a>
+- getExpirationDate() : <a href="structvfisdi_1_1_e_m_v_txn.md#ae16935dc1e17bbaa1de7aaf93e1aa200">EMVTxn</a>
+- getFallback() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a4c142ada18a0cafda6d22c35d55593a9">EMVSpecialTransactions</a>
+- getFallbackMIDs() : <a href="structvfisdi_1_1_e_m_v_conf.md#a575a64e54ab99e140150e09888007bc2">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a575a64e54ab99e140150e09888007bc2">EMVTxn</a>
+- getFallbackMSR() : <a href="structvfisdi_1_1_e_m_v_txn.md#ac93177465cd1b708cef4da23583d9b4d">EMVTxn</a>
+- getFallbackMSROptions() : <a href="structvfisdi_1_1_e_m_v_txn.md#abf9bbb55fa6526c53e801c0e0e3d4857">EMVTxn</a>
+- getFCIIssuerDiscrData() : <a href="structvfisdi_1_1_e_m_v_txn.md#aa3895c84212c383b9052d3cf42de7845">EMVTxn</a>
+- getFD() : <a href="classvfiipc_1_1_i_p_c.md#a2da953859d766be3eb7a8409fc9a6b02">IPC</a> , <a href="classvfiipc_1_1_t_l_s.md#a2da953859d766be3eb7a8409fc9a6b02">TLS</a>
+- GetField_Bin() : <a href="class_i_s_o8583___m_s_g.md#a63acb86409c14c73f68ba1e9b9350bdc">ISO8583_MSG</a>
+- GetField_Str() : <a href="class_i_s_o8583___m_s_g.md#a672b03a086fa4ba288d5816f0f41ed80">ISO8583_MSG</a>
+- getFieldOffTime() : <a href="structvfisdi_1_1_e_m_v_conf.md#a5ae22c7f8970528d9554194acfbc9b57">EMVConf</a>
+- GetFields_TLV() : <a href="class_i_s_o8583___m_s_g.md#a949b56cfe233b75b8129a5a4e68a09d5">ISO8583_MSG</a>
+- getFile() : <a href="class_s_d_i_plugin_ctx.md#abc8867830407c255f71aaeca1b2a687a">SDIPluginCtx</a>
+- getFloorLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa4ca8e0f280cf96e95ebaaa7144896ee">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#aa4ca8e0f280cf96e95ebaaa7144896ee">EMVTxn</a>
+- getFloorLimitIK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a95206676d2fbcb23d7f914ed9753d5a6">EMVConf</a>
+- getFloorLimitMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#a03fbcfee61143781ee2076b614eeac2a">EMVConf</a>
+- getFloorLimitMK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a368a5bafbb220f69169a01c0e29dbe30">EMVConf</a>
+- getFloorlimitPK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a9ff322baeadfb9933816f3f12310dc23">EMVConf</a>
+- getFlowOptions() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6f2297ba9927abce9efb169397dae8be">EMVConf</a>
+- getForceAccept() : <a href="structvfisdi_1_1_e_m_v_txn.md#a12943982462ac554ae9b2f7b4d7d1b93">EMVTxn</a>
+- getForceOnline() : <a href="structvfisdi_1_1_e_m_v_txn.md#af46be7c7b03dd7b59a73998e96325522">EMVTxn</a>
+- getGatewayMerchantId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a28f7916bb832260978fe43a12999114c">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#aa669aee0b3f7e85fbdede20cf8913f11">TransactionDataProvider</a>
+- getGatewayTerminalId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a590a5b654aa974d40d863180b3a026c7">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a5624ddda46388d3f5b3f00a5b6c41db8">TransactionDataProvider</a>
+- getGratuityAmount() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a8fdc9666ff565a1f86316a5fef82ecb4">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a82a9db668cc1e8fbe56a1bf662df0bbb">TransactionDataProvider</a>
+- getHolderAuth() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a4f23ddb16f2fa235629d5301676c387d">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a8f26df9072d14d36de751cb3548858e5">TransactionDataProvider</a>
+- getHostTimeout() : <a href="structvfisdi_1_1_e_m_v_conf.md#a0b03105ce9bff4117bd0f80d961aef25">EMVConf</a>
+- getHotlist() : <a href="structvfisdi_1_1_e_m_v_conf.md#a436612174e4733af34cd3b66388d54cb">EMVConf</a>
+- getIACDefault() : <a href="structvfisdi_1_1_e_m_v_txn.md#ac353b92a5cb3c0f609a39938154cea9c">EMVTxn</a>
+- getIACDenial() : <a href="structvfisdi_1_1_e_m_v_txn.md#a713b329b9095d82fb9b2a9f5570700ad">EMVTxn</a>
+- getIACOnline() : <a href="structvfisdi_1_1_e_m_v_txn.md#aff7585557f19d64883a64d324b515cd3">EMVTxn</a>
+- getIACSwitch() : <a href="structvfisdi_1_1_e_m_v_conf.md#ab1df4f188c305e4038d9b9e1a3b5128e">EMVConf</a>
+- getICCDynamicNumber() : <a href="structvfisdi_1_1_e_m_v_txn.md#a85904ca2d6cdfa3d52a94d56ab209c20">EMVTxn</a>
+- getIFDSerial() : <a href="structvfisdi_1_1_e_m_v_conf.md#a32be7437a7f7ac177dd68832ea31f0f7">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a32be7437a7f7ac177dd68832ea31f0f7">EMVTxn</a>
+- getIgnoreCard() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a9e9f47b3d03a5fb814f1e4abb004c760">EMVSpecialTransactions</a>
+- getInitialAmount() : <a href="classvficpl_1_1_i_transaction_data_provider.md#acc001411f3affccae176809bed7fd84e">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a3b4c6c969b0bfe6ffe4382e057486056">TransactionDataProvider</a>
+- getInitialVector() : <a href="classlibsdi_1_1_sdi_crypt.md#a51fc7fbde0fd878e138bf79de9a21a0d">SdiCrypt</a>
+- getInputFieldNames() : <a href="classlibsdi_1_1_dialog.md#a00193ad63c0bc05a78ef44ecedfa7c52">Dialog</a>
+- getInstance() : <a href="class_com_config.md#a2305b98ede094139aa7d104ec73371fe">ComConfig</a> , <a href="class_config.md#a1ef2bdb72ea7052082489de1e0525d09">Config</a> , <a href="class_key_pad.md#ad6e661fcf96101fb046bc37b5301691a">KeyPad</a> , <a href="classm_a_d_k___p_p___prot.md#a6b7b719a059719a202022830931b241b">mADK_PP_Prot</a> , <a href="class_touch_pad.md#adbf9affd00664ea4c37d0b5e2e6f65e0">TouchPad</a>
+- getInt() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#aaef76f1478cdc2c18950b75e33afcece">CTransactionValue</a> , <a href="classvfiipc_1_1_j_s_object.md#ad92f7d678ccdce0556cf713e622247df">JSObject</a>
+- getInt64() : <a href="classvfiipc_1_1_j_s_object.md#a77739d2eeb6bd9069ba1065e5e9abf09">JSObject</a>
+- getInterchangeProfile() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2d3ccb584815ab9370639b31305f6a49">EMVConf</a>
+- getInternalKernelID() : <a href="structvfisdi_1_1_e_m_v_conf.md#abae9d95f70c657f6e47fc272f430f3e4">EMVConf</a>
+- getInvoice() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a75e5476bb58d2b4cc60581154acdbe27">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#abca3a3b7c89d7685938e8ee362fd0105">TransactionDataProvider</a>
+- getIssuerAppData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a39dedefcccb5eba27709d4940a87ad3c">EMVTxn</a>
+- getIssuerCodeTableID() : <a href="structvfisdi_1_1_e_m_v_txn.md#a9604daa5bfb0224c833ecfc8ab908268">EMVTxn</a>
+- getIssuerCountryCode() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5680b103f0e5a6ddf6635a307bd9ef16">EMVTxn</a>
+- getIssuerID() : <a href="structvfisdi_1_1_e_m_v_conf.md#aefa82473aa949ff4b84b49636e15268b">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#aefa82473aa949ff4b84b49636e15268b">EMVTxn</a>
+- getKernelAppFlowCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2b6a7710d29fffc7436b659287d1cea2">EMVConf</a>
+- getKernelAppVersionNumber() : <a href="structvfisdi_1_1_e_m_v_txn.md#ae1df5edafde84d7d286df2ee99e80b43">EMVTxn</a>
+- getKernelChecksum() : <a href="structvfisdi_1_1_e_m_v_conf.md#a1f39e83780b688672f8a4f7e9e848a3b">EMVConf</a>
+- getKernelConfiguration() : <a href="structvfisdi_1_1_e_m_v_conf.md#a323085394d35f68f696a49e3bf93e2ea">EMVConf</a>
+- getKernelDebug() : <a href="structvfisdi_1_1_e_m_v_txn.md#a4686bc70b512e3915065ac1028ba9b5d">EMVTxn</a>
+- getKernelID() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac124e485e36a770c4ee9d7006e746f69">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ac124e485e36a770c4ee9d7006e746f69">EMVTxn</a>
+- getKernelPrivateNonBER() : <a href="structvfisdi_1_1_e_m_v_txn.md#a8666525eed3adc6d09252c2068ec56c6">EMVTxn</a>
+- getKernelToUse() : <a href="structvfisdi_1_1_e_m_v_txn.md#ab5b07272f42a1358d8148094fb642782">EMVTxn</a>
+- getKernelVersion() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa9cbae93a9f0632b2328ef5c7f0b4a7f">EMVConf</a>
+- getKeyData() : <a href="classlibsdi_1_1_sdi_crypt.md#a3ec32f356421fa02d7514b582326660f">SdiCrypt</a>
+- getKeyInventory() : <a href="classlibsdi_1_1_sdi_crypt.md#aace57550a2c64b313b9561c4d377fe34">SdiCrypt</a>
+- getKeySerialNumber() : <a href="classlibsdi_1_1_sdi_crypt.md#aaf2d37c9070e17e626077e23642a3a14">SdiCrypt</a>
+- getL1DriverVersion() : <a href="structvfisdi_1_1_e_m_v_conf.md#ad1178b8ca8bc2674ffa4d57df7ccb485">EMVConf</a>
+- getLane() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a20d3df942fedb67126800d23ddde8a50">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ac76499495cd6a3c68d45aa42b87a3c0c">TransactionDataProvider</a>
+- getLanguage() : <a href="classlibsdi_1_1_s_d_i.md#a30396af1c4d6d99cb8185f189a6c8b74">SDI</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#acb82c044458a9d0e4bd55948ab942085">EMVTxn</a>
+- getLanguageId() : <a href="classsdi_1_1_sdi_language.md#ae5df9397daec6a1bdfcad90944d695f5">SdiLanguage</a>
+- getLanguagePreference() : <a href="structvfisdi_1_1_e_m_v_txn.md#a531768c4057ce865f80a5d10b9f30dc9">EMVTxn</a>
+- getLastInstallError() : <a href="classlibsdi_1_1_s_d_i.md#a6135caccb89e4aa48b0df7106f2e9f97">SDI</a>
+- getLatitude() : <a href="classvficpl_1_1_environment_data_provider.md#a2555c4a454e6eeb3c8e24ad55a2cff30">EnvironmentDataProvider</a>
+- getLength() : <a href="classcom__verifone___t_l_v_lite_1_1_safe_buffer.md#abbd1f7b9eb921ded1d9b7bd1614d6891">SafeBuffer</a>
+- getLibVersion() : <a href="structvfisdi_1_1_e_m_v_conf.md#a3e2fb8dab22cf44d1f268a5fb68dc39a">EMVConf</a>
+- getLocale() : <a href="classvficpl_1_1_environment_data_provider.md#aee7142d2db4b431dd1d90ea0af37ce4a">EnvironmentDataProvider</a>
+- getLongitude() : <a href="classvficpl_1_1_environment_data_provider.md#a20223e2b8f264d2e746fa81ef244029c">EnvironmentDataProvider</a>
+- getLoyaltyId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#aaa73658d7e0be58f1a0c28974d740205">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a47ef82ba9718f55b31c60e5076dfd6da">TransactionDataProvider</a>
+- getMagstripeCVMAboveLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4db4377f7806777470aef8463c8e4c96">EMVConf</a>
+- getMagstripeCVMBelowLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#afefc8c2c0805a2306b34a667c9e76600">EMVConf</a>
+- getMandatoryTags() : <a href="structvfisdi_1_1_e_m_v_conf.md#a822c428c19967cc6e3266e9ec85d5841">EMVConf</a>
+- getMasterAID() : <a href="structvfisdi_1_1_e_m_v_txn.md#a9a9dea71749282886ef2471bcd3cc30a">EMVTxn</a>
+- getMaxPercentOnline() : <a href="structvfisdi_1_1_e_m_v_conf.md#a61144b3c745acfc6957fdaa65050f573">EMVConf</a>
+- getMemorySlotReadTemplate() : <a href="structvfisdi_1_1_e_m_v_txn.md#a8d6383318d480b11b7f369207ffbf335">EMVTxn</a>
+- getMemorySlotUpdateTemplate() : <a href="structvfisdi_1_1_e_m_v_txn.md#ae950094f144693c7141233f2edf0c0aa">EMVTxn</a>
+- getMerchantAddress() : <a href="classvficpl_1_1_environment_data_provider.md#aa4a23d5cca55da642a7c6b2814a0d210">EnvironmentDataProvider</a>
+- getMerchantCategory() : <a href="structvfisdi_1_1_e_m_v_conf.md#a30314b5643733c1ccd1d627922c8f76e">EMVConf</a>
+- getMerchantCustomData() : <a href="structvfisdi_1_1_e_m_v_conf.md#a532ad7aaf94c250f4468e360d0e33ce6">EMVConf</a>
+- getMerchantID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a292dea077b233ee2dbc2dc679951cef3">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a292dea077b233ee2dbc2dc679951cef3">EMVTxn</a>
+- getMerchantInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5fa1cf34f3661c1175ccf34fe6d7f460">EMVTxn</a>
+- getMerchantName() : <a href="classvficpl_1_1_environment_data_provider.md#a1c05bba3efde99d601e15604db760609">EnvironmentDataProvider</a>
+- getMerchantNameLocation() : <a href="structvfisdi_1_1_e_m_v_conf.md#a7b138f57dbc037bce51adaadc55e90b6">EMVConf</a>
+- getMerchantType() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac3c7fcd35d56c932e1695ca7a821730c">EMVConf</a>
+- getMessageHoldTime() : <a href="structvfisdi_1_1_e_m_v_conf.md#a51efc8543d1bc4de59135563bbaf3c1e">EMVConf</a>
+- getModifiedCandidates() : <a href="structvfisdi_1_1_e_m_v_txn.md#a236a19c333f73e5f8cfb81993f6df322">EMVTxn</a>
+- getModifyTransaction() : <a href="structvfisdi_1_1_e_m_v_txn.md#aaf5186dbe316fa7c96b5be1e1a7ac787">EMVTxn</a>
+- getMsgSignature() : <a href="classlibsdi_1_1_sdi_crypt.md#a0471fc11895a6a5cfe1c9cc927cde309">SdiCrypt</a>
+- getMSRVersionNumber() : <a href="structvfisdi_1_1_e_m_v_conf.md#aac9562792654e840e38080bcc5c92ff5">EMVConf</a>
+- getMTOL() : <a href="structvfisdi_1_1_e_m_v_conf.md#a260ea5a97554397ab678c1f827bb3f31">EMVConf</a>
+- getMultiConnectMode() : <a href="class_com_config.md#a9658e01c9bc759c0ee2197ced4c6af4f">ComConfig</a>
+- getMutex() : <a href="class_com_config.md#ae26916ef11a3f54b2530b55fcb592c16">ComConfig</a>
+- getName() : <a href="class_s_d_i_plugin_ctx.md#a8802382fe16a9f1966b9565e38a8495a">SDIPluginCtx</a>
+- getNextCustomerReceiptFooter() : <a href="classvficpl_1_1_api.md#ac38e564949fc288b62ff20193c6eb060">Api</a>
+- getNextMerchantReceiptFooter() : <a href="classvficpl_1_1_api.md#a05bbd373880db0b11395d96641b90727">Api</a>
+- getNFCVASData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a3e9016a479213f2a262d5691c5b86b3e">EMVTxn</a>
+- getNoCardholderConfirm() : <a href="structvfisdi_1_1_e_m_v_txn.md#af13541a4a2218804363a6ef228644644">EMVTxn</a>
+- getNoDirectorySelect() : <a href="structvfisdi_1_1_e_m_v_txn.md#a1fb6358d25dc629af023f05b75b1d32b">EMVTxn</a>
+- getNonCriticalScript() : <a href="structvfisdi_1_1_e_m_v_txn.md#a6c1426d9f6a529c4e86e333c6342652f">EMVTxn</a>
+- getNonCriticalScriptResults() : <a href="structvfisdi_1_1_e_m_v_txn.md#a1a2856b4efea60b64e96bfdd994f975e">EMVTxn</a>
+- getNumber() : <a href="classvfiipc_1_1_j_s_object.md#ae13f760a4b1aefdc15749b6bad43c94b">JSObject</a> , <a href="classvfisdi_1_1_t_l_v.md#af777e662a783ae11cf93d6b5d355277a">TLV</a> , <a href="classvfisdi_1_1_t_l_v_1_1_tag.md#a62c8ed2f8553a7c7c4c34cb06128fe96">TLV::Tag</a>
+- getObfuscatedPAN() : <a href="structvfisdi_1_1_e_m_v_txn.md#afaa7438c803c0819b686b5b1ec148f75">EMVTxn</a>
+- getObfuscatedPANString() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2bd0873661349f471249d69d17470115">EMVConf</a>
+- getObfuscatedTrack1String() : <a href="structvfisdi_1_1_e_m_v_txn.md#a76310bdd150c0eadd15b4eb2282acc6f">EMVTxn</a>
+- getObfuscatedTrack2() : <a href="structvfisdi_1_1_e_m_v_txn.md#a62e8644ecc2855893c70d0ebb09d4e8c">EMVTxn</a>
+- getObfuscatedTrack2String() : <a href="structvfisdi_1_1_e_m_v_conf.md#a3cd87f89ac1ba177f09ad65856a6368f">EMVConf</a>
+- getObj() : <a href="class_s_d_i_plugin_ctx.md#a3bf2b55aff33a3b6d03348daccfe1df4">SDIPluginCtx</a>
+- getOfflineOnly() : <a href="structvfisdi_1_1_e_m_v_conf.md#a30ea6d505d445a6ad8075df2a4ab97b0">EMVConf</a>
+- getOfflinePINErrors() : <a href="structvfisdi_1_1_e_m_v_txn.md#a032a8c4116be90bbf3f5bbf719b826d1">EMVTxn</a>
+- getOnlineResult() : <a href="structvfisdi_1_1_e_m_v_txn.md#a6abfaed15e3e3c15ee1bc892145df49f">EMVTxn</a>
+- getOnlineSwitch() : <a href="structvfisdi_1_1_e_m_v_txn.md#a86b9ca681d4d202029fe93bd037d3a6e">EMVTxn</a>
+- getOptionStatus() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4cacbe130218c5dfacfb0a42a9a9e940">EMVConf</a>
+- getPan() : <a href="classlibsdi_1_1_card_detection.md#a05af9f3debd343cbfbc8a57c9a75f632">CardDetection</a>
+- getPAN() : <a href="structvfisdi_1_1_e_m_v_txn.md#af197754c5472b1f365a0ff6b14191c90">EMVTxn</a>
+- getPanFirst6() : <a href="classvficpl_1_1_i_transaction_data_provider.md#aeec51bf774ddd8e41416530cd7ab3163">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a15fa1d98e5074ce2b25837259655909b">TransactionDataProvider</a>
+- getPanHandle() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a7da6d1abeb38762de2416d2292827d50">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ac26b2202e2ccd355d3e2c8d7cc901450">TransactionDataProvider</a>
+- getPANInBlacklist() : <a href="structvfisdi_1_1_e_m_v_txn.md#aee901538b215c198a6e2998bcc566597">EMVTxn</a>
+- getPanLast4() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a4b5c8bea94627e8704d9ffc49bfe8616">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ae095b81cf00bd66426492fdc6f6d95b1">TransactionDataProvider</a>
+- getPANSequenceNumber() : <a href="structvfisdi_1_1_e_m_v_txn.md#a9ddb30e5c8449ac956c5fb23332c7ce7">EMVTxn</a>
+- getPaymentAppName() : <a href="classvficpl_1_1_environment_data_provider.md#a5d9b36dbd330cf6bfa4490d4b8df5e14">EnvironmentDataProvider</a>
+- getPaymentAppVersion() : <a href="classvficpl_1_1_environment_data_provider.md#a69c03854f67151ab5865e99751950e99">EnvironmentDataProvider</a>
+- getPaymentMethods() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a684e14d7a4954f641b870a50e48a92d2">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#aa95aa9f5cbdc24fa4b82316f856c5a69">TransactionDataProvider</a>
+- getPDOLInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#abdf58ceaf36c76d5b0ea1bdfa37ce330">EMVTxn</a>
+- getPercentOnline() : <a href="structvfisdi_1_1_e_m_v_conf.md#abd8e754a5e60ebc61f42d51401b6a5a5">EMVConf</a>
+- getPermissions() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a94afb4a8b2432c56c395d7ec37b38f3a">CTransactionValue</a>
+- getPhoneMessageTable() : <a href="structvfisdi_1_1_e_m_v_conf.md#a38edaa776e62d3a89d96c4d08377dd53">EMVConf</a>
+- getPINBypass() : <a href="structvfisdi_1_1_e_m_v_txn.md#a311265f562ab91000db77f8952991a89">EMVTxn</a>
+- getPinBypassKey() : <a href="classlibsdi_1_1_p_e_d.md#a0e7115420a4ab303510fdbcf976f2c5b">PED</a>
+- getPINInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#a34de756e5e70e2d2198e436fbcb6e393">EMVTxn</a>
+- getPINPublicExponent() : <a href="structvfisdi_1_1_e_m_v_txn.md#a917c8600fe72e809e0ca9882633fd62b">EMVTxn</a>
+- getPINPublicModulus() : <a href="structvfisdi_1_1_e_m_v_txn.md#a2173a5991bbcf3fc80d79b48687d74eb">EMVTxn</a>
+- getPluginResponseData() : <a href="classlibsdi_1_1_card_detection.md#acfed80583b45ecca83c85e0f076d4296">CardDetection</a> , <a href="classlibsdi_1_1_manual_entry.md#acfed80583b45ecca83c85e0f076d4296">ManualEntry</a>
+- getPOIInfo() : <a href="structvfisdi_1_1_e_m_v_conf.md#a25aa341c9fe48345934a6d8655b76921">EMVConf</a>
+- getPOSEntryMode() : <a href="structvfisdi_1_1_e_m_v_conf.md#af0a7d48a059d253f4595690d55f38a35">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#af0a7d48a059d253f4595690d55f38a35">EMVTxn</a>
+- getPreferredName() : <a href="structvfisdi_1_1_e_m_v_txn.md#a7ae5f1582eaa174218ec309ff2c64b2c">EMVTxn</a>
+- getPrefLanguages() : <a href="classvficpl_1_1_i_transaction_data_provider.md#aa81aaa8762a2953e1e61d11fcf406cfa">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a5c98fd681c4db4c47a64ae11cb255a33">TransactionDataProvider</a>
+- getPreselectedLanguage() : <a href="structvfisdi_1_1_e_m_v_txn.md#a2c0cc0ad0faaa17a338bc3680025b040">EMVTxn</a>
+- getPrinterColWidth() : <a href="classvficpl_1_1_environment_data_provider.md#a426521da0ee79cd050af74ca79ccb83a">EnvironmentDataProvider</a>
+- getPrinterFontWidth() : <a href="classvficpl_1_1_environment_data_provider.md#a421bc54b53cbca85a259c16800cb0532">EnvironmentDataProvider</a>
+- getPrinterPixelWidth() : <a href="classvficpl_1_1_environment_data_provider.md#ad3b370c08c0873932547e1905ee4c318">EnvironmentDataProvider</a>
+- getPrinterProperty() : <a href="classlibsdi_1_1_s_d_i.md#a412cd1d5894520f920fd7f7030d68f8c">SDI</a>
+- getPrinterType() : <a href="classvficpl_1_1_environment_data_provider.md#a175db5ae19dfcb150fb428b6ccb0df7d">EnvironmentDataProvider</a>
+- getPriorityApplications() : <a href="structvfisdi_1_1_e_m_v_conf.md#a7e7afd4dedf633509fedb716d10c8ea8">EMVConf</a>
+- getProceedToFirstWriteFlag() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4f522f1254562c6dd0f56e7c0f117e48">EMVConf</a>
+- getProperty() : <a href="classlibsdi_1_1_s_d_i.md#a00189ec34f481a6a9527bc149f6d8ed6">SDI</a>
+- getRaw() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a03b81c8eaf741faeab4235ae397eedc5">CTransactionValue</a>
+- getReaderCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2917b5838570b25f713e62a8ee534997">EMVConf</a>
+- getReaderNumber() : <a href="structvfisdi_1_1_e_m_v_txn.md#ad108c15acfc6f0cff9b96b8c9f8962f3">EMVTxn</a>
+- getReceipt() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a23d18b2dbaf3d7636c764a7c177149d7">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a2d5b13ed40cbc0670d3c145f52a44358">TransactionDataProvider</a>
+- getReceiptRequiredLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a8637e6ff9a4f866a43e406a70303b85c">EMVConf</a>
+- getReceiptType() : <a href="classvficpl_1_1_i_transaction_data_provider.md#ad4345f6abdf0e44d4606183f3c66f548">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#acdcfbad986e2abbea08e0e44d8565c0a">TransactionDataProvider</a>
+- getReducedCanditateList() : <a href="structvfisdi_1_1_e_m_v_txn.md#a5a0c9f62d152119b0214ab09e8e2d6bc">EMVTxn</a>
+- getReferral() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a8c24a78081835875e8e045849ed4fecf">EMVSpecialTransactions</a>
+- getRefund() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#aa7167b8eb3f85aa62851dd700ba6094f">EMVSpecialTransactions</a>
+- getRelayResistanceAccuracy() : <a href="structvfisdi_1_1_e_m_v_conf.md#a381186ff7a130b4b4c82cca1d13f3d4a">EMVConf</a>
+- getRelayResistanceCAPDUTime() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa0f754b5eaa420ee8f1474a4e436aa0b">EMVConf</a>
+- getRelayResistanceMaxGracePeriod() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2f5db61044e999695238b8210672c019">EMVConf</a>
+- getRelayResistanceMinGracePeriod() : <a href="structvfisdi_1_1_e_m_v_conf.md#a49e50948b8f592850d92ac44113d43c0">EMVConf</a>
+- getRelayResistanceRAPDUTime() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2c7a49423777231dfc32f6caa84fc962">EMVConf</a>
+- getRelayResistanceTimeMismatchThreshold() : <a href="structvfisdi_1_1_e_m_v_conf.md#adcc65049ab3a8145b393c92d79643ff9">EMVConf</a>
+- getRemainingTimeInMs() : <a href="classsdi_1_1_timer.md#a38d4659025d743beb394f95c2fdc96d2">Timer</a>
+- getRemovalTimeout() : <a href="structvfisdi_1_1_e_m_v_conf.md#adb7a4658e427984d9f462e8c5cff4484">EMVConf</a>
+- getRequestedTransactionData() : <a href="classvficpl_1_1_api.md#aebfb58516141a3fd1a4d2833eeed3b1c">Api</a>
+- getReservation() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#af122a93d669a3ceb083a74ca53f98f64">EMVSpecialTransactions</a>
+- getResult() : <a href="classvfisdi_1_1_s_d_i_client.md#a2c73186425ba3c76cb75b68fbb739b0e">SDIClient</a>
+- getRetapFieldOff() : <a href="structvfisdi_1_1_e_m_v_conf.md#a196c6d38e72884101d2e534d99684c1a">EMVConf</a>
+- getRetryLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a3e63f8b30550fa05f0f6210d3797c313">EMVConf</a>
+- getReversal() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a2fb4e33e0d89967d3e85448dd7639aed">EMVSpecialTransactions</a>
+- getRiskManagementMaxTargetPercentage() : <a href="structvfisdi_1_1_e_m_v_conf.md#a793109d3389fd1c9aa29172e485213e3">EMVConf</a>
+- getRiskManagementTargetPercentage() : <a href="structvfisdi_1_1_e_m_v_conf.md#a0256f10884a662ca63995af732680141">EMVConf</a>
+- getRiskManagementThreshold() : <a href="structvfisdi_1_1_e_m_v_conf.md#a32be1ee6090c696981f65c67cb29fc2d">EMVConf</a>
+- getSdiSw12() : <a href="classlibsdi_1_1_sdi_base.md#a4058a7890507b92a38f3921ff4bf863b">SdiBase</a>
+- getSecondTapDelay() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa05a79f3816c0832269a9c82d18b6b70">EMVConf</a>
+- getSecurityCapability() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2eafbab90c849733446f3e593a750b41">EMVConf</a>
+- getSecurityLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#abfd8c8392eb38b9f66a3857d6cf10ba7">EMVConf</a>
+- getSelected() : <a href="classlibsdi_1_1_dialog.md#abd51c3d14551af1fc7277e7d261c1973">Dialog</a>
+- getSelector() : <a href="structvfisdi_1_1_e_m_v_txn.md#aa2b3afdd4d652d7657a240966390dc98">EMVTxn</a>
+- getServerPollTimeout() : <a href="structvfisdi_1_1_e_m_v_txn.md#a05b24e2f23267e4ba665e21d60ae4fd3">EMVTxn</a>
+- getServiceCode() : <a href="classlibsdi_1_1_card_detection.md#a73cf8d35894bb312acc10fe70d69abd9">CardDetection</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ac3bc9df20cc108a48a815bb3ac12d12c">EMVTxn</a>
+- getsetCtlsTransactionLimitODCVM() : <a href="structvfisdi_1_1_e_m_v_conf.md#a9d8c8bb1a4d9798f3770ce60a94b93f7">EMVConf</a>
+- getSetupResult() : <a href="structvfisdi_1_1_e_m_v_txn.md#ad937c0206bdf3f8b1980e8fc332efde3">EMVTxn</a>
+- getShortKernelID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a2fc699ae395de4bf054542f391fdc88c">EMVConf</a>
+- getSkipPostprocessing() : <a href="structvfisdi_1_1_e_m_v_txn.md#a7bc54c742de0706deb34587b1731e188">EMVTxn</a>
+- getSpecialTransactions() : <a href="structvfisdi_1_1_e_m_v_conf.md#a0e4a0afe63161c7252abc9d7bfc3b559">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a0e4a0afe63161c7252abc9d7bfc3b559">EMVTxn</a>
+- getState() : <a href="class_thread_control.md#ac7385bbd7d6e5784dae317c3564b4932">ThreadControl</a>
+- getStatus() : <a href="classlibsdi_1_1_sdi_crypt.md#a8531e732960977a2f1dfe5002bb8f6ab">SdiCrypt</a>
+- getStoredAmount() : <a href="structvfisdi_1_1_e_m_v_txn.md#a32f6b02c313ee2f22ca1e8716589323b">EMVTxn</a>
+- getStoreNumber() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a933b4b0e7bf6ca5fea5497ac42b6a12d">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a4de757414ae4396d0ce95785244e110f">TransactionDataProvider</a>
+- getString() : <a href="classcom__adksec__cmd_1_1_c_transaction_value.md#a23bdc20544ca28878b1ffea144ac2730">CTransactionValue</a> , <a href="classlibsdi_1_1_card_detection.md#ade73564c46848deb409a02a81b4f2b75">CardDetection</a> , <a href="classlibsdi_1_1_sdi_cmd.md#ac8fbd8404dfbc8ef830c77842542f38d">SdiCmd</a> , <a href="classvfiipc_1_1_j_s_object.md#a23bdc20544ca28878b1ffea144ac2730">JSObject</a> , <a href="classvfisdi_1_1_t_l_v.md#a23bdc20544ca28878b1ffea144ac2730">TLV</a>
+- getstring() : <a href="classvfisysinfo_1_1_ini_file.md#ad8fe4979ab035f93bb5d34a467a487e7">IniFile</a>
+- getStringP() : <a href="classvfiipc_1_1_j_s_object.md#a93449dcbdf948b5914b5ac97e92051d7">JSObject</a>
+- getSupportedLanguages() : <a href="structvfisdi_1_1_e_m_v_conf.md#af9ddf687dee67be34c80e2db5bfcc51c">EMVConf</a>
+- getSurchargeAmount() : <a href="classvficpl_1_1_transaction_data_provider.md#a1d7cd27ce253cf29eb101791382dd5e4">TransactionDataProvider</a>
+- getTACDefault() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac7fc5757e37d02f050b8ac83eb859195">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ac7fc5757e37d02f050b8ac83eb859195">EMVTxn</a>
+- getTACDefaultMK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a14adedf812d1375bb3675f984bb14075">EMVConf</a>
+- getTACDenial() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac315853ec5525af2be4c64f080aeb387">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ac315853ec5525af2be4c64f080aeb387">EMVTxn</a>
+- getTACDenialMK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a581a6952840599bc15d2ca8f4a8f848a">EMVConf</a>
+- getTACIACDefaultHandling() : <a href="structvfisdi_1_1_e_m_v_conf.md#ad80b2c96b5cac6941bb8ae49d9f4e695">EMVConf</a>
+- getTACOnline() : <a href="structvfisdi_1_1_e_m_v_conf.md#aafd3a4332acc0a0d47f268fff2d58e51">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#aafd3a4332acc0a0d47f268fff2d58e51">EMVTxn</a>
+- getTACOnlineMK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6d8d3d3427da38d938c2291191e254d4">EMVConf</a>
+- getTACSwitch() : <a href="structvfisdi_1_1_e_m_v_conf.md#aaa527d810224ae8baa95a39524bd7f64">EMVConf</a>
+- getTagsToRead() : <a href="structvfisdi_1_1_e_m_v_conf.md#ab71aa039f23d6298cb72fe802c1919ba">EMVConf</a>
+- getTagsToWriteAfterGenAC() : <a href="structvfisdi_1_1_e_m_v_conf.md#a21c9fb6a00a84088d9d82c69ed45893e">EMVConf</a>
+- getTagsToWriteBeforeGenAC() : <a href="structvfisdi_1_1_e_m_v_conf.md#afa9219c0beb96a7abfb6d3f6eb33d44b">EMVConf</a>
+- getTaxAmount() : <a href="classvficpl_1_1_transaction_data_provider.md#a445ae80092524519ec95206ce1c62701">TransactionDataProvider</a>
+- getTechnologyData() : <a href="classvficpl_1_1_transaction_data_provider.md#ace2e8e72f035b6245ab7e1ad3092e32b">TransactionDataProvider</a>
+- getTecselData() : <a href="classlibsdi_1_1_card_detection.md#ac1173d06deadb7bdd61b426c7a011d0a">CardDetection</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a828ec738e81e93debedbcba587eca203">EMVTxn</a>
+- getTECSupport() : <a href="structvfisdi_1_1_e_m_v_conf.md#a86d8cb4d5600c86a6010b66094b4177b">EMVConf</a>
+- getTermcapAboveCVMLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#a525ea158a80c2805afec2c78e651a851">EMVConf</a>
+- getTermcapBelowCVMLimit() : <a href="structvfisdi_1_1_e_m_v_conf.md#afaa6ebc70c67a19ea18a6e71f1bea514">EMVConf</a>
+- getTerminalAID() : <a href="structvfisdi_1_1_e_m_v_txn.md#a1954efebbe554d727777b029942e18e8">EMVTxn</a>
+- getTerminalCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a69f4d7f026f4298506088e080dbc332d">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a69f4d7f026f4298506088e080dbc332d">EMVTxn</a>
+- getTerminalCountryCode() : <a href="structvfisdi_1_1_e_m_v_conf.md#a7fdcd205b403d55f1c70e60b77d4b4c7">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a7fdcd205b403d55f1c70e60b77d4b4c7">EMVTxn</a>
+- getTerminalID() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6945b6085243187b638d0f78738dc7d2">EMVConf</a>
+- getTerminalRiskManagement() : <a href="structvfisdi_1_1_e_m_v_conf.md#ad5f7e845ab5dbbdb6d2c1a9be2d1111e">EMVConf</a>
+- getTerminalTransactionData() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa13563bee27518c3ca274ecfbf779b52">EMVConf</a>
+- getTerminalTransactionInformation() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6dc862d3f9b5af3050eef7f5bab6c7a7">EMVConf</a>
+- getTerminalType() : <a href="structvfisdi_1_1_e_m_v_conf.md#a41858348eb0babcc5e7ee61aaa31fcb4">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a41858348eb0babcc5e7ee61aaa31fcb4">EMVTxn</a>
+- getText() : <a href="class_u_i_catalog.md#a9bf11d9db05366a4dc04f6c53a16c2e6">UICatalog</a>
+- getTextID() : <a href="structvfisdi_1_1_e_m_v_txn.md#afeeeb276905b1880e5b4b9d429cd2d01">EMVTxn</a>
+- getThreshold() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac262cb7820834aff81225314a6c86ad0">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ac262cb7820834aff81225314a6c86ad0">EMVTxn</a>
+- getTimezone() : <a href="classvficpl_1_1_environment_data_provider.md#ab558a82e5acdf889a8c2bc1f960c631b">EnvironmentDataProvider</a>
+- getTip() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a648f6b05528746210ddb905300d21516">EMVSpecialTransactions</a>
+- getTornTransactionInterval() : <a href="structvfisdi_1_1_e_m_v_conf.md#a319943f921b910dd15eef530c36686eb">EMVConf</a>
+- getTornTransactionLifetime() : <a href="structvfisdi_1_1_e_m_v_conf.md#aa6de3b6a02f87496588c52b105c764f1">EMVConf</a>
+- getTornTransactionNumber() : <a href="structvfisdi_1_1_e_m_v_conf.md#a3c7cae15923d2cc97aa79b599ce160b2">EMVConf</a>
+- getTPMCapabilitiesMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#ab22ca043810554073dc9cac7e280a6d3">EMVConf</a>
+- getTrack1() : <a href="classlibsdi_1_1_card_detection.md#a1e160f7c099a9231095fa7c70ede0372">CardDetection</a>
+- getTrack2() : <a href="classlibsdi_1_1_card_detection.md#acc3a5abd286a96860c86b88539c77d23">CardDetection</a>
+- getTrack2Bin() : <a href="classlibsdi_1_1_card_detection.md#a1f94c9d8513a5b7b62d8486c7b9c8b04">CardDetection</a>
+- getTrackStatus() : <a href="structvfisdi_1_1_e_m_v_txn.md#a7c550da026b7f5c7eb7fcfcc31f52ab3">EMVTxn</a>
+- getTransactionCapabilities() : <a href="structvfisdi_1_1_e_m_v_conf.md#a4029cd769a059130ede19f0629fd1820">EMVConf</a>
+- getTransactionCategory() : <a href="structvfisdi_1_1_e_m_v_conf.md#a11e7e5dc1f9dc1cb95a86ee7b25f841f">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a11e7e5dc1f9dc1cb95a86ee7b25f841f">EMVTxn</a>
+- getTransactionCounter() : <a href="structvfisdi_1_1_e_m_v_txn.md#aa760cfd80c28476a0678c6ab4a0f9b33">EMVTxn</a>
+- getTransactionCurrency() : <a href="structvfisdi_1_1_e_m_v_conf.md#a7034b34fd69701b07a04477dd8a05c7d">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#ad79f4105407ee8e94477b65584b185f9">EMVTxn</a>
+- getTransactionCurrencyExp() : <a href="structvfisdi_1_1_e_m_v_conf.md#a6067411ff4ac08ed983b918f83910a80">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a6067411ff4ac08ed983b918f83910a80">EMVTxn</a>
+- getTransactionDate() : <a href="structvfisdi_1_1_e_m_v_txn.md#af73759646ee087fda4a944647c75bd1e">EMVTxn</a>
+- getTransactionLimitCash() : <a href="structvfisdi_1_1_e_m_v_conf.md#a7dac143bd0161c3de6878f1cb5143a8e">EMVConf</a>
+- getTransactionLimitCDCVMMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#a3e4a9cb3c0a62285d941168a734047cb">EMVConf</a>
+- getTransactionLimitCVMOnDevice() : <a href="structvfisdi_1_1_e_m_v_conf.md#ae900ca6a1517ab5285e7a1fdbb6cdace">EMVConf</a>
+- getTransactionLimitNoCDCVMMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#a474dfeaf7de7000ec330c103b673565e">EMVConf</a>
+- getTransactionLimitNoCVMMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#a88d95922c9fcfa3f9ae0a84659b2016d">EMVConf</a>
+- getTransactionLimitNoCVMOnDevice() : <a href="structvfisdi_1_1_e_m_v_conf.md#a76827561e8e09284e8930916163381b8">EMVConf</a>
+- getTransactionOptions() : <a href="structvfisdi_1_1_e_m_v_txn.md#a6be085e07dfd7589eb3f0804cb7cac55">EMVTxn</a>
+- getTransactionOriginator() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a30724a94114af3c00bf5b6ac0e4b3d4e">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a2d3700487eb38ba681a96f19d884b45e">TransactionDataProvider</a>
+- getTransactionQualifier() : <a href="structvfisdi_1_1_e_m_v_conf.md#a963ccd93741c4a44bd2a26a4cd3eecab">EMVConf</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a963ccd93741c4a44bd2a26a4cd3eecab">EMVTxn</a>
+- getTransactionRecoveryLimitMIR() : <a href="structvfisdi_1_1_e_m_v_conf.md#a559091431bfc09b721ba9793415ed766">EMVConf</a>
+- getTransactionResult() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a9c4fd34a48d2592a2c0254c5262e4cd6">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a06e4adfff4e4955a3707be0d97fdcb81">TransactionDataProvider</a>
+- getTransactionStatusInfo() : <a href="structvfisdi_1_1_e_m_v_txn.md#aae9a5ddf1de643b2eaffc7abe7df4b20">EMVTxn</a>
+- getTransactionSteps() : <a href="structvfisdi_1_1_e_m_v_txn.md#ae54c5207a3697f4de625ef511533d2a7">EMVTxn</a>
+- getTransactionTime() : <a href="structvfisdi_1_1_e_m_v_txn.md#a48481357d16a0e96af1c0c90c2761cf0">EMVTxn</a>
+- getTransactionType() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a3352a8ee352bd81404aa7fc7494ca9bf">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ae506631815deb04090a80990b5aedb7a">TransactionDataProvider</a> , <a href="structvfisdi_1_1_e_m_v_txn.md#a103b9c2fa2c6075082ed0fe02496164c">EMVTxn</a>
+- getTransactionTypeIK() : <a href="structvfisdi_1_1_e_m_v_conf.md#a17513c261986c4110324b957368fd7e3">EMVConf</a>
+- getTransactionTypesCash() : <a href="structvfisdi_1_1_e_m_v_conf.md#ac00a423fc2f6b8d51bf08bb1bcb46b90">EMVConf</a>
+- getTransactionTypesCashback() : <a href="structvfisdi_1_1_e_m_v_conf.md#a32d2f87f0431933d5202bbc6be393548">EMVConf</a>
+- getTransactionTypesRefund() : <a href="structvfisdi_1_1_e_m_v_conf.md#ae2eb70b6d09efbe379425f6e58c7b286">EMVConf</a>
+- getTransactionTypesSale() : <a href="structvfisdi_1_1_e_m_v_conf.md#aef39c407f19c57f04e64c2747fe77a3c">EMVConf</a>
+- getTransAmount() : <a href="classvficpl_1_1_i_transaction_data_provider.md#afc1a8b25ce3b7c5badc66a51cf0e19c4">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#aebdaef7ee32fdc53cd3f5248769883cd">TransactionDataProvider</a>
+- getTransCurrency() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a5f1556e4af51933f00314802a96b4e6f">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#ae330f12e04b2fd30b810b8047f69d06d">TransactionDataProvider</a>
+- getTransId() : <a href="classvficpl_1_1_i_transaction_data_provider.md#a6289b490a6584e561f43ad1af9d11f2e">ITransactionDataProvider</a> , <a href="classvficpl_1_1_transaction_data_provider.md#a250cf227e24a591c3e73ecb1b286167a">TransactionDataProvider</a>
+- getTVR() : <a href="structvfisdi_1_1_e_m_v_txn.md#a86c9ddd3f7fceea21cd0dc5f0b48b4da">EMVTxn</a>
+- getTypeEnum() : <a href="classvficpl_1_1_offer.md#a6b9933d428cd020b0db71d4efcb4dcac">Offer</a>
+- getTypeStr() : <a href="classvficpl_1_1_offer.md#a59926ec0b852831afe279203afec4fee">Offer</a>
+- getUnpredictableNumber() : <a href="structvfisdi_1_1_e_m_v_txn.md#a4cf2ff328e95fda0733f01f09412c971">EMVTxn</a>
+- getUnpredictableNumberRange() : <a href="structvfisdi_1_1_e_m_v_conf.md#a19ef99bc11860ed66ad40ffed04d3b76">EMVConf</a>
+- getUnsigned() : <a href="classvfisdi_1_1_t_l_v.md#a1ea25a489f43dcbe390a609ba912cbcb">TLV</a>
+- getValidationInfo() : <a href="classlibsdi_1_1_s_d_i.md#a9efc44d41d83ae857cc95283f1439add">SDI</a>
+- getValue() : <a href="classlibsdi_1_1_card_detection.md#a44af5b7a2f513acb372ed163d4694a19">CardDetection</a>
+- getVelocityOriginalIndex() : <a href="structvfisdi_1_1_e_m_v_txn.md#a2079cfba6d4c7d14f622b289834c8b15">EMVTxn</a>
+- getVelocityProcessingResultBitmap() : <a href="structvfisdi_1_1_e_m_v_txn.md#a749bdbbf03f56f76c09eda7a27971eca">EMVTxn</a>
+- getVersion() : <a href="class_s_d_i_plugin_ctx.md#a4ed176ddd88ada6e6f0dee0e214e21d6">SDIPluginCtx</a> , <a href="classvfiipc_1_1_i_p_c.md#add90ed6ce299e1afd9cf2ddf23e3b722">IPC</a> , <a href="classvfiipc_1_1_j_s_object.md#add90ed6ce299e1afd9cf2ddf23e3b722">JSObject</a>
+- getVersionInfo() : <a href="classlibsdi_1_1_s_d_i.md#a05d9381d18c66001110ff125f9b8fe9e">SDI</a>
+- getVersions() : <a href="classlibsdi_1_1_sdi_crypt.md#a82bb8a102a935a4aba921ba0c9ecf5e7">SdiCrypt</a>
+- getVisaCTQ() : <a href="structvfisdi_1_1_e_m_v_txn.md#add4de43f37019b053e243bc8579fafce">EMVTxn</a>
+- getVoice() : <a href="classvfisdi_1_1_e_m_v_special_transactions.md#a9d68543a1315d3adf0ee087fa53a25c1">EMVSpecialTransactions</a>
+- getVoiceReferral() : <a href="structvfisdi_1_1_e_m_v_txn.md#af82273b369d92d066a458c559d43bbba">EMVTxn</a>
+- getWriteDataStoragedData() : <a href="structvfisdi_1_1_e_m_v_txn.md#a77f6627d8006dba36b1257cb573da0f1">EMVTxn</a>
+- getWriteDSData() : <a href="structvfisdi_1_1_e_m_v_txn.md#af34b96d0cf583e31954dc1f29b0cad06">EMVTxn</a>
+- gratuityAmount : <a href="namespacevficpl.md#a575286e3b6b88d02e3f6673ceb08c292">TransactionData</a>

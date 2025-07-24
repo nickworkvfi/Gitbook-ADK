@@ -1,0 +1,28 @@
+var group___d_e_f___i_n_p_u_t___o_n_l_i_n_e =
+[
+    [ "INPUT_CTLS_ONL_AMOUNT", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga545c494c4d249539101ca0360d9e2f64", null ],
+    [ "INPUT_CTLS_ONL_AMOUNT_OTH", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga2aab8f4b1b1ac6194f519358487ae8aa", null ],
+    [ "INPUT_CTLS_ONL_ARC_ONLINE_PIN", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga9e38cce5aae4ed03db650afd810da1e5", null ],
+    [ "INPUT_CTLS_ONL_ARC_POSITIVE", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga4aa0c97e6abe42a39cbd43f019871b8a", null ],
+    [ "INPUT_CTLS_ONL_ARC_SWITCH_IF", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#gae8d7697068dbe85852956d2eb6941fff", null ],
+    [ "INPUT_CTLS_ONL_AUTH_RESP", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga10f89377c496fb3830e6dd82570b9651", null ],
+    [ "INPUT_CTLS_ONL_AUTHDATA", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga501bd7c13e8d11791223dace897bf90e", null ],
+    [ "INPUT_CTLS_ONL_ONLINE_RESP", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#gace037a1e731007caba3d599e9e89057f", null ],
+    [ "INPUT_CTLS_ONL_SCRIPT", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga01f2fed1a6e3e782e71ba9edee57ab6c", null ],
+    [ "INPUT_CTLS_ONL_TXN_OPTIONS", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga04fb74d89a08666b258bf6d15bf53986", null ],
+    [ "INPUT_ONL_AMOUNT_GAC2", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga699a36bb2041de7bcb0dff77c942fe3e", null ],
+    [ "INPUT_ONL_AMOUNT_OTH", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga9f952ec74b265a98a9a60a6f1aba87a5", null ],
+    [ "INPUT_ONL_ARC_POSITIVE", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga7d5d36a7e6195b14e0d98977f7c18623", null ],
+    [ "INPUT_ONL_ARC_REFERRAL", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga46b0d7ef9f3b37f2fc62cec19c613a68", null ],
+    [ "INPUT_ONL_ARC_WRONGPIN", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga56090280a382475c499c2cba27dcc4a0", null ],
+    [ "INPUT_ONL_AUTHCODE", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga3018bf4e37626be54a1ec843f43e8585", null ],
+    [ "INPUT_ONL_AUTHDATA", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#gace44b7a66114473828ecd9013427ea3b", null ],
+    [ "INPUT_ONL_ONLINE_AC", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga752c13179b89b1600dee161658ca8845", null ],
+    [ "INPUT_ONL_ONLINE_RESP", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga98ca729b5fe7aa42496848f5a5dcad76", null ],
+    [ "INPUT_ONL_RESULT_REFERRAL", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga05d966eb9c501a618f015b912e440293", null ],
+    [ "INPUT_ONL_SCRIPTCRIT", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga0b132296227343c954936efa25aef9c3", null ],
+    [ "INPUT_ONL_SCRIPTUNCRIT", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga9de29596c87d45928f095f28ca6b3ef6", null ],
+    [ "INPUT_ONL_TXN_OPTIONS", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#ga87b94cd4be2d5b1460107ee925485d09", null ],
+    [ "INPUT_ONL_TXN_STEPS", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#gae3c61af9c1bf07c0ba0848f2daa55711", null ],
+    [ "INPUT_ONL_WRITE_DS_DATA", "group___d_e_f___i_n_p_u_t___o_n_l_i_n_e.html#gae77bd582b0f3db081dd65a23271dd796", null ]
+];

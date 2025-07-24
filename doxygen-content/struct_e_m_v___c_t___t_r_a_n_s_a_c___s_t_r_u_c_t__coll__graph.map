@@ -1,0 +1,5 @@
+<map id="EMV_CT_TRANSAC_STRUCT" name="EMV_CT_TRANSAC_STRUCT">
+<area shape="rect" id="node1" title="Structure for call of EMV_CT_ContinueOffline()" alt="" coords="5,184,209,211"/>
+<area shape="rect" id="node2" href="$group___a_d_k___t_r_x___e_x_e_c.html#struct_e_m_v___c_t___p_a_y_m_e_n_t___s_t_r_u_c_t" title="Transaction parameters of an EMV transaction." alt="" coords="6,95,209,121"/>
+<area shape="rect" id="node3" href="$_e_m_v___c_t___interface_8h.html#struct_e_m_v___c_t___t_a_g_l_i_s_t___s_t_r_u_c_t" title="structure for EMV_CT_APPLIDATA_STRUCT::Mandatory_Tags_CRD and EMV_CT_PAYMENT_STRUCT::Additional_Resul..." alt="" coords="10,5,205,32"/>
+</map>

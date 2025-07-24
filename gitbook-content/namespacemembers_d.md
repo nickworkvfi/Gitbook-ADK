@@ -1,0 +1,84 @@
+---
+title: "ADK-Programmers-Guides: Namespace Members"
+---
+
+Here is a list of all namespace members with links to the namespace documentation for each member:
+
+### - d -
+
+- DATA_ADD_EMPTY : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa7751ae478dec0b316c4ad76827223aae">vfisdi</a>
+- DATA_ASCII_CVV : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa2f8d08a2f3d6c186dce2b30b4b2f4a79">vfisdi</a>
+- DATA_ASCII_EXPIRATION_DATE : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fabf9cfd5a36d9431a5d07079f57741b47">vfisdi</a>
+- DATA_ASCII_PAN : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa8b201581891c5753223d48718e272066">vfisdi</a>
+- DATA_ASCII_TRACK2 : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa74a23f408017ded8831066da7a4dea02">vfisdi</a>
+- DATA_ASCII_TRACK2_EQUIVALENT : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa8cc3b79b0794c66d1d8bb182e74bbbdc">vfisdi</a>
+- DATA_CONCATENATE : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa3e0cf5e2fa249f1e88701311bfd139d6">vfisdi</a>
+- DATA_EMV_TRACK2_EQUIVALENT : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa10bce742600013d2c43709eba6e1ff49">vfisdi</a>
+- DATA_OPTIONS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a8cc698f45f806b47216a122fee75de71">vfisdi</a>
+- DATA_PAD_00 : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fad56c77455961c9599fb3ed5c1ebfbb40">vfisdi</a>
+- DATA_PAD_FF : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fabd83e9c4ead084267e73e1a03b494d64">vfisdi</a>
+- DATA_TRUNCATE_DATA : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fad9d46bba4ca957a4b31b7f226bd3f057">vfisdi</a>
+- DATA_TRUNCATE_PAN : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7fa43d0b7e59432bb37443ca91b7e39c0e5">vfisdi</a>
+- DataOption : <a href="namespacevfisdi.md#a7fee88318f15e2a1c4a8d13aa0de5e7f">vfisdi</a>
+- dbm : <a href="namespacevficom_1_1cmdparam_1_1out_1_1wlan__scan_1_1json__keys.md#aeff6429db6f3170400b6f52c36d3bec0">vficom::cmdparam::out::wlan_scan::json_keys</a>
+- dcs : <a href="namespacevficom_1_1cmdparam_1_1in_1_1stk__write_1_1msg_1_1tr_1_1select__item.md#ac45b0e198aed51eba7ed7e5085177d7b">vficom::cmdparam::in::stk_write::msg::tr::select_item</a> , <a href="namespacevficom_1_1cmdparam_1_1in_1_1ussd__write.md#ac45b0e198aed51eba7ed7e5085177d7b">vficom::cmdparam::in::ussd_write</a> , <a href="namespacevficom_1_1event_1_1ussd.md#ac45b0e198aed51eba7ed7e5085177d7b">vficom::event::ussd</a>
+- DECRYPTED_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a62e843e17c9c22328faea02c4466596e">vfisdi</a>
+- DEEP_SLEEP : <a href="namespacevfisyspm.md#ad6865f9a76c1985e26c2e86719fc674aa3c282494db59c58249a6b608e20050bf">vfisyspm</a>
+- default_item : <a href="namespacevficom_1_1event_1_1stk_1_1select__item.md#abdb39d55a6be159a1189e7e73c667643">vficom::event::stk::select_item</a>
+- deinit() : <a href="namespacevficpl.md#a352ddaa2769fa08bbfa0e95d5d9cca6f">vficpl</a>
+- destination : <a href="namespacevficom_1_1cmdparam_1_1in_1_1ping.md#a920892b2ff3fe5a072f035eb2a5920c9">vficom::cmdparam::in::ping</a>
+- DEVICE_BASE : <a href="namespacevfisysinfo.md#aa5d3f9981cdbd91516c1474006a80fe4a000a391117ea01077a3520378c061e17">vfisysinfo</a>
+- DEVICE_CP_DEV : <a href="namespacevfisysinfo.md#a3fb5bf7c745ff826b7ea1ca5b9fb94bca0dcf8c45394789bd1e4ef29683e78003">vfisysinfo</a>
+- DEVICE_HANDSET : <a href="namespacevfisysinfo.md#aa5d3f9981cdbd91516c1474006a80fe4ad10fc270e232050fab4d970e923161fc">vfisysinfo</a>
+- DEVICE_MANUF : <a href="namespacevfisysinfo.md#a3fb5bf7c745ff826b7ea1ca5b9fb94bca30c573a35eba1f66cf3b899df14f0179">vfisysinfo</a>
+- DEVICE_MOBILE : <a href="namespacevfisysinfo.md#aa5d3f9981cdbd91516c1474006a80fe4a54c75bb379d16adfae33363dead54ed8">vfisysinfo</a>
+- DEVICE_NON_PORTABLE : <a href="namespacevfisysinfo.md#aa5d3f9981cdbd91516c1474006a80fe4a0a76cb221774c5b07465becb5ff7a35b">vfisysinfo</a>
+- DEVICE_OS_DEV : <a href="namespacevfisysinfo.md#a3fb5bf7c745ff826b7ea1ca5b9fb94bca144fe02356ac78084f453fa0c5a5631c">vfisysinfo</a>
+- DEVICE_PROD : <a href="namespacevfisysinfo.md#a3fb5bf7c745ff826b7ea1ca5b9fb94bcac60b8f011f67416e164db992a45993d3">vfisysinfo</a>
+- deviceMode : <a href="namespacevfisysinfo.md#a3fb5bf7c745ff826b7ea1ca5b9fb94bc">vfisysinfo</a>
+- deviceType : <a href="namespacevfisysinfo.md#aa5d3f9981cdbd91516c1474006a80fe4">vfisysinfo</a>
+- DIALOG_ACTION : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a286660a365f514ad9a27a11af7fd29d6">vfisdi</a>
+- DIALOG_ASYNC_STATUS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a03474352f4fedf343a2e54119485bc73">vfisdi</a>
+- DIALOG_CANCEL_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a14f682245dd938f423af362f28286f81">vfisdi</a>
+- DIALOG_CLEAR_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4aa777633b473aa94898dcbafda7a9dfd5">vfisdi</a>
+- DIALOG_DOWN_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a4f7f456b7e560db471257eedcd6d8a2e">vfisdi</a>
+- DIALOG_HEADER_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a8a46d8ac6acfb6139f0f88ca2f229d9c">vfisdi</a>
+- DIALOG_OK_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4abc605ebd4e1cc3e10b7c13da1ad8df75">vfisdi</a>
+- DIALOG_OPTIONS : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a1ac45a88f2a887ad55c118a9458e7336">vfisdi</a>
+- DIALOG_UP_TEXT : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a8f1b2fd6522485a431dacf0fc14a2a98">vfisdi</a>
+- DialogAsyncStatus : <a href="namespacevfisdi.md#a948de32bb8a31f38655af1ad0f5a969c">vfisdi</a>
+- DialogOptions : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130">vfisdi</a>
+- DISPLAY_DATA : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4af5ddf775575edaff65cd3674e57b8fcf">vfisdi</a>
+- DISPLAY_DATA_NAME : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4a97c62cb54b66d43ce5d04b41fcabca67">vfisdi</a>
+- DISPLAY_DATA_VALUE : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4adbd73cdb7530cd5957cc78b5ee6c3034">vfisdi</a>
+- DISPLAY_TEMPLATE_ID : <a href="namespacevfisdi.md#ac9842112c341daedac40f79bbfdd65a4ad80de7f13094459d9b79bda9e3d518bf">vfisdi</a>
+- displayContrastConstants : <a href="namespacevfisysinfo.md#a41c1459dc516e6151fac2c8691eee617">vfisysinfo</a>
+- DLG_ABORT_ON_CARD_REMOVE : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a60814a19beb78c92fc63d61651cad4ec">vfisdi</a>
+- DLG_ASYNC : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a4fb70de16d3aae4cc98e77df376d4394">vfisdi</a>
+- DLG_ASYNC_FINISHED : <a href="namespacevfisdi.md#a948de32bb8a31f38655af1ad0f5a969cacfda54539412e578918aa72a9594c31a">vfisdi</a>
+- DLG_ASYNC_IN_PROGRESS : <a href="namespacevfisdi.md#a948de32bb8a31f38655af1ad0f5a969caa43a5dd3f0a6ce017a961c12ddac0606">vfisdi</a>
+- DLG_ASYNC_NONE : <a href="namespacevfisdi.md#a948de32bb8a31f38655af1ad0f5a969cacf83fbaf7c0f3fcc520a0f86fe3c98d8">vfisdi</a>
+- DLG_BEEP : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a268a8c802d83750d729a60393de2239d">vfisdi</a>
+- DLG_CANCEL_KEY : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a762cef0b9ee35d70ac35b208413f0ad2">vfisdi</a>
+- DLG_CLEAR_KEY : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130ad0c22aaef366ef386e220288af191fa0">vfisdi</a>
+- DLG_CLEAR_ON_RETURN : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130ab6bcddbe98a43fb61b5b3dce026e3da7">vfisdi</a>
+- DLG_CTLS_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130ac4b3425e8f014603a3bff0bfcffb1761">vfisdi</a>
+- DLG_DISPLAY_ONLY : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a6854f0ba09e182c33d04a7bf33d12a94">vfisdi</a>
+- DLG_ENTER_KEY : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130acd387f9cf49218aa3e1bab44017f5597">vfisdi</a>
+- DLG_ERROR_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130aecf2057ca1fcbe434feb10fbd4723fb4">vfisdi</a>
+- DLG_HIDE_SOFT_KEYS : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a4eebb36938e795a18b50e62d801ab092">vfisdi</a>
+- DLG_IGNORE_EXT_ABORT : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a99606eeca918ed320dcd11ccb5d90a6f">vfisdi</a>
+- DLG_NO_HEADER : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a2f688065ba0184c5305245f0a912d548">vfisdi</a>
+- DLG_NO_LEDS : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a48a5203c31d6f597201c8f900eea6089">vfisdi</a>
+- DLG_QUESTION_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a66d0d3540c003ae9d4b13417f6f58552">vfisdi</a>
+- DLG_STORE_ASYNC_RESULT : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a242f3454218091b17a90fa5bd5e50823">vfisdi</a>
+- DLG_SUCCESS_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130ab46c09fe26f57ffe7ee8aed00eff67c4">vfisdi</a>
+- DLG_TEXT_ALIGN_BOTTOM : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a4ccee1251bf59e627e26d7030b41431d">vfisdi</a>
+- DLG_TEXT_ALIGN_LEFT : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a311bdf85678a97ed6a28720620a8f461">vfisdi</a>
+- DLG_TEXT_ALIGN_RIGHT : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a3193ef4b462314b3ff985d4a8d669086">vfisdi</a>
+- DLG_TEXT_ALIGN_TOP : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a2a2c97060d0bb34c9680662f0b15e0f2">vfisdi</a>
+- DLG_WAIT_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a33a01c86d28d46f92203966cdaa00ae7">vfisdi</a>
+- DLG_WARNING_LOGO : <a href="namespacevfisdi.md#a1614be3a1391b5e24bd1a3be10e24130a54989c8b87e5549b10118a0e61679bb4">vfisdi</a>
+- dont_fragment : <a href="namespacevficom_1_1cmdparam_1_1in_1_1ping.md#a9baf2a893a551768cd734a9e59bbe897">vficom::cmdparam::in::ping</a>
+- download_type : <a href="namespacevfizontalk.md#a56f38ce1d91b5263d2ca5af8d537d696">vfizontalk</a>
+- Dsp2Hex() : <a href="namespacevfisysinfo.md#a90408ce42d820e13f0f2c7daf474e549">vfisysinfo</a>

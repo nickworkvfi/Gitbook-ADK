@@ -1,0 +1,9 @@
+<map id="System statusbar functions" name="System statusbar functions">
+<area shape="rect" id="node1" href="$group__syserro.html" title=" " alt="" coords="317,5,512,31"/>
+<area shape="rect" id="node2" href="$group__led.html" title=" " alt="" coords="333,55,497,80"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,129,205,155"/>
+<area shape="rect" id="node4" href="$group__util.html" title=" " alt="" coords="351,104,478,129"/>
+<area shape="rect" id="node5" href="$group__sysbeep.html" title=" " alt="" coords="329,153,500,179"/>
+<area shape="rect" id="node6" href="$group__syspm.html" title=" " alt="" coords="324,203,505,273"/>
+<area shape="rect" id="node7" href="$group__sysinfo.html" title=" " alt="" coords="317,297,512,323"/>
+</map>

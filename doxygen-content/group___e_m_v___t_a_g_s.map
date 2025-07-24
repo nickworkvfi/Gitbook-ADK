@@ -1,0 +1,12 @@
+<map id="BER TLV tags used by EMV ADK" name="BER TLV tags used by EMV ADK">
+<area shape="rect" id="node1" href="$group___e_x_p_r_e_s_s_p_a_y___t_a_g_s.html" title=" " alt="" coords="373,5,534,45"/>
+<area shape="rect" id="node2" href="$group___v_e_r_i___t_a_g_s.html" title="There are many data objects, which do not have an EMVCo defined tags. For usage of TLV interface it&#39;s..." alt="" coords="372,70,535,95"/>
+<area shape="rect" id="node3" href="$group___m_c___t_a_g_s.html" title="see [MC_FA], page 7&#45;78" alt="" coords="373,120,534,160"/>
+<area shape="rect" id="node4" href="$group___j_k___t_a_g_s.html" title=" " alt="" coords="373,184,534,224"/>
+<area shape="rect" id="node5" title=" " alt="" coords="156,213,319,253"/>
+<area shape="rect" id="node6" href="$group___e_m_v_c_o___t_a_g_s.html" title=" " alt="" coords="367,249,540,274"/>
+<area shape="rect" id="node7" href="$group___i_n_t_e_r_a_c___t_a_g_s.html" title=" " alt="" coords="373,299,534,339"/>
+<area shape="rect" id="node8" href="$group___g_e_m_a_l_t_o___t_a_g_s.html" title=" " alt="" coords="373,363,534,403"/>
+<area shape="rect" id="node9" href="$group___v_i_s_a___t_a_g_s.html" title="see [Visa_Card], page A&#45;63" alt="" coords="370,427,537,467"/>
+<area shape="rect" id="node10" href="$group___a_d_k___s_e_r_i_a_l_i_z_a_t_i_o_n.html" title=" " alt="" coords="5,221,108,246"/>
+</map>

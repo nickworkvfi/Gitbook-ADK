@@ -1,0 +1,26 @@
+var group___d_e_f___f_l_o_w___v_k =
+[
+    [ "EMV_CTLS_FLOW_VK_ALERT_TONE_ON_DECLINE", "group___d_e_f___f_l_o_w___v_k.html#ga99f4b117131e617954edcb36bed73668", null ],
+    [ "EMV_CTLS_FLOW_VK_CASHBACK_NOT_FORCED_CVM_0", "group___d_e_f___f_l_o_w___v_k.html#gafd3bbc00eeb93c5317a0d01b7518128d", null ],
+    [ "EMV_CTLS_FLOW_VK_CASHBACK_TRANS_TYPE_09_2", "group___d_e_f___f_l_o_w___v_k.html#gae43c7cd568c9425f0b7c1e4ecfc0c761", null ],
+    [ "EMV_CTLS_FLOW_VK_CHECK_INCONS_TRACK2_PAN_0", "group___d_e_f___f_l_o_w___v_k.html#gafc3ed4111417370d6376eeba3ac79dfd", null ],
+    [ "EMV_CTLS_FLOW_VK_DO_NOT_CFG_9F21_TIME_2", "group___d_e_f___f_l_o_w___v_k.html#gac1ce7c4d5f89f1bfeea6ea2188006a3b", null ],
+    [ "EMV_CTLS_FLOW_VK_ENABLE_TAGS_AT_GPO", "group___d_e_f___f_l_o_w___v_k.html#gad8d12a8621a689f46b711d79ebe9ffdd", null ],
+    [ "EMV_CTLS_FLOW_VK_GET_DATA_9F68_0", "group___d_e_f___f_l_o_w___v_k.html#gaaa6fb016ffe6b78962e16dae32cfbc66", null ],
+    [ "EMV_CTLS_FLOW_VK_ODO_DDA_1", "group___d_e_f___f_l_o_w___v_k.html#ga1f8f437abf21c8d6c420c5127210aa9c", null ],
+    [ "EMV_CTLS_FLOW_VK_ODO_DDA_ERR_ONLINE_1", "group___d_e_f___f_l_o_w___v_k.html#gafca83538dd2bfa53c33ceed5ad138b43", null ],
+    [ "EMV_CTLS_FLOW_VK_ODO_SDA_1", "group___d_e_f___f_l_o_w___v_k.html#ga6bbf95e1ae4f1b2ea403a31682618709", null ],
+    [ "EMV_CTLS_FLOW_VK_ODO_SDA_ERR_ONLINE_1", "group___d_e_f___f_l_o_w___v_k.html#gaeb31ce94e928855cddcf8ef8b39256a0", null ],
+    [ "EMV_CTLS_FLOW_VK_ODO_SUPPORT_1", "group___d_e_f___f_l_o_w___v_k.html#ga338770bcabcb99e2eeb442dbcc35a716", null ],
+    [ "EMV_CTLS_FLOW_VK_OMIT_AUC_DOM_CASH_2", "group___d_e_f___f_l_o_w___v_k.html#ga251b93e189a4ecd953185c7635baac18", null ],
+    [ "EMV_CTLS_FLOW_VK_OMIT_AUC_DOM_CASHBACK_2", "group___d_e_f___f_l_o_w___v_k.html#ga4d400bb832d850daeebbcf33fdef04d9", null ],
+    [ "EMV_CTLS_FLOW_VK_OMIT_AUC_INT_CASH_2", "group___d_e_f___f_l_o_w___v_k.html#ga5d8445a251f828da07d374af15147a88", null ],
+    [ "EMV_CTLS_FLOW_VK_OMIT_AUC_INT_CASHBACK_2", "group___d_e_f___f_l_o_w___v_k.html#gac7712924c49b643690ad66321b5b38af", null ],
+    [ "EMV_CTLS_FLOW_VK_QUASI_CASH_2", "group___d_e_f___f_l_o_w___v_k.html#ga9959738a5b1f8896185fa92c262a144d", null ],
+    [ "EMV_CTLS_FLOW_VK_STATUS_CHECK_ENABLE_0", "group___d_e_f___f_l_o_w___v_k.html#ga5d69b60626c7f797e2286ef0dcba4cae", null ],
+    [ "EMV_CTLS_FLOW_VK_SUCCESS_TONE_ON_DECLINE", "group___d_e_f___f_l_o_w___v_k.html#gaa454c34bb27f34df3f59744602e78dad", null ],
+    [ "EMV_CTLS_FLOW_VK_ZERO_CASHBACK_AMOUNT_2", "group___d_e_f___f_l_o_w___v_k.html#gadcdaeddc4f61e2886c60c2a2a1ba3452", null ],
+    [ "EMV_CTLS_FLOW_VK_ZERO_CHECK_DISABLE_1", "group___d_e_f___f_l_o_w___v_k.html#ga0fd98a01b74c75d4e415543eb1a79b57", null ],
+    [ "EMV_CTLS_FLOW_VK_ZERO_CHECK_ENABLE_ONLINE_0", "group___d_e_f___f_l_o_w___v_k.html#ga2a1b94cb2bed8bde9425e0768713810d", null ],
+    [ "EMV_CTLS_FLOW_VK_ZERO_CHECK_ENABLE_SKIP_0", "group___d_e_f___f_l_o_w___v_k.html#ga2a2975f6aa1664ce95006f9f46420e08", null ]
+];
